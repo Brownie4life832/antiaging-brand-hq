@@ -6,6 +6,7 @@
 
 ## Brand & positioning — OPEN
 - **Brand name — OPEN.** No name selected. Refer to it as "the brand" / "[BRAND]" until decided. *Whatever is chosen needs trademark + domain checks.*
+  - 📄 **100 candidate names generated 2026-06-19** (Placek/Lexicon method) → [`../brand/naming/name-candidates-2026-06-19.md`](../brand/naming/name-candidates-2026-06-19.md). Awaiting founder review; nothing chosen. The repeatable method is the [`brand-naming` skill](../.claude/skills/brand-naming/SKILL.md).
 - **Brand story / metaphor — OPEN.** No story or metaphor chosen yet; leave as an open decision (do not back-fill a metaphor before positioning is set).
 - **Core positioning / worldview — OPEN.** Decide among the strategic options below; the brand can still capture "anti-aging" search demand regardless of stance. See [`../brand/positioning.md`](../brand/positioning.md).
   - *Results / corrective ("fight aging")* — large, proven demand; very crowded; competes on efficacy claims and price.
