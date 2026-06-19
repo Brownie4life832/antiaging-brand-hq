@@ -5,6 +5,9 @@
 secrets/
 credentials*.json
 
+# Claude Code (machine-local config & permissions — not for the shared repo)
+.claude/settings.local.json
+
 # OS / editor
 .DS_Store
 Thumbs.db
