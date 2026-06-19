@@ -62,6 +62,8 @@ Output a **creative framework** — a *window* to search through (not a narrow o
 
 **Make the intangible tangible.** If the product is abstract (software, "code"), force it into a physical world (flow → wind/surf) and name *that*.
 
+**Run every generation strategy as its own pass — not just one or two.** INVENT is ~17 distinct strategies (full catalog + how-tos in [`reference/placek-method.md` §3·5](reference/placek-method.md)). The classic failure is mining roots/foreign words and stopping. Cover all four families: **reframe** (make-intangible-tangible · benefit-ladder→ultimate-feeling · reframe-the-question · anti-descriptor · win-by-contrast · name-the-audacity), **construct** (deconstruct/reconstruct · portmanteau · morpheme-engine · periodic-table coinage · sound-first coinage · structural/orthographic devices · compounds), **source** (real-word/eponym · world-language · synchronicity raid), and the **container** (three-team decoy). Most winning names are hybrids.
+
 **Go treasure hunting** ("Ship of Gold" — map the whole sea, then dive). Mine databases:
 Latin & Greek roots · Greek/Roman/Norse/etc. mythology · the periodic table · minerals & gems · constellations & light phenomena · botanicals · world languages · expressions/idioms · adjacent fields (flip through hunting/flying magazines and steal words). **Force synchronicity** — connect two unrelated fields.
 

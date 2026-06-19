@@ -44,6 +44,49 @@ Long conversations about **behavior and experience** — "how do you behave now,
 - **Present in context, never as a list** — mock ad, headline, product-on-shelf, a cap/tube. Let deciders see the **experience**, and arm your internal champion to sell it upward ("this is about the marketplace, not your boss's taste").
 - **Consumer research that fires imagination** — not "does it fit the concept?" (that always rewards descriptive names) but how the name makes people *imagine/expect*.
 
+## 3·5. The generation-strategy catalog — the 17 ways Lexicon makes a name
+
+INVENT is not one activity. It's ~17 distinct strategies, and a real project **runs each as its own dedicated pass** — don't lean on just one or two (the classic failure mode is mining roots/foreign words and calling it done). Most famous names are *hybrids* of several (Pentium = morpheme-combo + periodic-table; Dasani = sound-first + embedded morpheme). The constructive ones sit on a **"realness-of-input" spectrum**: pure invented sound (Sonos) → embedded classical root (Dasani, Pentium, Vercel) → portmanteau (Febreze) → two whole real words (PowerBook).
+
+**A. REFRAME moves — where to aim (do these before/while building):**
+
+| Strategy | How to run | Example → produces |
+|---|---|---|
+| **Make the intangible tangible** | "If this product/feeling were physical, what world would it live in?" Convert the abstraction to a concrete scene, then mine that domain's words. | code→flow→**Windsurf** → physical-domain compounds/real words |
+| **Benefit-ladder → ultimate feeling** | Climb feature→functional→emotional→worldview; stop at the most *surprising* top rung; treasure-hunt THAT feeling, not the product. (Not a publicly named Placek artifact; = the Diamond's "say to win" + the function→experience reframe.) | fiber→"lighter"→anti-gravity→**Feather** → evocative names tied to a payoff |
+| **Reframe the question / name the future** | Change the question the name answers ("what is a mop?" → "what makes cleaning fun?"). Name where the company is *going*. If descriptive names still look viable, the reframe isn't done. | "ProMop"→**Swiffer** → an experience/future territory |
+| **Anti-descriptor** | List every literal/ProX/EasyX descriptor, then deliberately go to the opposite — a non-descriptive word or feeling. Ban the category noun. | EasyMail→**BlackBerry** → evocative non-descriptors |
+| **Win-by-contrast** | Map the category's shared naming language, then source from an unrelated, vivid domain far from that "sea of sameness." | Western SUV names→**Subaru Outback** → names in a reference world the category doesn't use |
+| **Name the audacity / worldview** | Skip features; name the *stance/attitude*. Develop attitude, aim for believability over popularity, "change reality, don't describe it." | "they said it's impossible"→**Impossible** → bold, polarizing attitude names |
+
+**B. CONSTRUCTION moves — how to build the word:**
+
+| Strategy | How to run | Example → produces |
+|---|---|---|
+| **Deconstruct / reconstruct** | Strip to the physical action, ban the category noun, build a coinage from the phonestheme that *mouths* it (slice a base word, re-suffix). | swift→swiff→**Swiffer** → short sound-imitative coinages |
+| **Portmanteau** | Fuse a substrate word + a benefit word, trimming at a shared sound so the seam disappears. | fabric+breeze→**Febreze** → invisibly fused coinages |
+| **Morpheme engine** | Two columns — meaning-bearing roots × fluent suffixes — multiplied combinatorially over repeated waves. Lead with the consonant carrying your attribute. | **Vercel** (ver+cel; 55 prefixes × 102 suffixes, 3× over 2 weeks) → "surprisingly familiar" coinages (most trademarkable) |
+| **Periodic-table / -ium coinage** | Root carrying the claim + elemental/scientific suffix (-ium/-on/-ide/-ene) → borrows chemistry's authority. (Sub-variant of the morpheme engine, science-sourced.) | pent-+-ium→**Pentium** → premium, science-credible coinages |
+| **Sound-first coinage** | Decide the ONE attribute to pre-load, then bias phonemes toward it (see §5) so the *sound* connotes the benefit before meaning. | da+i+"san"→**Dasani** → phonetically-loaded coinages |
+| **Structural / orthographic devices** | Engineer the word's *shape*: palindromes, clean CV-alternation, doubled consonants (judged as "more features"), symmetry. Apply as a shortlist constraint. | **Sonos**/Kayak (palindrome), Google (doubled-o) → memorable, globally robust names |
+| **Compounds (1+1=3)** | Bolt a core-attribute word to a concrete ownable word (no blending) so the pair sparks a third image. Don't reject for length. | **PowerBook**, BlackBerry, Coinstar → transparent multiplied-meaning names |
+
+**C. SOURCING moves — where to dig:**
+
+| Strategy | How to run | Example → produces |
+|---|---|---|
+| **Real-word metaphor / eponym** | Refuse the descriptor; pick a dictionary word, color, place, or person whose denotation does the strategic work by association. | **Azure** (refused "…cloud"); **Scion** (=heir, Toyota) → evocative real words & eponyms |
+| **World-language hunt** | Mine many languages for a word that *natively* carries the meaning/feel, then screen across markets via linguists. | **Zima** (Russian "winter") → repurposed foreign words |
+| **Synchronicity / source-library raid** | Stock many unrelated wells (Greek/Latin roots, myth, periodic table, minerals, constellations, botany, aviation, nautical, idioms) and *magazines outside your reading*; harvest collisions; merge cross-category lists. | the raw-material engine behind every other pass |
+
+**D. THE CONTAINER:**
+
+| Strategy | How to run | Example → produces |
+|---|---|---|
+| **Three-team decoy** | 2–3 small pairs: Team 1 = real brief; Team 2 = a competitor/adjacent product; Team 3 = off-category (a bike). Decoy teams "are free to make mistakes" and produce most winners. Assign each a far-apart metaphor domain. Solo = several self-briefings. | **Swiffer** (toys/vacations/tools teams) → a pool that escapes category lock-in |
+
+> **Lexicon's named assets** (for accuracy): the evaluation engine is **Predict™** (four measured dimensions), the linguistic network is the **Language Suite** (100+ PhD linguists, 78 countries, <7-day turnaround), and the sound-symbolism research is the **"Sounder" study** (Will Leben, Stanford). *(There is no Lexicon framework called "Name Lab" — that's a different, competing firm, NameLab.)* Consumer research tests **believability** — explicitly *not* "do you like it?" and *not* "does it fit the concept?" (concept-fit always rewards the descriptive name).
+
 ## 4. The Diamond exercise (run this first)
 
 Draw a diamond (two triangles). Fill four points; spend most time on the last.

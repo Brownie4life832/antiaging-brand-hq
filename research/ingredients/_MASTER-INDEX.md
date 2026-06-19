@@ -154,8 +154,8 @@ vocabulary used throughout the table.
 | NR (Nicotinamide Riboside) | Nicotinamide Riboside Chloride | mitochondrial decline · cellular senescence · oxidative stress · barrier decline · photoaging | supporting | ✅ (within NAD longevity) | NAD/sirtuin; Autophagy; Experimental | nicotinamide-riboside |
 | Taurine (+ Hypotaurine) | Taurine; Hypotaurine | oxidative stress · hydration/water-loss · inflammaging · cellular senescence | supporting | ❌ | Anti-glycation; Experimental | taurine |
 | Creatine | Creatine | mitochondrial decline · oxidative stress · collagen/ECM loss | supporting | ❌ | NAD/sirtuin; Autophagy/mitochondrial | creatine |
-| Carotenoids (Beta-Carotene, Lycopene, Lutein, Zeaxanthin, Fucoxanthin) | Beta-Carotene; Lycopene; Lutein; Zeaxanthin; Fucoxanthin | oxidative stress · photoaging · pigmentation/tone | supporting | ❌ | Retinoids; Botanicals; Sunscreen | dietary-carotenoids |
-| Potassium Ascorbyl Tocopheryl Phosphate (EPC) | Potassium Ascorbyl Tocopheryl Phosphate | oxidative stress · barrier decline · photoaging · pigmentation/tone | supporting | ❌ | — | ascorbyl-tocopheryl-phosphate |
+| Carotenoids (Beta-Carotene, Lycopene, Lutein, Zeaxanthin, Fucoxanthin) | Beta-Carotene; Lycopene; Lutein; Zeaxanthin; Fucoxanthin | oxidative stress · photoaging · pigmentation/tone | supporting | ✅ | Retinoids; Botanicals; Sunscreen | dietary-carotenoids |
+| Potassium Ascorbyl Tocopheryl Phosphate (EPC) | Potassium Ascorbyl Tocopheryl Phosphate | oxidative stress · barrier decline · photoaging · pigmentation/tone | supporting | ✅ | Antioxidants (vitamin C/E) | ascorbyl-tocopheryl-phosphate |
 | Formula-stabilizer antioxidants (BHT, BHA, Propyl Gallate, TBHQ, Disodium EDTA) | BHT; BHA; Propyl Gallate; t-Butyl Hydroquinone; Disodium EDTA | oxidative stress | fringe | ❌ | — | formula-stabilizer-antioxidants |
 | Endogenous niche antioxidants (Bilirubin/Biliverdin, Uric Acid) | Bilirubin; (urate) | oxidative stress | fringe | ❌ | — | endogenous-antioxidants |
 | Caffeic & gallic phenolics (CAPE/Caffeic Acid, Gallic Acid) | Caffeic Acid; Gallic Acid | oxidative stress · pigmentation/tone · inflammaging | fringe | ❌ | Autophagy; Botanicals; Anti-glycation; Sunscreen | caffeic-gallic-phenolics |
@@ -184,7 +184,7 @@ vocabulary used throughout the table.
 | Genistein / soy isoflavones (+ Daidzein, Equol) | Genistein; Glycine Soja Extract; Equol; Daidzein | collagen/ECM loss · oxidative stress · photoaging · pigmentation/tone · cellular senescence | supporting | ❌ | Botanicals; Experimental | soy-isoflavones |
 | Berberine | Berberine | inflammaging · oxidative stress · mitochondrial decline · cellular senescence · glycation/AGEs | supporting | ❌ | Senotherapeutics; Autophagy | berberine |
 | Curcumin | Curcumin / Curcuma Longa Root Ext. | inflammaging · oxidative stress · pigmentation/tone · glycation/AGEs · cellular senescence | supporting | ❌ | Senotherapeutics; Botanicals; Anti-glycation | curcumin |
-| Metformin (topical) | Metformin HCl | cellular senescence · inflammaging · collagen/ECM loss · photoaging · mitochondrial decline · glycation/AGEs · oxidative stress | supporting | ❌ | Autophagy; Experimental | topical-metformin |
+| Metformin (topical) | Metformin HCl | cellular senescence · inflammaging · collagen/ECM loss · photoaging · mitochondrial decline · glycation/AGEs · oxidative stress | supporting | ✅ | Autophagy; Experimental | topical-metformin |
 | Yeast/biotech sirtuin-inducing ferments (Kluyveromyces, SIRT6-activating peptides, Surfactin) | Kluyveromyces Extract; Surfactin | cellular senescence · collagen/ECM loss · oxidative stress · microbiome · photoaging · inflammaging | supporting | ❌ | Experimental | sirtuin-ferments-peptides |
 | Grape cane / vine-shoot extract (resveratrol + viniferins) | Vitis Vinifera Cane Extract | oxidative stress · pigmentation/tone · collagen/ECM loss · photoaging | supporting | ❌ | — | grape-cane-extract |
 | Black ginger methoxyflavones (Kaempferia parviflora) | Kaempferia Parviflora Root Extract | oxidative stress · cellular senescence · collagen/ECM loss | fringe | ❌ | — | black-ginger-methoxyflavones |
@@ -192,7 +192,7 @@ vocabulary used throughout the table.
 | Guggulsterone (Commiphora mukul) | Commiphora Mukul Resin Extract | inflammaging · oxidative stress · mitochondrial decline | fringe | ❌ | — | guggulsterone |
 | AICAR (Acadesine) | AICA Ribonucleotide | photoaging · mitochondrial decline · oxidative stress | fringe | ❌ | — | aicar-acadesine |
 | Synthetic STACs (SRT1720, SRT2104, SRT3025) | investigational | cellular senescence · inflammaging · mitochondrial decline · collagen/ECM loss · oxidative stress | fringe | ❌ | Experimental | synthetic-stacs |
-| Acetyl-L-Carnitine / L-Carnitine | Acetyl Carnitine; Carnitine | mitochondrial decline · oxidative stress · glycation/AGEs | supporting | ❌ | Autophagy/mitochondrial; Anti-glycation | acetyl-l-carnitine |
+| Acetyl-L-Carnitine / L-Carnitine | Acetyl Carnitine; Carnitine | mitochondrial decline · oxidative stress · glycation/AGEs | supporting | ✅ | Autophagy/mitochondrial; Anti-glycation | acetyl-l-carnitine |
 
 ## 5. Senotherapeutics & senolytics
 
@@ -205,7 +205,7 @@ vocabulary used throughout the table.
 | SenoCellTec (alpine rose + apple stem cell) | Malus Domestica Fruit Cell Culture Ext. + Vitis Vinifera Fruit Cell Ext. + Rhododendron Ferrugineum Ext. | cellular senescence · collagen/ECM loss · oxidative stress · inflammaging | core | ✅ | Botanicals (alpine rose) | senocelltec |
 | Alpine Rose extract (Rhododendron ferrugineum) | Rhododendron Ferrugineum Leaf Cell Culture Ext. | cellular senescence · oxidative stress · inflammaging · barrier decline | supporting | ❌ | Botanicals | alpine-rose-extract |
 | Isatis tinctoria (Woad) extract | Isatis Tinctoria Leaf Extract | cellular senescence · inflammaging · oxidative stress | supporting | ❌ | — | isatis-tinctoria |
-| Procyanidin C1 (PCC1) | Procyanidin C1 (grape seed fraction) | cellular senescence · oxidative stress · inflammaging · photoaging | supporting | ❌ | Experimental | procyanidin-c1 |
+| Procyanidin C1 (PCC1) | Procyanidin C1 (grape seed fraction) | cellular senescence · oxidative stress · inflammaging · photoaging | supporting | ✅ | Experimental | procyanidin-c1 |
 | Piperlongumine | Piperlongumine (Piper Longum Fruit Ext.) | cellular senescence · oxidative stress · inflammaging | supporting | ❌ | — | piperlongumine |
 | Silymarin / Silibinin (milk thistle) | Silybum Marianum Extract; Silybin | oxidative stress · cellular senescence · inflammaging · photoaging · collagen/ECM loss · glycation/AGEs | supporting | ❌ | Botanicals; Anti-glycation; Sunscreen | silymarin-silibinin |
 | Luteolin | Luteolin | cellular senescence · inflammaging · oxidative stress · photoaging · glycation/AGEs | supporting | ❌ | Botanicals; Anti-glycation | luteolin |
@@ -238,7 +238,7 @@ vocabulary used throughout the table.
 | Eugenol (spermidine co-active) | Eugenol | inflammaging · oxidative stress · mitochondrial decline | fringe | ❌ | — | eugenol |
 | Spermine | Spermine | mitochondrial decline · barrier decline · oxidative stress | fringe | ❌ | — | spermine |
 | Calcium Alpha-Ketoglutarate (Ca-AKG) | Calcium Alpha-Ketoglutarate | mitochondrial decline · hydration/water-loss · collagen/ECM loss · oxidative stress | supporting | ❌ | Experimental | calcium-akg |
-| Galactomyces / Saccharomyces (Pitera) ferment filtrate | Galactomyces Ferment Filtrate; Saccharomyces Ferment Filtrate | oxidative stress · barrier decline · inflammaging · hydration/water-loss · microbiome · pigmentation/tone | supporting | ❌ | Hydration; Botanicals; Experimental | yeast-ferment-filtrates |
+| Galactomyces / Saccharomyces (Pitera) ferment filtrate | Galactomyces Ferment Filtrate; Saccharomyces Ferment Filtrate | oxidative stress · barrier decline · inflammaging · hydration/water-loss · microbiome · pigmentation/tone | supporting | ✅ | Hydration; Botanicals; Experimental (⚠️ **misfiled here** — dossier finds NO autophagy/mitochondrial evidence; mechanism is AHR/NRF2 antioxidant + barrier postbiotic; reclassify) | yeast-ferment-filtrates |
 
 ## 7. Hydroxy acids & chemical exfoliants
 
@@ -251,8 +251,8 @@ vocabulary used throughout the table.
 | Azelaic acid (+ Potassium Azeloyl Diglycinate) | Azelaic Acid; Potassium Azeloyl Diglycinate | pigmentation/tone · inflammaging · oxidative stress · photoaging · microbiome | core | ✅ | — | azelaic-acid |
 | PHAs / bionic acids (Gluconolactone, Lactobionic, Maltobionic, Gluconic, Galactose) | Gluconolactone; Lactobionic Acid; Maltobionic Acid | hydration/water-loss · oxidative stress · barrier decline · photoaging · glycation/AGEs · collagen/ECM loss | core | ✅ | Hydration | pha-bionic-acids |
 | Secondary AHAs (Malic, Tartaric, Citric) | Malic Acid; Tartaric Acid; Citric Acid | photoaging · hydration/water-loss · oxidative stress · pigmentation/tone | supporting | ❌ | — | secondary-ahas |
-| Pyruvic acid | Pyruvic Acid | photoaging · collagen/ECM loss · pigmentation/tone · inflammaging | supporting | ❌ | — | pyruvic-acid |
-| Phytic acid | Phytic Acid | oxidative stress · pigmentation/tone · glycation/AGEs | supporting | ❌ | — | phytic-acid |
+| Pyruvic acid | Pyruvic Acid | photoaging · collagen/ECM loss · pigmentation/tone · inflammaging | supporting (conditional) | ✅ | conditional / professional-peel only — human RCTs are for 35–50% in-clinic peels (acne, melasma); anti-aging data uncontrolled; skip as leave-on hero, default to lactic acid | pyruvic-acid |
+| Phytic acid | Phytic Acid | oxidative stress · pigmentation/tone · glycation/AGEs | supporting | ✅ | supporting/multifunctional — best, most defensible role is a biodegradable EDTA-alternative **chelator/antioxidant**; gentle exfoliant/brightener but ALL human efficacy is combination-peel data (loses head-to-head when isolated); ~660 Da/highly charged → poor dermal penetration; no glycation/AGEs skin evidence found despite hallmark tag; not a hero | phytic-acid |
 | Shikimic acid | Shikimic Acid | oxidative stress · pigmentation/tone · microbiome | fringe | ❌ | — | shikimic-acid |
 | Niche/long-tail acids (Glucoheptonolactone, Tropic Acid, neutralized glycolate salts) | Glucoheptonolactone; Tropic Acid; Ammonium Glycolate | hydration/water-loss · photoaging · oxidative stress | fringe | ❌ | — | niche-hydroxy-acids |
 
@@ -335,13 +335,13 @@ vocabulary used throughout the table.
 | K-beauty soothing herbs (Mugwort/Artemisia, Houttuynia, Lotus, Perilla) | Artemisia Vulgaris Ext.; Houttuynia Cordata Ext. | inflammaging · barrier decline · oxidative stress · microbiome · pigmentation/tone | supporting | ❌ | Anti-glycation (houttuynia) | kbeauty-soothing-herbs |
 | Rice / rice bran extract + ferment | Oryza Sativa Extract; Rice Ferment Filtrate | oxidative stress · pigmentation/tone · barrier decline · hydration/water-loss · microbiome | supporting | ❌ | Hydration | rice-extract |
 | Microalgae extracts (Spirulina, Chlorella, plankton) | Spirulina Platensis Ext.; Chlorella Vulgaris Ext. | oxidative stress · collagen/ECM loss · inflammaging · cellular senescence · barrier decline | supporting | ❌ | Anti-glycation (chlorella); Sunscreen (spirulina) | microalgae-extracts |
-| Adaptogen mushrooms (Reishi, Chaga, Cordyceps) | Ganoderma Lucidum Ext.; Inonotus Obliquus Ext. | inflammaging · oxidative stress · barrier decline | supporting | ❌ | — | adaptogen-mushrooms |
+| Adaptogen mushrooms (Reishi, Chaga, Cordyceps) | Ganoderma Lucidum Ext.; Inonotus Obliquus Ext. | inflammaging · oxidative stress · barrier decline | supporting | ✅ | — | adaptogen-mushrooms |
 | Adaptogen herbs (Ashwagandha, Schisandra, Rhodiola/Salidroside) | Withania Somnifera Ext.; Rhodiola Rosea Ext.; Salidroside | oxidative stress · cellular senescence · inflammaging · collagen/ECM loss | fringe | ❌ | Senotherapeutics (withaferin) | adaptogen-herbs |
-| Olive leaf/fruit polyphenols (Oleuropein, Hydroxytyrosol) | Olea Europaea Leaf Extract | oxidative stress · inflammaging · photoaging · mitochondrial decline | supporting | ❌ | Antioxidants (hydroxytyrosol) | olive-polyphenols |
+| Olive leaf/fruit polyphenols (Oleuropein, Hydroxytyrosol) | Olea Europaea Leaf Extract | oxidative stress · inflammaging · photoaging · mitochondrial decline · glycation/AGEs | supporting | ✅ | Antioxidants (hydroxytyrosol); Anti-glycation | olive-polyphenols |
 | Turmeric / curcuminoids | Curcuma Longa Root Extract; Tetrahydrocurcumin | oxidative stress · inflammaging · pigmentation/tone · glycation/AGEs | supporting | ❌ | NAD/AMPK; Senotherapeutics; Antioxidants | turmeric-curcuminoids |
 | Camellia / tsubaki seed oil | Camellia Japonica Seed Oil | hydration/water-loss · barrier decline · oxidative stress | supporting | ❌ | — | camellia-seed-oil |
 | Sea fennel (Crithmum maritimum) extract | Crithmum Maritimum Extract | collagen/ECM loss · oxidative stress · photoaging | supporting | ❌ | — | sea-fennel-extract |
-| Antioxidant oils (Marula, Moringa, Prickly Pear, Argan) | Sclerocarya Birrea Seed Oil; Moringa Oleifera Seed Oil | barrier decline · hydration/water-loss · oxidative stress · inflammaging | supporting | ❌ | Anti-glycation (argan) | antioxidant-plant-oils |
+| Antioxidant oils (Marula, Moringa, Prickly Pear, Argan) | Sclerocarya Birrea Seed Oil; Moringa Oleifera Seed Oil | barrier decline · hydration/water-loss · oxidative stress · inflammaging | supporting | ✅ | Anti-glycation (argan) | antioxidant-plant-oils |
 | Flavonoid actives (Baicalin/Baicalein, Ginkgo, Rutin, Hesperidin, Naringenin) | Scutellaria Baicalensis Ext.; Ginkgo Biloba Ext.; Rutin | collagen/ECM loss · oxidative stress · photoaging · inflammaging · barrier decline · cellular senescence | supporting | ❌ | Anti-glycation | misc-flavonoids |
 | Soothing botanicals (Aloe, Chamomile/Bisabolol, Calendula, Witch Hazel, Comfrey/Allantoin) | Aloe Barbadensis Ext.; Bisabolol; Calendula Officinalis Ext. | inflammaging · barrier decline · oxidative stress · hydration/water-loss | supporting | ❌ | Sunscreen (bisabolol); Hydration (allantoin) | soothing-botanicals |
 | Coffee / green coffee (Chlorogenic acid, caffeine) | Coffea Arabica Seed Extract; Chlorogenic Acid | oxidative stress · photoaging · inflammaging · glycation/AGEs | supporting | ❌ | Anti-glycation | coffee-extract |
@@ -381,7 +381,7 @@ vocabulary used throughout the table.
 | Sunscreen / photoprotection (filter system overview) | (organic + mineral filters) | photoaging · collagen/ECM loss · oxidative stress · pigmentation/tone · barrier decline | core | ✅ | — | sunscreen-photoprotection |
 | Avobenzone (UVA1) | Butyl Methoxydibenzoylmethane | photoaging · collagen/ECM loss · oxidative stress · pigmentation/tone | core | ❌ | — | avobenzone |
 | Next-gen broad-spectrum organic filters (Bemotrizinol/Tinosorb S, Bisoctrizole/Tinosorb M, Tinosorb A2B, DHHB/Uvinul A Plus, EHT/Uvinul T 150, Mexoryl SX/XL/400, TriAsorB) | Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine; Methylene Bis-Benzotriazolyl Tetramethylbutylphenol; Diethylamino Hydroxybenzoyl Hexyl Benzoate; etc. | photoaging · collagen/ECM loss · oxidative stress · pigmentation/tone | core | ✅ | bemotrizinol now US-GRASE (≤6%, 2026-06-09) — first new US filter since 1999 | next-gen-uv-filters |
-| Legacy UVB organic filters (Octinoxate, Homosalate, Octisalate, Octocrylene, Ensulizole, Amiloxate, Iscotrizinol, Polysilicone-15, Neo Heliopan AP) | Ethylhexyl Methoxycinnamate; Homosalate; Ethylhexyl Salicylate; Octocrylene | photoaging · oxidative stress | supporting | ❌ | — | legacy-uvb-filters |
+| Legacy UVB organic filters (Octinoxate, Homosalate, Octisalate, Octocrylene, Ensulizole, Amiloxate, Iscotrizinol, Polysilicone-15, Neo Heliopan AP) | Ethylhexyl Methoxycinnamate; Homosalate; Ethylhexyl Salicylate; Octocrylene | photoaging · oxidative stress | supporting | ✅ | — | legacy-uvb-filters |
 | Benzophenone filters (Oxybenzone, Sulisobenzone, BP-5, Dioxybenzone) | Benzophenone-3/-4/-5/-8 | photoaging · oxidative stress | supporting | ❌ | — | benzophenone-filters |
 | Deprecated/niche filters (PABA, Padimate O, PEG-25 PABA, Cinoxate, Trolamine Salicylate, Meradimate, camphor derivatives) | PABA; Ethylhexyl Dimethyl PABA; 4-Methylbenzylidene Camphor | photoaging | fringe | ❌ | — | deprecated-uv-filters |
 | Zinc Oxide (incl. nano) | Zinc Oxide | photoaging · barrier decline · oxidative stress · inflammaging · pigmentation/tone | core | ❌ | — | zinc-oxide |
