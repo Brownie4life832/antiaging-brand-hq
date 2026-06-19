@@ -8,7 +8,7 @@
 > - When merging: dedupe by brand name; if a brand fits two tiers, keep it in its *dominant retail* tier and note the second in the positioning cell.
 > - Price-tier shorthand: **$** mass · **$$** masstige · **$$$** prestige/clinical · **$$$$** ultra-luxury. (Anchored to a representative hero SKU; prices are USD, approximate, mid-2026, and move with size/promo — verify before quoting.)
 >
-> **Kintsugi's intended slot:** $$–$$$ "informed indulgence," longevity-science substance + pro-aging/kintsugi emotional reframe. The brands to watch most closely are those that overlap *both* axes (see "Direct reference points" at the bottom).
+> **the brand's intended slot:** $$–$$$, longevity-science substance with an emotional/brand layer (positioning, story, and visual direction undecided). The brands to watch most closely are those operating in the longevity-science and premium-emotional $$–$$$ space (see "Direct reference points" at the bottom).
 
 ---
 
@@ -24,7 +24,7 @@
 ## Tier 2 — Masstige ($$)
 | Brand | Positioning | Hero product | Price | Strength / Vulnerability |
 |---|---|---|---|---|
-| Paula's Choice | Science-led, no-BS efficacy; "ingredient truth" | 2% BHA Liquid Exfoliant; C15 Booster ($55) | $$ (~$35–55) | **S:** evidence-first trust, strong SEO, exactly the "skinformed" consumer. **V:** clinical aesthetic, low emotional brand; **a direct philosophy competitor to Kintsugi's honesty pillar.** |
+| Paula's Choice | Science-led, no-BS efficacy; "ingredient truth" | 2% BHA Liquid Exfoliant; C15 Booster ($55) | $$ (~$35–55) | **S:** evidence-first trust, strong SEO, exactly the "skinformed" consumer. **V:** clinical aesthetic, low emotional brand — a potential opening for a new entrant that pairs comparable science credibility with stronger emotional/brand resonance. |
 | Drunk Elephant (Shiseido) | "Clean-clinical," peptide-forward, playful | Protini Polypeptide Cream (~$68) | $$ (~$36–68) | **S:** peptide hero, Sephora power, branding. **V:** post-hype cooldown, Gen-Alpha overexposure damaged prestige perception. |
 | Medik8 | UK derm-science, "CSA" routine philosophy | Crystal Retinal; Super C Ferulic | $$ (~$50–90) | **S:** credible actives, vitamin-A authority, pro/derm channel. **V:** lower brand awareness in US; clinical not emotional. |
 | The INKEY List | Affordable, educational, ingredient-explainer | Retinol; peptide moisturizer | $$ (~$15–25) | **S:** education + value. **V:** thin premium ceiling; commoditized. |
@@ -34,7 +34,7 @@
 ## Tier 3 — Prestige / Luxury ($$$–$$$$)
 | Brand | Positioning | Hero product | Price | Strength / Vulnerability |
 |---|---|---|---|---|
-| Augustinus Bader | Science-luxury icon; proprietary TFC8 "renewal" | The Cream / The Rich Cream (~$290+/50ml) | $$$$ (~$190–700) | **S:** TFC8 mystique, celebrity/editorial halo, pricing power. **V:** efficacy-vs-price skepticism; opaque "miracle" claims clash with transparency trend. **Kintsugi's aspirational ceiling.** |
+| Augustinus Bader | Science-luxury icon; proprietary TFC8 "renewal" | The Cream / The Rich Cream (~$290+/50ml) | $$$$ (~$190–700) | **S:** TFC8 mystique, celebrity/editorial halo, pricing power. **V:** efficacy-vs-price skepticism; opaque "miracle" claims clash with transparency trend — a potential opening for a new entrant on price and claim transparency. |
 | Dr. Barbara Sturm | Anti-inflammation, "molecular cosmetics," clinic pedigree | Hyaluronic Serum (~$325) | $$$$ (~$160–415) | **S:** doctor-founder authority, luxury cachet. **V:** very high price vs. accessible actives; backlash on value; "glow tax" reputation. |
 | La Mer (Estée Lauder) | Legacy luxury, "Miracle Broth" ritual | Crème de la Mer | $$$$ (~$200–500) | **S:** iconic luxury equity, gifting. **V:** thin modern science story; older skew; vulnerable to "skinformed" scrutiny. |
 | Tata Harper | Natural/"farm-grown" luxury, clean-green | Resurfacing Serum; Bio-Barrier ($199) | $$$ (~$95–199) | **S:** clean-luxury authenticity, traceability. **V:** natural-efficacy doubts; price vs. active strength. |
@@ -51,10 +51,10 @@
 | Murad | Doctor-founded, science-meets-wellness | Retinal ReSculpt; Vita-C | $$$ (~$70–95) | **S:** heritage, holistic angle. **V:** mid-prestige squeeze; dated to some. |
 | Allies of Skin | High-actives, multi-correctional "1-product" | Peptides & Antioxidants Firming Mist; Night Mask | $$$ (~$80–130) | **S:** potent multi-active formulas, indie-clinical cred. **V:** complexity vs. skinimalism; awareness. |
 
-## Tier 5 — Longevity-Science (the emerging lane — Kintsugi's true peer set)
+## Tier 5 — Longevity-Science (the emerging lane — the brand's closest peer set)
 | Brand | Positioning | Hero product | Price | Strength / Vulnerability |
 |---|---|---|---|---|
-| **OneSkin** | Category-defining "skin longevity"; senotherapeutic peptide; "extend your skinspan" | OS-01 FACE / BODY (peptide) | $$$ (~$99–120) | **S:** owns the longevity narrative, real peer-reviewed-ish data, $40M raised, celeb users. **V:** science still early; "biological age" claims carry regulatory risk; clinical-cool brand with *no* emotional/aesthetic warmth — **the gap Kintsugi can fill.** |
+| **OneSkin** | Category-defining "skin longevity"; senotherapeutic peptide; "extend your skinspan" | OS-01 FACE / BODY (peptide) | $$$ (~$99–120) | **S:** owns the longevity narrative, real peer-reviewed-ish data, $40M raised, celeb users. **V:** science still early; "biological age" claims carry regulatory risk; clinical-cool brand with *no* emotional/aesthetic warmth — a potential opening for a new entrant on emotional/brand resonance. |
 | NULASTIN | Elastin-renewal science (patented Elastaplex) | Elastaplex + HA face serum; lash/brow serums | $$$ (~$80–110) | **S:** differentiated elastin (vs. ubiquitous collagen) angle. **V:** brand awareness; hero equity split across hair/lash/skin; thin emotional story. |
 | OS-adjacent / biotech entrants (e.g. exosome & growth-factor startups) | "Regenerative"/cellular renewal | exosome serums, growth-factor lines | $$$–$$$$ | **S:** novelty, investor interest. **V:** **exosome regulatory risk (no FDA-approved exosome product; warning letters issued)** — credibility and legal exposure. |
 | Estée Lauder × Serpin Pharma (longevity ingredient R&D) | Big-beauty longevity-ingredient play | (ingredient/IP, not a standalone brand yet) | — | **S:** EL scale + science. **V:** incumbent slow-mover; watch as a *future* longevity entrant, not today's competitor. |
@@ -62,16 +62,16 @@
 
 ---
 
-## Most direct reference points for Kintsugi (rank-ordered)
-These overlap Kintsugi on **both** axes (longevity-science substance **and/or** the pro-aging/premium-emotional reframe in the $$–$$$ tier):
+## Most direct reference points for the brand (rank-ordered)
+These overlap the brand on **both** axes (longevity-science substance **and/or** premium-emotional brand in the $$–$$$ tier):
 
-1. **OneSkin** — owns "skin longevity," but is clinical/cold. Kintsugi = the same science, with soul + aesthetic. *Closest strategic peer.*
-2. **Augustinus Bader** — the aspirational ceiling: proves premium "renewal" pricing power; Kintsugi can undercut on price *and* out-honest it on claims.
-3. **Paula's Choice** — direct competitor for the "skinformed/honesty" consumer; Kintsugi must out-emotion it without losing the science.
-4. **Dr. Barbara Sturm** — the luxury-doctor model Kintsugi reframes from "fight inflammation" to "honor + repair."
-5. **NULASTIN** — closest longevity-science indie peer; shows the upside (differentiated science) and the trap (no emotional story).
+1. **OneSkin** — owns "skin longevity," but is clinical/cold. *Closest strategic peer.* Opening for a new entrant: comparable science with stronger emotional/brand resonance.
+2. **Augustinus Bader** — proves premium "renewal" pricing power. Opening for a new entrant: lower price and greater claim transparency.
+3. **Paula's Choice** — direct competitor for the "skinformed/honesty" consumer. Opening for a new entrant: comparable science credibility paired with stronger emotional/brand resonance.
+4. **Dr. Barbara Sturm** — luxury-doctor model anchored on anti-inflammation. Opening for a new entrant: high price vs. accessible actives and "glow tax" value backlash.
+5. **NULASTIN** — closest longevity-science indie peer; shows the upside (differentiated science) and the trap (thin emotional story).
 
-*Watchlist / secondary references:* Drunk Elephant (peptide hero + branding), Tata Harper (clean-luxury), SkinCeuticals (clinical proof bar to clear), La Mer (luxury ritual to subvert).
+*Watchlist / secondary references:* Drunk Elephant (peptide hero + branding), Tata Harper (clean-luxury), SkinCeuticals (clinical proof bar to clear), La Mer (luxury ritual).
 
 ---
 

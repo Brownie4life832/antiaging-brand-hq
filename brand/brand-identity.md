@@ -1,54 +1,60 @@
-# Brand Identity
+# Brand Identity — OPEN
 
-> **Status:** Working draft v0.1 (2026-06-18). The name and core story are strong but open to your input. This file is the *source of truth* for the brand name — change it here first.
+> **Status:** Working draft v0.2 (2026-06-18) — **(name / story / positioning OPEN).** Nothing in the brand's identity is locked. The **name, story/metaphor, mission, vision, and values are all undecided.** This file is a *decision framework*, not a source of truth for a chosen name. Earlier drafts assumed a specific name, metaphor, and worldview; those assumptions have been removed and will be re-evaluated without bias.
 
-## Name
+## What's decided vs. open
 
-**Kintsugi** (金継ぎ — "golden joinery")
+**Decided (name-agnostic facts):**
+- **Category:** anti-aging / skin-longevity skincare.
+- **Go-to-market:** DTC-first.
 
-The Japanese art of repairing broken pottery by mending the cracks with lacquer dusted in gold. The repair is not hidden; it is illuminated. The object becomes *more* valuable for having been broken and restored — its history visible, its imperfections turned to gold.
+**Open (to be decided deliberately, not assumed):**
+- **Brand name** — no name is chosen. Referred to throughout the docs as "the brand" or "[BRAND]".
+- **Brand story / metaphor** — no organizing metaphor is chosen. This is left as an open decision; do not adopt a placeholder story.
+- **Mission / vision / values** — to be set *after* positioning is chosen, so they reinforce the strategy rather than a prematurely assumed worldview.
+- **Core positioning / worldview** — undecided. See [`positioning.md`](positioning.md) for the strategic options and their competitive trade-offs.
+- **Visual direction** — open. See [`visual-identity.md`](visual-identity.md).
 
-Pronunciation: *kin-tsoo-gee*. Related term: *kintsukuroi* ("golden repair").
+## How to decide the name
 
-## Why it works for skin
+Generate and evaluate candidate names against a consistent rubric. Do **not** anchor on any one candidate (including the previously assumed "Kintsugi," which should be assessed on the same neutral criteria as any other option, with its forced metaphor noted as a constraint, not an advantage).
 
-Conventional anti-aging sells **fear and erasure** — fight wrinkles, turn back the clock, hide the years. Kintsugi offers the opposite emotional contract: **reverence and renewal.** Your lines are your history. We don't erase them; we nourish, repair, and let the skin tell its story beautifully. The "gold" is the care you give yourself.
+Suggested screening criteria:
+- **Strategic fit** — does the name support the chosen positioning (see [`positioning.md`](positioning.md)) rather than lock in a worldview before it's decided?
+- **Distinctiveness** — ownable in a crowded category; not generic or easily confused with competitors.
+- **Legal/availability** — trademark clearance and domain/handle availability (route to [`decisions/decision-log.md`](../decisions/decision-log.md)).
+- **Pronounceability & memorability** — easy to say, spell, and recall for the target market.
+- **Headroom** — works across the full intended product range, not just one hero SKU.
+- **Tone neutrality** — doesn't force a specific emotional contract (e.g., "fight aging" vs. "age-positive") before positioning is locked.
 
-This is a defensible, ownable brand idea in a crowded category. It carries straight into:
-- **Product:** ingredients that genuinely repair and renew the skin barrier (not just mask).
-- **Visual identity:** gold veining, warmth, wabi-sabi minimalism, premium restraint.
-- **Voice:** calm, wise, self-respecting — never panicked or shaming.
+## How to decide the story / metaphor
 
-## Mission *(draft)*
+The story should follow from the chosen positioning, not precede it. Once positioning is selected, develop the narrative so that name, story, voice, and visuals cohere. Until then:
+- Keep the story slot **explicitly open** — no working metaphor is endorsed.
+- Capture candidate stories (including any tied to specific name candidates) as options to be tested, each tagged with the positioning it implies and the competitive crowding/white-space of that positioning.
 
-To help people care for their skin as it ages — repairing and renewing rather than fighting and hiding — with formulations honest enough to back the promise.
+## How to decide mission / vision / values
 
-## Vision *(draft)*
+Draft these **last**, once positioning is locked, so they express the chosen strategy. Avoid wording that presumes a worldview (e.g., do not bake in either a "corrective / fight-aging" or a "pro-aging / age-positive" stance until that decision is made). Until then, leave mission, vision, and values as open placeholders.
 
-A world where aging skin is treated with reverence, not anxiety; where "getting older" and "looking your best" are the same project.
+## Candidate tracking
 
-## Brand values *(draft)*
+Maintain candidate names and candidate stories as an evaluated list, scored against the rubric above and the positioning options. Treat every candidate equally — including the discarded "Kintsugi" name and its associated story — and record the rationale for advancing or rejecting each.
 
-1. **Repair over erase** — we restore the skin's health, we don't paper over it.
-2. **Evidence over hype** — every claim earns its place with science.
-3. **Reverence over fear** — we never sell shame about aging.
-4. **Restraint over excess** — fewer, better products and ingredients.
-5. **Beauty in imperfection** — wabi-sabi: the cracks are part of the story.
-
-## The one-liner *(candidates — pick / refine)*
-
-- "Repair, renew, in gold."
-- "Age is not a flaw to fix."
-- "Beauty, mended in gold."
-- "Skincare that honors your story."
-- "Where age becomes gold."
+| Candidate type | Examples to evaluate | Status |
+|---|---|---|
+| Name | (open — gather candidates) | Unbiased eval pending |
+| Story / metaphor | (open — derive from chosen positioning) | Unbiased eval pending |
+| One-liner / tagline | (open — derive from name + positioning) | Unbiased eval pending |
 
 ## Open questions
 
-- [ ] Confirm **Kintsugi** as the final name (trademark + domain check needed — see [`decisions/decision-log.md`](../decisions/decision-log.md)).
-- [ ] **"Anti-aging" vs "pro-aging / longevity / graceful aging"** as the category framing — there's tension between the folder name and the kintsugi philosophy. Decide deliberately. See [`positioning.md`](positioning.md).
-- [ ] Lock mission/vision/values once positioning is set.
-- [ ] Choose the one-liner.
+- [ ] **Positioning first.** Choose the core positioning/worldview from the options in [`positioning.md`](positioning.md) before locking name or story.
+- [ ] **Name.** Gather and screen candidate names against the rubric; clear trademark + domain — log in [`decisions/decision-log.md`](../decisions/decision-log.md).
+- [ ] **Category framing.** "Anti-aging" vs. "pro-aging / longevity / graceful aging" is part of the positioning decision, not a foregone conclusion. See [`positioning.md`](positioning.md).
+- [ ] **Story / metaphor.** Derive once positioning is set; do not pre-commit.
+- [ ] **Mission / vision / values.** Lock only after positioning and name.
+- [ ] **One-liner.** Choose once name and positioning are settled.
 
 ## Related
 

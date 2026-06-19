@@ -13,7 +13,7 @@ Resveratrol is a plant polyphenol (from grapes, Japanese knotweed, etc.) best kn
 | SIRT1 "longevity pathway" activation in skin | weak for topical (mechanistically plausible; human-skin longevity outcomes not demonstrated) | [3][5] |
 | Soothing / supports several inflammatory skin conditions | weak–moderate (mostly review-level) | [3] |
 
-## How it fits Kintsugi
+## How it fits the brand
 Good fit and brand-resonant in two ways: (1) it's a credible antioxidant for "environmental defense / photoaging" — the evidence-based core of anti-aging; and (2) the **SIRT1 longevity-pathway** narrative dovetails with our skin-longevity positioning, giving a science-forward story with a real (if oral-derived) longevity pedigree. Honesty caveat: most of resveratrol's *longevity* fame comes from oral/animal research, and topical longevity outcomes in human skin are not established. Best used as a **supporting antioxidant** with a tasteful longevity framing.
 
 ## Formulation notes
@@ -34,7 +34,7 @@ Good fit and brand-resonant in two ways: (1) it's a credible antioxidant for "en
 ## Cost / sourcing
 Low-to-mid cost tier for the raw material; stabilized/encapsulated trade-name versions cost more. Widely available; well-understood supply chain.
 
-## Verdict for Kintsugi
+## Verdict for the brand
 ✅ — **Solid supporting antioxidant with a usable longevity (SIRT1) story.** Evidence is decent for antioxidant/photoaging-appearance benefits (especially in well-formulated blends) and the longevity-pathway angle is on-brand if framed as mechanism, not miracle. Not a standalone hero, but a credible, low-risk pillar of a "skin longevity / environmental defense" product. Pair with ferulic acid + vitamin E. Log in [`../../ideas/considering.md`](../../ideas/considering.md).
 
 ## Sources

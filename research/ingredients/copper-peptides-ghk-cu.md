@@ -14,7 +14,7 @@ GHK-Cu is a naturally occurring tripeptide (glycyl-L-histidyl-L-lysine) bound to
 | Anti-inflammatory, wound-healing, antioxidant, broad gene modulation | moderate (strong mechanistic + wound literature) | [3] |
 | Independent wrinkle improvement on laser-resurfaced skin | weak / null (no significant independent effect in that specific context) | Liebert/Arch Facial Plast Surg [2] |
 
-## How it fits Kintsugi
+## How it fits the brand
 Strong fit. GHK-Cu sits at the intersection of our "repair / renew / mend" thesis and the longevity/regenerative-aesthetics conversation, but — unlike exosomes, growth factors, and OS-01 — it is **openly available, affordable, well-characterized, and backed by decades of (admittedly small) human and mechanistic data.** It is a credible, defensible **supporting hero** that lets us tell a regenerative-peptide story without the evidence/regulatory exposure of the flashier actives.
 
 ## Formulation notes
@@ -35,7 +35,7 @@ Strong fit. GHK-Cu sits at the intersection of our "repair / renew / mend" thesi
 ## Cost / sourcing
 Low-to-mid cost tier; widely available as Copper Tripeptide-1 from many cosmetic peptide suppliers. Easy, stable supply — a practical advantage over the rarer/proprietary longevity actives.
 
-## Verdict for Kintsugi
+## Verdict for the brand
 ✅ — **Strong supporting active, and the most defensible "regenerative peptide" in this set.** Best evidence-to-risk ratio of the longevity-adjacent actives: real (if small-scale) human data, decades of mechanism, open sourcing, clean regulatory status. Use as a credibility anchor in a repair/renewal product; could co-headline a "longevity peptide" hero alongside a senotherapeutic peptide. Log in [`../../ideas/considering.md`](../../ideas/considering.md).
 
 ## Sources

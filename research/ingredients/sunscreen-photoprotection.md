@@ -5,7 +5,7 @@
 ## What it is
 Sunscreen reduces the skin's exposure to UV (and increasingly visible-light/blue-light) radiation, the dominant driver of extrinsic skin aging ("photoaging"). UV exposure is responsible for the large majority of visible aging — wrinkles, mottled pigmentation, loss of elasticity, "sun spots." Daily broad-spectrum photoprotection is, by evidence, the **single most effective topical anti-aging intervention** — it prevents the damage every other active is trying to mitigate.
 
-> **Regulatory note:** In the US, sunscreen is an **OTC drug**, not a cosmetic, and is heavily regulated (monograph, SPF testing, "Drug Facts" panel). This has major formulation, testing, and claims implications and likely means a **finished-sunscreen SKU is a different (and costly) regulatory path** than the rest of the Kintsugi line. In the EU/UK/Asia, sunscreen is a cosmetic with its own rules and a broader palette of approved filters (e.g., Tinosorb).
+> **Regulatory note:** In the US, sunscreen is an **OTC drug**, not a cosmetic, and is heavily regulated (monograph, SPF testing, "Drug Facts" panel). This has major formulation, testing, and claims implications and likely means a **finished-sunscreen SKU is a different (and costly) regulatory path** than the rest of the brand's line. In the EU/UK/Asia, sunscreen is a cosmetic with its own rules and a broader palette of approved filters (e.g., Tinosorb).
 
 ## What it does (claimed → evidenced)
 | Benefit | Evidence strength | Source(s) |
@@ -15,8 +15,8 @@ Sunscreen reduces the skin's exposure to UV (and increasingly visible-light/blue
 | Reduces appearance of pigmentation/uneven tone over time | **Moderate–strong** — prevents UV-driven pigment worsening | [3](https://internationalmedicaljournal.org/index.php/ijmhsr/article/view/497) |
 | Reduces skin cancer risk (context, not a cosmetic claim) | **Strong** (medical) — out of scope for cosmetic marketing | [3](https://internationalmedicaljournal.org/index.php/ijmhsr/article/view/497) |
 
-## How it fits Kintsugi
-**Strategically central, even if not a hero SKU at launch.** Photoprotection is the foundation of any credible "skin longevity / repair & renew" brand — you cannot honestly promise renewal while ignoring the #1 aging driver. Even if Kintsugi doesn't *manufacture* a sunscreen initially (due to OTC-drug complexity), **daily SPF must be woven into the brand's education, routine guidance, and every retinoid/AHA product's instructions.** A premium mineral or hybrid SPF is a strong eventual hero/anchor product.
+## How it fits the brand
+**Strategically central, even if not a hero SKU at launch.** Photoprotection is the foundation of any credible skin-longevity brand — UV is the #1 driver of extrinsic aging, so ignoring it undercuts the efficacy of every other active. Even if the brand doesn't *manufacture* a sunscreen initially (due to OTC-drug complexity), **daily SPF can be woven into the brand's education, routine guidance, and every retinoid/AHA product's instructions.** A premium mineral or hybrid SPF is a strong eventual hero/anchor product.
 
 ## Formulation notes
 - **Filters:** **Mineral** (zinc oxide, titanium dioxide) — broad-spectrum, gentle, photostable, pregnancy-friendly, but can leave cast / heavier feel. **Organic/chemical** — elegant textures; EU/UK/Asia have superior modern broad-spectrum filters (Tinosorb S/M, etc.) **not yet approved in the US**, which constrains US formulation.
@@ -29,7 +29,7 @@ Sunscreen reduces the skin's exposure to UV (and increasingly visible-light/blue
 ## Concerns & cautions
 - **Irritation:** Some organic filters can sting eyes/sensitize; mineral is gentlest.
 - **Pregnancy:** **Mineral filters are the preferred/safest choice** in pregnancy messaging.
-- **Sustainability:** Reef/ecotoxicity concerns around some organic filters (oxybenzone, octinoxate — banned in some regions); a "reef-conscious"/mineral angle fits a wabi-sabi, nature-honoring brand.
+- **Sustainability:** Reef/ecotoxicity concerns around some organic filters (oxybenzone, octinoxate — banned in some regions); a "reef-conscious"/mineral angle is one available differentiator.
 - **Regulatory:** US OTC-drug status = SPF testing, monograph compliance, Drug Facts labeling, higher cost & timeline. Plan accordingly.
 
 ## Claims caution
@@ -40,7 +40,7 @@ Sunscreen reduces the skin's exposure to UV (and increasingly visible-light/blue
 ## Cost / sourcing
 - **Moderate–high** — filters + mandatory **SPF/broad-spectrum testing** + regulatory work make finished sunscreen the most expensive/complex product type here. Filters widely available; modern EU filters (Tinosorb) unavailable for US-market products.
 
-## Verdict for Kintsugi
+## Verdict for the brand
 ✅ **HERO (eventually) + foundational education now** — the strongest evidence in all of anti-aging; bake daily SPF into brand guidance immediately, and plan a premium mineral/hybrid SPF SKU mindful of the OTC-drug path. Log in [`../../ideas/considering.md`](../../ideas/considering.md).
 
 ## Sources

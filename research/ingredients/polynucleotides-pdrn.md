@@ -13,7 +13,7 @@ Purified, low-molecular-weight DNA fragments — most famously derived from salm
 | Same benefits from **topical** serum (no needles) | weak / largely undocumented — penetration of large DNA fragments is the bottleneck | [1][2] |
 | Hydration, "glass skin," soothing from topical use | anecdotal–weak | [2][3] |
 
-## How it fits Kintsugi
+## How it fits the brand
 On-thesis for "repair / renew / mend" and culturally hot (strong search and social demand under "salmon DNA / polynucleotide skincare," giving SEO upside). The honest problem: the **real evidence is for injectables**, a regulated aesthetic procedure we will not be doing. As a topical cosmetic active it has a great story and momentum but thin proof of dermal delivery. Good **supporting** ingredient with a trend tailwind; not a defensible hero on evidence.
 
 ## Formulation notes
@@ -32,7 +32,7 @@ Water-soluble; used in serums/ampoules/masks/eye products. Pairs well with HA, p
 ## Cost / sourcing
 Mid-to-high cost tier for cosmetic-grade polynucleotides; widely available from Korean and EU suppliers (booming category). Cosmetic-grade is far cheaper than medical/injectable-grade. Verify purity and source documentation.
 
-## Verdict for Kintsugi
+## Verdict for the brand
 ⚠️ — **Supporting, trend-led, not a hero.** Strong cultural momentum and an on-brand "renewal" story, but topical efficacy is unproven and the compelling clinical data belong to injectables we won't offer. Use as a supporting hydrating/soothing/"renewal-appearance" active with honest cosmetic claims, or skip if we want to avoid riding a hype wave. Log in [`../../ideas/considering.md`](../../ideas/considering.md).
 
 ## Sources

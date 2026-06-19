@@ -13,7 +13,7 @@ Peptides are short chains of amino acids. In skincare the most relevant class is
 | GHK-Cu supports collagen synthesis, wound healing, antioxidant/anti-inflammatory | **Moderate** — among the better-evidenced cosmetic peptides; much data is in vitro/explant or small trials | [1](https://www.mdpi.com/2079-9284/4/2/16) |
 | "Botox-like" wrinkle relaxation (neuropeptides, context only) | **Weak** — popular claim, limited robust topical evidence | [1](https://www.mdpi.com/2079-9284/4/2/16) |
 
-## How it fits Kintsugi
+## How it fits the brand
 **Good supporting fit, with discipline.** Peptides are the textbook "signal skin's own repair" ingredient — the language ("supports renewal," "messengers of repair") is squarely on-brand and gentle. But evidence is **moderate, not strong**, and the category is heavily hyped, so they belong as **supporting actives that round out a hero (retinoid/vitamin C)**, not as the sole proof-point. Be careful not to over-claim — that would undercut the brand's evidence-first credibility.
 
 ## Formulation notes
@@ -38,7 +38,7 @@ Peptides are short chains of amino acids. In skincare the most relevant class is
 ## Cost / sourcing
 - **Moderate to high**, depending on peptide and supplier (branded blends like Matrixyl/Sederma carry a premium and marketing pull). GHK-Cu moderate. Widely available; branded ingredients add a storytelling/cost layer that fits premium positioning.
 
-## Verdict for Kintsugi
+## Verdict for the brand
 ✅ **SUPPORTING** — on-message "repair signal" actives that enrich a hero formula and tell a gentle renewal story; do **not** rely on them as the primary efficacy claim given moderate evidence. Log in [`../../ideas/considering.md`](../../ideas/considering.md).
 
 ## Sources

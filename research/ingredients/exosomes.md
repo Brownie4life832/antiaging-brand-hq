@@ -13,7 +13,7 @@ Exosomes are nanoscale (~30–150 nm) extracellular vesicles released by cells t
 | Plant-derived exosomes well tolerated in human skin tests | weak (small safety studies) | Solanum tuberosum exosome study [3] |
 | "Regenerates skin," "stimulates collagen," "reverses aging" | not substantiated for cosmetic topical use; also a regulatory red line | [4][5] |
 
-## How it fits Kintsugi
+## How it fits the brand
 Superficially perfect for a "regeneration / renewal" story — which is exactly why the category is flooded with it and why hype has outrun evidence. For a brand whose differentiation is **radical claims honesty**, leaning on exosomes right now is a strategic liability: the science for topical efficacy is thin, the regulatory status is unsettled, and the ingredient is associated with documented safety scandals (in the injectable space). It would undercut the credibility we're trying to build.
 
 ## Formulation notes
@@ -32,7 +32,7 @@ Intact exosomes are large, fragile, and unstable; preserving vesicle integrity a
 ## Cost / sourcing
 High to very high cost tier; quality and potency wildly inconsistent across suppliers; cold-chain handling adds cost. Plant-derived options are cheaper and lower-risk but biologically weaker as a "cell-signaling" story.
 
-## Verdict for Kintsugi
+## Verdict for the brand
 ❌ — **Skip for now.** Differentiation is NOT worth the evidence + regulatory + reputational risk. Topical efficacy is unproven, the FDA is actively issuing warning letters, and the category carries a safety stigma. Revisit only if (a) we restrict to a well-characterized plant-derived vesicle with honest cosmetic-only claims, or (b) the regulatory framework matures and independent topical efficacy data emerge. Log in [`../../ideas/not-considering.md`](../../ideas/not-considering.md) with reason: unproven topical efficacy + live FDA enforcement + reputational risk vs. our honesty positioning.
 
 ## Sources

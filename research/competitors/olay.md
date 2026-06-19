@@ -42,15 +42,17 @@ Clinical-but-approachable and democratic. Voice is confident, results-and-stat-d
 - **No premium story or emotional worldview**: it is a value brand, full stop — there is no philosophy, no craft, no reason to feel anything.
 - **Brand ceiling**: "Olay" connotes your mom's drugstore moisturizer; it cannot credibly command prestige price or aspirational desire.
 
-## What Kintsugi can beat them on
-1. **Own the emotional + philosophical high ground.** Olay has stats but no soul, and its longevity pivot is borrowed language on a quick-fix chassis. The **kintsugi / pro-aging worldview** (gild your skin's history, don't erase it) is something Olay structurally cannot say — it has spent decades on "reduce wrinkles." This is Kintsugi's clearest moat.
-2. **Authentic skin-longevity, not retrofitted.** Olay just rebranded niacinamide as "Pro-NAD+" and called peptides "Skinsurance." Kintsugi can lead with *genuine* barrier-and-renewal longevity science and **radical claims honesty** ("here's what's proven, here's what isn't") — directly countering Olay's "results day 1" hype.
-3. **Experience, ritual, and aesthetic.** Beat the jar/fragrance/drugstore feel with gold/wabi-sabi premium design, airless protective packaging, and a product ritual worth paying for — in a sea of clinical white, and against Olay-red ubiquity.
-4. **Clean + conscious + cruelty-free.** Olay can't be cruelty-free (P&G/China) and uses flagged chemical filters. Kintsugi can claim the clean, conscious, sensitive-skin-friendly lane Olay forfeits.
-5. **Premium positioning without the mass baggage.** Olay caps at ~$47 and carries "drugstore" baggage. Kintsugi's $$–$$$ "informed indulgence" tier lets it deliver fewer/better products with a story — capturing the buyer who has aged out of Olay but finds Augustinus Bader excessive.
-6. **Meet Olay's search demand, convert to our worldview.** Olay dominates "anti-aging" SEO; Kintsugi can capture that intent via SEO/paid and reframe shoppers toward pro-aging/longevity (the strategy in `../../brand/positioning.md`).
+## Potential openings for a new entrant
+These are framed around Olay's genuine, factual vulnerabilities — not around any predetermined positioning, story, or aesthetic for the brand.
 
-**Where Olay still wins (be honest):** price, distribution/scale, household trust, and clinical-study firepower. Kintsugi should NOT compete on price or ubiquity — it competes on meaning, experience, honesty, and premium craft.
+1. **Claims honesty vs. hype.** Olay leans on "results day 1," procedure-mimicry, and "transient" silicone-plumping claims, and its longevity pivot ("Skinsurance," niacinamide rebranded as "Pro-NAD+") is borrowed language grafted onto a quick-fix chassis. A new entrant could differentiate on transparent, substantiated claims ("here's what's proven, here's what isn't"), an opening Olay's hype-driven marketing leaves exposed.
+2. **Experience and packaging.** Olay's jar packaging (criticized for oxidizing retinol/actives), fragranced formulas, and clinical-white drugstore aesthetic draw consistent UX complaints. A new entrant could win on protective/airless packaging and a more considered product experience.
+3. **Clean / conscious / cruelty-free.** Olay can't be cruelty-free (P&G ownership, sells in mainland China) and uses flagged chemical filters (avobenzone, homosalate). A new entrant could serve the clean, conscious, sensitive-skin-friendly buyer Olay forfeits.
+4. **Premium tier above Olay's ceiling.** Olay caps at ~$47 and carries "drugstore" connotations that limit its ability to command higher price or aspirational desire. There is room above its price ceiling for a new entrant offering fewer/better products, without competing on Olay's value-and-ubiquity terms.
+5. **Differentiated formulation.** Critics note Olay recycles the same handful of ingredients across its range with limited true innovation despite new-tech branding — an opening for genuinely differentiated formulation rather than me-too actives.
+6. **Search demand.** Olay dominates "anti-aging" SEO. A new entrant could capture that high-intent demand via SEO/paid acquisition.
+
+**Where Olay still wins (be honest):** price, distribution/scale, household trust, and clinical-study firepower. A new entrant should not expect to compete on price or ubiquity.
 
 ## Sources
 1. P&G Newsroom — "Olay Redefines Skin Longevity With 'Skinsurance'… Super Collection" (May 5, 2026): https://us.pg.com/newsroom/news-releases/Olay-Redefines-Skin-Longevity-With-Skinsurance-Spotlighting-the-Super-Collection-as-a-Long-Term-Investment-to-Future-Proof-Your-Glow/

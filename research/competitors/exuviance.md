@@ -1,4 +1,4 @@
-<!-- Teardown for Kintsugi competitive intel. Structure follows _template.md. -->
+<!-- Teardown for the brand competitive intel. Structure follows _template.md. -->
 
 # Competitor: Exuviance
 
@@ -44,15 +44,16 @@ Clinical yet approachable; educational, results-forward, credentialed. Copy lean
 - **Inconsistent pricing/availability.** Heavy gray-market presence (eBay/Amazon resellers) erodes premium feel and price integrity.
 - **Low emotional/aspirational pull.** No lifestyle, no community, no philosophy — purely transactional results talk.
 
-## What Kintsugi can beat them on
-1. **Worldview & emotional reframe.** Exuviance sells fear ("reverse aging," shed your old skin). Kintsugi's kintsugi/pro-aging "gild your skin's history, don't erase it" story is the exact emotional white space Exuviance leaves wide open — and resonates with the 35–55 premium buyer who is past "fix every flaw."
-2. **Repair-first, not exfoliation-first.** Exuviance's whole identity is shedding/acids. Kintsugi can own barrier repair + renewal + skin-longevity science — a more modern, gentler, holistic promise that also sidesteps the "too harsh" complaints dogging their peels.
-3. **Premium design in a sea of clinical-white.** Exuviance looks dated and pharmacy-functional. Kintsugi's gold/wabi-sabi premium aesthetic instantly out-positions it on shelf and on screen, justifying the $$–$$$ "informed indulgence" tier above Exuviance's $$.
-4. **Focused, curated range.** Beat their 50-SKU/multi-sub-brand sprawl with a tight "fewer, better products" lineup that's easy to choose and believe in.
-5. **Radical claims honesty + longevity framing.** Exuviance over-promises on moisturizers that under-deliver. Kintsugi can win trust by saying what's proven vs. not and leaning into credible skin-longevity science — a trend Exuviance hasn't claimed.
-6. **DTC + community + price integrity.** A controlled DTC-first model avoids the gray-market discount chaos that cheapens Exuviance, protecting both margin and premium perception.
+## Potential openings for a new entrant
+These are framed around Exuviance's genuine, factual vulnerabilities; they do not presume any particular positioning, story, or visual direction for the brand.
+1. **Weak emotional/brand pull.** Exuviance leans on fear-based "reverse the signs of aging" framing with minimal worldview or storytelling beyond science heritage. The lack of any distinct emotional or narrative angle is an opening a new entrant could occupy — independent of which specific direction it chooses.
+2. **Exfoliation-heavy, narrow identity.** Exuviance's identity is concentrated in peels and acids, with less authority on barrier repair, longevity science, microbiome, or holistic skin health. A new entrant could address these adjacent areas — which also sidesteps the "too harsh" complaints reported on their peels.
+3. **Dated, undifferentiated look.** Exuviance reads as clinical-white and pharmacy-functional, skewing older and weak with younger/premium-modern buyers. This visual sameness is an opening for a more distinctive presentation, without prescribing what that presentation should be.
+4. **Sprawling, confusing range.** With 50+ SKUs across confusing sub-brands (NeoStrata vs Exuviance vs CoverBlend vs Vespera), there is room for a tighter, easier-to-navigate lineup.
+5. **Over-promising on non-peel SKUs.** Reviews flag the AGE REVERSE / Rebuild moisturizers for flaking, dryness, and poor value at premium prices. Transparent, well-substantiated claims are an opening where Exuviance is vulnerable.
+6. **Gray-market price erosion.** Heavy reseller presence (eBay/Amazon) undercuts price integrity and premium perception. A controlled distribution model is an opening to protect both margin and perceived value.
 
-Where Exuviance still wins (don't underestimate): decades of real AHA/PHA research credibility and patented, ownable actives. Kintsugi must invest in genuine science (or credible partners) to match that proof, not just out-design them.
+Where Exuviance still wins (don't underestimate): decades of real AHA/PHA research credibility and patented, ownable actives. A new entrant would need genuine science (or credible partners) to match that proof.
 
 ## Sources
 1. Exuviance — Our Story: https://www.exuviance.com/pages/our-story

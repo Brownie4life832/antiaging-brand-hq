@@ -14,7 +14,7 @@ L-Ergothioneine (EGT) is a sulfur-containing amino-acid antioxidant made by fung
 | May elevate NAD+ via a novel route | weak / emerging (early, not skin-specific) | [1] |
 | Visible skin-aging benefit from a **topical** EGT product (human) | weak / sparse | [3] |
 
-## How it fits Kintsugi
+## How it fits the brand
 Good fit and nicely differentiated: ergothioneine is a credible, premium **antioxidant** with a genuinely interesting "longevity vitamin / dedicated-transporter" science story — more substance than most longevity buzz, and the active-transport biology is a great education hook. As a topical *anti-aging efficacy* claim the human skin data are still thin, so it's best positioned as a **supporting** antioxidant with a longevity flavor (pairs well with the resveratrol / NAD narrative). Less hyped than exosomes/PDRN, which suits our "quietly rigorous" stance.
 
 ## Formulation notes
@@ -34,7 +34,7 @@ Good fit and nicely differentiated: ergothioneine is a credible, premium **antio
 ## Cost / sourcing
 Mid-to-high cost tier (historically pricey; fermentation-derived grades now more accessible). Reliable, increasingly biotech-based supply. A premium but defensible antioxidant.
 
-## Verdict for Kintsugi
+## Verdict for the brand
 ✅ — **Differentiated supporting antioxidant with a credible longevity science story.** Stable, safe, premium, and less hyped than the headline actives — a good way to add "longevity" credibility through real antioxidant biology rather than overreach. Position as supporting (likely alongside resveratrol/NAD narrative), with honest defense-and-appearance claims. Log in [`../../ideas/considering.md`](../../ideas/considering.md).
 
 ## Sources

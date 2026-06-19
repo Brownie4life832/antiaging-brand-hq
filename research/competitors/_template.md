@@ -21,9 +21,9 @@ How they sound and look.
 What they do well.
 
 ## Weaknesses / gaps
-Where they're vulnerable — openings for Kintsugi.
+Where they're vulnerable — openings for the brand.
 
-## What Kintsugi can beat them on
+## What the brand can beat them on
 The specific angle(s) we win.
 
 ## Sources

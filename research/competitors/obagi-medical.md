@@ -1,4 +1,4 @@
-<!-- Teardown for Kintsugi competitive intelligence. Structure follows _template.md. -->
+<!-- Teardown for the brand competitive intelligence. Structure follows _template.md. -->
 
 # Competitor: Obagi Medical
 
@@ -13,7 +13,7 @@ Founded 1988 by dermatologist Dr. Zein Obagi. Important strategic nuance: **Dr. 
 - Core: 35-60, primarily women, with visible/stubborn concerns — hyperpigmentation, melasma, sun damage, deep wrinkles, sagging — who want **clinically proven correction**, not feel-good ritual.
 - Channel-shaped audience: historically reached **through dermatologists, plastic surgeons, and med-spas** (products positioned as "available only through physicians / authorized professionals"). This skews older, higher-income, treatment-oriented, and willing to commit to a multi-step "system."
 - Also: post-procedure patients (peels, laser) and people who want pharmaceutical-grade pigment correction.
-- Less aligned with: younger prevention-minded buyers, the clean/wellness crowd, and anyone seeking an emotionally resonant or "pro-aging" story (Obagi is unapologetically fix-it/anti-aging).
+- Less aligned with: younger prevention-minded buyers, the clean/wellness crowd, and anyone seeking an emotionally resonant story (Obagi is unapologetically fix-it/anti-aging).
 
 ## Hero products & prices
 Prices from obagi.com, June 2026. Regular USD list; many retailers discount.
@@ -40,26 +40,27 @@ Prices from obagi.com, June 2026. Regular USD list; many retailers discount.
 - **Physician distribution moat** — recommended at the point of care; trust transfers from the doctor. Hard for a DTC newcomer to replicate.
 - **Systems/regimen lock-in** — the multi-step "transformation" kits create high basket size and routine stickiness.
 - **Awarded hero SKUs** — Professional-C (Allure Best of Beauty) gives mainstream proof points.
-- **Moving toward longevity** with the NAD+ NU-GEN serum — shows they see the same trend Kintsugi is targeting.
+- **Moving toward longevity** with the NAD+ NU-GEN serum — shows they see the same longevity/skin-health trend the category is moving toward.
 
 ## Weaknesses / gaps
 - **The founder problem:** Dr. Zein Obagi left ~1997 and now runs competitor ZO Skin Health. The "founded by a dermatologist" story is technically true but practically hollow — a credibility soft spot if anyone scrutinizes it.
-- **Hydroquinone baggage & regulatory exposure:** Obagi's identity is tied to HQ-based correction, but OTC hydroquinone was effectively pulled in the U.S. (CARES Act, Sept 2020), and HQ carries ochronosis/irritation concerns and pregnancy/nursing cautions. This forces awkward "Fx" hydroquinone-free reformulations and confusing Rx-vs-OTC SKU sprawl. A clean, modern repair story is an open lane.
-- **Fear-based, problem-first framing** — clashes hard with where the category (and Kintsugi) is heading emotionally. No worldview, no story, no warmth. Purely transactional "fix your flaws."
+- **Hydroquinone baggage & regulatory exposure:** Obagi's identity is tied to HQ-based correction, but OTC hydroquinone was effectively pulled in the U.S. (CARES Act, Sept 2020), and HQ carries ochronosis/irritation concerns and pregnancy/nursing cautions. This forces awkward "Fx" hydroquinone-free reformulations and confusing Rx-vs-OTC SKU sprawl.
+- **Fear-based, problem-first framing** — no worldview, no story, no warmth. Purely transactional "fix your flaws," with little emotional resonance.
 - **Irritation & complexity:** Nu-Derm is known to cause peeling/redness during the "adjustment" phase; multi-step systems are intimidating and easy to misuse without a doctor.
 - **Cost + opacity:** Premium pricing plus restricted/physician channel makes it feel gatekept and expensive; pricing varies confusingly across authorized retailers.
 - **Dated, clinical-white aesthetic** — visually indistinguishable from the sea of derm brands; zero design differentiation.
 - **Channel friction for DTC buyers** — "available only through professionals" messaging creates purchase friction for the modern self-directed shopper.
-- **Longevity move feels reactive** — NU-GEN/NAD+ reads as following the trend, bolted onto a corrective legacy, not built from a longevity-first worldview.
+- **Longevity move feels reactive** — NU-GEN/NAD+ reads as following the trend, bolted onto a corrective legacy rather than built in from the start.
 
-## What Kintsugi can beat them on
-1. **Worldview & emotional reframe.** Obagi is pure fix-it/anti-aging with no story. Kintsugi's kintsugi/pro-aging narrative ("gild your skin's history, don't erase it") is the exact emotional opposite — and a space Obagi structurally cannot occupy without contradicting its brand.
-2. **Repair-first, modern actives without HQ baggage.** Lead with barrier + peptides + renewal actives and a clean, regulation-proof ingredient story. Position against Obagi's hydroquinone/irritation-heavy legacy as "powerful without the peeling, the gatekeeping, or the dated chemistry."
-3. **Aesthetic.** Gold / wabi-sabi premium design vs. Obagi's clinical-gray sameness. Instantly more desirable and giftable.
-4. **Radical claims honesty.** Counter Obagi's percentage-heavy, doctor-says-so authority with transparent "here's what's proven, here's what isn't" — earns trust with the skeptical 35-55 ingredient-reader Kintsugi targets.
-5. **Frictionless DTC + fewer, better products.** Obagi pushes intimidating multi-step systems through gatekept channels. Kintsugi can win on a curated, self-directed, beautifully-packaged routine bought directly.
-6. **Own "longevity" with conviction, not as a bolt-on.** Obagi's NAD+ launch signals the trend is real but reads reactive. Kintsugi can build a longevity-first, science-backed identity from the ground up rather than retrofitting it onto a corrective legacy.
-7. **The founder authenticity gap.** Obagi's namesake dermatologist is gone (and competes via ZO). Kintsugi can lead with a genuine, present point of view and founder/formulator story.
+## Potential openings for a new entrant
+*(Framed around Obagi's genuine, factual vulnerabilities — positioning, story, and visual direction for the brand remain undecided.)*
+1. **Emotional/narrative vacuum.** Obagi is purely problem-first/transactional with no worldview, story, or warmth — a structural gap a more emotionally resonant entrant could fill.
+2. **Modern actives without HQ baggage.** Obagi's identity is tied to hydroquinone-based correction now constrained by the OTC HQ removal (CARES Act, 2020) and associated irritation/regulatory concerns, forcing confusing "Fx" reformulations and Rx-vs-OTC SKU sprawl. An entrant leading with barrier/peptide/renewal actives and a clean, regulation-proof ingredient story has a clear lane.
+3. **Visual differentiation.** Obagi's clinical-gray, derm-sameness aesthetic offers zero design distinction — an opening for any visually distinct, more desirable/giftable presentation.
+4. **Claims transparency.** Obagi relies on percentage-heavy, "doctor-says-so" authority; transparent "here's what's proven, here's what isn't" messaging could earn trust with skeptical ingredient-readers.
+5. **Frictionless DTC + simpler range.** Obagi pushes intimidating multi-step systems through gatekept physician/professional channels; a curated, self-directed, directly-purchasable routine addresses that friction.
+6. **Longevity built in, not bolted on.** Obagi's NAD+ launch confirms the longevity trend is real but reads reactive; an entrant can build a longevity-first, science-backed identity from the ground up.
+7. **Founder authenticity gap.** Obagi's namesake dermatologist is gone (and competes via ZO Skin Health), leaving the "founded by a dermatologist" equity hollow — an opening for an entrant with a genuine, present point of view.
 
 ## Sources
 1. Obagi Medical official site — https://www.obagi.com/

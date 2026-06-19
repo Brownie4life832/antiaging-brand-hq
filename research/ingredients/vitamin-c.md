@@ -14,7 +14,7 @@ Vitamin C is a potent antioxidant and an essential **cofactor for collagen synth
 | Improves appearance of fine lines / texture | **Moderate** | [3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8146548/) |
 | Derivatives (THD/EAC) deliver brightening + antioxidant benefit with less irritation/instability | **Moderate** — EAC serum showed anti-aging/whitening benefit; THD lipophilic & stable | [3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8146548/), [4](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6733298/) |
 
-## How it fits Kintsugi
+## How it fits the brand
 **Strong fit.** Vitamin C is the daytime "environmental defense + radiance" counterpart to a nighttime retinoid — defending the skin's repair work and supporting collagen ("renewal" framing). The "brightness / luminosity in gold" angle is on-brand. A **stable derivative (THD)** suits a premium, low-irritation, elegant-texture product better than a finicky low-pH LAA serum.
 
 ## Formulation notes
@@ -40,7 +40,7 @@ Vitamin C is a potent antioxidant and an essential **cofactor for collagen synth
 ## Cost / sourcing
 - LAA raw material is **cheap**, but stable, elegant formulation/packaging is the real cost. **THD ascorbate is significantly more expensive** (premium positioning fits). Widely available (DSM-Firmenich, Corum/THD suppliers, Spec-Chem).
 
-## Verdict for Kintsugi
+## Verdict for the brand
 ✅ **HERO (AM)** — best-in-class antioxidant + radiance story that pairs with retinoid PM; use a **stable derivative (THD)** for a premium, gentle, on-brand serum. Log in [`../../ideas/considering.md`](../../ideas/considering.md).
 
 ## Sources

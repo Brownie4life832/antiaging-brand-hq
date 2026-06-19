@@ -3,7 +3,7 @@
 **Researched:** 2026-06-18 · **Status:** ✅ shortlisted (likely HERO)
 
 ## What it is
-Retinoids are vitamin A derivatives that signal skin cells to renew faster and support the dermal matrix (collagen, elastin). In the body, all topical retinoids must convert to **retinoic acid** to act. The conversion ladder is: **retinyl esters → retinol → retinaldehyde (retinal) → retinoic acid (tretinoin)**. The further down the ladder, the more potent (and generally more irritating). Prescription **tretinoin** *is* retinoic acid — it is the gold-standard with the strongest evidence, but it is a drug, not for OTC cosmetic use. Cosmetic-legal options for Kintsugi are **retinol**, **retinaldehyde**, and **encapsulated/derivative retinols**.
+Retinoids are vitamin A derivatives that signal skin cells to renew faster and support the dermal matrix (collagen, elastin). In the body, all topical retinoids must convert to **retinoic acid** to act. The conversion ladder is: **retinyl esters → retinol → retinaldehyde (retinal) → retinoic acid (tretinoin)**. The further down the ladder, the more potent (and generally more irritating). Prescription **tretinoin** *is* retinoic acid — it is the gold-standard with the strongest evidence, but it is a drug, not for OTC cosmetic use. Cosmetic-legal options for the brand are **retinol**, **retinaldehyde**, and **encapsulated/derivative retinols**.
 
 ## What it does (claimed → evidenced)
 | Benefit | Evidence strength | Source(s) |
@@ -15,7 +15,7 @@ Retinoids are vitamin A derivatives that signal skin cells to renew faster and s
 | Encapsulated retinol — same benefit, better stability & tolerability | **Moderate** — protects retinol from degradation (longer half-life), controlled release lowers irritation; efficacy retained at lower doses | [5](https://pubmed.ncbi.nlm.nih.gov/29604311/) |
 | Supports collagen / dermal matrix | **Strong for tretinoin, moderate for OTC** — mechanism well established | [1](https://pmc.ncbi.nlm.nih.gov/articles/PMC2699641/) |
 
-## How it fits Kintsugi
+## How it fits the brand
 **Strong fit and a natural hero.** Retinoids are the most evidence-backed topical "renewal" molecule — they literally accelerate skin's own cell turnover and matrix remodeling, which maps perfectly onto the "repair & renew" thesis rather than "fight & erase." A well-tolerated **encapsulated retinol or retinaldehyde** lets us tell a premium, science-led story while respecting the brand's gentleness/longevity positioning (slow, steady renewal over harsh peeling).
 
 ## Formulation notes
@@ -41,7 +41,7 @@ Retinoids are vitamin A derivatives that signal skin cells to renew faster and s
 - Retinol: **moderate** cost; widely available (BASF, DSM-Firmenich). Encapsulated/stabilized systems (e.g., licensed encapsulation tech) push to **moderate–high**. Retinaldehyde is **higher** cost and trickier to source/stabilize.
 - Main hidden cost is **packaging + stabilization** (airless, opaque, antioxidant system), not just the raw active.
 
-## Verdict for Kintsugi
+## Verdict for the brand
 ✅ **HERO** — the single most evidence-backed renewal active; an encapsulated retinol or retinaldehyde is on-brand (gentle, premium, science-led). Log in [`../../ideas/considering.md`](../../ideas/considering.md).
 
 ## Sources

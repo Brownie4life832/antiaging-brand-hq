@@ -6,31 +6,38 @@ The running record of what we've **decided**, when, and **why**. Append-only —
 
 ---
 
-### 2026-06-18 — Research base built + product strategy recommended
-- **Decision:** Completed the initial research base — 20 ingredient analyses, 66 competitor teardowns, market & trend landscape — and produced a research-backed, adversarially-reviewed product-line recommendation → [`../products/what-to-make-recommendation.md`](../products/what-to-make-recommendation.md).
-- **Headline recommendation (awaiting founder approval):** lead with a **barrier-repair cream hero** ("Goldgrain Repair Cream"); launch a lean **Phase-1 trio** (cream + serum + cleanser) with refill subscription day one; **buy** commodity formulas and **build** the worldview + gold-as-repair aesthetic + radical-honesty moat; avoid the growth-factor/exosome and single-patented-molecule traps.
-- **Why:** Ingredient evidence and competitive white space converge — premium *barrier repair* + an authentic *pro-aging worldview* is the defensible position; "another night serum" and "miracle molecule" are not.
-- **Status:** 🟡 Recommendation — needs your review/approval to become committed.
+### 2026-06-18 — Brand name, story & positioning RE-OPENED (unbiased mandate)
+- **Decision:** Treat the **brand name, brand story/metaphor, visual direction, and core positioning/worldview as OPEN and undecided.** Only research facts (ingredients, competitors, market) are settled. All strategy docs were neutralized to remove the earlier "Kintsugi / golden-repair / pro-aging" assumptions so future thinking stays unbiased.
+- **Why:** The founder is not finalized on a brand title or story; baking one in early biases every downstream decision. The expensive, durable work (the evidence base) is name-agnostic and fully preserved.
+- **Supersedes:** the provisional "Kintsugi" name and the pro-aging-worldview framing in the entries below.
+- **Status:** ✅ Done (docs neutralized).
+
+### 2026-06-18 — Research base built + product *architecture* recommended
+- **Decision:** Completed the research base — 20 ingredient analyses, 66 competitor teardowns, market & trend landscape — and a research-grounded product **architecture** → [`../products/what-to-make-recommendation.md`](../products/what-to-make-recommendation.md).
+- **What survives (name-agnostic):** a premium **barrier-repair cream hero**, a lean **Phase-1 trio**, buy-bases/build-the-brand, refillable packaging, claims discipline, and the avoid-list (no growth-factor/exosome hero, no single-patented-molecule bet).
+- **Neutralized (2026-06-18):** product names, the "gold" complex/aesthetic, and the assumed pro-aging worldview were stripped — those depend on the (open) name/story/positioning.
+- **Status:** 🟡 Architecture = strong working basis; naming, story & positioning pending.
 
 ### 2026-06-18 — Established the brand HQ repository
-- **Decision:** Use this repo as the single source of truth for the Kintsugi brand; structure it into brand / research / products / marketing / website / ideas / decisions.
+- **Decision:** Use this repo as the single source of truth for the brand; structure it into brand / research / products / marketing / website / ideas / decisions.
 - **Why:** One queryable hub so anything about the brand has a home and the next session inherits context.
-- **Status:** ✅ Done.
+- **Status:** ✅ Done. *(Repo renamed to `antiaging-brand-hq` on 2026-06-18 to drop the provisional name.)*
 
-### 2026-06-18 — Working brand name: "Kintsugi"
-- **Decision:** Proceed with **Kintsugi** as the working brand name.
-- **Why:** The golden-repair metaphor is a strong, ownable reframe of anti-aging.
-- **Status:** 🟡 Provisional — pending trademark clearance and domain availability check.
+### 2026-06-18 — Working brand name: "Kintsugi"  ⛔ SUPERSEDED
+- **Original decision:** Proceed with "Kintsugi" as the working brand name (golden-repair metaphor).
+- **Status:** ⛔ **Superseded 2026-06-18** — name re-opened; "Kintsugi" is now at most one undecided candidate among many. Kept here only as history.
 
 ---
 
 ## Open decisions (awaiting your call)
 
-> These are the forks that unblock the most downstream work. See linked files for context.
+> The forks that unblock the most downstream work. Most of the brand layer is deliberately open.
 
-1. **Brand name final?** Confirm "Kintsugi" pending TM/domain. → [`../brand/brand-identity.md`](../brand/brand-identity.md)
-2. **Category framing:** anti-aging vs. pro-aging/longevity. → [`../brand/positioning.md`](../brand/positioning.md)
-3. **Price tier & primary audience.** → [`../brand/positioning.md`](../brand/positioning.md)
-4. **Hero product & launch range size.** → ✏️ *recommended* (barrier-repair cream hero + Phase-1 trio) in [`../products/what-to-make-recommendation.md`](../products/what-to-make-recommendation.md) — awaiting approval.
-5. **Build vs. buy** formulations. → ✏️ *recommended* (buy bases, brand the complex, license a peptide later, build the brand moat) in [`../products/what-to-make-recommendation.md`](../products/what-to-make-recommendation.md) — awaiting approval.
-6. **Website platform** (Shopify vs. custom). → [`../website/README.md`](../website/README.md)
+1. **Brand name** — fully open. → [`../brand/brand-identity.md`](../brand/brand-identity.md)
+2. **Brand story / metaphor** — fully open (no metaphor assumed). → [`../brand/brand-identity.md`](../brand/brand-identity.md)
+3. **Core positioning / worldview** — open: results/corrective · pro-aging/age-positive · science/longevity-led · clean/transparency-led · barrier-health-led. → [`../brand/positioning.md`](../brand/positioning.md)
+4. **Visual direction** — open (follows positioning). → [`../brand/visual-identity.md`](../brand/visual-identity.md)
+5. **Target audience & price tier** — open. → [`../brand/positioning.md`](../brand/positioning.md)
+6. **Hero product & range size** — *architecture recommended* (barrier-repair cream + Phase-1 trio); naming/story pending. → [`../products/what-to-make-recommendation.md`](../products/what-to-make-recommendation.md)
+7. **Build vs. buy** — *recommended* (buy bases, build the brand). → [`../products/what-to-make-recommendation.md`](../products/what-to-make-recommendation.md)
+8. **Website platform** (Shopify vs. custom). → [`../website/README.md`](../website/README.md)

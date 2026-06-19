@@ -10,7 +10,7 @@
 "**The Science of Radiance™**" — French-pharmacy heritage meets plant biotechnology, sold as **skin *longevity*, not anti-aging**. Their wedge is radical *simplification*: one waterless "solid serum" (Le Balm) packed with 68 actives that claims to replace multiple steps. Aesthetic and worldview are "quiet luxury," French Riviera. Founder-led credibility (Dr. Natacha Bonjout, French pharmacist).
 
 ## Audience
-Core is **women 40–55**, skewing peri-/post-menopausal — dryness, sensitivity, hormonal skin change. This emerged organically (founder's personal network) and the brand now leans into it: high disposable income, motivated buyers, strong loyalty. Secondary: clean-beauty and "fewer, better products" minimalists; travel-focused buyers (TSA-friendly solid format); gift-buyers. Skews non-toxic / sensitive-skin-conscious. Closely overlaps Kintsugi's stated 35–55 primary.
+Core is **women 40–55**, skewing peri-/post-menopausal — dryness, sensitivity, hormonal skin change. This emerged organically (founder's personal network) and the brand now leans into it: high disposable income, motivated buyers, strong loyalty. Secondary: clean-beauty and "fewer, better products" minimalists; travel-focused buyers (TSA-friendly solid format); gift-buyers. Skews non-toxic / sensitive-skin-conscious. Closely overlaps the brand's stated 35–55 primary.
 
 ## Hero products & prices
 | Product | Price | Hero ingredient(s) | Claim |
@@ -40,13 +40,13 @@ Warm, founder-as-friend, science-credentialed-but-accessible. Dr. Bonjout person
 - **Price-to-size:** $130–$170 for 30 g/ml is steep; reviewers flag "on the pricier side" and "maybe not moisturizing enough" for dry/cold climates.
 - **Aesthetic is French-pharmacy-pretty but generic ivory/gold** — not a distinctive, ownable visual world.
 
-## What Kintsugi can beat them on
-1. **Own the emotional worldview they leave on the table.** Bonjout sells "longevity" rationally and "French quiet luxury" generically. The **kintsugi / gild-your-history** narrative is a sharper, more ownable emotional reframe for the same 40–55 buyer — pro-aging meaning vs. Bonjout's product-simplification pitch.
-2. **Radical claims honesty as a weapon.** Counter "68 actives / 2,100 ingredients avoided" with transparent, mechanism-first, "here's what's proven and what isn't" copy. Their reviewer-confirmed efficacy gaps (retinoids, pigment) are an opening for an honest repair-and-renewal system.
-3. **Build the targeted-treatment layer they lack.** Bonjout is two hero jars with no retinoid/exfoliant/eye/SPF and **no night product**. A coherent repair-first regimen — explicitly including the night/"sleep-repair" step they only *blog* about — directly fills their gap (and neutralizes the literal "Beautysleep" white space).
-4. **A genuinely distinctive aesthetic.** Gold/wabi-sabi kintsugi design stands out against their ivory-and-gold French-pharmacy sameness.
-5. **Match the founder-led, email-first DTC engine** (their #1 growth lever) but with a brand-philosophy voice, not just a friendly-pharmacist voice — harder for them to copy because it's rooted in worldview, not a person.
-6. **Price/value clarity:** at $130–$170 / 30 g they're squarely $$$; Kintsugi can win the same "informed indulgence" tier with clearer cost-per-use and a fuller regimen, or undercut selectively on the entry product.
+## Potential openings for a new entrant
+1. **An under-developed emotional dimension.** Bonjout sells "longevity" rationally and "French quiet luxury" generically; their pitch leans on product-simplification rather than a strong emotional hook. The lack of a distinctive emotional reframe for the same 40–55 buyer is an opening for a new entrant.
+2. **Claims transparency.** Bonjout's "68 actives / 2,100 ingredients avoided" reads as proof-by-volume and proprietary-name rather than transparent mechanism. Transparent, mechanism-first "here's what's proven and what isn't" copy — plus their reviewer-confirmed efficacy gaps (retinoids, pigment) — is an opening for a more honest competitor.
+3. **The targeted-treatment layer they lack.** Bonjout is two hero jars with no retinoid/exfoliant/eye/SPF and **no night product**, despite leaning on beauty-sleep editorial content. A more complete regimen — including a night-specific step they only *blog* about — could fill their gap (and the literal "Beautysleep" white space).
+4. **A more distinctive aesthetic.** Bonjout's ivory-and-gold French-pharmacy look is, by reviewers' own framing, generic; a more distinctive, ownable visual identity is an opening against their sameness.
+5. **DTC-engine parity with a less person-dependent hook.** Their founder-led, email-first DTC engine is their #1 growth lever but is tied closely to a single founder personality, which is hard to scale and a potential vulnerability for a new entrant to differentiate against.
+6. **Price/value clarity:** at $130–$170 / 30 g Bonjout is squarely $$$; reviewers flag the price-to-size. Clearer cost-per-use, a fuller regimen, or selective undercutting on an entry product is an opening at the same tier.
 
 ## Sources
 1. Bonjout Beauty — official site / "The Science of Radiance™": https://www.bonjoutbeauty.com/

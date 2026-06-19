@@ -42,14 +42,13 @@ Heritage-luxury and sensorial. Voice is refined, French, understated-expensive �
 - **Skews older / dated** — aesthetic and tone read mature and traditional; weak pull with the 35–50 science-literate, ingredient-savvy buyer.
 - **Claims honesty gap** — markets "anti-aging" and "longevity" language without the rigor; vulnerable to a transparency-led challenger.
 - **Customer-service complaints** — recurring negative reviews on service and disdain for customers (Trustpilot).
-- **Anti-aging framing** — fully committed to conventional "anti-aging / anti-wrinkle / mature skin" language, i.e. fear/correction-based, not a reframe.
+- **Anti-aging framing** — fully committed to conventional "anti-aging / anti-wrinkle / mature skin" language, i.e. fear/correction-based.
 
-## What Kintsugi can beat them on
-1. **Radical claims honesty** — Sisley charges $700+ on heritage romance with thin clinical proof. Kintsugi's "we say what's proven and what isn't" + real barrier/peptide/renewal actives directly attacks their weakest flank with the ingredient-literate buyer they under-serve.
-2. **Focused, fragrance-conscious formulations** — counter Sisley's 50-active, essential-oil-heavy, irritation-prone approach with fewer, better, lower-irritation repair-first products. Win sensitive-skin and barrier-conscious customers Sisley repels.
-3. **The kintsugi / pro-aging reframe** — Sisley is firmly "anti-aging / erase wrinkles." Kintsugi's "gild your skin's history, don't erase it" is an emotional reframe Sisley can't adopt without abandoning its own positioning.
-4. **Modern aesthetic & worldview** — gold/wabi-sabi design and a contemporary, science-creator-friendly voice vs. Sisley's ornate, older-skewing prestige; speaks to the 35–55 cohort Sisley misses.
-5. **Honest value at $$–$$$** — deliver credible skin-longevity science at "informed indulgence" pricing, undercutting Sisley's $700 flagships while out-arguing them on evidence (note: do NOT try to out-luxury or out-heritage them — that's their moat, not ours).
+## Potential openings for a new entrant
+1. **Claims substantiation gap** — Sisley charges $700+ on heritage romance with thin published clinical proof. Transparency about what is and isn't proven, paired with evidence-backed barrier/peptide/renewal actives, targets their weakest flank with the ingredient-literate buyer they under-serve.
+2. **Focused, fragrance-conscious formulations** — Sisley's 50-active, essential-oil-heavy formulas carry high irritation potential. Fewer, better, lower-irritation products represent an opening with the sensitive-skin and barrier-conscious customers Sisley repels.
+3. **Unmet ingredient-literate cohort** — Sisley skews older and traditional, with weak pull among the 35–55 science-literate, ingredient-savvy buyer. A contemporary, evidence-forward voice addresses a segment Sisley under-serves.
+4. **Value-to-evidence gap** — Sisley's $700–$720 flagships pair premium pricing with limited published substantiation, leaving room to compete on credible evidence at lower price points (note: out-luxury / out-heritage is not a viable angle — heritage is Sisley's moat).
 
 ## Sources
 1. Sisley Paris official site (US): https://www.sisley-paris.com/en-US/

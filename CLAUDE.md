@@ -1,16 +1,29 @@
-# CLAUDE.md — Operating manual for the Kintsugi brand hub
+# CLAUDE.md — Operating manual for the brand hub
 
 This file orients any Claude session working in this repository. Read it first.
 
+_Last updated: 2026-06-18. (name / story / positioning OPEN)_
+
 ## What this project is
 
-This is the **headquarters for Kintsugi**, an anti-aging skincare brand being built from scratch by Hasan (who also runs Underdog Games). This is **not a software codebase** — it is a brand operations hub. The "product" is a brand: its identity, research, formulations, marketing, and eventually a storefront. Treat the Markdown files here as the brand's living memory.
+This is the **headquarters for [BRAND]**, an anti-aging / skin-longevity skincare brand being built from scratch by Hasan (who also runs Underdog Games). This is **not a software codebase** — it is a brand operations hub. The "product" is a brand: its identity, research, formulations, marketing, and eventually a storefront. Treat the Markdown files here as the brand's living memory.
 
 The goal: **anything related to this brand should be answerable from this repo.** When you learn something new, write it down in the right place so the next session inherits it.
 
 ## The brand in one breath
 
-**Kintsugi** takes its name from the Japanese art of mending broken pottery with gold — celebrating cracks and age rather than hiding them. The brand's working premise is a reframe of "anti-aging": from *fighting* and *erasing* age toward *repairing, renewing, and honoring* skin as it changes. Premium, science-backed, with a wabi-sabi / golden aesthetic. (Whether to call it "anti-aging" vs. "pro-aging / graceful aging" is an open positioning question — see [`brand/positioning.md`](brand/positioning.md).)
+[BRAND] is an early-stage, premium, science-backed skincare brand in the anti-aging / skin-longevity space. The durable, research-grounded product logic is settled enough to build on: a premium **barrier-repair cream** sits in a real competitive gap, a **lean routine beats SKU sprawl**, the plan is to **buy commodity bases and invest in the brand**, hold **claims discipline**, and use **refillable packaging**. What the brand is *called*, the *story/metaphor* it tells, its *visual direction*, and its *core positioning/worldview* are all still undecided.
+
+### OPEN — do not assume
+
+The following are **open decisions**. Future sessions must stay unbiased and **never assume** any of them:
+
+- **Brand name** — UNDECIDED. Refer to it only as "the brand" or "[BRAND]". ("Kintsugi" was an early candidate; it is now just one undecided option among others, not the chosen name.)
+- **Brand story / metaphor** — UNDECIDED. Do not adopt or invent a governing metaphor; leave the story as an open decision.
+- **Visual direction** — UNDECIDED. Aesthetic, palette, and design language are all open.
+- **Core positioning / worldview** — UNDECIDED. Do not assume a "pro-aging" (or any other) stance. Present positioning as a set of strategic options, each with its competitive crowding / white-space and trade-offs — see [`brand/positioning.md`](brand/positioning.md).
+
+If a question touches any of these, say it is undecided and offer to help decide it — do not answer as if a choice has been made.
 
 Full detail: [`brand/brand-identity.md`](brand/brand-identity.md).
 
@@ -29,6 +42,7 @@ decisions/    decision-log.md
 ## How to work here
 
 - **Ground every answer in the files.** If the user asks about the brand, read the relevant file(s) before answering. Don't invent brand facts — if something isn't decided, say so and offer to decide it.
+- **Treat name, story, visual, and positioning as OPEN.** Never assume a name, metaphor, aesthetic, or worldview. Where these come up, present options neutrally and flag that the decision is unmade.
 - **Write decisions down.** When the user settles something, record it in [`decisions/decision-log.md`](decisions/decision-log.md) and update the affected file(s).
 - **Keep "considering" vs "not considering" current.** The user specifically wants Claude to always know what's on and off the table. When an idea is raised, log it in [`ideas/`](ideas/). When one is killed, move it to [`not-considering.md`](ideas/not-considering.md) **with the reason**.
 - **Use the templates.** New ingredient research → copy `research/ingredients/_template.md`. New product → copy `products/concepts/_template.md`.

@@ -47,13 +47,13 @@ Original 2018 line ran $75–$1,064 for a full set; the brand has since broadene
 - **Origin-story baggage / messaging drift.** The placenta-inspired heritage (and the shift to synthesized "plasma") can confuse or unsettle some shoppers; the tech naming has changed over time (Active Placental Matrix → Peptide-rich Plasma®), which muddies the story.
 - **Fear/correction framing.** "Wounded skin," "turn back the clock," "10 signs of aging" is conventional anti-aging language — emotionally extractive, not affirming.
 
-## What Kintsugi can beat them on
-1. **Emotional/philosophical worldview.** Eighth Day is all clinical authority and zero feeling. Kintsugi's gold/wabi-sabi "gild your history, don't erase it" reframe directly counters their fear-based "aged skin = wounded skin / turn back the clock." We can own the *meaning* layer they leave empty while matching them on science underneath.
-2. **Pro-aging vs. correction.** Reframe the exact same actives (peptides, barrier repair, renewal) as *honoring* skin rather than *fixing damage* — a more PR-friendly, less commoditized story than Eighth Day's "10 signs of aging."
-3. **Aesthetic differentiation.** They live in clinical-white/cellular minimalism (so does everyone). A gold/warm, tactile, kintsugi-inspired design system stands out sharply on shelf and feed.
-4. **Radical claims & pricing honesty.** Eighth Day's pricing is inconsistent across retailers and its claims are big-number-heavy (97%/100%). Kintsugi can win trust with transparent, consistent pricing and honest "here's what's proven vs. not" copy — the skeptical 35–55 reader they both target rewards this.
-5. **Beat the gradual-results vulnerability.** Pair an honest "real change takes time" narrative (fits the kintsugi/repair philosophy) with a genuinely better immediate sensory/finish experience, neutralizing the "builds slowly, not dramatically" knock against them.
-6. **Lower-friction entry at true premium-not-ultra tier.** Eighth Day's hero is ~$325; positioning Kintsugi's hero in the $$–$$$ band with a believable story can capture buyers who find $325 (and $425 night cream) hard to justify without an emotional reason to commit.
+## Potential openings for a new entrant
+1. **Empty meaning layer.** Eighth Day is heavy on clinical authority with little emotional or philosophical hook beyond "science + renewal." A new entrant has room to build a distinctive worldview the customer can belong to — a layer Eighth Day leaves largely empty while still matching it on science underneath.
+2. **Commoditized "10 signs of aging" framing.** Eighth Day relies on conventional "wounded skin / turn back the clock / 10 signs of aging" language shared across the category. A differentiated narrative around the same proven actives (peptides, barrier repair, renewal) is an opening, given how commoditized the consumer-facing promise has become.
+3. **Aesthetic sameness.** Eighth Day lives in clinical-white/cellular minimalism — competent but generic, and shared across most of the category. A visually distinctive design system is an opportunity to stand out on shelf and feed.
+4. **Claims & pricing transparency.** Eighth Day's pricing is inconsistent across retailers (can read as opaque) and its claims are big-number-heavy (97%/100%). Transparent, consistent pricing and honest "here's what's proven vs. not" copy is an opening with the skeptical 35–55 reader the category targets.
+5. **Gradual-results vulnerability.** At least one honest review notes Eighth Day's improvements "build gradually rather than dramatically." A new entrant could address this with a genuinely better immediate sensory/finish experience and honest expectation-setting on timeline.
+6. **High entry price.** Eighth Day's hero is ~$325 (night cream $425); independent reviewers consistently flag it as expensive. A lower-friction entry price is an opening to capture buyers who find that hard to justify.
 
 ## Sources
 1. Eighth Day — The Regenerative Serum (official): https://eighthdayskin.com/products/the-regenerative-serum

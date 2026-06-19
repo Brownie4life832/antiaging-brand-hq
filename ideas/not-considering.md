@@ -1,8 +1,8 @@
-# Not considering — ruled out (with reasons)
+# Not considering — leaning against (with reasons)
 
-> Ideas we've decided against, and **why**. Keep the reason so we don't relitigate — and so we can revisit if circumstances change. Last updated 2026-06-18.
+> Ideas we're inclined to avoid, and **why**. Because the brand name, story, visual direction, and core positioning are all still **OPEN**, nothing here is a hard rule yet — these are research-grounded leanings. Keep the reason so we don't relitigate, and revisit if circumstances change. Last updated 2026-06-18. *(name / story / positioning OPEN)*
 
-*(Nothing ruled out yet — this is day one. As we kill ideas, log them here in the format below.)*
+*(Nothing formally ruled out yet — this is day one. As we kill ideas, log them here in the format below.)*
 
 <!--
 ## <Idea>
@@ -11,9 +11,13 @@
 - **Revisit if:** <what would change our mind, if anything>
 -->
 
-## Candidate "do nots" to confirm *(directional, not yet decided)*
-These fit the brand's discipline but aren't formally ruled out — confirm and move up as real decisions:
-- Fear/shame-based "anti-wrinkle warfare" messaging — clashes with the brand soul.
-- Sprawling 20-SKU catalog at launch — dilutes "fewer, better."
-- Unsubstantiated miracle claims — legal + credibility risk.
-- Clinical-white, me-too visual identity — we differentiate on warmth/gold.
+## Candidate "do nots" — leaning against, per research *(directional, not yet decided; positioning OPEN)*
+These are research-supported leanings, not formal decisions. Each is name- and story-agnostic. Confirm and move up as real decisions once positioning is set:
+
+- **Growth-factor / exosome "hero" ingredient** — evidence is thin and regulatory scrutiny is rising; weak fit for a claims-disciplined, evidence-led product. Leaning against, per research.
+- **Single patented-molecule bet** — staking the line on one proprietary active sits against the research verdict that a proven multi-ingredient barrier complex (ceramides + cholesterol + fatty acids) is the more defensible, lower-risk core. Leaning against, per research.
+- **SKU sprawl at launch (e.g., 20+ products)** — dilutes a lean routine; the economics and competitive logic favor fewer, better SKUs at launch. Leaning against, per research.
+- **Unsubstantiated "miracle" claims** — legal exposure plus credibility risk; conflicts with the claims-discipline the research calls for. Leaning against, per research.
+- **Me-too clinical-white aesthetic** — the category is crowded with near-identical clinical/white visual identities, so copying it forfeits differentiation. Visual direction is OPEN; this notes the crowding, not a chosen alternative. Leaning against, per research.
+
+> Note on positioning: the worldview/positioning is **OPEN**. We are not pre-committing to a "fight aging," pro-aging/age-positive, science/longevity-led, clean/transparency-led, or barrier-health-led stance here. Items above are framed only around what the research and competitive crowding support, independent of which positioning we choose.

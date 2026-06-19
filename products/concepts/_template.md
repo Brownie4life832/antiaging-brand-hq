@@ -10,8 +10,8 @@ What it is and who it's for, in a sentence.
 ## Job to be done
 The real problem this solves for the customer.
 
-## The kintsugi angle
-How it tells the repair/renew/gold story.
+## Brand angle
+How this product connects to the brand's story and positioning.
 
 ## Hero ingredients
 Link to [`../../research/ingredients/`](../../research/ingredients/) files. What does the work, and the evidence.

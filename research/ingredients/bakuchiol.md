@@ -14,8 +14,8 @@ Bakuchiol is a plant-derived compound (from *Psoralea corylifolia* / babchi, tho
 | Antioxidant / soothing properties | **Weak–moderate** | [2](https://jintegrativederm.org/doi/10.64550/joid.9jag0x17) |
 | "As proven as retinol" | **Overstated** — comparable in one well-known small trial, but retinol/tretinoin have a far deeper evidence base | [2](https://jintegrativederm.org/doi/10.64550/joid.9jag0x17) |
 
-## How it fits Kintsugi
-**Very on-brand as a gentle, plant-forward renewal active.** Bakuchiol lets us offer retinoid-like "renewal" benefits to **sensitive-skin and pregnancy-conscious customers** without irritation/photosensitivity baggage — squarely "repair & renew, gently." It fits the wabi-sabi / nature-honoring aesthetic and a "kind to skin" premium story. Caveat for an evidence-led brand: the evidence base, while promising, is **thinner than retinol's**, so position it as a thoughtful gentle alternative — not as scientifically superior.
+## How it fits the brand
+A gentle, plant-derived renewal active. Bakuchiol can offer retinoid-like "renewal" benefits to **sensitive-skin and pregnancy-conscious customers** without the irritation/photosensitivity drawbacks of retinol. Caveat: the evidence base, while promising, is **thinner than retinol's**, so it is best positioned as a gentle alternative — not as scientifically superior.
 
 ## Formulation notes
 - **Effective concentration:** ~**0.5–1%** (0.5% used in the key RCT).
@@ -39,8 +39,8 @@ Bakuchiol is a plant-derived compound (from *Psoralea corylifolia* / babchi, tho
 ## Cost / sourcing
 - **Moderate–high** — costlier than retinol; purified/sustainable grades and branded versions carry a premium that fits premium positioning. Specialty suppliers; verify purity (psoralen-free) and sustainability.
 
-## Verdict for Kintsugi
-✅ **SUPPORTING / alt-hero for a gentle line** — on-brand plant-based renewal active for sensitive & pregnancy-conscious customers; promising but thinner evidence than retinol, so frame as a gentle alternative, not a superior one. Log in [`../../ideas/considering.md`](../../ideas/considering.md).
+## Verdict for the brand
+✅ **SUPPORTING / alt-hero for a gentle line** — plant-based renewal active for sensitive & pregnancy-conscious customers; promising but thinner evidence than retinol, so frame as a gentle alternative, not a superior one. Log in [`../../ideas/considering.md`](../../ideas/considering.md).
 
 ## Sources
 1. Dhaliwal S et al. *Prospective, randomized, double-blind assessment of topical bakuchiol and retinol for facial photoageing.* Br J Dermatol, 2019. https://onlinelibrary.wiley.com/doi/10.1111/bjd.16918

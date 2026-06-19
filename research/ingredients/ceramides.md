@@ -14,8 +14,8 @@ Ceramides are the skin's own barrier lipids — they make up roughly **50% of th
 | Improves comfort/resilience in aged, depleted skin | **Moderate** — strong mechanistic basis (age-related ceramide decline); fewer dedicated anti-aging RCTs | [3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5801391/) |
 | Directly reduces wrinkles / "anti-aging" by itself | **Weak** — value is barrier/hydration/comfort, not direct wrinkle reduction | [3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5801391/) |
 
-## How it fits Kintsugi
-**The most on-brand molecule we have.** Ceramides *are* "barrier repair" — replenishing the skin's own building blocks is the literal embodiment of "repair & renew / mend in gold." They also make every other active more tolerable (a resilient barrier tolerates retinoids/acids better). Strong candidate to **anchor a signature "barrier renewal" moisturizer/cream as a hero**, and a supporting lipid base across the line.
+## How it fits the brand
+**A strong candidate molecule.** Ceramides *are* barrier-replenishing lipids — they restore the skin's own building blocks. They also make every other active more tolerable (a resilient barrier tolerates retinoids/acids better). Strong candidate to **anchor a signature barrier-renewal moisturizer/cream as a hero**, and a supporting lipid base across the line.
 
 ## Formulation notes
 - **Effective concentration:** Used at low total % but **ratio matters more than dose** — the evidence-backed approach is a **physiological blend of ceramides + cholesterol + free fatty acids** (often cited around a 3:1:1 / 1:1:1 family ratio); cholesterol-dominant blends repair fastest.
@@ -29,7 +29,7 @@ Ceramides are the skin's own barrier lipids — they make up roughly **50% of th
 - **Irritation:** Very low; suitable for sensitive/compromised skin.
 - **Sun sensitivity:** None.
 - **Pregnancy:** Considered safe topically.
-- **Sourcing/allergens:** Modern ceramides are typically **synthetic/bio-identical or plant-derived** (good for vegan/clean positioning); some legacy ceramides were animal-derived — specify plant/synthetic sourcing. Low allergen risk.
+- **Sourcing/allergens:** Modern ceramides are typically **synthetic/bio-identical or plant-derived** (compatible with vegan/clean formulation); some legacy ceramides were animal-derived — specify plant/synthetic sourcing. Low allergen risk.
 
 ## Claims caution
 - ✅ **Safe cosmetic language:** "helps restore and strengthen the look and feel of the skin barrier," "replenishes skin's essential lipids," "locks in moisture / reduces moisture loss appearance," "comforts dry, compromised-looking skin," "for resilient, renewed-feeling skin." (Note: "barrier repair" is widely used cosmetic language — keep it tied to support/appearance, not disease.)
@@ -39,8 +39,8 @@ Ceramides are the skin's own barrier lipids — they make up roughly **50% of th
 ## Cost / sourcing
 - **Moderate** (true ceramides cost more than basic emollients; physiological blends + good emulsion add cost). Worth it for the central barrier story. Widely available (Evonik, Croda, others); low supply risk.
 
-## Verdict for Kintsugi
-✅ **HERO (for the barrier-renewal product)** — the literal "repair the skin's own structure" ingredient; perfectly on-thesis, gentle, synergistic with niacinamide, and a credible signature. Log in [`../../ideas/considering.md`](../../ideas/considering.md).
+## Verdict for the brand
+✅ **HERO (for the barrier-renewal product)** — replenishes the skin's own barrier lipids; gentle, synergistic with niacinamide, and a credible signature. Log in [`../../ideas/considering.md`](../../ideas/considering.md).
 
 ## Sources
 1. *A daily regimen of a ceramide-dominant moisturizing cream and cleanser restores the skin permeability barrier in adults with moderate eczema: a randomized trial.* PMC. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8459234/

@@ -45,13 +45,13 @@ Science-led, data-forward, restrained. Voice leans on clinical proof points (ins
 - **Premium-but-not-luxury positioning** with a clinical-startup look — limited gifting/indulgence/aesthetic appeal.
 - **Single-ingredient risk.** If malassezin's category buzz cools or a "10x vitamin C" claim draws scrutiny, the whole brand is exposed.
 
-## What Kintsugi can beat them on
-1. **Own the worldview Mother Science lacks.** Their story is a molecule; Kintsugi's is a philosophy (kintsugi / age beautifully, don't erase). We can win the *emotional + identity* layer they leave wide open while still being science-backed.
-2. **Reframe from "erase spots" to "skin longevity / repair-first."** They fight one visible flaw; Kintsugi can offer barrier + peptides + renewal as a complete, future-facing routine — broader, higher LTV, less single-ingredient risk.
-3. **Routine completeness.** Beat them on coverage and convenience: cleanse → treat → repair → protect (incl. an SPF answer) so the customer doesn't have to bolt their hero onto someone else's products.
-4. **Aesthetic & premium feel.** Their clinical-white minimalism is generic; Kintsugi's gold/wabi-sabi design can command a higher tier and emotional price premium without abandoning credibility.
-5. **Radical claims honesty as a wedge.** Counter "100% of 38 people" with transparent, well-powered substantiation and clear "proven vs. promising" language — turn their small-n into our trust advantage.
-6. **Broader audience, not just pigmentation.** Capture the 35–55 "age well" buyer for whom dark spots are one of several concerns — a larger market than Mother Science's brightening niche.
+## Potential openings for a new entrant
+1. **No emotional/identity layer.** Mother Science's story is a molecule; the voice is clinical and ingredient-centric, with no philosophy or worldview for a customer to belong to. That is an opening for a brand that pairs science with a stronger narrative — direction TBD.
+2. **Narrow concern, single-ingredient dependence.** They are anchored to dark spots/pigmentation and one molecule, with single-ingredient risk if the category buzz cools or the "10x vitamin C" claim draws scrutiny. An entrant offering broader, multi-mechanism routine coverage (e.g., barrier + peptides + renewal) faces less concentration risk and can target higher LTV.
+3. **Incomplete routine.** The line has limited coverage — no cleanser or SPF, and the serum requires a separate sunscreen. An entrant could win on routine completeness and convenience (cleanse → treat → repair → protect, including an SPF answer) so the customer isn't bolting a hero onto someone else's products.
+4. **Generic clinical-white aesthetic.** Their look is minimal clinical-startup sameness with limited gifting/indulgence appeal — an opening for clearer visual and premium differentiation without abandoning credibility.
+5. **Small-n claims are attackable.** Two trials at ~38 participants underpin "100%" claims; an entrant with transparent, better-powered substantiation and clear "proven vs. promising" language could turn that small-n into a trust advantage.
+6. **Broader audience than pigmentation.** Mother Science targets a brightening niche; an entrant could address buyers for whom dark spots are one of several concerns — a larger addressable market.
 
 ## Sources
 1. Mother Science official site — https://motherscience.com/

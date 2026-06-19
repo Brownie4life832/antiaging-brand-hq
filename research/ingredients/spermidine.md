@@ -13,7 +13,7 @@ Spermidine is a naturally occurring polyamine and one of the most prominent mole
 | Supports epidermal renewal / "skin autophagy" topically | weak / largely undocumented in humans | trade summaries [5] |
 | Visible anti-aging benefits from a topical serum | anecdotal / marketing | [5] |
 
-## How it fits Kintsugi
+## How it fits the brand
 Conceptually a *perfect* fit for the brand: autophagy is the literal cellular version of "repair / renew / mend," and spermidine is a marquee longevity molecule with real (non-skin) science. The honesty problem is large: the strong evidence is for **oral** supplementation and **non-skin** outcomes (lifespan in animals; hair follicles in humans). Human **topical skin** efficacy is essentially undocumented. It's a fantastic *storytelling/education* asset but a weak *efficacy* claim today — useful as a supporting "longevity science" ingredient, not a proof-backed hero.
 
 ## Formulation notes
@@ -31,7 +31,7 @@ Small, water-soluble molecule (better penetration prospects than peptides/protei
 ## Cost / sourcing
 Mid cost tier; available as purified spermidine and via wheat-germ extracts. Supply is reasonable (rides the oral-supplement longevity boom). Standardization of "spermidine content" matters when using plant extracts.
 
-## Verdict for Kintsugi
+## Verdict for the brand
 ⚠️ — **Supporting "longevity narrative" active; not an evidence-backed hero (yet).** Outstanding fit for the brand story and the autophagy/renewal metaphor, but topical human skin evidence is thin to absent. Use as a science-forward supporting ingredient with strictly honest, mechanism-framed copy — its value is differentiation and narrative, not proven topical efficacy. Log in [`../../ideas/considering.md`](../../ideas/considering.md).
 
 ## Sources

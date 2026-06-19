@@ -13,8 +13,8 @@ Ectoin is a small amino-acid-derived molecule called an **extremolyte** — prod
 | Reduces appearance of fine lines / supports barrier-driven smoothness | weak–moderate | [1][2] |
 | Soothing in sensitive/atopic-prone skin | moderate (used in medical-device dermatitis creams) | [4] |
 
-## How it fits Kintsugi
-Strong, low-risk fit — but as a **barrier/resilience** ingredient, not a "longevity" headliner. It maps cleanly onto our central "skin barrier = repair thesis" and onto the resilience/defense side of longevity (protecting cells from the environmental stress that drives aging). It's an excellent, well-tolerated **supporting** active that adds substance and comfort, with a tidy "extremophile resilience" story that fits the wabi-sabi/endurance brand mood. Genuinely good evidence for what it actually claims (hydration/barrier), which is rare in this set.
+## How it fits the brand
+Strong, low-risk fit — but as a **barrier/resilience** ingredient, not a "longevity" headliner. It maps onto a barrier-and-resilience angle and onto the resilience/defense side of longevity (protecting cells from the environmental stress that drives aging). It's an excellent, well-tolerated **supporting** active that adds substance and comfort, with an available "extremophile resilience" narrative grounded in the ingredient's biology. Genuinely good evidence for what it actually claims (hydration/barrier), which is rare in this set.
 
 ## Formulation notes
 - Very stable, water-soluble, easy to formulate; broad pH compatibility; compatible with most actives (HA, niacinamide, ceramides, peptides, vitamin C).
@@ -33,8 +33,8 @@ Strong, low-risk fit — but as a **barrier/resilience** ingredient, not a "long
 ## Cost / sourcing
 Mid cost tier (more expensive than basic humectants like glycerin, cheaper than the exotic longevity actives). Reliable fermentation-based supply; widely available. Good value for the evidence it carries.
 
-## Verdict for Kintsugi
-✅ — **Reliable supporting active with genuinely solid evidence for hydration/barrier/protection.** Not a longevity "hero" headline, but a credibility- and comfort-builder that strengthens our barrier-repair thesis and adds a likable "extremophile resilience" story. Low risk, easy to formulate, honest claims. Log in [`../../ideas/considering.md`](../../ideas/considering.md).
+## Verdict for the brand
+✅ — **Reliable supporting active with genuinely solid evidence for hydration/barrier/protection.** Not a longevity "hero" headline, but a credibility- and comfort-builder that supports a barrier/resilience angle and offers a likable "extremophile resilience" story. Low risk, easy to formulate, honest claims. Log in [`../../ideas/considering.md`](../../ideas/considering.md).
 
 ## Sources
 1. Pai Skincare — "Ectoine Benefits: The Desert Amino Acid That Protects Skin" (summary of hydration/TEWL data). https://www.paiskincare.com/en-us/a/thepailife/ectoin-skincare-benefits

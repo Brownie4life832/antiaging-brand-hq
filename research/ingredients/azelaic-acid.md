@@ -14,7 +14,7 @@ Azelaic acid (AzA) is a dicarboxylic acid (naturally found in grains like barley
 | Improves appearance of skin texture/clarity at cosmetic (<10%) doses | **Moderate** — most robust data is at 15–20% drug strengths; lower-% cosmetic evidence thinner | [1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12472904/) |
 | Direct wrinkle reduction | **Weak** — not its strength; value is tone/redness/clarity | [1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12472904/) |
 
-## How it fits Kintsugi
+## How it fits the brand
 **Good supporting fit for the "even, calm, radiant" dimension of renewal** — especially for tone, redness, and dark marks, which are core "visible aging" concerns. It's gentle and pairs with niacinamide and vitamin C for a tone-evening story. **Key caveat:** its strongest evidence is at **15–20%, which is drug-strength (prescription Rx in many markets)**; cosmetic products use lower % where evidence is weaker and high-% claims become drug claims. So it's a **supporting tone/clarity active at cosmetic strength**, not a hero, unless we pursue a regulated drug path.
 
 ## Formulation notes
@@ -39,7 +39,7 @@ Azelaic acid (AzA) is a dicarboxylic acid (naturally found in grains like barley
 ## Cost / sourcing
 - **Low–moderate** raw cost; the spend is in **solubilization/delivery** to make it elegant (gritty texture is the enemy). Derivatives cost more. Widely available; low supply risk.
 
-## Verdict for Kintsugi
+## Verdict for the brand
 ⚠️ **SUPPORTING (conditional)** — a genuinely useful gentle tone/redness/clarity active, but its best evidence sits at drug strengths; include at cosmetic strength for the "even, calm radiance" angle with disciplined claims, or skip if it can't be made elegant. Log in [`../../ideas/considering.md`](../../ideas/considering.md).
 
 ## Sources

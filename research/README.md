@@ -16,7 +16,7 @@ Everything we learn that informs the brand. This is what makes the hub *queryabl
 
 - **Prefer the `/deep-research` skill** for anything substantial — it fans out across sources, fact-checks, and produces a cited report. Drop the result into the right folder.
 - **Always cite.** Ingredient/efficacy claims need real sources (peer-reviewed where possible). No source = mark it `[unverified]`.
-- **End with a verdict.** Research should conclude with "what this means for Kintsugi" — consider / don't consider / needs more.
+- **End with a verdict.** Research should conclude with "what this means for the brand" — consider / don't consider / needs more.
 - **Feed decisions back.** When research settles something, update [`../ideas/`](../ideas/) and [`../decisions/decision-log.md`](../decisions/decision-log.md).
 
 ## High-priority research queue *(starter list — reorder freely)*

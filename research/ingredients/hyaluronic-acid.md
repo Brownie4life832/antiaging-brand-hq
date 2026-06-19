@@ -14,7 +14,7 @@ Hyaluronic acid (HA) is a humectant naturally present in skin that binds large a
 | Multi-MW blends give both surface + deeper hydration | **Moderate** | [3](https://jcadonline.com/clinical-evaluation-hyaluronic-acid-skin-rejuvenation/) |
 | "Long-term anti-wrinkle / collagen building" from topical HA | **Weak** — benefit is largely surface hydration & temporary plumping, not structural remodeling | [1](https://pmc.ncbi.nlm.nih.gov/articles/PMC10078143/) |
 
-## How it fits Kintsugi
+## How it fits the brand
 **Solid supporting fit.** HA is the comfort/hydration backbone — it makes skin look immediately smoother and "dewier in gold," and it buffers the dryness from actives like retinoids and AHAs (helping adherence). It is not a deep "repair" actor on its own, so it's a **supporting hydrator across the line**, not a hero claim. Honest framing (visible plumping/hydration vs. structural change) protects brand credibility.
 
 ## Formulation notes
@@ -40,7 +40,7 @@ Hyaluronic acid (HA) is a humectant naturally present in skin that binds large a
 ## Cost / sourcing
 - **Low to moderate** (varies by MW spec and grade). Abundant, fermentation-derived, vegan, low supply risk. Premium multi-MW or specialty (e.g., cross-linked / "hybrid") grades cost more and suit premium positioning.
 
-## Verdict for Kintsugi
+## Verdict for the brand
 ✅ **SUPPORTING** — essential hydration/comfort backbone that improves wear of hero actives and delivers immediate visible "plump"; honest hydration framing keeps it credible. Log in [`../../ideas/considering.md`](../../ideas/considering.md).
 
 ## Sources

@@ -12,6 +12,6 @@
 ### Prompts to spark ideas (delete as you fill in)
 - Product names? Tagline lines? What does the packaging unboxing feel like?
 - Which single ingredient could be our signature "hero molecule"?
-- A ritual or gesture unique to Kintsugi? (e.g. the "golden minute")
+- A ritual or gesture unique to the brand?
 - Partnerships, founder story angle, hero customer, community idea?
 - What would make someone screenshot and share us?

@@ -13,7 +13,7 @@ Growth factors are signaling proteins that tell skin cells to proliferate, migra
 | Penetrates intact skin to reach living layers | weak — EGF is >500 Da and penetrates the stratum corneum poorly | [2][1] |
 | Wound healing (medical, e.g., rhPDGF / Regranex) | strong — but that's an FDA-approved **drug**, not a cosmetic | [1] |
 
-## How it fits Kintsugi
+## How it fits the brand
 Conceptually aligned with "repair / renew," premium-priced, and already flagged in our glossary as "premium, evidence varies — vet carefully." But the practical case is weak: poor penetration of a large protein, modest and largely industry-linked human data, a theoretical (unproven for topicals) safety question, and sourcing that blurs into the exosome/secretome gray zone. Hard to defend as a hero for a brand built on honesty.
 
 ## Formulation notes
@@ -31,7 +31,7 @@ Large, fragile proteins: stability is a real problem (heat, pH, time degrade act
 ## Cost / sourcing
 High cost tier; recombinant proteins and conditioned-media are expensive and variable. Plant-expressed EGF is cheaper but with even thinner human efficacy data. Diligence on potency assays, stability data, and source documentation is essential.
 
-## Verdict for Kintsugi
+## Verdict for the brand
 ❌/⚠️ — **Lean skip.** The differentiation (premium "growth factor" cachet) is not worth the combination of poor penetration, modest/industry-linked evidence, a lingering theoretical safety question, and sourcing that drags us toward the exosome gray zone. If a longevity "renewal" hero is wanted, a senotherapeutic peptide or copper peptide is a stronger, cleaner story. Could revisit a well-characterized, well-substantiated single recombinant factor as a *supporting* actor later. Log in [`../../ideas/not-considering.md`](../../ideas/not-considering.md) with reason: weak topical evidence + penetration limits + theoretical EGFR safety flag + sourcing gray area.
 
 ## Sources

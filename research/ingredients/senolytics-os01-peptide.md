@@ -17,7 +17,7 @@ Important nuance: OneSkin's own published data suggest OS-01 acts more as a **se
 | "Reverses skin's biological age" | anecdotal / marketing — based on a proprietary molecular-clock readout, not an accepted clinical endpoint | OneSkin claims [4] |
 | Actually destroys existing senescent cells in human skin in vivo | not established | [1][4] |
 
-## How it fits Kintsugi
+## How it fits the brand
 Extremely on-thesis. "Repair / renew" maps almost perfectly onto the senescence-clearance / cellular-renewal story, and "skin longevity" is exactly the science-forward layer our positioning calls for ([`../../brand/positioning.md`](../../brand/positioning.md)). This is the most credible candidate for a **signature longevity hero** narrative — IF we can source a defensible senotherapeutic peptide and stay disciplined on claims. The catch: OS-01 itself is OneSkin's proprietary, patent-protected molecule; we cannot simply buy it. We would need either a licensed supply, a different commercially available senotherapeutic peptide, or to build the story around a peptide blend with our own (modest, honest) substantiation.
 
 ## Formulation notes
@@ -36,7 +36,7 @@ Peptides are generally water-soluble, used at low percentages, and want near-neu
 ## Cost / sourcing
 High cost tier. True OS-01 is proprietary to OneSkin (not openly sold to formulators). Alternative routes: license; or source a different senotherapeutic/senomorphic peptide or "longevity peptide" blend from a premium peptide supplier (expect specialty-peptide pricing and MOQ). Supply, IP/patent landscape, and substantiation files all need diligence before committing.
 
-## Verdict for Kintsugi
+## Verdict for the brand
 ⚠️ — **Strategically the best fit for a "signature longevity hero," but only viable with a sourceable, defensible peptide and rigorously honest claims.** The category-defining narrative is real; the independent evidence is not yet strong, and the marquee molecule is locked up by a competitor. Pursue as a hero *candidate*, contingent on sourcing + a claims strategy that sells the longevity story without drug-like overreach. Log in [`../../ideas/considering.md`](../../ideas/considering.md).
 
 ## Sources

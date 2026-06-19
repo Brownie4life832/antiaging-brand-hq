@@ -14,7 +14,7 @@ Niacinamide is the amide form of vitamin B3 — a water-soluble, exceptionally w
 | Reduces sallowness (yellowing) & red blotchiness | **Moderate–strong** | [1](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-2494.2004.00228.x), [3](https://www.jaad.org/article/S0190-9622(04)02915-9/fulltext) |
 | Antioxidant / supports skin resilience | **Moderate** | [2](https://pmc.ncbi.nlm.nih.gov/articles/PMC8389214/) |
 
-## How it fits Kintsugi
+## How it fits the brand
 **Excellent fit.** Niacinamide is the connective tissue of the whole "barrier repair / renew" story — it literally helps the skin rebuild its own lipid barrier. It is gentle, plays well with almost everything, and lets us layer benefits (tone, barrier, resilience) without irritation. Ideal as the **workhorse SUPPORTING active across multiple SKUs**, and arguably a hero for a "barrier renewal" product.
 
 ## Formulation notes
@@ -39,7 +39,7 @@ Niacinamide is the amide form of vitamin B3 — a water-soluble, exceptionally w
 ## Cost / sourcing
 - **Inexpensive**, abundant, very stable. Excellent cost-to-benefit. Widely sourced (Lonza, Jubilant, multiple). Low supply risk.
 
-## Verdict for Kintsugi
+## Verdict for the brand
 ✅ **SUPPORTING (hero-grade)** — gentle, broadly evidenced barrier/tone multitasker that fits "repair & renew" perfectly and layers with everything; a near-default inclusion across the line. Log in [`../../ideas/considering.md`](../../ideas/considering.md).
 
 ## Sources

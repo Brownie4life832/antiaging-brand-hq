@@ -19,7 +19,7 @@ The honest punchline: niacinamide is the **most evidence-backed NAD-supportive i
 | NMN: raises NAD+, activates sirtuin/autophagy, suppresses senescence, supports ECM | moderate **in cultured fibroblasts**; human topical data limited | Skin-fibroblast NMN study (PMC) [2] |
 | Topical NMN/NR/NAD+ deliver visible anti-aging in humans | weak / sparse | Medik8 / brand summaries [1] |
 
-## How it fits Kintsugi
+## How it fits the brand
 This is a smart "have it both ways" play. **Niacinamide** is a no-regrets, strongly-evidenced backbone active already in our glossary — and it doubles as our honest entry point into the **NAD+ longevity narrative** (it *is* an NAD precursor). We can tell a credible cellular-energy/longevity story grounded in a proven ingredient, while being candid that the literal "recharge your skin's NAD+" claim is not yet demonstrated for topicals. NMN/NR can be a small, experimental "longevity" garnish if desired, but they are narrative, not proof. Niacinamide = workhorse with a longevity halo.
 
 ## Formulation notes
@@ -40,7 +40,7 @@ This is a smart "have it both ways" play. **Niacinamide** is a no-regrets, stron
 - Niacinamide: very low cost tier; ubiquitous; trivial supply. Outstanding value.
 - NMN/NR: mid-to-high cost tier; cosmetic-grade availability growing with the supplement boom; potency/stability claims need vetting.
 
-## Verdict for Kintsugi
+## Verdict for the brand
 ✅ (niacinamide) / ⚠️ (NMN/NR/NAD+) — **Use niacinamide as a proven backbone active that also unlocks an honest "NAD+ / cellular-energy longevity" narrative.** It's the rare ingredient that is both genuinely evidence-backed AND on-trend for longevity framing. Treat NMN/NR/NAD+ as optional, experimental "story" garnishes — not as proof, and never claim they raise skin NAD+. Best longevity-story-to-risk ratio in the whole set on the niacinamide side. Log in [`../../ideas/considering.md`](../../ideas/considering.md).
 
 ## Sources

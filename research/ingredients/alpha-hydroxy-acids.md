@@ -14,7 +14,7 @@ AHAs are water-soluble exfoliating acids derived from (or nature-identical to) f
 | Supports collagen / epidermal renewal (glycolic at pH 4) | **Moderate** — explant study: stimulates collagen + renewal without raising TNF-α | [4](https://pmc.ncbi.nlm.nih.gov/articles/PMC7891644/) |
 | Overall efficacy & safety profile | **Moderate** — confirmed in recent comprehensive review | [5](https://pubmed.ncbi.nlm.nih.gov/39050562/) |
 
-## How it fits Kintsugi
+## How it fits the brand
 **Good supporting fit.** "Reveal renewed skin" / gentle resurfacing is on-thesis (renewal, not aggression). Lactic acid especially — being a gentler humectant-acid — suits a premium, kind-to-skin brand better than harsh high-% glycolic peels. AHAs make a strong **supporting "smoothing/radiance" active or a standalone gentle exfoliant SKU**, complementing (not competing with) a retinoid hero.
 
 ## Formulation notes
@@ -39,7 +39,7 @@ AHAs are water-soluble exfoliating acids derived from (or nature-identical to) f
 ## Cost / sourcing
 - **Inexpensive**, abundant, very stable. Lactic acid's fermentation origin supports a natural/sustainable narrative. Low supply risk.
 
-## Verdict for Kintsugi
+## Verdict for the brand
 ✅ **SUPPORTING** — gentle renewal/radiance actives (favor **lactic** for kindness + hydration) that fit the brand and complement a retinoid hero; not the lead claim. Log in [`../../ideas/considering.md`](../../ideas/considering.md).
 
 ## Sources

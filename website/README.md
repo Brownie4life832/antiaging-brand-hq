@@ -7,17 +7,17 @@ The brand's home on the web. Right now this folder holds the **plan**; the site 
 | Option | Best when | Notes |
 |---|---|---|
 | **Shopify** ⭐ | DTC commerce-first, fast to market | We have Shopify tools wired in (store previews, products, collections, discounts, analytics). Strong default for selling skincare. |
-| **Headless (Hydrogen / Next.js + Shopify)** | We want a custom, design-forward site with Shopify commerce | More build effort; maximum design control for the wabi-sabi aesthetic. |
+| **Headless (Hydrogen / Next.js + Shopify)** | We want a custom, design-forward site with Shopify commerce | More build effort; maximum design control for a custom visual direction. |
 | **Custom (Next.js + Stripe)** | Content-led, commerce secondary | More control, more to maintain; rebuilds commerce Shopify gives free. |
 
-**Working lean:** start on **Shopify** to sell fast, invest in custom/headless design later if the brand aesthetic demands it. Decide in [`../decisions/decision-log.md`](../decisions/decision-log.md).
+**Working lean:** start on **Shopify** to sell fast, invest in custom/headless design later if the brand's visual direction demands it. Decide in [`../decisions/decision-log.md`](../decisions/decision-log.md).
 
 ## First-version sitemap *(draft)*
 
-- **Home** — the kintsugi story + hero product
+- **Home** — the brand story + hero product
 - **Shop** — product listing
 - **Product pages** — benefit + science + ritual
-- **Our story / philosophy** — the reframe of aging (this is our moat)
+- **Our story / philosophy** — the brand's positioning and point of view (to be defined)
 - **Ingredients / science** — credibility hub (pulls from [`../research/`](../research/))
 - **Journal/blog** — SEO + education
 - **About / contact / FAQ**
@@ -31,5 +31,5 @@ The brand's home on the web. Right now this folder holds the **plan**; the site 
 
 ## Open questions
 - [ ] Pick the platform.
-- [ ] Secure the domain (run a domain availability check on Kintsugi variants).
+- [ ] Secure the domain (run a domain availability check on the brand variants).
 - [ ] Lock the v1 sitemap.
