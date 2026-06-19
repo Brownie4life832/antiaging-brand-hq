@@ -86,6 +86,25 @@ Differentiation will come from the chosen positioning plus execution. Candidate 
 3. **Visual direction — OPEN.** The look-and-feel is an undecided design decision, to be set after positioning; not assumed here.
 4. **Claims honesty** — proven vs. unproven stated plainly.
 
+## A cross-cutting defensibility choice — single hero molecule vs. multi-active *(option to weigh with positioning)*
+
+> Added 2026-06-19 after a founder challenge to an earlier, overstated "single-patented-molecule = fragile" claim. This is **not** an avoid-zone — it's a real strategic fork (most relevant if the science/longevity lane, Option C, is chosen, but it cuts across all of them).
+
+**The choice:** build defensibility on **one owned/licensed patented hero molecule** (the OneSkin / Timeline / Augustinus Bader / SK-II model) **vs.** a **multi-active system** where no single ingredient carries the brand (the model the current product architecture assumes).
+
+It is **high-variance, not inherently fragile.** The same model built SK-II (Pitera), Augustinus Bader (TFC8), and Olaplex (one patented bond-builder → a ~$15B IPO), and Timeline's single-molecule play attracted a $66M L'Oréal/Nestlé round. Our own teardowns list the patented molecule as a *strength* for OneSkin and Timeline. Whether it's an asset or a liability depends on specifics:
+
+| Single-molecule is STRONG when… | …and FRAGILE when |
+|---|---|
+| You **own** composition-of-matter IP | You **license** it, or it's easy to design around |
+| There's **independent** clinical evidence — especially for the *topical* use | Evidence is in-house, or proven only in another format (e.g. Urolithin A's strong data is the *supplement*, not the topical) |
+| You have **capital** to defend the IP and fund market education | You're under-capitalized vs. L'Oréal / Estée Lauder |
+| You convert patent-term exclusivity into **brand equity** (and keep a fallback line) | 100% of brand meaning rides on the molecule, with nothing behind it |
+
+**What remains genuinely unwise** (the legitimate kernel of the old warning): trying to out-science an *incumbent's existing* molecule head-on — beating OneSkin at OS-01 or Timeline at Urolithin A on their own turf. Owning a *different*, defensible molecule is a separate, viable bet.
+
+**Trade-off vs. multi-active:** a single molecule gives sharper positioning, simpler R&D, and a fundable IP story — at the cost of concentration risk, a heavier education burden, and capital intensity. Multi-active (the current architecture) trades the ownable-IP story for resilience and lower capital needs. Neither is "correct" until positioning, capital plan, and risk appetite are set.
+
 ## Competitive landscape *(market fact — durable)*
 
 Track competitors in [`../research/competitors/`](../research/competitors/). Initial set to analyze:
@@ -108,5 +127,6 @@ For each: positioning, hero products, price, claims, audience, and the white-spa
 - [ ] **Target audience** — choose among the options above; decide jointly with positioning.
 - [ ] **Price tier** — mass / premium / ultra-luxury; drives formulation budget and channel.
 - [ ] **Visual direction** — undecided; set after positioning.
+- [ ] **Defensibility model** — single owned/licensed patented hero molecule vs. multi-active system (see "A cross-cutting defensibility choice" above); decide with positioning + capital plan.
 - [ ] **Competitor teardowns** — complete to confirm crowding vs. white-space per option.
 - [ ] **Positioning statement** — finalize once the above are locked.

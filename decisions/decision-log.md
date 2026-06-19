@@ -6,6 +6,12 @@ The running record of what we've **decided**, when, and **why**. Append-only —
 
 ---
 
+### 2026-06-19 — Reclassified "single-patented-molecule" from avoid-zone to live strategic option
+- **Decision:** A single-patented-hero-molecule business model is **not** an avoid-zone — it is a **high-variance / high-conviction strategic option** to weigh with positioning. The earlier "fragile" framing was overstated.
+- **Nuance:** Strong when you OWN composition-of-matter IP, have INDEPENDENT clinical evidence (especially for the *topical* use), and capital to defend IP + educate the market; risky when you license rather than own, lean on thin/in-house evidence, or stake 100% of brand meaning on one molecule with no fallback. Proven model: SK-II, Augustinus Bader, Olaplex; Timeline is L'Oréal/Nestlé-backed. What stays genuinely unwise: trying to out-science an *incumbent's existing* molecule head-on.
+- **Why:** A founder challenge surfaced that the blanket "fragile" claim contradicted our own teardowns (which list the patented molecule as a *strength* for OneSkin and Timeline) and ignored proven single-molecule successes.
+- **Status:** ✅ Docs updated — added to the positioning option menu ([`../brand/positioning.md`](../brand/positioning.md)); avoid-zone phrasing corrected in [`../research/competitors/_opportunities-whitespace.md`](../research/competitors/_opportunities-whitespace.md) and [`../ideas/not-considering.md`](../ideas/not-considering.md). Live option to decide with positioning.
+
 ### 2026-06-18 — Brand name, story & positioning RE-OPENED (unbiased mandate)
 - **Decision:** Treat the **brand name, brand story/metaphor, visual direction, and core positioning/worldview as OPEN and undecided.** Only research facts (ingredients, competitors, market) are settled. All strategy docs were neutralized to remove the earlier "Kintsugi / golden-repair / pro-aging" assumptions so future thinking stays unbiased.
 - **Why:** The founder is not finalized on a brand title or story; baking one in early biases every downstream decision. The expensive, durable work (the evidence base) is name-agnostic and fully preserved.
