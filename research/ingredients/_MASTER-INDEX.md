@@ -308,7 +308,7 @@ vocabulary used throughout the table.
 | Conditioned media / secretomes (fibroblast TNS, ADSC-CM, MSC-CM, cord-lining PTT-6, bone-marrow) | Human Fibroblast/Adipose/Umbilical Conditioned Media | collagen/ECM loss · photoaging · barrier decline · oxidative stress · cellular senescence · inflammaging | core | ❌ | — | conditioned-media-secretomes |
 | Defensins (LGR6+ stem-cell activators) | sh-Polypeptide (Defensin) complex | cellular senescence · barrier decline · collagen/ECM loss | core | ❌ | — | defensins |
 | PDRN / Polynucleotides (salmon DNA, PN-HPT, salmon roe DNA) | Sodium DNA; Sodium Polynucleotide | collagen/ECM loss · inflammaging · barrier decline · hydration/water-loss · pigmentation/tone | core | ✅ | Experimental | polynucleotides-pdrn |
-| Cytokines in conditioned-media complexes (IL-6, IL-8, G-CSF, NGF, HB-EGF) | (within conditioned media) | inflammaging · collagen/ECM loss · barrier decline | fringe | ❌ | — | cytokine-complexes |
+| Cytokines in conditioned-media complexes (IL-6, IL-8, G-CSF, NGF, HB-EGF) | (within conditioned media) | inflammaging · collagen/ECM loss · barrier decline | fringe | ✅ | — | cytokine-complexes |
 | Bio-placenta GF complex (recombinant) | sh-Oligopeptide/sh-Polypeptide blend | collagen/ECM loss · photoaging · barrier decline | supporting | ❌ | — | bio-placenta-gf-complex |
 | Placenta extracts (human/animal) | Placental Protein / Extract | inflammaging · collagen/ECM loss · pigmentation/tone · hydration/water-loss | fringe | ❌ | — | placenta-extracts |
 | Bovine colostrum / colostrum GFs | Colostrum / Hydrolyzed Colostrum | barrier decline · collagen/ECM loss · inflammaging | supporting | ❌ | — | bovine-colostrum |

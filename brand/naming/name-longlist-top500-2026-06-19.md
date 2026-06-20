@@ -1,5 +1,7 @@
 # Brand name long-list — the Top 500
 
+> ⚠️ **Superseded by the re-ranked version.** This page is the *first-pass* (uncalibrated, single-judge) scoring. A later **calibrated 3-judge re-rank** corrected the ranking (e.g. **Goldseam #197 → #1**; many euphonic coinages dropped). For the current ranking, use **[`Top-500-Brand-Names.pdf`](Top-500-Brand-Names.pdf)** / **[`.xlsx`](Top-500-Brand-Names.xlsx)**. Kept for reference.
+
 > **Status:** v1 (2026-06-19). This ranks the **best 500 of all 5,011 unique candidates** generated across the three naming exercises. *Every* name from all 38 generation teams was read and scored **0–10** by a dedicated pass against David Placek's criteria — distinctiveness in-category, processing fluency, surprise (not descriptive), sound-symbolism fit, on-brief feeling (quiet strength / restoration / protected / calm / time-as-ally / kept-not-fixed), and headroom. Quality cutoff for the 500: **6.8/10.**
 >
 > **Score = intrinsic quality, NOT availability.** Clearance is shown separately: **✓** = already web-verified available (104 of the 500) · **⚠** = verified *taken* (avoid) · **•** = not yet checked — needs a trademark/domain check before you fall in love. (Per Placek: get the right name first, clear it second.)
