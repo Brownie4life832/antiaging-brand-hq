@@ -1,14 +1,12 @@
 name: Deploy research explorer (GitHub Pages)
 
-# Publishes the INGREDIENTS-ONLY ("--public") build of the research explorer.
-# Competitor teardowns, market, and strategy docs are deliberately excluded from
-# the public site. Runs on every push to main (so it also refreshes after the
-# daily Trend Radar commits). Requires Pages to be enabled with "GitHub Actions"
-# as the source (Settings → Pages), which on a private repo needs a paid plan.
+# Publishes the INGREDIENTS-ONLY ("--public") build to public GitHub Pages.
+# Competitor/market/strategy docs are excluded. MANUAL-ONLY: the default hosting
+# is private/gated (see site/HOSTING.md); run this workflow by hand only if you
+# ever decide to publish the science publicly. Requires Pages enabled with the
+# "GitHub Actions" source (Settings → Pages), which on a private repo needs a paid plan.
 
 on:
-  push:
-    branches: [main]
   workflow_dispatch:
 
 permissions:
