@@ -32,5 +32,13 @@
 ## Strong but TAKEN (so you don't circle back)
 **Candor / Candour / Candore** · **Verity / Versed** · **Proven** (PROVEN Skincare) · **Seen** (SEEN) · **True / Truelight** (True Skincare) · **Avowal** · **Frank** (frank body) · **Aletheia / Veritas** (used) · plus most literal *clear / lucid / pure / glass* words.
 
+## "Candid" / "Candid Skin" — preliminary TM screen (2026-06-19) → HIGH RISK, likely not clearable
+Four-angle screen (federal marks, common-law brands, adjacent marks, domains). **Not legal advice — needs an attorney clearance.**
+- **Decisive blocker:** **CANDID ESSENTIALS** is a LIVE US Class-3 registration (Reg. 5211531, ARC Industries Corp.) covering *literally* "anti-aging creams; anti-aging toner; non-medicated skin care creams" — the exact goods. "ESSENTIALS" is disclaimed, so the protected element is **CANDID**. A "Candid"/"Candid Skin" anti-aging brand would likely draw a **§2(d) likelihood-of-confusion refusal**; adding the descriptive word "Skin" doesn't cure it.
+- **Crowded field:** an existing anti-aging skincare brand literally named **Candid** (by Skinetiq, candid-skincare.com, retinol serums — near-perfect name+category overlap); plus **Candid Cosmedics, Candid Naturals, The Candid Skin Care, Candid Beaute/Beauty**, and **MAC "Candid"** (shade). Strong senior DTC **CANDID** word mark held by **Candid Care Co.** (clear aligners; Reg. 6142203, Cl. 3/5/10). Adjacent Class-5 noise: **Glenmark "Candid"** antifungal clotrimazole *cream*.
+- **"Candid" is a common dictionary word** → even if cleared, it's weak/hard to protect (low distinctiveness).
+- **Digital:** candidskin.com & candidskincare.com are **registered/parked** (for-sale, not free); @candid.skincare / @candidskincare (IG/TikTok) taken by the Skinetiq brand. getcandidskin.com / candid.skin appear free.
+- **Takeaway:** treat **Candid/Candid Skin as presumptively unavailable** for premium anti-aging skincare. If the *value* "candid" resonates, express it in **voice/tagline**, not the mark — and use an **oblique** ownable name from the list above.
+
 ## My read
 This lane is viable but **harder to win warmly** than B/C/E — which is partly why the calibrated top-500 leaned elsewhere. If transparency becomes the *positioning*, the obvious words are taken, so the play is an **oblique** name (a *window*, an *assay*, a *candor-word*) paired with copy that does the plain-talking. Best balance of premium + warm + ownable: **Echt, Lucarne, Veduta, Fenestra, Aveu, Makoto.** Boldest concept: **Cupel** ("nothing false survives the fire") or **Quitclaim** (the anti-overclaim).
