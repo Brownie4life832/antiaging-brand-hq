@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Research Explorer — anti-aging / skin-longevity brand (name TBD)</title>
+<link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+<header class="hdr">
+  <div class="hdr-inner">
+    <h1>Ingredient Evidence Base <span class="muted">· research explorer</span></h1>
+    <p class="sub">Anti-aging / skin-longevity brand <span class="tag">name &amp; visual TBD</span> · <span id="meta-counts"></span> · built <span id="meta-date"></span></p>
+    <nav class="tabs" id="tabs">
+      <button data-tab="ingredients" class="active">Ingredients</button>
+      <button data-tab="competitors">Competitors</button>
+      <button data-tab="market">Market &amp; Trends</button>
+      <button data-tab="strategy">Strategy</button>
+      <button data-tab="about">About</button>
+    </nav>
+  </div>
+</header>
+
+<main>
+  <section id="panel-ingredients" class="panel">
+    <div id="dashboard" class="dashboard"></div>
+    <div class="controls">
+      <input id="ing-search" type="search" placeholder="Search 269 ingredients…" autocomplete="off" />
+      <div class="chips" id="bucket-chips">
+        <button data-bucket="all" class="active">All</button>
+        <button data-bucket="strong">A–B · strong</button>
+        <button data-bucket="moderate">C · weak/indirect</button>
+        <button data-bucket="weak">D–F · hype watch</button>
+      </div>
+      <select id="ing-class" aria-label="Filter by class"><option value="">All classes</option></select>
+      <select id="ing-verdict" aria-label="Filter by verdict">
+        <option value="">All verdicts</option>
+        <option value="shortlist">✅ shortlist</option>
+        <option value="conditional">⚠️ conditional</option>
+        <option value="skip">❌ skip</option>
+      </select>
+      <select id="ing-sort" aria-label="Sort">
+        <option value="grade">Sort: strongest evidence</option>
+        <option value="name">Sort: name (A–Z)</option>
+        <option value="class">Sort: class</option>
+      </select>
+      <span class="count" id="ing-count"></span>
+    </div>
+    <div class="table-wrap">
+      <table class="grid">
+        <thead><tr>
+          <th>Ingredient</th><th>Class</th><th>Relevance</th><th>Evidence tier</th>
+          <th>Topical viability</th><th>Grade</th><th>Verdict</th>
+        </tr></thead>
+        <tbody id="ing-body"></tbody>
+      </table>
+    </div>
+  </section>
+
+  <section id="panel-competitors" class="panel hidden">
+    <div class="controls"><input id="competitors-search" type="search" placeholder="Search competitors…" autocomplete="off" /><span class="count" id="competitors-count"></span></div>
+    <div class="cards" id="competitors-list"></div>
+  </section>
+  <section id="panel-market" class="panel hidden">
+    <div class="controls"><input id="market-search" type="search" placeholder="Search market &amp; trends…" autocomplete="off" /><span class="count" id="market-count"></span></div>
+    <div class="cards" id="market-list"></div>
+  </section>
+  <section id="panel-strategy" class="panel hidden">
+    <div class="controls"><input id="strategy-search" type="search" placeholder="Search strategy docs…" autocomplete="off" /><span class="count" id="strategy-count"></span></div>
+    <div class="cards" id="strategy-list"></div>
+  </section>
+  <section id="panel-about" class="panel hidden"><article class="doc" id="about-body"></article></section>
+</main>
+
+<div id="reader" class="reader hidden" role="dialog" aria-modal="true">
+  <div class="reader-card">
+    <div class="reader-bar">
+      <button id="reader-close">← Back</button>
+      <span id="reader-title" class="reader-title"></span>
+    </div>
+    <article class="doc" id="reader-body"></article>
+  </div>
+</div>
+
+<script src="data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

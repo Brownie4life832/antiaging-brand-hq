@@ -279,6 +279,7 @@
 | 267 | [Formula-Stabilizer Antioxidants (BHT, BHA, Propyl Gallate, TBHQ, Disodium EDTA)](formula-stabilizer-antioxidants.md) | Antioxidants | Fringe | In-vitro / animal only | Conditional (delivery / penetration caveat) | **F** | ⚠️ |
 | 268 | [FOXO4-DRI ("Proxofim") — Senolytic Peptide (experimental)](foxo4-dri-peptide.md) | Peptides | Fringe | In-vitro / animal only | Not viable (drug / no cosmetic supply) | **F** | ❌ |
 | 269 | [Trifarotene](trifarotene.md) | Retinoids | Fringe | Human topical exists (adjacent endpoint / off-target) | Not viable (drug / no cosmetic supply) | **F** | ❌ |
+| 270 | [Selenium](selenium.md) | Antioxidants | Supporting | Human topical (controlled, limited) | Conditional (delivery / penetration caveat) | **D** | ⚠️ |
 
 ## Best-evidence shortlist (grade A / B)
 
