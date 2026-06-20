@@ -7,8 +7,11 @@
 
   /* ---------- header meta ---------- */
   const c = D.counts || {};
-  $("meta-counts").textContent =
-    `${c.ingredients || 0} ingredients · ${c.competitors || 0} competitors · ${c.market || 0} market/trend reports`;
+  $("meta-counts").textContent = [
+    `${c.ingredients || 0} ingredients`,
+    c.competitors ? `${c.competitors} competitors` : null,
+    c.market ? `${c.market} market/trend reports` : null
+  ].filter(Boolean).join(" · ");
   $("meta-date").textContent = D.generatedAt || "—";
 
   /* ---------- dashboard ---------- */
@@ -154,6 +157,10 @@
     <p>The brand's <strong>name, story, positioning, and visual identity are all still open</strong> — this tool's neutral styling is deliberate, not a brand look. Citations are best-effort from the research run; verify any specific figure before public use. Generated ${D.generatedAt || "—"}.</p>`;
 
   /* ---------- init ---------- */
+  // hide tabs whose section is empty (e.g. the public ingredients-only build)
+  ["competitors", "market", "strategy"].forEach(t => {
+    if (!((D[t] || []).length)) { const b = document.querySelector('#tabs button[data-tab="' + t + '"]'); if (b) b.remove(); }
+  });
   buildDashboard();
   classOptions();
   renderIngredients();

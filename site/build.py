@@ -14,6 +14,7 @@ Run:  python site/build.py
 """
 import json
 import re
+import sys
 import datetime
 import shutil
 from pathlib import Path
@@ -144,16 +145,21 @@ def main():
             out.append({"slug": slug, "name": name})
         return sorted(out, key=lambda r: r["name"].lower())
 
-    competitors = listing(collect(COMP, extra_skip=("_template",)))
-    market = listing(collect(MARKET) + collect(TRENDS))
-    strat_order = [COMP / "_competitive-landscape.md", COMP / "_opportunities-whitespace.md",
-                   ING / "_EVIDENCE-MATRIX.md", SCIENCE / "landmark-papers.md",
-                   PRODUCTS / "what-to-make-recommendation.md", PRODUCTS / "roadmap.md",
-                   BRAND / "positioning.md", BRAND / "brand-identity.md"]
-    strategy = []
-    for p in [x for x in strat_order if x.exists()]:
-        slug, name = write_fragment(p, docs_index)
-        strategy.append({"slug": slug, "name": name})
+    # --public builds an ingredients-only site safe to publish (no competitor/market/strategy).
+    public = "--public" in sys.argv
+    if public:
+        competitors, market, strategy = [], [], []
+    else:
+        competitors = listing(collect(COMP, extra_skip=("_template",)))
+        market = listing(collect(MARKET) + collect(TRENDS))
+        strat_order = [COMP / "_competitive-landscape.md", COMP / "_opportunities-whitespace.md",
+                       ING / "_EVIDENCE-MATRIX.md", SCIENCE / "landmark-papers.md",
+                       PRODUCTS / "what-to-make-recommendation.md", PRODUCTS / "roadmap.md",
+                       BRAND / "positioning.md", BRAND / "brand-identity.md"]
+        strategy = []
+        for p in [x for x in strat_order if x.exists()]:
+            slug, name = write_fragment(p, docs_index)
+            strategy.append({"slug": slug, "name": name})
 
     dist, buckets, viable_strong = {}, {"strong": 0, "moderate": 0, "weak": 0, "unknown": 0}, 0
     for r in ingredients:
@@ -168,10 +174,10 @@ def main():
                        "strong": buckets["strong"], "moderate": buckets["moderate"],
                        "weak": buckets["weak"], "viableStrong": viable_strong},
             "gradeDist": dist, "ingredients": ingredients, "competitors": competitors,
-            "market": market, "strategy": strategy, "docsIndex": docs_index}
+            "market": market, "strategy": strategy, "docsIndex": docs_index, "public": public}
     (SITE / "data.js").write_text("window.DATA = " + json.dumps(data, ensure_ascii=False) + ";\n", encoding="utf-8")
     kb = (SITE / "data.js").stat().st_size / 1024
-    print(f"Wrote data.js ({kb:.0f} KB) + {len(docs_index)} fragments in site/docs/")
+    print(f"Wrote data.js ({kb:.0f} KB) + {len(docs_index)} fragments in site/docs/  [mode: {'PUBLIC ingredients-only' if public else 'FULL'}]")
     print(f"  ingredients={len(ingredients)} competitors={len(competitors)} market/trends={len(market)} strategy={len(strategy)}")
     print(f"  grades: strong(A/B)={buckets['strong']} (cosmetic-viable {viable_strong}) moderate(C)={buckets['moderate']} weak(D/F)={buckets['weak']} unknown={buckets['unknown']}")
 

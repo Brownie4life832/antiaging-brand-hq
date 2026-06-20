@@ -39,3 +39,7 @@ __pycache__/
 *.pyc
 .venv/
 venv/
+
+# Generated research-explorer assets (rebuilt by site/build.py locally and in CI for Pages)
+site/data.js
+site/docs/
