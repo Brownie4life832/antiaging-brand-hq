@@ -57,6 +57,8 @@ table.grid tbody tr{cursor:pointer}
 table.grid tbody tr:hover{background:var(--accent-soft)}
 .iname{font-weight:600;color:var(--accent)}
 .cell-sm{font-size:12.5px;color:var(--muted)}
+.cell-note{font-size:12px;color:var(--muted);margin-top:3px;max-width:46ch;line-height:1.45}
+.panel-intro{font-size:13px;color:var(--muted);margin:0 0 14px;line-height:1.55;max-width:90ch}
 
 /* Badges */
 .badge{display:inline-block;border-radius:6px;padding:2px 8px;font-size:12px;font-weight:700;white-space:nowrap}

@@ -9,6 +9,7 @@
   const c = D.counts || {};
   $("meta-counts").textContent = [
     `${c.ingredients || 0} ingredients`,
+    c.devices ? `${c.devices} devices/procedures` : null,
     c.competitors ? `${c.competitors} competitors` : null,
     c.market ? `${c.market} market/trend reports` : null
   ].filter(Boolean).join(" · ");
@@ -73,6 +74,39 @@
     $("ing-count").textContent = `${rows.length} of ${ings.length}`;
   }
 
+  /* ---------- devices & procedures explorer ---------- */
+  const devs = D.devices || [];
+  const dstate = { q: "", call: "all", sort: "grade" };
+
+  function renderDevices() {
+    // Brand-call is genuinely multi-valued (a row can be "🤝 aftercare … ❌ build"),
+    // so filter by presence of each recommendation rather than one exclusive bucket.
+    let rows = devs.filter(d => {
+      const call = d.call || "";
+      if (dstate.call === "adjacency" && !(call.includes("✅") || call.includes("🤝"))) return false;
+      if (dstate.call === "educate" && !call.includes("📚")) return false;
+      if (dstate.call === "avoid" && !call.includes("❌")) return false;
+      if (dstate.q) {
+        const q = dstate.q.toLowerCase();
+        if (!(d.name.toLowerCase().includes(q) || (d.category || "").toLowerCase().includes(q) || (d.note || "").toLowerCase().includes(q))) return false;
+      }
+      return true;
+    });
+    if (dstate.sort === "name") rows.sort((a, b) => a.name.localeCompare(b.name));
+    else rows.sort((a, b) => a.gradeRank - b.gradeRank || a.name.localeCompare(b.name));
+
+    $("dev-body").innerHTML = rows.map(d => `
+      <tr data-doc="${esc(d.slug)}">
+        <td><span class="iname">${esc(d.name)}</span>${d.note ? `<div class="cell-note">${esc(d.note)}</div>` : ""}</td>
+        <td class="cell-sm">${esc(d.category)}</td>
+        <td><span class="badge ${d.gradeBucket}">${esc(d.clinicGrade)}</span></td>
+        <td class="cell-sm">${esc(d.homeGrade)}</td>
+        <td class="cell-sm">${esc(d.reg)}</td>
+        <td class="cell-sm">${esc(d.call)}</td>
+      </tr>`).join("");
+    $("dev-count").textContent = `${rows.length} of ${devs.length}`;
+  }
+
   /* ---------- generic card lists ---------- */
   function renderList(items, listId, countId, searchId) {
     const box = $(listId), cnt = $(countId);
@@ -123,7 +157,7 @@
   $("tabs").addEventListener("click", (e) => {
     const b = e.target.closest("button[data-tab]"); if (!b) return;
     [...$("tabs").children].forEach(x => x.classList.toggle("active", x === b));
-    ["ingredients", "competitors", "market", "strategy", "about"].forEach(t =>
+    ["ingredients", "devices", "competitors", "market", "strategy", "about"].forEach(t =>
       $("panel-" + t).classList.toggle("hidden", t !== b.dataset.tab));
     window.scrollTo(0, 0);
   });
@@ -140,6 +174,18 @@
     renderIngredients();
   });
 
+  /* ---------- wire device controls ---------- */
+  if ($("dev-search")) {
+    $("dev-search").addEventListener("input", e => { dstate.q = e.target.value; renderDevices(); });
+    $("dev-sort").addEventListener("change", e => { dstate.sort = e.target.value; renderDevices(); });
+    $("dev-call-chips").addEventListener("click", e => {
+      const b = e.target.closest("button[data-call]"); if (!b) return;
+      dstate.call = b.dataset.call;
+      [...$("dev-call-chips").children].forEach(x => x.classList.toggle("active", x === b));
+      renderDevices();
+    });
+  }
+
   /* ---------- about ---------- */
   $("about-body").innerHTML = `
     <h1>About this explorer</h1>
@@ -147,6 +193,7 @@
     <h2>What's inside</h2>
     <ul>
       <li><strong>Ingredients</strong> — ${c.ingredients || 0} exhaustive, cited dossiers, each graded by an adversarial pass.</li>
+      <li><strong>Devices &amp; Procedures</strong> — ${c.devices || 0} dossiers on energy devices, microneedling, lasers, peels, injectables, exosomes/stem cells &amp; IV — graded clinic vs at-home, with a brand product-adjacency call.</li>
       <li><strong>Competitors</strong> — ${c.competitors || 0} brand teardowns.</li>
       <li><strong>Market &amp; Trends</strong> — ${c.market || 0} reports.</li>
       <li><strong>Strategy</strong> — the competitive landscape, white-space map, evidence matrix, landmark papers, and the product recommendation.</li>
@@ -157,13 +204,14 @@
     <p>The brand's <strong>name, story, positioning, and visual identity are all still open</strong> — this tool's neutral styling is deliberate, not a brand look. Citations are best-effort from the research run; verify any specific figure before public use. Generated ${D.generatedAt || "—"}.</p>`;
 
   /* ---------- init ---------- */
-  // hide tabs whose section is empty (e.g. the public ingredients-only build)
-  ["competitors", "market", "strategy"].forEach(t => {
+  // hide tabs whose section is empty (e.g. the public research-only build)
+  ["devices", "competitors", "market", "strategy"].forEach(t => {
     if (!((D[t] || []).length)) { const b = document.querySelector('#tabs button[data-tab="' + t + '"]'); if (b) b.remove(); }
   });
   buildDashboard();
   classOptions();
   renderIngredients();
+  renderDevices();
   renderList(D.competitors || [], "competitors-list", "competitors-count", "competitors-search");
   renderList(D.market || [], "market-list", "market-count", "market-search");
   renderList(D.strategy || [], "strategy-list", "strategy-count", "strategy-search");

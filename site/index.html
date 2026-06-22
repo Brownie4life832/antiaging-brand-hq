@@ -9,10 +9,11 @@
 <body>
 <header class="hdr">
   <div class="hdr-inner">
-    <h1>Ingredient Evidence Base <span class="muted">· research explorer</span></h1>
+    <h1>Skincare Evidence Base <span class="muted">· research explorer</span></h1>
     <p class="sub">Anti-aging / skin-longevity brand <span class="tag">name &amp; visual TBD</span> · <span id="meta-counts"></span> · built <span id="meta-date"></span></p>
     <nav class="tabs" id="tabs">
       <button data-tab="ingredients" class="active">Ingredients</button>
+      <button data-tab="devices">Devices &amp; Procedures</button>
       <button data-tab="competitors">Competitors</button>
       <button data-tab="market">Market &amp; Trends</button>
       <button data-tab="strategy">Strategy</button>
@@ -53,6 +54,32 @@
           <th>Topical viability</th><th>Grade</th><th>Verdict</th>
         </tr></thead>
         <tbody id="ing-body"></tbody>
+      </table>
+    </div>
+  </section>
+
+  <section id="panel-devices" class="panel hidden">
+    <p class="panel-intro">Devices, procedures, injectables &amp; systemic treatments — the same evidence bar as the ingredient base. <strong>Clinic grade</strong> = best-supported in professional hands; <strong>At-home</strong> = what the consumer version earns (usually lower). <strong>Brand call</strong>: ✅ build/sell · 🤝 partner/bundle/aftercare · 📚 educate-only · ❌ avoid.</p>
+    <div class="controls">
+      <input id="dev-search" type="search" placeholder="Search devices &amp; procedures…" autocomplete="off" />
+      <div class="chips" id="dev-call-chips">
+        <button data-call="all" class="active">All</button>
+        <button data-call="adjacency">🤝 adjacency</button>
+        <button data-call="educate">📚 educate-only</button>
+        <button data-call="avoid">❌ avoid</button>
+      </div>
+      <select id="dev-sort" aria-label="Sort">
+        <option value="grade">Sort: strongest evidence</option>
+        <option value="name">Sort: name (A–Z)</option>
+      </select>
+      <span class="count" id="dev-count"></span>
+    </div>
+    <div class="table-wrap">
+      <table class="grid">
+        <thead><tr>
+          <th>Modality</th><th>Category</th><th>Clinic grade</th><th>At-home</th><th>Regulatory class</th><th>Brand call</th>
+        </tr></thead>
+        <tbody id="dev-body"></tbody>
       </table>
     </div>
   </section>

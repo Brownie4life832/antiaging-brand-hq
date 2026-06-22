@@ -7,6 +7,7 @@ Everything we learn that informs the brand. This is what makes the hub *queryabl
 | Folder | What goes here |
 |---|---|
 | [`ingredients/`](ingredients/) | One file per ingredient — what it does, evidence, concerns, our verdict. Use [`ingredients/_template.md`](ingredients/_template.md). |
+| [`devices/`](devices/) | One file per **device / procedure / biologic** (energy devices, microneedling, lasers, peels, injectables, exosomes/stem cells, IV) — same evidence bar as ingredients. Use [`devices/_template.md`](devices/_template.md); start at [`devices/_EVIDENCE-MATRIX.md`](devices/_EVIDENCE-MATRIX.md). |
 | [`competitors/`](competitors/) | One file per competitor teardown. Use [`competitors/_template.md`](competitors/_template.md). |
 | [`market/`](market/) | Market size, segments, pricing, channels, audience research. |
 | [`science/`](science/) | Deeper science notes, claim substantiation, regulatory (FDA cosmetic vs. drug, EU, etc.). |
