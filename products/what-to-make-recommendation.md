@@ -3,6 +3,8 @@
 > **Working recommendation v0.2 — 2026-06-18** *(name / story / positioning OPEN; revised post-adversarial-review; see "Adversarial review — resolved" near the end)*
 > Head of Product synthesis of three strategist proposals (Lean MVP · Architecture-Led Flagship · Business-Model-Optimized), reconciled against the strategic brief, the white-space map, and the ingredient verdicts. The brand name, story/metaphor, visual direction, and core positioning remain **open decisions**; this document fixes only what the evidence and competitive map support *regardless* of those choices.
 
+> **⚡ Capability update — 2026-06-20:** The "buy commodity bases / a new DTC brand can't out-formulate the biotech tier" premise running through this doc is **partially superseded.** Our formulation scientist also develops for **L'Oréal-tier** companies and is building **custom, advanced-delivery formulations** for us. So custom formulas and advanced delivery (lamellar / liposomal / encapsulation) are now genuine **in-house differentiators**, not just white-label. The "BUY" guidance still holds where the base was never the moat (e.g., the cleanser, basic humectants), but the **hero and its delivery system can be custom-built and ownable.** Claims discipline is unchanged: a custom formula still needs real human data before any efficacy claim ships. See [`../decisions/decision-log.md`](../decisions/decision-log.md) (2026-06-20).
+
 ---
 
 ## The decision in one line
@@ -172,6 +174,8 @@ Notes for the decision:
 ## 6. Build vs. buy + phased launch sequence
 
 ### Build vs. buy
+> **Updated 2026-06-20 (capability):** We have an **L'Oréal-tier formulator building custom formulations + advanced delivery for us.** Read the BUY / BRAND / LICENSE / BUILD split below as a *floor, not a ceiling*: the hero formula and especially its **delivery system** (lamellar / liposomal / encapsulation) can be genuinely custom and ownable, not merely a branded off-the-shelf base. Still buy commodity where the formula was never the moat (cleanser, basic humectants); **reserve the custom-formulation budget for the hero and its delivery system** — the most defensible, hardest-to-dupe layer of real science a small brand can own.
+
 - **BUY (off-the-shelf / contract-manufactured, fast, low-risk):** the ceramide+cholesterol+fatty-acid base, niacinamide, GHK-Cu, ectoin, HA, panthenol, and (Phase 2) THD ascorbate, ergothioneine, encapsulated retinoid, bakuchiol. All commodity-to-mid actives with reliable supply (Evonik/Croda/DSM-class). Formulate via a CM with airless/refillable capability.
 - **BRAND, don't merely buy (the synthesis move):** specify the **ceramide + cholesterol + fatty-acid barrier complex** ratio over a mature base and run one modest post-launch substantiation study. Lean cash-out *and* an ownable, honest signature — no multi-year patent program. *(Final complex name follows the brand name/positioning decision.)*
 - **LICENSE, not build (Phase 3 only):** the senotherapeutic "longevity peptide" — license a defensible, commercially-available senomorphic peptide with its own substantiation file (NOT OS-01; never "senolytic"). Do **not** fund a proprietary multi-year peptide program (out-funded by L'Oréal/EL/OneSkin; an avoid-zone).

@@ -6,6 +6,12 @@ The running record of what we've **decided**, when, and **why**. Append-only —
 
 ---
 
+### 2026-06-20 — In-house custom formulation + advanced delivery is a real capability (updates "buy commodity bases")
+- **Decision:** Treat **custom, science-backed formulation with advanced delivery systems as a genuine, in-house differentiator.** Our formulation scientist also develops for L'Oréal-tier companies and is building **customized** solutions for us — so "buy commodity bases, invest only in the brand" is no longer the *only* play.
+- **Nuance:** The advantage is **formulation sophistication + custom delivery** (lamellar / liposomal / encapsulation), not automatically composition-of-matter patents or large independent RCTs (those may still be capital-bound). Delivery is the most defensible, hardest-to-dupe layer of "science" a small brand can own — and the raw active list itself is commoditized (Amazon scans: copper peptides / PDRN at ~$19).
+- **Why:** Founder surfaced (2026-06-20) that the formulator customizing our products also formulates for majors like L'Oréal. This updates a load-bearing assumption — "a new DTC entrant cannot out-formulate the biotech tier" — baked into the product rec and white-space map.
+- **Status:** ✅ Docs updated — capability note added to [`../products/what-to-make-recommendation.md`](../products/what-to-make-recommendation.md) (build-vs-buy) and [`../research/competitors/_opportunities-whitespace.md`](../research/competitors/_opportunities-whitespace.md) (structural truth #2); captured in session memory. **Claims discipline unchanged:** a custom formula ≠ license to make unsubstantiated efficacy claims.
+
 ### 2026-06-19 — Reclassified "single-patented-molecule" from avoid-zone to live strategic option
 - **Decision:** A single-patented-hero-molecule business model is **not** an avoid-zone — it is a **high-variance / high-conviction strategic option** to weigh with positioning. The earlier "fragile" framing was overstated.
 - **Nuance:** Strong when you OWN composition-of-matter IP, have INDEPENDENT clinical evidence (especially for the *topical* use), and capital to defend IP + educate the market; risky when you license rather than own, lean on thin/in-house evidence, or stake 100% of brand meaning on one molecule with no fallback. Proven model: SK-II, Augustinus Bader, Olaplex; Timeline is L'Oréal/Nestlé-backed. What stays genuinely unwise: trying to out-science an *incumbent's existing* molecule head-on.
@@ -45,5 +51,5 @@ The running record of what we've **decided**, when, and **why**. Append-only —
 4. **Visual direction** — open (follows positioning). → [`../brand/visual-identity.md`](../brand/visual-identity.md)
 5. **Target audience & price tier** — open. → [`../brand/positioning.md`](../brand/positioning.md)
 6. **Hero product & range size** — *architecture recommended* (barrier-repair cream + Phase-1 trio); naming/story pending. → [`../products/what-to-make-recommendation.md`](../products/what-to-make-recommendation.md)
-7. **Build vs. buy** — *recommended* (buy bases, build the brand). → [`../products/what-to-make-recommendation.md`](../products/what-to-make-recommendation.md)
+7. **Build vs. buy** — *updated 2026-06-20:* buy commodity bases where the formula was never the moat, **but custom formulation + advanced delivery is now a real in-house option** (L'Oréal-tier formulator building custom for us). → [`../products/what-to-make-recommendation.md`](../products/what-to-make-recommendation.md)
 8. **Website platform** (Shopify vs. custom). → [`../website/README.md`](../website/README.md)
