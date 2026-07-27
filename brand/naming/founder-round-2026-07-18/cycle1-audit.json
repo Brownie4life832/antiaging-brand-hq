@@ -1,0 +1,11 @@
+{
+  "raw_count": 397,
+  "unique_normalized_count": 354,
+  "internal_duplicate_rows": 43,
+  "historical_repeat_count": 110,
+  "approach_raw_counts": {
+    "A — category idea with voltage": 130,
+    "B — legible invention": 130,
+    "C — charged familiar metaphor": 137
+  }
+}

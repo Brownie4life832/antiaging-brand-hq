@@ -1,0 +1,601 @@
+# name | territory
+One of One | recognizable-self
+Name and Likeness | recognizable-self
+In Character | recognizable-self
+You Exactly | recognizable-self
+Entirely Yours | recognizable-self
+Still You | recognizable-self
+Exactly You | recognizable-self
+Undeniably You | recognizable-self
+You as Ever | recognizable-self
+Selfsame | recognizable-self
+Same Person | recognizable-self
+All Your Own | recognizable-self
+Your Signature | recognizable-self
+Original Issue | recognizable-self
+Personally Speaking | recognizable-self
+Real Person | recognizable-self
+Fully Yourself | recognizable-self
+Who You Are | recognizable-self
+Own Identity | recognizable-self
+By Name | recognizable-self
+Given Name | recognizable-self
+Make It Yours | recognizable-self
+It Suits You | recognizable-self
+In Your Image | recognizable-self
+Present Self | recognizable-self
+Current Self | recognizable-self
+Self Portrait | recognizable-self
+Portrait Mode | recognizable-self
+Real Likeness | recognizable-self
+True Likeness | recognizable-self
+Outwardly | recognizable-self
+Recognition | recognizable-self
+Resemblance | recognizable-self
+Looks Like You | recognizable-self
+Known By | recognizable-self
+Your Own Image | recognizable-self
+Recognizably Yours | recognizable-self
+Undeniably Yours | recognizable-self
+Yourself Still | recognizable-self
+Your Usual Self | recognizable-self
+Yourself Entirely | recognizable-self
+Personal Effects | recognizable-self
+Personal Record | recognizable-self
+On Your Account | recognizable-self
+Your Edition | recognizable-self
+Signature Edition | recognizable-self
+Signed Yours | recognizable-self
+In Your Name | recognizable-self
+Under Your Name | recognizable-self
+In Full View | recognizable-self
+Seen as You Are | recognizable-self
+Your Good Side | recognizable-self
+Personal View | recognizable-self
+Self View | recognizable-self
+Human Scale | recognizable-self
+Personal Standard | recognizable-self
+
+Deciding Factor | sovereignty
+Your Decision | sovereignty
+You Decide | sovereignty
+Decide Well | sovereignty
+Final Say | sovereignty
+Have Your Say | sovereignty
+Say When | sovereignty
+By Your Leave | sovereignty
+Permission Granted | sovereignty
+Free Choice | sovereignty
+Free Agent | sovereignty
+Self Directed | sovereignty
+Chosen Freely | sovereignty
+Choose Again | sovereignty
+Choice Architecture | sovereignty
+Opt In | sovereignty
+On Request | sovereignty
+As Requested | sovereignty
+Upon Request | sovereignty
+At Will | sovereignty
+Free Will | sovereignty
+Your Will | sovereignty
+Willingly | sovereignty
+Own It | sovereignty
+Make Your Own | sovereignty
+On Purpose | sovereignty
+By Intent | sovereignty
+With Intent | sovereignty
+Intentional | sovereignty
+Intention Known | sovereignty
+Take Charge | sovereignty
+In Charge | sovereignty
+Rights Reserved | sovereignty
+Rightfully | sovereignty
+Of Your Own | sovereignty
+Consent Granted | sovereignty
+Asked and Answered | sovereignty
+No Permission Needed | sovereignty
+Your Prerogative | sovereignty
+Prerogative | sovereignty
+At Your Discretion | sovereignty
+Discretion | sovereignty
+Own Discretion | sovereignty
+Discerning | sovereignty
+Self Appointed | sovereignty
+Free to Choose | sovereignty
+Choose Freely | sovereignty
+Volition | sovereignty
+Agency | sovereignty
+Agentive | sovereignty
+Personal Agency | sovereignty
+Authorship | sovereignty
+Self Authored | sovereignty
+By You | sovereignty
+Yours to Make | sovereignty
+Take Your Pick | sovereignty
+Pick Well | sovereignty
+Call It | sovereignty
+You Call It | sovereignty
+Decided | sovereignty
+Decision Made | sovereignty
+Own Decision | sovereignty
+Your Better Judgment | sovereignty
+Use Your Judgment | sovereignty
+At Your Option | sovereignty
+Option Held | sovereignty
+Options Open | sovereignty
+Your Option | sovereignty
+Choose Your Own | sovereignty
+Independently Chosen | sovereignty
+Chosen by You | sovereignty
+Your Authority | sovereignty
+Self Command | sovereignty
+At Your Command | sovereignty
+
+Headroom | adaptive-capacity
+Maneuver | adaptive-capacity
+Maneuvering Room | adaptive-capacity
+Give | adaptive-capacity
+Flex | adaptive-capacity
+Flexion | adaptive-capacity
+Rebound | adaptive-capacity
+Nimble | adaptive-capacity
+Both Ways | adaptive-capacity
+Either Way | adaptive-capacity
+Any Which Way | adaptive-capacity
+Multiform | adaptive-capacity
+Variable | adaptive-capacity
+Variance | adaptive-capacity
+Adaptable | adaptive-capacity
+Adaptive | adaptive-capacity
+Adjusted | adaptive-capacity
+Self Adjusting | adaptive-capacity
+Fine Tuning | adaptive-capacity
+Range Finder | adaptive-capacity
+Range Made | adaptive-capacity
+Capacity | adaptive-capacity
+Second Wind | adaptive-capacity
+Breathing Room | adaptive-capacity
+Moving Room | adaptive-capacity
+Free Movement | adaptive-capacity
+Give and Take | adaptive-capacity
+Pliable | adaptive-capacity
+Yield | adaptive-capacity
+Well Rounded | adaptive-capacity
+On Demand | adaptive-capacity
+Ready Set | adaptive-capacity
+In Readiness | adaptive-capacity
+Readymode | adaptive-capacity
+Readystate | adaptive-capacity
+Mode Shift | adaptive-capacity
+Switchable | adaptive-capacity
+Everyday Range | adaptive-capacity
+Working Range | adaptive-capacity
+Operating Range | adaptive-capacity
+Dynamic Range | adaptive-capacity
+Within Reach | adaptive-capacity
+Reachable | adaptive-capacity
+Meet You There | adaptive-capacity
+Meet You Where You Are | adaptive-capacity
+Pace Yourself | adaptive-capacity
+Your Pace | adaptive-capacity
+At Your Pace | adaptive-capacity
+In Step | adaptive-capacity
+Step Change | adaptive-capacity
+Enable | adaptive-capacity
+Readily | adaptive-capacity
+Ready Both Ways | adaptive-capacity
+All Directions | adaptive-capacity
+Change Direction | adaptive-capacity
+Free Range | adaptive-capacity
+Range of Use | adaptive-capacity
+More Room | adaptive-capacity
+Rebalance | adaptive-capacity
+Self Balance | adaptive-capacity
+Well Balanced | adaptive-capacity
+Fit to Change | adaptive-capacity
+Changes Well | adaptive-capacity
+Moves Well | adaptive-capacity
+Built to Adapt | adaptive-capacity
+Built to Respond | adaptive-capacity
+Responds Well | adaptive-capacity
+In Reserve | adaptive-capacity
+
+Wide Awake | mature-aliveness
+Awake | mature-aliveness
+Wakeful | mature-aliveness
+Switched On | mature-aliveness
+In the Moment | mature-aliveness
+Right Now | mature-aliveness
+Here Now | mature-aliveness
+Here for It | mature-aliveness
+All Here | mature-aliveness
+Fully Here | mature-aliveness
+In Full | mature-aliveness
+Present Tense | mature-aliveness
+Now Showing | mature-aliveness
+Show Up | mature-aliveness
+Showing Up | mature-aliveness
+Appear | mature-aliveness
+Apparent | mature-aliveness
+Express | mature-aliveness
+Expressly | mature-aliveness
+Expression | mature-aliveness
+In Expression | mature-aliveness
+Full Expression | mature-aliveness
+Animated | mature-aliveness
+Animation | mature-aliveness
+Live Wire | mature-aliveness
+Current | mature-aliveness
+Current Mood | mature-aliveness
+In the Room | mature-aliveness
+Engaged | mature-aliveness
+Fully On | mature-aliveness
+Involved | mature-aliveness
+Outward | mature-aliveness
+Viewable | mature-aliveness
+Seen | mature-aliveness
+Be Seen | mature-aliveness
+Seen and Heard | mature-aliveness
+Living It | mature-aliveness
+At Present | mature-aliveness
+Presently | mature-aliveness
+Very Present | mature-aliveness
+In Real Time | mature-aliveness
+Real Time | mature-aliveness
+Now in Person | mature-aliveness
+Face Forward | mature-aliveness
+Look Forward | mature-aliveness
+Fully Engaged | mature-aliveness
+Current Edition | mature-aliveness
+Now You | mature-aliveness
+You Now | mature-aliveness
+At Full Voice | mature-aliveness
+All the Way Here | mature-aliveness
+Entirely Here | mature-aliveness
+
+No Fuss | competent-care
+No Drama | competent-care
+No Nonsense | competent-care
+Nonsense Free | competent-care
+Drama Free | competent-care
+No Big Deal | competent-care
+Easy Does It | competent-care
+Do It Right | competent-care
+Rightly | competent-care
+Correctly | competent-care
+Properly | competent-care
+As It Should | competent-care
+As It Should Be | competent-care
+Works as It Should | competent-care
+Capable Hands | competent-care
+Sure Hand | competent-care
+Surehand | competent-care
+Deft | competent-care
+Deftly | competent-care
+Competent | competent-care
+Competently | competent-care
+Practiced | competent-care
+Expertly | competent-care
+Well Handled | competent-care
+Handle Well | competent-care
+Handle It | competent-care
+Sorted | competent-care
+Sort It | competent-care
+Good Sort | competent-care
+Appropriate | competent-care
+Apt | competent-care
+Aptly | competent-care
+Fitting | competent-care
+Suitably | competent-care
+Built for It | competent-care
+Made for It | competent-care
+Meant for It | competent-care
+Up to It | competent-care
+Equal to It | competent-care
+Ready for It | competent-care
+Actually Useful | competent-care
+Really Useful | competent-care
+Handy | competent-care
+Handled | competent-care
+Daily Driver | competent-care
+Works Hard | competent-care
+Hard Working | competent-care
+Light Duty | competent-care
+Easy Work | competent-care
+Worth the Work | competent-care
+Workhorse | competent-care
+Workday | competent-care
+Day In | competent-care
+Day Out | competent-care
+Day In Day Out | competent-care
+Dependable | competent-care
+Reliable | competent-care
+Trustworthy | competent-care
+Trusty | competent-care
+Sure Thing | competent-care
+For Certain | competent-care
+Certain | competent-care
+Certainty | competent-care
+Count On It | competent-care
+Counted On | competent-care
+In Good Order | competent-care
+Serviceable | competent-care
+Built to Serve | competent-care
+At Your Service | competent-care
+Self Service | competent-care
+Ready Duty | competent-care
+Proper Job | competent-care
+Job Done | competent-care
+Job Well Done | competent-care
+Done Well | competent-care
+Works Daily | competent-care
+Everyday Work | competent-care
+Made Useful | competent-care
+Useful First | competent-care
+Utility First | competent-care
+Worth Using | competent-care
+In Service | competent-care
+Working Service | competent-care
+Long Service | competent-care
+Matter in Hand | competent-care
+Matter at Hand | competent-care
+
+Pat | micro-gesture
+Press | micro-gesture
+Tap | micro-gesture
+Glide | micro-gesture
+Smooth | micro-gesture
+Sweep | micro-gesture
+Roll | micro-gesture
+Dab | micro-gesture
+Dot | micro-gesture
+Blend | micro-gesture
+Melt | micro-gesture
+Spread | micro-gesture
+Touch | micro-gesture
+Touchpoint | micro-gesture
+Firm Touch | micro-gesture
+Soft Touch | micro-gesture
+One Touch | micro-gesture
+Touch and Go | micro-gesture
+Touch In | micro-gesture
+Tap On | micro-gesture
+Pat On | micro-gesture
+Press On | micro-gesture
+Press In | micro-gesture
+Work In | micro-gesture
+Blend In | micro-gesture
+Melt In | micro-gesture
+Smooth On | micro-gesture
+Apply | micro-gesture
+Applied | micro-gesture
+Layer | micro-gesture
+Layer On | micro-gesture
+Thin Layer | micro-gesture
+Even Layer | micro-gesture
+Fine Layer | micro-gesture
+One Layer | micro-gesture
+Last Layer | micro-gesture
+Base Layer | micro-gesture
+Top Layer | micro-gesture
+Underlayer | micro-gesture
+Overlayer | micro-gesture
+Between | micro-gesture
+Sink In | micro-gesture
+Soak In | micro-gesture
+Take In | micro-gesture
+Takes Hold | micro-gesture
+Absorb | micro-gesture
+Draw In | micro-gesture
+On Contact | micro-gesture
+Contact | micro-gesture
+One Pass | micro-gesture
+First Pass | micro-gesture
+Final Pass | micro-gesture
+Pass Over | micro-gesture
+Crosswise | micro-gesture
+Clockwise | micro-gesture
+Counterclockwise | micro-gesture
+Circular | micro-gesture
+Palm Press | micro-gesture
+Finger Tip | micro-gesture
+Fingertip | micro-gesture
+Handfeel | micro-gesture
+Glidepath | micro-gesture
+Glide On | micro-gesture
+Touchwise | micro-gesture
+Tapwise | micro-gesture
+Pressed | micro-gesture
+Dotwise | micro-gesture
+Dot by Dot | micro-gesture
+Layerwise | micro-gesture
+Evenly | micro-gesture
+Smoothly | micro-gesture
+Firmly | micro-gesture
+Press Here | micro-gesture
+Touch Here | micro-gesture
+At a Touch | micro-gesture
+One Smooth Move | micro-gesture
+In One Move | micro-gesture
+One Motion | micro-gesture
+Continuous Motion | micro-gesture
+Easy Motion | micro-gesture
+Surface Contact | micro-gesture
+Contact Point | micro-gesture
+Contact Time | micro-gesture
+Even Pressure | micro-gesture
+Light Pressure | micro-gesture
+
+Golden Sample | technical-adjacent
+Master Sample | technical-adjacent
+Control Sample | technical-adjacent
+Reference Standard | technical-adjacent
+First Article | technical-adjacent
+Design Freeze | technical-adjacent
+Release Candidate | technical-adjacent
+Acceptance Test | technical-adjacent
+Pass Fail | technical-adjacent
+Go No Go | technical-adjacent
+Tolerance Stack | technical-adjacent
+Control Limit | technical-adjacent
+In Spec | technical-adjacent
+Within Spec | technical-adjacent
+Nominal | technical-adjacent
+Rated | technical-adjacent
+Load Rated | technical-adjacent
+Duty Cycle | technical-adjacent
+Service Life | technical-adjacent
+Operating Window | technical-adjacent
+Safety Factor | technical-adjacent
+Factor of Safety | technical-adjacent
+Ergonomic | technical-adjacent
+Ergonomics | technical-adjacent
+Tactile | technical-adjacent
+Haptic | technical-adjacent
+Haptics | technical-adjacent
+Surface Finish | technical-adjacent
+Final Finish | technical-adjacent
+Finish Grade | technical-adjacent
+Workmanship | technical-adjacent
+Build Quality | technical-adjacent
+Quality Gate | technical-adjacent
+Stage Gate | technical-adjacent
+Gate Check | technical-adjacent
+Hold Point | technical-adjacent
+Witness Point | technical-adjacent
+Checkpoint | technical-adjacent
+Commissioned | technical-adjacent
+In Commission | technical-adjacent
+Ready State | technical-adjacent
+Stable State | technical-adjacent
+Ground State | technical-adjacent
+Base State | technical-adjacent
+Solid State | technical-adjacent
+Change State | technical-adjacent
+State Change | technical-adjacent
+Phase Change | technical-adjacent
+Mode Switch | technical-adjacent
+Switch Mode | technical-adjacent
+Working Mode | technical-adjacent
+Default Mode | technical-adjacent
+Normal Mode | technical-adjacent
+User Mode | technical-adjacent
+Human Mode | technical-adjacent
+Manual Mode | technical-adjacent
+Manual Override | technical-adjacent
+Override | technical-adjacent
+Built In | technical-adjacent
+Native Mode | technical-adjacent
+Native State | technical-adjacent
+Out of Box | technical-adjacent
+Salience | technical-adjacent
+Recall | technical-adjacent
+Fluency | technical-adjacent
+Processing Fluency | technical-adjacent
+Default Effect | technical-adjacent
+Base Rate | technical-adjacent
+Reference Class | technical-adjacent
+Calibration | technical-adjacent
+Well Calibrated | technical-adjacent
+Calibrate | technical-adjacent
+Prior | technical-adjacent
+Update | technical-adjacent
+Decision Rule | technical-adjacent
+Rule of Thumb | technical-adjacent
+Heuristic | technical-adjacent
+Decisive | technical-adjacent
+Discern | technical-adjacent
+Discernment | technical-adjacent
+Threshold | technical-adjacent
+Noticeable Difference | technical-adjacent
+Difference Threshold | technical-adjacent
+Working Memory | technical-adjacent
+Recallable | technical-adjacent
+Knowable | technical-adjacent
+Legible | technical-adjacent
+Understandable | technical-adjacent
+Plainly Understood | technical-adjacent
+Cognitive Ease | technical-adjacent
+Ease of Use | technical-adjacent
+Usability | technical-adjacent
+Utility | technical-adjacent
+Marginal Utility | technical-adjacent
+Trim Tab | technical-adjacent
+Airworthy | technical-adjacent
+Course Made Good | technical-adjacent
+Attitude | technical-adjacent
+Level Flight | technical-adjacent
+Straight and Level | technical-adjacent
+Visual Approach | technical-adjacent
+Pattern Work | technical-adjacent
+Cruise | technical-adjacent
+Flight Mode | technical-adjacent
+All Systems | technical-adjacent
+Systems Go | technical-adjacent
+Go Around | technical-adjacent
+Holding Point | technical-adjacent
+Decision Height | technical-adjacent
+Minimums | technical-adjacent
+Best Glide | technical-adjacent
+Positive Rate | technical-adjacent
+Rate One | technical-adjacent
+Standard Rate | technical-adjacent
+Roadworthy | technical-adjacent
+Ride Quality | technical-adjacent
+Road Feel | technical-adjacent
+Power Band | technical-adjacent
+Torque Curve | technical-adjacent
+Green Light | technical-adjacent
+Clear Lane | technical-adjacent
+Passing Grade | technical-adjacent
+Cruise Control | technical-adjacent
+Manual | technical-adjacent
+Manual Drive | technical-adjacent
+Direct Drive | technical-adjacent
+Final Drive | technical-adjacent
+Overdrive | technical-adjacent
+Drive Mode | technical-adjacent
+Service Interval | technical-adjacent
+Road Holding | technical-adjacent
+Running Order | technical-adjacent
+In Gear | technical-adjacent
+Top Gear | technical-adjacent
+Shift Point | technical-adjacent
+Smooth Shift | technical-adjacent
+Gear Change | technical-adjacent
+Higher Gear | technical-adjacent
+First Gear | technical-adjacent
+Neutral | technical-adjacent
+Centered | technical-adjacent
+On Deck | technical-adjacent
+Full Crew | technical-adjacent
+All Hands | technical-adjacent
+Helm | technical-adjacent
+At Helm | technical-adjacent
+Your Helm | technical-adjacent
+Dress Rehearsal | technical-adjacent
+Cue | technical-adjacent
+On Cue | technical-adjacent
+On Mark | technical-adjacent
+Hit Your Mark | technical-adjacent
+Stage Ready | technical-adjacent
+In the Wings | technical-adjacent
+Center Stage | technical-adjacent
+Take the Stage | technical-adjacent
+Standing Ovation | technical-adjacent
+Audience of One | technical-adjacent
+Curtain Call | technical-adjacent
+First Act | technical-adjacent
+Second Act | technical-adjacent
+Character Part | technical-adjacent
+Leading Role | technical-adjacent
+Supporting Role | technical-adjacent
+Cast Well | technical-adjacent
+Ensemble | technical-adjacent
+Repertory | technical-adjacent
+In Repertory | technical-adjacent
+Matinee | technical-adjacent
+Show Ready | technical-adjacent
+Gallery Hours | technical-adjacent
+Open Studio | technical-adjacent
+Studio Practice | technical-adjacent

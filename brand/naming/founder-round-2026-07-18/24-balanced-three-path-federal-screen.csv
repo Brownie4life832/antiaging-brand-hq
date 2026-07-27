@@ -1,0 +1,7 @@
+﻿candidate_id,mechanism,wave,wave_number,name,score,decision,reason,live_exact_count,live_near_count,dead_or_unknown_exact_count,all_hit_count,representative_hits
+0,Candid double meaning / face and evidence,1,1,Face the Facts,0.0,AMBER - LIVE EXACT,Exact live hit; active classes appear outside core set or are missing,1,0,4,6,FACE THE FACTS (SN 98484185; live; exact; classes 041); FACE THE FACTS (SN 97422253; dead/unknown; exact; classes 041); FACE THE FACTS (SN 77589356; dead/unknown; exact; classes 028)
+1,Candid double meaning / unretouched skin and evidence,1,2,Bare Proof,0.0,PROVISIONAL PASS,Only dead/unknown one-edit records found,0,0,0,6,CAREPROOF (SN 88710596; dead/unknown; near-1; classes 001); BAR PROOF (SN 86750892; RN 5210074; dead/unknown; near-1); BAR PROOF (SN 86750915; RN 5210075; dead/unknown; near-1)
+2,Age confidence / informed-adult provocation,1,3,Mature Content,0.0,PROVISIONAL PASS,No exact or edit-distance-one federal record found,0,0,0,0,
+3,Age confidence / life-stage reframe,1,4,Life After Youth,0.0,PROVISIONAL PASS,No exact or edit-distance-one federal record found,0,0,0,0,
+4,Controlled construction / formula and chemistry,1,5,Formistry,0.0,PROVISIONAL PASS,Only dead/unknown one-edit records found,0,0,0,1,FORCISTRY (SN 86788515; RN 5781935; dead/unknown; near-1)
+5,Controlled construction / age and algorithm,1,6,Agerithm,0.0,YELLOW - LIVE NEAR,One-edit live hit outside the core active-class set,0,1,0,1,LAGERITHM (SN 86806600; RN 4936913; live; near-1; classes 032)

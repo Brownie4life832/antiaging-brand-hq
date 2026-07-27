@@ -1,0 +1,325 @@
+﻿Name,Method,DecoyBrief,SourceFile,Normalized,RejectReason,Collision
+Cadence,Real word,Living Standard,blind-standards.csv,cadence,historical exact,name-longlist-top500-2026-06-19.md :: Cadence
+Meridian,Real word,Living Standard,blind-standards.csv,meridian,historical exact,name-longlist-top500-2026-06-19.md :: Meridian
+Temper,Real word,Living Standard,blind-standards.csv,temper,historical exact,name-longlist-top500-2026-06-19.md :: Temper
+Signal,Real word,Living Standard,blind-standards.csv,signal,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Signal
+Relay,Real word,Living Standard,blind-standards.csv,relay,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Relay
+Loom,Real word,Living Standard,blind-standards.csv,loom,historical exact,name-longlist-top500-2026-06-19.md :: Loom
+Plumb,Real word,Living Standard,blind-standards.csv,plumb,historical exact,net-new-250-wave4-2026-07-16.md :: Plumb
+Aperture,Real word,Living Standard,blind-standards.csv,aperture,historical exact,net-new-250-wave4-2026-07-16.md :: Aperture
+Accord,Real word,Living Standard,blind-standards.csv,accord,historical exact,name-longlist-top500-2026-06-19.md :: Accord
+Sentry,Real word,Living Standard,blind-standards.csv,sentry,historical exact,name-candidates-2026-06-19.md :: ⭐ Sentry
+Criterion,Real word,Living Standard,blind-standards.csv,criterion,historical exact,net-new-250-wave4-2026-07-16.md :: Criterion
+Iterra,Altered word,Living Standard,blind-standards.csv,iterra,historical exact,name-candidates-2026-06-19.md :: ⭐ Iterra
+The Long View,Metaphor,Living Standard,blind-standards.csv,thelongview,historical exact,net-new-250-wave4-2026-07-16.md :: The Long View
+Make Room,Proposition,Living Standard,blind-standards.csv,makeroom,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Make Room
+For the Record,Proposition,Living Standard,blind-standards.csv,fortherecord,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: For The Record
+The Editor,Personification,Living Standard,blind-standards.csv,theeditor,historical exact,net-new-250-wave2-2026-07-16.md :: The Editor
+Mirova,Sound coinage,Living Standard,blind-standards.csv,mirova,historical exact,name-longlist-top500-2026-06-19.md :: Mirova
+Sightline,Navigation,Living Standard,blind-standards.csv,sightline,historical exact,net-new-250-wave4-2026-07-16.md :: Sightline
+Parallax,Navigation,Living Standard,blind-standards.csv,parallax,historical exact,net-new-250-wave4-2026-07-16.md :: Parallax
+Redline,Editorial metaphor,Living Standard,blind-standards.csv,redline,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Redline
+Gradient,Science metaphor,Living Standard,blind-standards.csv,gradient,historical exact,net-new-250-wave4-2026-07-16.md :: Gradient
+Prism,Science metaphor,Living Standard,blind-standards.csv,prism,historical exact,workbench-wave34/wave4-cuts.txt :: Prism
+Veyra,Coinage,Living Standard,blind-standards.csv,veyra,historical exact,name-longlist-top500-2026-06-19.md :: Veyra
+Sentry,Real word,Fewer Better Machines,blind-performance.csv,sentry,historical exact,name-candidates-2026-06-19.md :: ⭐ Sentry
+Keel,Real word,Fewer Better Machines,blind-performance.csv,keel,blind-pool duplicate,Keel
+Ledger,Real word,Fewer Better Machines,blind-performance.csv,ledger,blind-pool duplicate,Ledger
+Rivet,Real word,Fewer Better Machines,blind-performance.csv,rivet,blind-pool duplicate,Rivet
+Datum,Real word,Fewer Better Machines,blind-performance.csv,datum,blind-pool duplicate,Datum
+Temper,Real word,Fewer Better Machines,blind-performance.csv,temper,historical exact,name-longlist-top500-2026-06-19.md :: Temper
+Signal,Real word,Fewer Better Machines,blind-performance.csv,signal,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Signal
+Vector,Real word,Fewer Better Machines,blind-performance.csv,vector,blind-pool duplicate,Vector
+Relay,Real word,Fewer Better Machines,blind-performance.csv,relay,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Relay
+Plumb,Real word,Fewer Better Machines,blind-performance.csv,plumb,historical exact,net-new-250-wave4-2026-07-16.md :: Plumb
+Beacon,Real word,Fewer Better Machines,blind-performance.csv,beacon,blind-pool duplicate,Beacon
+Lattice,Real word,Fewer Better Machines,blind-performance.csv,lattice,historical exact,name-candidates-v2-fullmethod-2026-06-19.md :: Lattice
+Gauge,Real word,Fewer Better Machines,blind-performance.csv,gauge,historical exact,net-new-250-wave4-2026-07-16.md :: Gauge
+Standard,Real word,Fewer Better Machines,blind-performance.csv,standard,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Standard
+Meridian,Real word,Fewer Better Machines,blind-performance.csv,meridian,historical exact,name-longlist-top500-2026-06-19.md :: Meridian
+Measure,Real word,Fewer Better Machines,blind-performance.csv,measure,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Measure
+Helix,Real word,Fewer Better Machines,blind-performance.csv,helix,blind-pool duplicate,Helix
+Tally,Real word,Fewer Better Machines,blind-performance.csv,tally,historical exact,net-new-250-wave4-2026-07-16.md :: Tally
+Cadence,Real word,Fewer Better Machines,blind-performance.csv,cadence,historical exact,name-longlist-top500-2026-06-19.md :: Cadence
+Known Quantity,Idiom,Fewer Better Machines,blind-performance.csv,knownquantity,historical exact,founder-led-reset-2026-07-15/03-preliminary-clearance-ledger.md :: KNOWN QUANTITY
+Full Stop,Idiom,Fewer Better Machines,blind-performance.csv,fullstop,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Fullstop
+Steady State,Concept,Fewer Better Machines,blind-performance.csv,steadystate,historical exact,net-new-250-wave2-2026-07-16.md :: Steady State
+Clear Signal,Compound,Fewer Better Machines,blind-performance.csv,clearsignal,historical exact,net-new-250-wave2-2026-07-16.md :: Clear Signal
+Fixed Point,Concept,Fewer Better Machines,blind-performance.csv,fixedpoint,historical exact,net-new-250-wave2-2026-07-16.md :: Fixed Point
+Long Game,Idiom,Fewer Better Machines,blind-performance.csv,longgame,historical exact,founder-led-reset-2026-07-15/04-clearance-first-layer-exploration.md :: LONG GAME
+Open Secret,Contradiction,Fewer Better Machines,blind-performance.csv,opensecret,historical exact,net-new-250-2026-07-16.md :: Open Secret
+Fine Grain,Compound,Fewer Better Machines,blind-performance.csv,finegrain,historical exact,net-new-250-wave2-2026-07-16.md :: Fine Grain
+Field Note,Cultural frame,Fewer Better Machines,blind-performance.csv,fieldnote,historical exact,net-new-250-wave4-2026-07-16.md :: Fieldnote
+No Extras,Proposition,Fewer Better Machines,blind-performance.csv,noextras,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: No Extras
+Hold Fast,Command,Fewer Better Machines,blind-performance.csv,holdfast,historical exact,name-candidates-2026-06-19.md :: Holdfast
+Renwick,Surname,Fewer Better Machines,blind-performance.csv,renwick,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Renwick
+Halden,Surname,Fewer Better Machines,blind-performance.csv,halden,historical exact,name-candidates-2026-06-19.md :: Halden
+Blue Hour,Cultural frame,Fewer Better Machines,blind-performance.csv,bluehour,blind-pool duplicate,Blue Hour
+Crosswind,Nature,Fewer Better Machines,blind-performance.csv,crosswind,blind-pool duplicate,Crosswind
+Quartermaster,Archetype,Fewer Better Machines,blind-performance.csv,quartermaster,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Quartermaster
+First Mate,Archetype,Fewer Better Machines,blind-performance.csv,firstmate,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: First Mate
+All There,Proposition,Fewer Better Machines,blind-performance.csv,allthere,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: All There
+Just So,Proposition,Fewer Better Machines,blind-performance.csv,justso,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Just So
+In Good Hands,Idiom,Fewer Better Machines,blind-performance.csv,ingoodhands,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: In Good Hands
+By Design,Proposition,Fewer Better Machines,blind-performance.csv,bydesign,historical exact,net-new-250-2026-07-16.md :: By Design
+On Purpose,Proposition,Fewer Better Machines,blind-performance.csv,onpurpose,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: On Purpose
+Under Oath,Idiom,Fewer Better Machines,blind-performance.csv,underoath,historical exact,net-new-250-2026-07-16.md :: Under Oath
+Works Hard,Personification,Fewer Better Machines,blind-performance.csv,workshard,historical exact,net-new-250-wave3-2026-07-16.md :: Works Hard
+Hum,Sound word,Fewer Better Machines,blind-performance.csv,hum,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Hum
+Click,Sound word,Fewer Better Machines,blind-performance.csv,click,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Click
+Peregrine,Animal,Fewer Better Machines,blind-performance.csv,peregrine,blind-pool duplicate,Peregrine
+Redoubt,Fortification,Fewer Better Machines,blind-performance.csv,redoubt,historical exact,name-candidates-v2-fullmethod-2026-06-19.md :: ⭐ Redoubt
+Keep,Fortification,Fewer Better Machines,blind-performance.csv,keep,historical exact,name-longlist-top500-2026-06-19.md :: Keep
+Sextant,Nautical,Fewer Better Machines,blind-performance.csv,sextant,blind-pool duplicate,Sextant
+Ballast,Nautical,Fewer Better Machines,blind-performance.csv,ballast,historical exact,name-candidates-v2-fullmethod-2026-06-19.md :: Ballast
+Fulcrum,Mechanical metaphor,Fewer Better Machines,blind-performance.csv,fulcrum,historical exact,net-new-250-wave4-2026-07-16.md :: Fulcrum
+Select Few,Proposition,Fewer Better Machines,blind-performance.csv,selectfew,historical exact,net-new-250-2026-07-16.md :: Select Few
+New Tradition,Contradiction,Fewer Better Machines,blind-performance.csv,newtradition,blind-pool duplicate,New Tradition
+Public Trust,Civic frame,Fewer Better Machines,blind-performance.csv,publictrust,historical exact,net-new-250-wave2-2026-07-16.md :: Public Trust
+First Draft,Cultural frame,Fewer Better Machines,blind-performance.csv,firstdraft,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Firstdraft
+Last Word,Idiom,Fewer Better Machines,blind-performance.csv,lastword,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Last Word
+Handshake,Cultural frame,Fewer Better Machines,blind-performance.csv,handshake,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Handshake
+Plumbline,Structural metaphor,Fewer Better Machines,blind-performance.csv,plumbline,historical exact,transparency-direction-2026-06-19.md :: Plumbline
+Bullseye,Target metaphor,Fewer Better Machines,blind-performance.csv,bullseye,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Bullseye
+Daymark,Nautical,Fewer Better Machines,blind-performance.csv,daymark,historical exact,transparency-direction-2026-06-19.md :: Daymark
+Poise,Real word,Calm Command,blind-control.csv,poise,historical exact,name-longlist-top500-2026-06-19.md :: Poise
+Temper,Real word,Calm Command,blind-control.csv,temper,historical exact,name-longlist-top500-2026-06-19.md :: Temper
+Bearing,Real word,Calm Command,blind-control.csv,bearing,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Bearing
+Meridian,Real word,Calm Command,blind-control.csv,meridian,historical exact,name-longlist-top500-2026-06-19.md :: Meridian
+Keel,Real word,Calm Command,blind-control.csv,keel,blind-pool duplicate,Keel
+Bastion,Real word,Calm Command,blind-control.csv,bastion,blind-pool duplicate,Bastion
+Lucid,Real word,Calm Command,blind-control.csv,lucid,historical exact,workbench-wave34/wave4-cuts.txt :: Lucid
+Sentry,Real word,Calm Command,blind-control.csv,sentry,historical exact,name-candidates-2026-06-19.md :: ⭐ Sentry
+Steward,Real word,Calm Command,blind-control.csv,steward,historical exact,name-longlist-top500-2026-06-19.md :: Steward
+Verity,Real word,Calm Command,blind-control.csv,verity,blind-pool duplicate,Verity
+Tenet,Real word,Calm Command,blind-control.csv,tenet,blind-pool duplicate,Tenet
+Cadence,Real word,Calm Command,blind-control.csv,cadence,historical exact,name-longlist-top500-2026-06-19.md :: Cadence
+Nerve,Real word,Calm Command,blind-control.csv,nerve,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Nerve
+Accord,Real word,Calm Command,blind-control.csv,accord,historical exact,name-longlist-top500-2026-06-19.md :: Accord
+Praxis,Real word,Calm Command,blind-control.csv,praxis,blind-pool duplicate,Praxis
+Stillwater,Nature metaphor,Calm Command,blind-control.csv,stillwater,historical exact,name-longlist-top500-2026-06-19.md :: Stillwater
+Watchtower,Architectural metaphor,Calm Command,blind-control.csv,watchtower,blind-pool duplicate,Watchtower
+Iron Orchard,Material paradox,Calm Command,blind-control.csv,ironorchard,blind-pool duplicate,Iron Orchard
+Surefoot,Compound,Calm Command,blind-control.csv,surefoot,historical exact,net-new-250-wave4-2026-07-16.md :: Surefoot
+Holdfast,Compound,Calm Command,blind-control.csv,holdfast,historical exact,name-candidates-2026-06-19.md :: Holdfast
+Proofhouse,Compound,Calm Command,blind-control.csv,proofhouse,historical exact,net-new-250-2026-07-16.md :: Proofhouse
+Caldris,Coinage,Calm Command,blind-control.csv,caldris,blind-pool duplicate,Caldris
+Velora,Coinage,Calm Command,blind-control.csv,velora,blind-pool duplicate,Velora
+Veyra,Coinage,Calm Command,blind-control.csv,veyra,historical exact,name-longlist-top500-2026-06-19.md :: Veyra
+Rovant,Coinage,Calm Command,blind-control.csv,rovant,blind-pool duplicate,Rovant
+Composa,Altered word,Calm Command,blind-control.csv,composa,historical exact,name-candidates-v2-fullmethod-2026-06-19.md :: Composa
+Tempera,Altered word,Calm Command,blind-control.csv,tempera,historical exact,name-candidates-2026-06-19.md :: Tempera
+Aegira,Altered word,Calm Command,blind-control.csv,aegira,historical exact,name-longlist-top500-2026-06-19.md :: Aegira
+Calibra,Altered word,Calm Command,blind-control.csv,calibra,blind-pool duplicate,Calibra
+Own the Room,Imperative phrase,Calm Command,blind-control.csv,owntheroom,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Own the Room
+Trust the Work,Imperative phrase,Calm Command,blind-control.csv,trustthework,historical exact,net-new-250-wave4-2026-07-16.md :: Trust the Work
+Read the Room,Imperative phrase,Calm Command,blind-control.csv,readtheroom,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Read The Room
+Quiet Authority,Paradox,Calm Command,blind-control.csv,quietauthority,blind-pool duplicate,Quiet Authority
+Open Fortress,Paradox,Calm Command,blind-control.csv,openfortress,blind-pool duplicate,Open Fortress
+Slow Lightning,Paradox,Calm Command,blind-control.csv,slowlightning,blind-pool duplicate,Slow Lightning
+Good Signal,Sound metaphor,Calm Command,blind-control.csv,goodsignal,historical exact,net-new-250-wave2-2026-07-16.md :: Good Signal
+True Note,Sound metaphor,Calm Command,blind-control.csv,truenote,historical exact,net-new-250-wave2-2026-07-16.md :: True Note
+Keynote,Sound word,Calm Command,blind-control.csv,keynote,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Keynote
+Sounding Board,Sound metaphor,Calm Command,blind-control.csv,soundingboard,blind-pool duplicate,Sounding Board
+The Steward,Personification,Calm Command,blind-control.csv,thesteward,blind-pool duplicate,The Steward
+The Witness,Personification,Calm Command,blind-control.csv,thewitness,blind-pool duplicate,The Witness
+The Custodian,Personification,Calm Command,blind-control.csv,thecustodian,blind-pool duplicate,The Custodian
+The Editor,Personification,Calm Command,blind-control.csv,theeditor,historical exact,net-new-250-wave2-2026-07-16.md :: The Editor
+Forum,Cultural frame,Calm Command,blind-control.csv,forum,historical exact,workbench-wave34/wave4-cuts.txt :: Forum
+Longhouse,Cultural frame,Calm Command,blind-control.csv,longhouse,blind-pool duplicate,Longhouse
+Assembly,Cultural frame,Calm Command,blind-control.csv,assembly,historical exact,workbench-wave34/wave4-cuts.txt :: Assembly
+Bedrock,Nature metaphor,Calm Command,blind-control.csv,bedrock,blind-pool duplicate,Bedrock
+Daybreak,Nature metaphor,Calm Command,blind-control.csv,daybreak,blind-pool duplicate,Daybreak
+Watershed,Nature metaphor,Calm Command,blind-control.csv,watershed,blind-pool duplicate,Watershed
+Canopy,Nature metaphor,Calm Command,blind-control.csv,canopy,blind-pool duplicate,Canopy
+Sunward,Nature compound,Calm Command,blind-control.csv,sunward,blind-pool duplicate,Sunward
+Deep Root,Nature metaphor,Calm Command,blind-control.csv,deeproot,historical exact,name-longlist-top500-2026-06-19.md :: Deeproot
+Even Tide,Nature metaphor,Calm Command,blind-control.csv,eventide,historical exact,name-longlist-top500-2026-06-19.md :: Eventide
+Waypoint,Journey metaphor,Calm Command,blind-control.csv,waypoint,blind-pool duplicate,Waypoint
+Sounding,Nautical frame,Calm Command,blind-control.csv,sounding,blind-pool duplicate,Sounding
+Crosswind,Journey metaphor,Calm Command,blind-control.csv,crosswind,blind-pool duplicate,Crosswind
+Landfall,Journey metaphor,Calm Command,blind-control.csv,landfall,blind-pool duplicate,Landfall
+Keystone,Architecture,Calm Command,blind-control.csv,keystone,blind-pool duplicate,Keystone
+Threshold,Architecture,Calm Command,blind-control.csv,threshold,historical exact,net-new-250-wave3-2026-07-16.md :: Threshold
+Lintel,Architecture,Calm Command,blind-control.csv,lintel,historical exact,name-candidates-2026-06-19.md :: ⭐ Lintel
+Mainstay,Architecture,Calm Command,blind-control.csv,mainstay,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Mainstay
+First Principles,Intellectual frame,Calm Command,blind-control.csv,firstprinciples,historical exact,net-new-250-2026-07-16.md :: First Principles
+Common Sense,Intellectual frame,Calm Command,blind-control.csv,commonsense,blind-pool duplicate,Common Sense
+Proofpoint,Intellectual compound,Calm Command,blind-control.csv,proofpoint,historical exact,net-new-250-2026-07-16.md :: Proof Point
+Nuance,Intellectual frame,Calm Command,blind-control.csv,nuance,historical exact,net-new-250-wave4-2026-07-16.md :: Nuance
+Context,Intellectual frame,Calm Command,blind-control.csv,context,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Context
+Measure,Intellectual frame,Calm Command,blind-control.csv,measure,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Measure
+Ratio,Intellectual frame,Calm Command,blind-control.csv,ratio,historical exact,net-new-250-wave4-2026-07-16.md :: Ratio
+Right Now,Time phrase,Calm Command,blind-control.csv,rightnow,historical exact,net-new-250-wave3-2026-07-16.md :: Right Now
+Tempo,Time word,Calm Command,blind-control.csv,tempo,historical exact,net-new-250-wave4-2026-07-16.md :: Tempo
+Granite,Material metaphor,Calm Command,blind-control.csv,granite,blind-pool duplicate,Granite
+Flint,Material metaphor,Calm Command,blind-control.csv,flint,blind-pool duplicate,Flint
+Alloy,Material metaphor,Calm Command,blind-control.csv,alloy,blind-pool duplicate,Alloy
+Brass Tacks,Material idiom,Calm Command,blind-control.csv,brasstacks,blind-pool duplicate,Brass Tacks
+Red Iron,Material metaphor,Calm Command,blind-control.csv,rediron,blind-pool duplicate,Red Iron
+Solid State,Material metaphor,Calm Command,blind-control.csv,solidstate,historical exact,net-new-250-wave3-2026-07-16.md :: Solid State
+Center Stage,Performance frame,Calm Command,blind-control.csv,centerstage,historical exact,net-new-250-wave3-2026-07-16.md :: Center Stage
+Fine Print,Editorial frame,Calm Command,blind-control.csv,fineprint,blind-pool duplicate,Fine Print
+Final Cut,Editorial frame,Calm Command,blind-control.csv,finalcut,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Final Cut
+Second Draft,Editorial frame,Calm Command,blind-control.csv,seconddraft,blind-pool duplicate,Second Draft
+Ensemble,Performance frame,Calm Command,blind-control.csv,ensemble,historical exact,net-new-250-wave3-2026-07-16.md :: Ensemble
+Counterpoint,Musical frame,Calm Command,blind-control.csv,counterpoint,blind-pool duplicate,Counterpoint
+Front Row,Performance frame,Calm Command,blind-control.csv,frontrow,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Front Row
+Common Ground,Relational frame,Calm Command,blind-control.csv,commonground,blind-pool duplicate,Common Ground
+Wise Company,Relational frame,Calm Command,blind-control.csv,wisecompany,blind-pool duplicate,Wise Company
+Wide Awake,State phrase,Calm Command,blind-control.csv,wideawake,historical exact,net-new-250-wave3-2026-07-16.md :: Wide Awake
+Full Picture,Perspective metaphor,Calm Command,blind-control.csv,fullpicture,historical exact,net-new-250-wave2-2026-07-16.md :: Full Picture
+Steady State,State paradox,Calm Command,blind-control.csv,steadystate,historical exact,net-new-250-wave2-2026-07-16.md :: Steady State
+At Hand,Idiomatic phrase,Calm Command,blind-control.csv,athand,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: At Hand
+By Design,Idiomatic phrase,Calm Command,blind-control.csv,bydesign,historical exact,net-new-250-2026-07-16.md :: By Design
+The Whole Story,Narrative frame,Calm Command,blind-control.csv,thewholestory,historical exact,net-new-250-2026-07-16.md :: The Whole Story
+Good Measure,Measure metaphor,Calm Command,blind-control.csv,goodmeasure,historical exact,net-new-250-2026-07-16.md :: Good Measure
+Poise,Real word,Long View Living,blind-longview.csv,poise,historical exact,name-longlist-top500-2026-06-19.md :: Poise
+Vantage,Real word,Long View Living,blind-longview.csv,vantage,blind-pool duplicate,Vantage
+Mettle,Real word,Long View Living,blind-longview.csv,mettle,historical exact,name-candidates-2026-06-19.md :: Mettle
+Gravitas,Real word,Long View Living,blind-longview.csv,gravitas,blind-pool duplicate,Gravitas
+Composure,Real word,Long View Living,blind-longview.csv,composure,historical exact,name-longlist-top500-2026-06-19.md :: Composure
+Substance,Real word,Long View Living,blind-longview.csv,substance,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Substance
+Bearing,Real word,Long View Living,blind-longview.csv,bearing,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Bearing
+Stature,Real word,Long View Living,blind-longview.csv,stature,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Stature
+Resolve,Real word,Long View Living,blind-longview.csv,resolve,blind-pool duplicate,Resolve
+Chorus,Unexpected word,Long View Living,blind-longview.csv,chorus,blind-pool duplicate,Chorus
+Marrow,Unexpected word,Long View Living,blind-longview.csv,marrow,historical exact,name-candidates-v2-fullmethod-2026-06-19.md :: ⭐ Marrow
+Coda,Unexpected word,Long View Living,blind-longview.csv,coda,blind-pool duplicate,Coda
+Mosaic,Unexpected word,Long View Living,blind-longview.csv,mosaic,blind-pool duplicate,Mosaic
+Poisa,Altered word,Long View Living,blind-longview.csv,poisa,blind-pool duplicate,Poisa
+Composa,Altered word,Long View Living,blind-longview.csv,composa,historical exact,name-candidates-v2-fullmethod-2026-06-19.md :: Composa
+Valora,Altered word,Long View Living,blind-longview.csv,valora,blind-pool duplicate,Valora
+Velora,Sound coinage,Long View Living,blind-longview.csv,velora,blind-pool duplicate,Velora
+Solenne,Sound coinage,Long View Living,blind-longview.csv,solenne,historical exact,name-longlist-top500-2026-06-19.md :: Solenne
+Selfsame,Compound,Long View Living,blind-longview.csv,selfsame,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Selfsame
+Wideawake,Compound,Long View Living,blind-longview.csv,wideawake,historical exact,net-new-250-wave3-2026-07-16.md :: Wide Awake
+Goldleaf,Compound,Long View Living,blind-longview.csv,goldleaf,historical exact,name-longlist-top500-2026-06-19.md :: Goldleaf
+Wholecloth,Compound,Long View Living,blind-longview.csv,wholecloth,historical exact,workbench-wave34/wave4-cuts.txt :: Wholecloth
+Fieldnote,Compound,Long View Living,blind-longview.csv,fieldnote,historical exact,net-new-250-wave4-2026-07-16.md :: Fieldnote
+Openhand,Compound,Long View Living,blind-longview.csv,openhand,historical exact,net-new-250-wave4-2026-07-16.md :: Openhand
+Finegrain,Compound,Long View Living,blind-longview.csv,finegrain,historical exact,net-new-250-wave2-2026-07-16.md :: Fine Grain
+Deep Current,Metaphor,Long View Living,blind-longview.csv,deepcurrent,blind-pool duplicate,Deep Current
+Full Measure,Metaphor,Long View Living,blind-longview.csv,fullmeasure,blind-pool duplicate,Full Measure
+Green Light,Metaphor,Long View Living,blind-longview.csv,greenlight,historical exact,net-new-250-wave3-2026-07-16.md :: Green Light
+Open Secret,Paradox,Long View Living,blind-longview.csv,opensecret,historical exact,net-new-250-2026-07-16.md :: Open Secret
+Take Up Space,Proposition,Long View Living,blind-longview.csv,takeupspace,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Take Up Space
+Own the Room,Proposition,Long View Living,blind-longview.csv,owntheroom,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Own the Room
+The Principal,Personification,Long View Living,blind-longview.csv,theprincipal,blind-pool duplicate,The Principal
+Second Draft,Arts frame,Long View Living,blind-longview.csv,seconddraft,blind-pool duplicate,Second Draft
+First Chair,Arts frame,Long View Living,blind-longview.csv,firstchair,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: First Chair
+True Color,Arts frame,Long View Living,blind-longview.csv,truecolor,historical exact,net-new-250-wave2-2026-07-16.md :: True Color
+Counterpoint,Arts frame,Long View Living,blind-longview.csv,counterpoint,blind-pool duplicate,Counterpoint
+Fine Form,Arts frame,Long View Living,blind-longview.csv,fineform,historical exact,net-new-250-2026-07-16.md :: Fine Form
+Redwood,Natural reference,Long View Living,blind-longview.csv,redwood,blind-pool duplicate,Redwood
+Corner Office,Spatial frame,Long View Living,blind-longview.csv,corneroffice,blind-pool duplicate,Corner Office
+Inner Circle,Spatial frame,Long View Living,blind-longview.csv,innercircle,blind-pool duplicate,Inner Circle
+Main Character,Spatial frame,Long View Living,blind-longview.csv,maincharacter,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Main Character
+Fully Here,Poetic phrase,Long View Living,blind-longview.csv,fullyhere,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Fully Here
+Self Possessed,Poetic phrase,Long View Living,blind-longview.csv,selfpossessed,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Self Possessed
+Rare Form,Poetic phrase,Long View Living,blind-longview.csv,rareform,blind-pool duplicate,Rare Form
+Redline,Real word,Entertaining Skeptic,blind-skeptic.csv,redline,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Redline
+Counterpoint,Editorial term,Entertaining Skeptic,blind-skeptic.csv,counterpoint,blind-pool duplicate,Counterpoint
+Footnote,Editorial term,Entertaining Skeptic,blind-skeptic.csv,footnote,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Footnote
+Margin,Editorial term,Entertaining Skeptic,blind-skeptic.csv,margin,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Margin
+Asterisk,Editorial term,Entertaining Skeptic,blind-skeptic.csv,asterisk,historical exact,net-new-250-2026-07-16.md :: Asterisk
+Errata,Editorial term,Entertaining Skeptic,blind-skeptic.csv,errata,historical exact,net-new-250-wave2-2026-07-16.md :: Errata
+Aside,Editorial term,Entertaining Skeptic,blind-skeptic.csv,aside,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: A-Side
+Telltale,Real word,Entertaining Skeptic,blind-skeptic.csv,telltale,historical exact,net-new-250-wave4-2026-07-16.md :: Telltale
+Unvarnished,Real word,Entertaining Skeptic,blind-skeptic.csv,unvarnished,historical exact,net-new-250-2026-07-16.md :: Unvarnished
+Straight Face,Idiom,Entertaining Skeptic,blind-skeptic.csv,straightface,historical exact,founder-led-reset-2026-07-15/07-post-user-test-structural-reset.md :: STRAIGHT FACE
+Side Door,Metaphor,Entertaining Skeptic,blind-skeptic.csv,sidedoor,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Side Door
+Fine Print,Editorial frame,Entertaining Skeptic,blind-skeptic.csv,fineprint,blind-pool duplicate,Fine Print
+Second Look,Proposition,Entertaining Skeptic,blind-skeptic.csv,secondlook,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Secondlook
+Double Take,Gesture,Entertaining Skeptic,blind-skeptic.csv,doubletake,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Doubletake
+Acid Test,Idiom,Entertaining Skeptic,blind-skeptic.csv,acidtest,historical exact,net-new-250-2026-07-16.md :: Acid Test
+Says Who,Challenge,Entertaining Skeptic,blind-skeptic.csv,sayswho,historical exact,founder-led-reset-2026-07-15/07-post-user-test-structural-reset.md :: SAYS WHO?
+Not So Fast,Command,Entertaining Skeptic,blind-skeptic.csv,notsofast,historical exact,net-new-250-wave4-2026-07-16.md :: Not So Fast
+Read Again,Command,Entertaining Skeptic,blind-skeptic.csv,readagain,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Read Again
+For the Record,Editorial phrase,Entertaining Skeptic,blind-skeptic.csv,fortherecord,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: For The Record
+Think Again,Command,Entertaining Skeptic,blind-skeptic.csv,thinkagain,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Thinkagain
+Point Taken,Retort,Entertaining Skeptic,blind-skeptic.csv,pointtaken,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Point Taken
+There It Is,Proposition,Entertaining Skeptic,blind-skeptic.csv,thereitis,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: There It Is
+Ahem,Sound word,Entertaining Skeptic,blind-skeptic.csv,ahem,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Ahem
+Nudge,Gesture,Entertaining Skeptic,blind-skeptic.csv,nudge,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Nudge
+Wink,Gesture,Entertaining Skeptic,blind-skeptic.csv,wink,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Wink
+Candorly,Coinage,Entertaining Skeptic,blind-skeptic.csv,candorly,historical exact,workbench-wave34/wave4-cuts.txt :: Candorly
+Red Pen,Editorial frame,Entertaining Skeptic,blind-skeptic.csv,redpen,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Red Pen
+Blue Pencil,Editorial frame,Entertaining Skeptic,blind-skeptic.csv,bluepencil,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Blue Pencil
+Copy Desk,Editorial frame,Entertaining Skeptic,blind-skeptic.csv,copydesk,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Copydesk
+Endnote,Editorial term,Entertaining Skeptic,blind-skeptic.csv,endnote,historical exact,net-new-250-wave2-2026-07-16.md :: Endnote
+Typeset,Editorial term,Entertaining Skeptic,blind-skeptic.csv,typeset,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Typeset
+Byline,Editorial term,Entertaining Skeptic,blind-skeptic.csv,byline,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Byline
+Masthead,Editorial term,Entertaining Skeptic,blind-skeptic.csv,masthead,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Masthead
+Broadside,Editorial term,Entertaining Skeptic,blind-skeptic.csv,broadside,blind-pool duplicate,Broadside
+Almanac,Editorial term,Entertaining Skeptic,blind-skeptic.csv,almanac,historical exact,name-candidates-2026-06-19.md :: ⭐ Almanac
+Circular,Editorial term,Entertaining Skeptic,blind-skeptic.csv,circular,historical exact,net-new-250-wave3-2026-07-16.md :: Circular
+Final Say,Proposition,Entertaining Skeptic,blind-skeptic.csv,finalsay,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Finalsay
+Back Channel,Editorial frame,Entertaining Skeptic,blind-skeptic.csv,backchannel,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Backchannel
+House Lights,Theater frame,Entertaining Skeptic,blind-skeptic.csv,houselights,blind-pool duplicate,House Lights
+Second Act,Theater frame,Entertaining Skeptic,blind-skeptic.csv,secondact,blind-pool duplicate,Second Act
+Wild Card,Card frame,Entertaining Skeptic,blind-skeptic.csv,wildcard,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Wildcard
+Back Pocket,Idiom,Entertaining Skeptic,blind-skeptic.csv,backpocket,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Back Pocket
+Spare,Real word,Radical Focus,blind-fewerbetter.csv,spare,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Spare
+Select,Real word,Radical Focus,blind-fewerbetter.csv,select,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Select
+Honed,Real word,Radical Focus,blind-fewerbetter.csv,honed,historical exact,net-new-250-wave4-2026-07-16.md :: Honed
+Exact,Real word,Radical Focus,blind-fewerbetter.csv,exact,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Exact
+Prime,Real word,Radical Focus,blind-fewerbetter.csv,prime,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Prime
+Choice,Real word,Radical Focus,blind-fewerbetter.csv,choice,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Choice
+Plain,Real word,Radical Focus,blind-fewerbetter.csv,plain,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Plain
+Neat,Real word,Radical Focus,blind-fewerbetter.csv,neat,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Neat
+Candor,Real word,Radical Focus,blind-fewerbetter.csv,candor,blind-pool duplicate,Candor
+Good Type,Editorial metaphor,Radical Focus,blind-fewerbetter.csv,goodtype,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Goodtype
+Short List,Editorial metaphor,Radical Focus,blind-fewerbetter.csv,shortlist,blind-pool duplicate,Short List
+Right Size,Fit metaphor,Radical Focus,blind-fewerbetter.csv,rightsize,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Rightsize
+Fixed Point,Precision metaphor,Radical Focus,blind-fewerbetter.csv,fixedpoint,historical exact,net-new-250-wave2-2026-07-16.md :: Fixed Point
+Well Made,Craft phrase,Radical Focus,blind-fewerbetter.csv,wellmade,historical exact,name-longlist-top500-2026-06-19.md :: Wellmade
+Plainspoken,Voice metaphor,Radical Focus,blind-fewerbetter.csv,plainspoken,blind-pool duplicate,Plainspoken
+Modera,Altered word,Radical Focus,blind-fewerbetter.csv,modera,blind-pool duplicate,Modera
+Pickwell,Compound,Radical Focus,blind-fewerbetter.csv,pickwell,historical exact,net-new-250-wave3-2026-07-16.md :: Pick Well
+Pointmade,Compound,Radical Focus,blind-fewerbetter.csv,pointmade,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Point Made
+Rareform,Compound,Radical Focus,blind-fewerbetter.csv,rareform,blind-pool duplicate,Rare Form
+Make It Count,Proposition,Radical Focus,blind-fewerbetter.csv,makeitcount,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Make It Count
+Nothing Extra,Proposition,Radical Focus,blind-fewerbetter.csv,nothingextra,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Nothing Extra
+Just Enough,Proposition,Radical Focus,blind-fewerbetter.csv,justenough,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Just Enough
+Take Your Pick,Proposition,Radical Focus,blind-fewerbetter.csv,takeyourpick,historical exact,net-new-250-wave3-2026-07-16.md :: Take Your Pick
+Make Room,Proposition,Radical Focus,blind-fewerbetter.csv,makeroom,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Make Room
+Narrow Plenty,Paradox,Radical Focus,blind-fewerbetter.csv,narrowplenty,blind-pool duplicate,Narrow Plenty
+Human Measure,Paradox,Radical Focus,blind-fewerbetter.csv,humanmeasure,blind-pool duplicate,Human Measure
+Click,Sound word,Radical Focus,blind-fewerbetter.csv,click,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Click
+Tock,Sound word,Radical Focus,blind-fewerbetter.csv,tock,blind-pool duplicate,Tock
+Kivo,Sound coinage,Radical Focus,blind-fewerbetter.csv,kivo,blind-pool duplicate,Kivo
+The Curator,Personification,Radical Focus,blind-fewerbetter.csv,thecurator,blind-pool duplicate,The Curator
+The Refiner,Personification,Radical Focus,blind-fewerbetter.csv,therefiner,blind-pool duplicate,The Refiner
+The Keeper,Personification,Radical Focus,blind-fewerbetter.csv,thekeeper,blind-pool duplicate,The Keeper
+The Editor,Personification,Radical Focus,blind-fewerbetter.csv,theeditor,historical exact,net-new-250-wave2-2026-07-16.md :: The Editor
+The Artisan,Personification,Radical Focus,blind-fewerbetter.csv,theartisan,blind-pool duplicate,The Artisan
+The Decider,Personification,Radical Focus,blind-fewerbetter.csv,thedecider,historical exact,net-new-250-wave2-2026-07-16.md :: The Decider
+The Steward,Personification,Radical Focus,blind-fewerbetter.csv,thesteward,blind-pool duplicate,The Steward
+The Host,Personification,Radical Focus,blind-fewerbetter.csv,thehost,blind-pool duplicate,The Host
+The Watchmaker,Personification,Radical Focus,blind-fewerbetter.csv,thewatchmaker,blind-pool duplicate,The Watchmaker
+The Connoisseur,Personification,Radical Focus,blind-fewerbetter.csv,theconnoisseur,blind-pool duplicate,The Connoisseur
+Colophon,Publishing frame,Radical Focus,blind-fewerbetter.csv,colophon,blind-pool duplicate,Colophon
+Private View,Art frame,Radical Focus,blind-fewerbetter.csv,privateview,blind-pool duplicate,Private View
+Stone Fruit,Nature metaphor,Radical Focus,blind-fewerbetter.csv,stonefruit,blind-pool duplicate,Stonefruit
+Red Thread,Nature metaphor,Radical Focus,blind-fewerbetter.csv,redthread,blind-pool duplicate,Red Thread
+Gold Leaf,Nature metaphor,Radical Focus,blind-fewerbetter.csv,goldleaf,historical exact,name-longlist-top500-2026-06-19.md :: Goldleaf
+Deep Well,Nature metaphor,Radical Focus,blind-fewerbetter.csv,deepwell,blind-pool duplicate,Deepwell
+Plumb Line,Tool frame,Radical Focus,blind-fewerbetter.csv,plumbline,historical exact,transparency-direction-2026-06-19.md :: Plumbline
+Caliper,Tool frame,Radical Focus,blind-fewerbetter.csv,caliper,historical exact,net-new-250-wave4-2026-07-16.md :: Caliper
+Vellum,Material frame,Radical Focus,blind-fewerbetter.csv,vellum,blind-pool duplicate,Vellum
+Sterling,Material frame,Radical Focus,blind-fewerbetter.csv,sterling,historical exact,name-longlist-top500-2026-06-19.md :: Sterling
+Knurl,Craft frame,Radical Focus,blind-fewerbetter.csv,knurl,blind-pool duplicate,Knurl
+Axiom,Intellectual frame,Radical Focus,blind-fewerbetter.csv,axiom,blind-pool duplicate,Axiom
+Aperture,Visual frame,Radical Focus,blind-fewerbetter.csv,aperture,historical exact,net-new-250-wave4-2026-07-16.md :: Aperture
+Index,Publishing frame,Radical Focus,blind-fewerbetter.csv,index,historical exact,net-new-250-wave4-2026-07-16.md :: Index
+Salon,Cultural frame,Radical Focus,blind-fewerbetter.csv,salon,blind-pool duplicate,Salon
+Golden Mean,Classical frame,Radical Focus,blind-fewerbetter.csv,goldenmean,blind-pool duplicate,Golden Mean
+Standout,Real word,Radical Focus,blind-fewerbetter.csv,standout,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: StandOut
+One Good Thing,Proposition,Radical Focus,blind-fewerbetter.csv,onegoodthing,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: One Good Thing
+Enough Said,Idiomatic phrase,Radical Focus,blind-fewerbetter.csv,enoughsaid,historical exact,net-new-250-wave2-2026-07-16.md :: Enough Said
+In Good Taste,Idiomatic phrase,Radical Focus,blind-fewerbetter.csv,ingoodtaste,blind-pool duplicate,In Good Taste
+Worthwhile,Real word,Radical Focus,blind-fewerbetter.csv,worthwhile,historical exact,net-new-250-wave2-2026-07-16.md :: Worthwhile
+By Choice,Idiomatic phrase,Radical Focus,blind-fewerbetter.csv,bychoice,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: By Choice
+Properly,Adverb brand,Radical Focus,blind-fewerbetter.csv,properly,historical exact,net-new-250-wave3-2026-07-16.md :: Properly
+First Pick,Selection metaphor,Radical Focus,blind-fewerbetter.csv,firstpick,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: First Pick
