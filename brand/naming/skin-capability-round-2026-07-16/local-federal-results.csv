@@ -1,0 +1,49 @@
+﻿candidate_id,world,world_rank,name,score,decision,reason,live_exact_count,live_near_count,dead_or_unknown_exact_count,all_hit_count,representative_hits
+0,Skin Training,1,Better at Skin,0.0,PROVISIONAL PASS,No exact or edit-distance-one federal record found,0,0,0,0,
+1,Skin Training,2,Better at Being Skin,0.0,PROVISIONAL PASS,No exact or edit-distance-one federal record found,0,0,0,0,
+2,Skin Training,3,Get Better at Skin,0.0,PROVISIONAL PASS,No exact or edit-distance-one federal record found,0,0,0,0,
+3,Skin Training,4,Skin in Training,0.0,PROVISIONAL PASS,No exact or edit-distance-one federal record found,0,0,0,0,
+4,Skin Training,5,Skin Cadence,0.0,PROVISIONAL PASS,No exact or edit-distance-one federal record found,0,0,0,0,
+5,Skin Training,6,Skin Tempo,0.0,AMBER - LIVE NEAR / RELEVANT,One-edit live hit in a relevant active class,0,1,0,4,SKINTEMP (SN 97935499; RN 7406417; live; near-1; classes 005); SKINTEMP (SN 85381130; RN 4216450; dead/unknown; near-1); SKINTEMP (SN 76456242; dead/unknown; near-1; classes 005)
+6,Skin Training,7,Skin Capacity,0.0,PROVISIONAL PASS,No exact or edit-distance-one federal record found,0,0,0,0,
+7,Skin Training,8,Skin Progression,0.0,PROVISIONAL PASS,No exact or edit-distance-one federal record found,0,0,0,0,
+8,Skin Training,9,Skin Reps,0.0,PROVISIONAL PASS,No exact or edit-distance-one federal record found,0,0,0,0,
+9,Skin Training,10,Skin in Session,0.0,PROVISIONAL PASS,No exact or edit-distance-one federal record found,0,0,0,0,
+10,Skin Training,11,Form Check,0.0,AMBER - LIVE EXACT,Exact live hit; active classes appear outside core set or are missing,1,3,0,11,FORMCHECK+ (SN 99714719; live; exact; classes 041); WORM CHECK (SN 77245476; RN 3425876; live; near-1; classes 005); FARMCHECK (SN 85752041; RN 4800054; live; near-1; classes 042)
+11,Skin Training,12,Good Reps,0.0,YELLOW - LIVE NEAR,One-edit live hit outside the core active-class set,0,2,0,4,"GOODREP (SN 99745540; live; near-1; classes 042); GOODREVS (SN 99196806; live; near-1; classes 009,012,025); GOODREP (SN 87464670; dead/unknown; near-1; classes 042)"
+12,Skin Training,13,Daily Reps,0.0,PROVISIONAL PASS,No exact or edit-distance-one federal record found,0,0,0,0,
+13,Skin Training,14,Capably,0.0,AMBER - LIVE NEAR / RELEVANT,One-edit live hit in a relevant active class,0,12,1,22,"CAPABY (SN 98157918; RN 7870402; live; near-1; classes 005); CAPABLE (SN 97263175; RN 7830881; live; near-1; classes 010,025); CAPABLE (SN 97263191; RN 7854444; live; near-1; classes 010,025)"
+14,Skin Training,15,Active Rest,0.0,AMBER - LIVE NEAR / RELEVANT,One-edit live hit in a relevant active class,0,1,1,4,"ACTIVENEST (SN 79438469; live; near-1; classes 010,020); ACTIVE REST (SN 78410802; dead/unknown; exact; classes 041); ACTIVETEST (SN 76038140; dead/unknown; near-1; classes 042)"
+15,Skin Training,16,Ready Skin,0.0,YELLOW - LIVE NEAR,One-edit live hit outside the core active-class set,0,1,0,1,"READYSPIN (SN 99753577; live; near-1; classes 029,030)"
+16,Skin Practice,1,Practiced,0.0,AMBER - LIVE NEAR / RELEVANT,One-edit live hit in a relevant active class,0,8,0,24,"PRACTICE (SN 88981680; RN 6405020; live; near-1; classes 035,041); PRACTICE (SN 99911594; live; near-1; classes 009,042); PRACTICEDJ (SN 99902568; live; near-1; classes 009)"
+17,Skin Practice,2,Habit Formed,0.0,PROVISIONAL PASS,No exact or edit-distance-one federal record found,0,0,0,0,
+18,Skin Practice,3,What You Repeat,0.0,PROVISIONAL PASS,No exact or edit-distance-one federal record found,0,0,0,0,
+19,Skin Practice,4,Practice Over Promises,0.0,PROVISIONAL PASS,No exact or edit-distance-one federal record found,0,0,0,0,
+20,Skin Practice,5,Use Matters,0.0,PROVISIONAL PASS,No exact or edit-distance-one federal record found,0,0,0,0,
+21,Skin Practice,6,Skin Technique,0.0,PROVISIONAL PASS,No exact or edit-distance-one federal record found,0,0,0,0,
+22,Skin Practice,7,Skin Knowhow,0.0,PROVISIONAL PASS,No exact or edit-distance-one federal record found,0,0,0,0,
+23,Skin Practice,8,Know Skin Better,0.0,PROVISIONAL PASS,No exact or edit-distance-one federal record found,0,0,0,0,
+24,Skin Practice,9,Good at Skin,0.0,PROVISIONAL PASS,No exact or edit-distance-one federal record found,0,0,0,0,
+25,Skin Practice,10,Skilled at Skin,0.0,PROVISIONAL PASS,No exact or edit-distance-one federal record found,0,0,0,0,
+26,Skin Practice,11,Applied Skin,0.0,PROVISIONAL PASS,No exact or edit-distance-one federal record found,0,0,0,0,
+27,Skin Practice,12,Practiced Skin,0.0,PROVISIONAL PASS,No exact or edit-distance-one federal record found,0,0,0,0,
+28,Skin Practice,13,Skin by Practice,0.0,PROVISIONAL PASS,No exact or edit-distance-one federal record found,0,0,0,0,
+29,Skin Practice,14,Skin Habits,0.0,AMBER - LIVE NEAR / RELEVANT,One-edit live hit in a relevant active class,0,1,0,1,SKIN HABIT (SN 88470912; RN 5949116; live; near-1; classes 044)
+30,Skin Practice,15,How Skin Works,0.0,PROVISIONAL PASS,No exact or edit-distance-one federal record found,0,0,0,0,
+31,Skin Practice,16,Skin in Use,0.0,PROVISIONAL PASS,No exact or edit-distance-one federal record found,0,0,0,0,
+32,Personal Baseline,1,No Average Skin,0.0,PROVISIONAL PASS,No exact or edit-distance-one federal record found,0,0,0,0,
+33,Personal Baseline,2,Made for This Face,0.0,PROVISIONAL PASS,No exact or edit-distance-one federal record found,0,0,0,0,
+34,Personal Baseline,3,Standard of One,0.0,PROVISIONAL PASS,No exact or edit-distance-one federal record found,0,0,0,0,
+35,Personal Baseline,4,Measure of One,0.0,PROVISIONAL PASS,No exact or edit-distance-one federal record found,0,0,0,0,
+36,Personal Baseline,5,This Skin,0.0,AMBER - LIVE NEAR / RELEVANT,One-edit live hit in a relevant active class,0,3,0,12,THISKIN (SN 99883541; live; near-1; classes 010); THIN-SKIN (SN 99035493; RN 7984068; live; near-1; classes 019); THINSKIN (SN 77020309; RN 3273765; live; near-1; classes 016)
+37,Personal Baseline,6,For This Skin,0.0,PROVISIONAL PASS,No exact or edit-distance-one federal record found,0,0,0,0,
+38,Personal Baseline,7,Same Face Better,0.0,PROVISIONAL PASS,No exact or edit-distance-one federal record found,0,0,0,0,
+39,Personal Baseline,8,One Size Fits Nobody,0.0,PROVISIONAL PASS,No exact or edit-distance-one federal record found,0,0,0,0,
+40,Personal Baseline,9,The Standard Is You,0.0,PROVISIONAL PASS,No exact or edit-distance-one federal record found,0,0,0,0,
+41,Personal Baseline,10,N of One,0.0,RED - LIVE EXACT / RELEVANT,Exact live hit in a relevant active class,2,26,0,76,N-OF-ONE (SN 87054936; RN 5119097; live; exact; classes 044); N-OF-ONE (SN 77770688; RN 3952762; live; exact; classes 042); NO_ONE (SN 98561905; live; near-1; classes 035)
+42,Personal Baseline,11,Sample Size One,0.0,PROVISIONAL PASS,No exact or edit-distance-one federal record found,0,0,0,0,
+43,Personal Baseline,12,You Are the Control,0.0,PROVISIONAL PASS,No exact or edit-distance-one federal record found,0,0,0,0,
+44,Personal Baseline,13,Your Skin Is the Standard,0.0,PROVISIONAL PASS,No exact or edit-distance-one federal record found,0,0,0,0,
+45,Personal Baseline,14,The One Standard,0.0,PROVISIONAL PASS,Only dead/unknown one-edit records found,0,0,0,1,THE BONE STANDARD (SN 77201912; RN 3709166; dead/unknown; near-1)
+46,Personal Baseline,15,No Two Skins,0.0,PROVISIONAL PASS,No exact or edit-distance-one federal record found,0,0,0,0,
+47,Personal Baseline,16,Personal Best Skin,0.0,PROVISIONAL PASS,No exact or edit-distance-one federal record found,0,0,0,0,

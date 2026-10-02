@@ -1,0 +1,417 @@
+﻿Name,Score,World,Hook,Risk,Method,DecoyBrief,SourceFile,Normalized,Reviewer
+Show Your Work,9.4,Earned Confidence,Show Your Work makes transparency and visible reasoning the price of every claim.,Campaign-like,Command,Entertaining Skeptic,blind-skeptic.csv,showyourwork,A
+The Useful,9.4,Performance Without Theater,The Useful turns practical value into a confident beauty position rather than a compromise.,Low,Personification,Radical Focus,blind-fewerbetter.csv,theuseful,A
+Active Archive,9.3,The Living Standard,Active Archive turns accumulated evidence into a resource that continuously improves the routine.,Low,Metaphor,Living Standard,blind-standards.csv,activearchive,A
+Candor,9.3,Earned Confidence,Candor promises plain expertise and an honest answer when the evidence is uncertain.,Generic real word,Real word,Entertaining Skeptic,blind-skeptic.csv,candor,A
+Exacting Kind,9.3,Performance Without Theater,Exacting Kind combines uncompromising standards with a humane relationship to skin.,Low,Compound,Fewer Better Machines,blind-performance.csv,exactingkind,A
+Generous Precision,9.3,Performance Without Theater,Generous Precision pairs exact formulation with an experience that never feels cold or withholding.,Low,Paradox,Radical Focus,blind-fewerbetter.csv,generousprecision,B
+Good Authority,9.3,Earned Confidence,Good Authority makes expertise feel earned helpful and never domineering.,Low,Idiom,Fewer Better Machines,blind-performance.csv,goodauthority,A
+Oddly Specific,9.3,Earned Confidence,Oddly Specific celebrates the precise details that separate useful science from vague theater.,Campaign-like,Editorial phrase,Entertaining Skeptic,blind-skeptic.csv,oddlyspecific,A
+Quiet Standard,9.3,Performance Without Theater,Quiet Standard lets disciplined product quality speak without exaggerated claims or theater.,Low,Paradox,Radical Focus,blind-fewerbetter.csv,quietstandard,A
+Rational Magic,9.3,Beauty for Skeptics,Rational Magic preserves beauty's pleasure while refusing pseudoscience and exaggerated claims.,Low,Paradox,Calm Command,blind-control.csv,rationalmagic,A
+Recency Bias,9.3,Beauty for Skeptics,The name signals that new does not automatically mean better in skincare.,Negative bias,Temporal play,Living Standard,blind-standards.csv,recencybias,C
+The Fourth Wall,9.3,Beauty for Skeptics,The Fourth Wall breaks beauty's staged illusions and lets customers see how the claims are made.,Meaning stretch,Cultural frame,Fewer Better Machines,blind-performance.csv,thefourthwall,A
+Useful Doubt,9.3,Beauty for Skeptics,Useful Doubt turns skepticism into a productive filter for claims ingredients and innovation.,Low,Paradox,Living Standard,blind-standards.csv,usefuldoubt,B
+Beautifully Grown,9.2,The Long View,Beautifully Grown treats visible maturity as evidence of life rather than damage.,Campaign-like,Poetic phrase,Long View Living,blind-longview.csv,beautifullygrown,A
+Cheerful Doubt,9.2,Beauty for Skeptics,Cheerful Doubt turns skepticism into an engaging optimistic way to shop for skincare.,Low,Contradiction,Entertaining Skeptic,blind-skeptic.csv,cheerfuldoubt,A
+Distill,9.2,Performance Without Theater,Distill reduces skincare to the few elements that carry the greatest value.,Generic real word,Real word,Radical Focus,blind-fewerbetter.csv,distill,A
+Earn Its Place,9.2,Performance Without Theater,Earn Its Place requires every product and innovation to justify its role in the routine.,Campaign-like,Proposition,Radical Focus,blind-fewerbetter.csv,earnitsplace,B
+Fine Print,9.2,Beauty for Skeptics,Fine Print makes close reading and claim literacy feel sharp desirable and central to beauty.,Familiar phrase,Cultural frame,Fewer Better Machines,blind-performance.csv,fineprint,B
+From Here Forward,9.2,The Long View,From Here Forward makes the present face the confident starting point for what comes next.,Campaign-like,Proposition,Living Standard,blind-standards.csv,fromhereforward,A
+Gentle Edge,9.2,Performance Without Theater,Gentle Edge unites high performance with treatment that never turns aggressive or shaming.,Low,Paradox,Living Standard,blind-standards.csv,gentleedge,A
+Good As Is,9.2,On Your Terms,The brand cares for skin without implying that the person needs fixing.,Campaign-like,Proposition,Radical Focus,blind-fewerbetter.csv,goodasis,C
+High Season,9.2,The Long View,High Season declares the current age a period of fullness rather than decline.,Low,Metaphor,Long View Living,blind-longview.csv,highseason,A
+Just Getting Good,9.2,The Long View,The name turns aging into momentum with wit and self-confidence.,Campaign-like,Poetic phrase,Long View Living,blind-longview.csv,justgettinggood,C
+Ledger,9.2,Earned Confidence,A ledger makes every formula accountable to evidence and value.,Generic real word,Real word,Living Standard,blind-standards.csv,ledger,A
+Mirror Test,9.2,Beauty for Skeptics,Mirror Test makes reflection both a personal standard and a check on whether claims hold up.,Familiar phrase,Metaphor,Entertaining Skeptic,blind-skeptic.csv,mirrortest,B
+New Patina,9.2,The Long View,Time is allowed to add character while skincare keeps the surface at its best.,Low,Craft metaphor,Living Standard,blind-standards.csv,newpatina,C
+Off Script,9.2,Beauty for Skeptics,Off Script steps outside familiar beauty theater to speak plainly about evidence and limits.,Generic idiom,Media frame,Entertaining Skeptic,blind-skeptic.csv,offscript,A
+Sideeye,9.2,Beauty for Skeptics,Sideeye makes healthy suspicion of beauty theater instantly visible witty and memorable.,Tone polarizing,Real word,Entertaining Skeptic,blind-skeptic.csv,sideeye,B
+Spare Line,9.2,Performance Without Theater,Spare Line promises a tightly drawn product system with no decorative excess.,Low,Compound,Fewer Better Machines,blind-performance.csv,spareline,A
+Strictly Human,9.2,Performance Without Theater,Strictly Human makes rigor answer to real people rather than abstract perfection.,Low,Paradox,Radical Focus,blind-fewerbetter.csv,strictlyhuman,A
+Uncommon Sense,9.2,Earned Confidence,Uncommon Sense pairs practical judgment with a willingness to challenge category habits.,Low,Paradox,Radical Focus,blind-fewerbetter.csv,uncommonsense,A
+Bad Magic,9.1,Beauty for Skeptics,Bad Magic names the pseudoscience and spectacle that this brand refuses to sell.,Negative framing,Contradiction,Entertaining Skeptic,blind-skeptic.csv,badmagic,A
+Bold Restraint,9.1,Performance Without Theater,Confidence shows in what the brand refuses to add or exaggerate.,Abstract,Paradox,Radical Focus,blind-fewerbetter.csv,boldrestraint,C
+Final Form,9.1,Performance Without Theater,Final Form presents each product as resolved purposeful and ready without embellishment.,Generic phrase,Form metaphor,Radical Focus,blind-fewerbetter.csv,finalform,A
+First Principle,9.1,Beauty for Skeptics,First Principle returns every skincare decision to evidence utility and respect for the customer.,Familiar concept,Concept,Fewer Better Machines,blind-performance.csv,firstprinciple,B
+Good on You,9.1,On Your Terms,Good on You joins topical relevance with an affirming judgment that belongs to the customer.,Campaign-like,Poetic phrase,Long View Living,blind-longview.csv,goodonyou,B
+Kind Precision,9.1,Performance Without Theater,Kind Precision joins exacting product standards with respect for skin and self.,Low,Paradox,Radical Focus,blind-fewerbetter.csv,kindprecision,B
+Know Your Measure,9.1,On Your Terms,Know Your Measure makes discernment and self-knowledge more valuable than category pressure.,Campaign-like,Proposition,Long View Living,blind-longview.csv,knowyourmeasure,A
+Living Index,9.1,The Living Standard,Living Index organizes a stable system that changes when new evidence merits inclusion.,Low,Editorial metaphor,Living Standard,blind-standards.csv,livingindex,A
+Long Arc,9.1,The Long View,Healthy skin is pursued across years rather than through overnight theater.,Generic phrase,Metaphor,Fewer Better Machines,blind-performance.csv,longarc,C
+Method,9.1,Earned Confidence,Method makes disciplined formulation and plain explanation the brand's central character.,Generic real word,Intellectual frame,Calm Command,blind-control.csv,method,A
+Open Question,9.1,Beauty for Skeptics,Open Question makes inquiry a permanent part of how the brand evaluates skincare.,Generic phrase,Editorial phrase,Entertaining Skeptic,blind-skeptic.csv,openquestion,B
+Parlor Trick,9.1,Beauty for Skeptics,Parlor Trick calls out beauty spectacle while setting serious formulation in opposition to it.,Negative framing,Cultural frame,Entertaining Skeptic,blind-skeptic.csv,parlortrick,B
+Perennial,9.1,The Long View,Perennial suggests enduring vitality that returns and develops across seasons.,Generic real word,Temporal play,Living Standard,blind-standards.csv,perennial,A
+Plain English,9.1,Earned Confidence,Plain English makes intelligible explanation part of the product experience.,Generic phrase,Idiom,Entertaining Skeptic,blind-skeptic.csv,plainenglish,A
+Public Self,9.1,On Your Terms,Public Self names skin as the visible self without making visibility a demand for correction.,Conceptual edge,Spatial frame,Long View Living,blind-longview.csv,publicself,B
+Seasoned Fresh,9.1,The Long View,Freshness is separated from youth and made compatible with experience.,Paradox stretch,Paradox,Long View Living,blind-longview.csv,seasonedfresh,C
+Second Thought,9.1,Beauty for Skeptics,Second Thought turns reconsideration into a mark of intelligence in a category built on impulse.,Familiar phrase,Time phrase,Calm Command,blind-control.csv,secondthought,B
+Soft Power,9.1,On Your Terms,Care supports self-command without aggression shame or correction.,Generic phrase,Paradox,Calm Command,blind-control.csv,softpower,C
+Spare Theater,9.1,Performance Without Theater,Spare Theater names the category excess the brand removes while retaining wit and presence.,Negative framing,Contradiction,Entertaining Skeptic,blind-skeptic.csv,sparetheater,B
+Strong Case,9.1,Earned Confidence,Strong Case treats each product as an argument supported by evidence and experience.,Legal tone,Idiom,Fewer Better Machines,blind-performance.csv,strongcase,A
+Tender Steel,9.1,Performance Without Theater,Tender Steel joins durable results with respect for the skin and the person wearing it.,Meaning stretch,Paradox,Long View Living,blind-longview.csv,tendersteel,A
+The Empty Shelf,9.1,Performance Without Theater,An intentionally sparse shelf becomes the visual expression of fewer better products.,Negative image,Cultural frame,Fewer Better Machines,blind-performance.csv,theemptyshelf,C
+The Watchmaker,9.1,The Long View,The Watchmaker treats time with precision care and respect instead of fear.,Occupational tone,Personification,Living Standard,blind-standards.csv,thewatchmaker,A
+Timeless Next,9.1,The Long View,Timeless Next holds a proven routine steady while welcoming the advances that earn a place.,Meaning stretch,Paradox,Living Standard,blind-standards.csv,timelessnext,A
+Warm Rigor,9.1,Earned Confidence,Scientific standards meet language that remains human and generous.,Low,Paradox,Radical Focus,blind-fewerbetter.csv,warmrigor,C
+Well Considered,9.1,Performance Without Theater,Well Considered makes thoughtful formulation and useful restraint feel premium.,Low,Proposition,Fewer Better Machines,blind-performance.csv,wellconsidered,A
+Wildly Poised,9.1,On Your Terms,Wildly Poised holds expressive freedom and mature self-command in the same identity.,Meaning stretch,Paradox,Long View Living,blind-longview.csv,wildlypoised,A
+All Yours Now,9.0,On Your Terms,All Yours Now locates beauty and agency in the present rather than a recovered past.,Campaign-like,Proposition,Long View Living,blind-longview.csv,allyoursnow,A
+Better Question,9.0,Beauty for Skeptics,Good skincare begins by asking sharper questions than the category usually does.,Campaign-like,Proposition,Entertaining Skeptic,blind-skeptic.csv,betterquestion,C
+Brighter Matter,9.0,Performance Without Theater,Brighter Matter treats visible beauty as the result of better substance rather than brighter promises.,Meaning stretch,Poetic phrase,Long View Living,blind-longview.csv,brightermatter,A
+Closed Set,9.0,Performance Without Theater,Closed Set turns a deliberately limited product system into a mark of discipline.,Technical tone,Concept,Fewer Better Machines,blind-performance.csv,closedset,B
+Common Practice,9.0,The Living Standard,Common Practice makes high standards feel usable repeatable and open to improvement.,Generic phrase,Institutional frame,Living Standard,blind-standards.csv,commonpractice,A
+Decoder Ring,9.0,Beauty for Skeptics,Decoder Ring turns ingredient and claim literacy into an inviting cultural ritual.,Playful tone,Cultural frame,Entertaining Skeptic,blind-skeptic.csv,decoderring,B
+Due Weight,9.0,Beauty for Skeptics,Due Weight signals that evidence is judged proportionately instead of cherry-picked for drama.,Meaning stretch,Intellectual frame,Calm Command,blind-control.csv,dueweight,B
+Eyebrow,9.0,Beauty for Skeptics,Eyebrow connects the face itself with the universal gesture of intelligent doubt.,Body-part literalness,Gesture,Entertaining Skeptic,blind-skeptic.csv,eyebrow,B
+Fine Edit,9.0,Performance Without Theater,The line is edited down to the products and ingredients that deserve inclusion.,Editorial skew,Arts frame,Long View Living,blind-longview.csv,fineedit,C
+Funhouse Mirror,9.0,On Your Terms,The brand exposes distorted beauty standards so customers can trust their own view.,Negative association,Metaphor,Entertaining Skeptic,blind-skeptic.csv,funhousemirror,C
+Gentle Force,9.0,Earned Confidence,Gentle Force makes high performance compatible with restraint and respect for skin.,Low,Paradox,Calm Command,blind-control.csv,gentleforce,B
+Golden Mean,9.0,Earned Confidence,Golden Mean turns intelligent balance into a confident philosophy for formulas routines and claims.,Familiar concept,Metaphor,Long View Living,blind-longview.csv,goldenmean,B
+Human Measure,9.0,On Your Terms,Human Measure puts the person rather than an impossible ideal at the center of product decisions.,Low,Institutional frame,Living Standard,blind-standards.csv,humanmeasure,B
+In Good Time,9.0,The Long View,Better skin and better decisions are allowed to develop at a credible pace.,Campaign-like,Time phrase,Calm Command,blind-control.csv,ingoodtime,C
+Latitude,9.0,On Your Terms,Latitude gives people room to define beauty and care according to their own lives.,Generic real word,Real word,Long View Living,blind-longview.csv,latitude,A
+Measured Wild,9.0,The Living Standard,Measured Wild balances biological complexity with exacting formulation and judgment.,Low,Paradox,Calm Command,blind-control.csv,measuredwild,A
+Meet Yourself,9.0,On Your Terms,Meet Yourself makes skincare an encounter with the person present now rather than a younger target.,Campaign-like,Proposition,Long View Living,blind-longview.csv,meetyourself,B
+More Than Enough,9.0,On Your Terms,The name refuses deficit-based beauty and starts from inherent sufficiency.,Campaign-like,Poetic phrase,Long View Living,blind-longview.csv,morethanenough,C
+Narrow Plenty,9.0,Performance Without Theater,A deliberately small line delivers broad everyday utility.,Abstract,Contradiction,Fewer Better Machines,blind-performance.csv,narrowplenty,C
+New Alloy,9.0,The Living Standard,New Alloy blends proven foundations with carefully selected advances into something stronger.,Industrial tone,Craft metaphor,Living Standard,blind-standards.csv,newalloy,A
+Ownmost,9.0,On Your Terms,Ownmost coins a compact idea of maximum personal authorship over beauty and aging.,Pronunciation,Poetic coinage,Long View Living,blind-longview.csv,ownmost,A
+Patient Force,9.0,Performance Without Theater,Patient Force frames efficacy as consistent cumulative work rather than dramatic intervention.,Low,Contradiction,Fewer Better Machines,blind-performance.csv,patientforce,A
+Patina,9.0,The Long View,Age is framed as character to care for rather than damage to erase.,Material association,Unexpected word,Long View Living,blind-longview.csv,patina,C
+Permanent Draft,9.0,The Living Standard,Permanent Draft captures a trusted skincare core that remains intelligently open to revision.,Low,Paradox,Living Standard,blind-standards.csv,permanentdraft,B
+Plain Dealing,9.0,Performance Without Theater,Plain Dealing promises straightforward products claims and customer treatment.,Generic idiom,Idiom,Fewer Better Machines,blind-performance.csv,plaindealing,A
+Plainspoken,9.0,Beauty for Skeptics,Expert skincare is explained directly without pseudo-scientific ornament.,Low,Real word,Fewer Better Machines,blind-performance.csv,plainspoken,C
+Polite Revolt,9.0,Beauty for Skeptics,The brand rejects shame and theater with intelligence rather than cynicism.,Campaign-like,Contradiction,Entertaining Skeptic,blind-skeptic.csv,politerevolt,C
+Quiet Authority,9.0,Earned Confidence,Few excellent formulas earn confidence without shouting for it.,Low,Compound,Fewer Better Machines,blind-performance.csv,quietauthority,C
+Say It Plain,9.0,Beauty for Skeptics,Say It Plain makes understandable explanation a defining act of respect.,Campaign-like,Proposition,Radical Focus,blind-fewerbetter.csv,sayitplain,B
+Second Draft,9.0,The Long View,Second Draft frames aging as continued authorship rather than a return to an earlier self.,Low,Compound,Living Standard,blind-standards.csv,seconddraft,A
+Second Nature,9.0,The Long View,Second Nature makes a few proven products feel like an effortless lifelong practice.,Generic idiom,Idiom,Fewer Better Machines,blind-performance.csv,secondnature,A
+Serious Fun,9.0,Beauty for Skeptics,Serious Fun gives the brand permission to entertain while keeping the underlying work rigorous.,Generic phrase,Contradiction,Entertaining Skeptic,blind-skeptic.csv,seriousfun,A
+Set Your Terms,9.0,On Your Terms,Set Your Terms makes personal authority the organizing idea of the skincare system.,Campaign-like,Imperative phrase,Calm Command,blind-control.csv,setyourterms,B
+Soonward,9.0,The Long View,Soonward points toward better future standards without chasing novelty for its own sake.,Coinage,Temporal play,Living Standard,blind-standards.csv,soonward,A
+Steady Spark,9.0,The Living Standard,Steady Spark combines a dependable daily core with a live edge of innovation.,Low,Paradox,Living Standard,blind-standards.csv,steadyspark,A
+Still Rising,9.0,The Long View,Still Rising makes continued growth the emotional center of aging well.,Campaign-like,Paradox,Long View Living,blind-longview.csv,stillrising,A
+Test Kitchen,9.0,The Living Standard,Test Kitchen makes experimentation visible while only the best recipes reach the shelf.,Culinary association,Culinary frame,Living Standard,blind-standards.csv,testkitchen,A
+The Companion,9.0,On Your Terms,The Companion promises expertise that stays beside the customer without taking over.,Generic archetype,Personification,Long View Living,blind-longview.csv,thecompanion,A
+The Short Answer,9.0,Beauty for Skeptics,The Short Answer promises concise conclusions backed by deeper expertise when customers want it.,Editorial adjacency,Editorial metaphor,Radical Focus,blind-fewerbetter.csv,theshortanswer,B
+Upper Story,9.0,The Long View,Aging opens another chapter of beauty instead of closing the earlier one.,Meaning stretch,Spatial frame,Long View Living,blind-longview.csv,upperstory,C
+Well Judged,9.0,Earned Confidence,Well Judged signals discernment in formulas claims and the decisions customers make.,Low,Assessment phrase,Calm Command,blind-control.csv,welljudged,A
+Well Played,9.0,The Long View,Well Played turns a life lived with character into a witty age-positive skincare stance.,Campaign-like,Metaphor,Long View Living,blind-longview.csv,wellplayed,B
+Wise Company,9.0,On Your Terms,Wise Company makes the brand a capable companion rather than an authority that corrects you.,Low,Personification,Fewer Better Machines,blind-performance.csv,wisecompany,A
+Worth the While,9.0,The Long View,Worth the While ties daily care to a life experienced with patience and pleasure.,Generic phrase,Proposition,Long View Living,blind-longview.csv,worththewhile,A
+Calm Voltage,8.9,Performance Without Theater,Calm Voltage makes potent performance feel controlled steady and free of spectacle.,Meaning stretch,Paradox,Calm Command,blind-control.csv,calmvoltage,A
+Center Forward,8.9,The Living Standard,Center Forward holds the trusted center while moving the standard ahead.,Meaning stretch,Spatial metaphor,Living Standard,blind-standards.csv,centerforward,A
+Civil Mischief,8.9,Beauty for Skeptics,Civil Mischief gives polite intelligence a provocative role in upsetting category nonsense.,Meaning stretch,Contradiction,Entertaining Skeptic,blind-skeptic.csv,civilmischief,A
+Crux,8.9,Performance Without Theater,Crux puts the indispensable work of a routine into one compact master-brand idea.,Generic real word,Real word,Fewer Better Machines,blind-performance.csv,crux,A
+Haiku,8.9,Performance Without Theater,A few carefully chosen elements create more impact than a crowded composition.,Cultural association,Literary frame,Radical Focus,blind-fewerbetter.csv,haiku,C
+Holds True,8.9,The Living Standard,Holds True promises a standard that remains dependable under scrutiny and over time.,Campaign-like,Proposition,Fewer Better Machines,blind-performance.csv,holdstrue,A
+Keep What Matters,8.9,Performance Without Theater,Keep What Matters makes ruthless editing serve the customer's routine rather than the catalog.,Campaign-like,Proposition,Radical Focus,blind-fewerbetter.csv,keepwhatmatters,B
+Make It Yours,8.9,On Your Terms,Make It Yours frames the routine as adaptable guidance rather than correction imposed from above.,Campaign-like,Imperative phrase,Calm Command,blind-control.csv,makeityours,B
+Measured Spark,8.9,The Living Standard,Measured Spark unites disciplined evaluation with the moment a worthwhile innovation earns excitement.,Low,Paradox,Long View Living,blind-longview.csv,measuredspark,B
+Muchness,8.9,On Your Terms,Individual character is treated as something to support rather than correct.,Unusual word,Poetic word,Long View Living,blind-longview.csv,muchness,C
+Now & Again,8.9,The Living Standard,Now & Again balances everyday consistency with periodic evidence-led renewal.,Low,Temporal play,Living Standard,blind-standards.csv,nowagain,A
+Ongoing,8.9,The Long View,Ongoing makes continuity and adaptation feel more valuable than correction or reinvention.,Generic real word,Temporal play,Living Standard,blind-standards.csv,ongoing,B
+Open Discipline,8.9,Performance Without Theater,Open Discipline holds a rigorous core while remaining receptive to better evidence.,Meaning tension,Paradox,Radical Focus,blind-fewerbetter.csv,opendiscipline,B
+Open Letter,8.9,Beauty for Skeptics,Open Letter makes transparent explanation and public accountability part of the identity.,Generic phrase,Editorial term,Entertaining Skeptic,blind-skeptic.csv,openletter,A
+Pattern Break,8.9,The Living Standard,Pattern Break changes category habits only when evidence supports a better one.,Campaign-like,Spatial metaphor,Living Standard,blind-standards.csv,patternbreak,A
+Private View,8.9,On Your Terms,Private View turns beauty into a personal act of seeing rather than public approval.,Art-world association,Spatial frame,Long View Living,blind-longview.csv,privateview,A
+Richly Done,8.9,Performance Without Theater,Richly Done suggests complete sensorial quality without an overbuilt catalog or ritual.,Meaning stretch,Poetic phrase,Long View Living,blind-longview.csv,richlydone,A
+Room to Think,8.9,Beauty for Skeptics,Room to Think gives customers intellectual space in a category that often manufactures urgency.,Campaign-like,Spatial phrase,Calm Command,blind-control.csv,roomtothink,B
+Small Grandeur,8.9,Performance Without Theater,Small Grandeur makes a few excellent products feel more impressive than an endless assortment.,Low,Paradox,Radical Focus,blind-fewerbetter.csv,smallgrandeur,B
+Stable Motion,8.9,The Living Standard,The routine stays dependable while the science behind it keeps moving.,Abstract,Paradox,Living Standard,blind-standards.csv,stablemotion,C
+Steel Velvet,8.9,Performance Without Theater,Steel Velvet pairs structural performance with a refined sensorial experience.,Meaning stretch,Contradiction,Fewer Better Machines,blind-performance.csv,steelvelvet,A
+Still Current,8.9,The Living Standard,The core stays relevant because it advances selectively.,Double meaning,Double meaning,Fewer Better Machines,blind-performance.csv,stillcurrent,C
+Strong Grace,8.9,On Your Terms,Strong Grace combines personal authority with a humane refusal to shame visible age.,Generic phrase,Paradox,Long View Living,blind-longview.csv,stronggrace,A
+Sundial,8.9,The Long View,Sundial makes time visible and beautiful while keeping protection and continuity close to the skincare story.,Familiar symbol,Natural reference,Long View Living,blind-longview.csv,sundial,B
+The Curator,8.9,The Living Standard,The Curator admits only formulas and advances that deserve a place in the routine.,Generic archetype,Personification,Living Standard,blind-standards.csv,thecurator,A
+The Full Yes,8.9,On Your Terms,Skincare begins from affirmative self-regard rather than fear of aging.,Campaign-like,Poetic phrase,Long View Living,blind-longview.csv,thefullyes,C
+The Watchfire,8.9,Performance Without Theater,The Watchfire conveys a small disciplined flame kept alive through vigilance and care.,Meaning stretch,Metaphor,Living Standard,blind-standards.csv,thewatchfire,A
+Velvet Hammer,8.9,Performance Without Theater,Serious efficacy arrives with a controlled refined user experience.,Familiar metaphor,Contradiction,Entertaining Skeptic,blind-skeptic.csv,velvethammer,C
+White Space,8.9,Performance Without Theater,White Space makes the absence of clutter a distinctive part of product design and choice.,Design-world association,Editorial metaphor,Radical Focus,blind-fewerbetter.csv,whitespace,A
+Without Fuss,8.9,Performance Without Theater,Without Fuss makes ease and high utility the visible result of serious work behind the scenes.,Campaign-like,Proposition,Fewer Better Machines,blind-performance.csv,withoutfuss,B
+Adaptive Arc,8.8,The Living Standard,The routine adapts across skin changes without abandoning its governing standard.,Tech adjacency,Science metaphor,Living Standard,blind-standards.csv,adaptivearc,C
+All Things Considered,8.8,Beauty for Skeptics,All Things Considered turns broad evidence and careful judgment into a distinctive brand posture.,Campaign-like,Idiomatic phrase,Calm Command,blind-control.csv,allthingsconsidered,A
+As Promised,8.8,Beauty for Skeptics,As Promised makes the match between claims and delivered performance the whole standard.,Campaign-like,Proposition,Fewer Better Machines,blind-performance.csv,aspromised,A
+Backtalk,8.8,Beauty for Skeptics,Backtalk gives customers and experts permission to answer exaggerated beauty claims directly.,Rebellious tone,Real word,Entertaining Skeptic,blind-skeptic.csv,backtalk,B
+Borrowed Feathers,8.8,On Your Terms,Beauty is separated from borrowed ideals and returned to personal authority.,Meaning stretch,Metaphor,Entertaining Skeptic,blind-skeptic.csv,borrowedfeathers,C
+Bright Patience,8.8,The Long View,Visible progress is paired with realistic timelines and optimism.,Abstract,Poetic phrase,Living Standard,blind-standards.csv,brightpatience,C
+Calm Revision,8.8,The Living Standard,Formulas improve through deliberate updates rather than novelty churn.,Abstract,Paradox,Living Standard,blind-standards.csv,calmrevision,C
+Day One Again,8.8,The Long View,Day One Again makes renewal repeatable without pretending time can be reset.,Campaign-like,Temporal play,Living Standard,blind-standards.csv,dayoneagain,A
+Dovetail,8.8,Performance Without Theater,Each product fits the others precisely so the system works without excess.,Generic real word,Craft frame,Radical Focus,blind-fewerbetter.csv,dovetail,C
+Edit Suite,8.8,Performance Without Theater,Edit Suite makes a tight routine feel selected revised and stripped of unnecessary products.,Media adjacency,Editorial frame,Calm Command,blind-control.csv,editsuite,B
+Fair Measure,8.8,Earned Confidence,Fair Measure signals proportionate claims and formulas judged by what they genuinely deliver.,Familiar phrase,Idiom,Fewer Better Machines,blind-performance.csv,fairmeasure,B
+Finite Wonder,8.8,The Long View,Finite Wonder finds beauty in time's limits without surrendering curiosity or care.,Philosophical tone,Paradox,Radical Focus,blind-fewerbetter.csv,finitewonder,A
+First Edition,8.8,The Living Standard,Every launch begins a documented standard that can improve with knowledge.,Editorial skew,Publishing frame,Radical Focus,blind-fewerbetter.csv,firstedition,C
+Forum of One,8.8,On Your Terms,Forum of One makes the customer's considered judgment the final decision-making body.,Meaning stretch,Cultural frame,Long View Living,blind-longview.csv,forumofone,B
+Fullhearted,8.8,On Your Terms,Fullhearted brings unapologetic self-regard to the practice of caring for skin.,Low,Compound,Long View Living,blind-longview.csv,fullhearted,A
+Hard Maybe,8.8,Beauty for Skeptics,Hard Maybe makes disciplined uncertainty more trustworthy than false certainty.,Meaning stretch,Contradiction,Entertaining Skeptic,blind-skeptic.csv,hardmaybe,A
+Honest Margin,8.8,Beauty for Skeptics,Honest Margin names the space between what evidence supports and what marketing wants to say.,Meaning stretch,Compound,Fewer Better Machines,blind-performance.csv,honestmargin,B
+In Good Taste,8.8,On Your Terms,In Good Taste makes personal judgment the authority behind a restrained beauty routine.,Generic idiom,Arts frame,Long View Living,blind-longview.csv,ingoodtaste,A
+Keep Becoming,8.8,The Long View,Keep Becoming frames skin and self as ongoing without making youth the destination.,Campaign-like,Proposition,Living Standard,blind-standards.csv,keepbecoming,B
+Kind Edge,8.8,Performance Without Theater,Kind Edge gives advanced performance a precise point without aggression toward skin or age.,Low,Paradox,Calm Command,blind-control.csv,kindedge,B
+Lasting Curiosity,8.8,The Living Standard,Enduring products are paired with an active appetite for better answers.,Campaign-like,Poetic phrase,Living Standard,blind-standards.csv,lastingcuriosity,C
+Long Measure,8.8,The Long View,Long Measure judges skincare by sustained usefulness rather than launch-day excitement.,Low,Compound,Fewer Better Machines,blind-performance.csv,longmeasure,A
+Long Now,8.8,The Long View,Daily care is positioned as a durable relationship with skin over time.,Cultural association,Temporal play,Living Standard,blind-standards.csv,longnow,C
+Modest Splendor,8.8,Performance Without Theater,Modest Splendor gives restrained skincare enough beauty and delight without excess.,Luxury adjacency,Paradox,Radical Focus,blind-fewerbetter.csv,modestsplendor,B
+Monograph,8.8,Performance Without Theater,The brand studies a small set of skincare needs with unusual depth.,Editorial skew,Publishing frame,Radical Focus,blind-fewerbetter.csv,monograph,C
+More to Come,8.8,The Long View,More to Come makes aging an opening toward possibility rather than a story of decline.,Campaign-like,Proposition,Long View Living,blind-longview.csv,moretocome,B
+Mutual Regard,8.8,Earned Confidence,Mutual Regard frames skincare as a respectful exchange between expertise and the person using it.,Relational abstraction,Relational frame,Calm Command,blind-control.csv,mutualregard,B
+Naked Emperor,8.8,Beauty for Skeptics,Naked Emperor gives the brand a memorable role in exposing costly category illusions.,Negative metaphor,Cultural frame,Entertaining Skeptic,blind-skeptic.csv,nakedemperor,A
+Next Season,8.8,The Long View,Next Season presents aging as a welcome transition into another expressive chapter.,Generic phrase,Temporal play,Living Standard,blind-standards.csv,nextseason,A
+Object Lesson,8.8,Beauty for Skeptics,Each product demonstrates the value of evidence over explanation-heavy theater.,Campaign-like,Cultural frame,Radical Focus,blind-fewerbetter.csv,objectlesson,C
+Observatory,8.8,Beauty for Skeptics,Observatory casts the brand as a place for close watching broad perspective and evidence before action.,Institutional tone,Cultural frame,Calm Command,blind-control.csv,observatory,B
+On Balance,8.8,Earned Confidence,On Balance signals conclusions reached through judgment rather than trends or absolutes.,Familiar phrase,Idiomatic phrase,Calm Command,blind-control.csv,onbalance,B
+Plain Sight,8.8,Beauty for Skeptics,What is in the formula and why it belongs there stays easy to see.,Generic phrase,Idiom,Fewer Better Machines,blind-performance.csv,plainsight,C
+Provenance,8.8,Earned Confidence,Provenance traces every formula back to credible choices and accountable expertise.,Generic real word,Real word,Fewer Better Machines,blind-performance.csv,provenance,A
+Quiet Helm,8.8,On Your Terms,The customer remains in command with calm guidance from real expertise.,Nautical stretch,Nautical metaphor,Calm Command,blind-control.csv,quiethelm,C
+Quiet Power,8.8,Earned Confidence,Potent care expresses strength through results instead of spectacle.,Generic phrase,Metaphor,Long View Living,blind-longview.csv,quietpower,C
+Resolve,8.8,Earned Confidence,Resolve joins product conviction with the self-possession to age without apology.,Generic real word,Real word,Calm Command,blind-control.csv,resolve,B
+Retort,8.8,Beauty for Skeptics,Retort gives the brand a sharp intelligent answer to beauty theater and bad claims.,Combative tone,Real word,Entertaining Skeptic,blind-skeptic.csv,retort,A
+Short List,8.8,Performance Without Theater,Short List turns a limited assortment into evidence of judgment rather than lack.,Generic phrase,Concept,Fewer Better Machines,blind-performance.csv,shortlist,A
+Silent Fanfare,8.8,Performance Without Theater,Silent Fanfare gives excellent results a sense of occasion without loud claims.,Meaning stretch,Contradiction,Entertaining Skeptic,blind-skeptic.csv,silentfanfare,B
+Soft Heckle,8.8,Beauty for Skeptics,Soft Heckle combines a humane skincare manner with a refusal to let nonsense pass.,Tone polarizing,Contradiction,Entertaining Skeptic,blind-skeptic.csv,softheckle,B
+Soft Strength,8.8,Performance Without Theater,Soft Strength makes efficacy and skin respect mutually reinforcing rather than opposed.,Familiar paradox,Paradox,Long View Living,blind-longview.csv,softstrength,B
+Sound Reason,8.8,Earned Confidence,Sound reasoning becomes the source of product and decision confidence.,Generic phrase,Intellectual frame,Calm Command,blind-control.csv,soundreason,C
+Strong Quiet,8.8,Performance Without Theater,Potent products perform without loud promises or ornamental complexity.,Abstract,Contradiction,Fewer Better Machines,blind-performance.csv,strongquiet,C
+Strong Tea,8.8,Performance Without Theater,Strong Tea brings concentrated utility and familiar pleasure to a no-nonsense routine.,Culinary association,Metaphor,Long View Living,blind-longview.csv,strongtea,A
+Tact,8.8,Earned Confidence,Expert skincare advice arrives with rigor and respect for the person receiving it.,Generic real word,Real word,Calm Command,blind-control.csv,tact,C
+Tamed Voltage,8.8,Performance Without Theater,High-energy actives are controlled for useful performance rather than drama.,Meaning stretch,Contradiction,Fewer Better Machines,blind-performance.csv,tamedvoltage,C
+The Distiller,8.8,Performance Without Theater,The Distiller reduces complex skincare knowledge to a small set of concentrated essentials.,Alcohol cue,Personification,Radical Focus,blind-fewerbetter.csv,thedistiller,B
+The Houseguest,8.8,On Your Terms,The Houseguest imagines the brand as a respectful presence invited into a personal routine.,Meaning stretch,Personification,Long View Living,blind-longview.csv,thehouseguest,A
+The Interpreter,8.8,Beauty for Skeptics,Complex skincare studies are translated into plain product decisions.,Generic archetype,Personification,Living Standard,blind-standards.csv,theinterpreter,C
+The Patron,8.8,On Your Terms,The Patron casts the customer as the person who commissions and defines her own care.,Meaning stretch,Personification,Long View Living,blind-longview.csv,thepatron,A
+The Thesis,8.8,Beauty for Skeptics,The Thesis gives every product a clear argument that must be supported before it reaches the shelf.,Academic tone,Intellectual frame,Calm Command,blind-control.csv,thethesis,B
+The Unfinished,8.8,The Long View,The Unfinished honors a self that keeps evolving rather than needing correction.,Negative reading,Poetic phrase,Living Standard,blind-standards.csv,theunfinished,A
+Upstream,8.8,Beauty for Skeptics,Upstream signals a habit of tracing beauty claims back to their original evidence.,Generic real word,Journey metaphor,Calm Command,blind-control.csv,upstream,B
+Very Good,8.8,On Your Terms,Very Good expresses self-confidence and product confidence with disarming understatement.,Generic phrase,Quality phrase,Radical Focus,blind-fewerbetter.csv,verygood,A
+Warm Steel,8.8,Performance Without Theater,Warm Steel combines technical strength with a skincare manner that stays humane.,Meaning stretch,Paradox,Calm Command,blind-control.csv,warmsteel,B
+We Noticed,8.8,Beauty for Skeptics,Expert attention spots customer concerns and category contradictions worth addressing.,Campaign-like,Proposition,Entertaining Skeptic,blind-skeptic.csv,wenoticed,C
+Worth Asking,8.8,Earned Confidence,Worth Asking positions questions as the beginning of better skincare decisions.,Campaign-like,Proposition,Entertaining Skeptic,blind-skeptic.csv,worthasking,A
+Almanac House,8.7,The Living Standard,A growing body of skincare knowledge informs a compact modern routine.,Editorial skew,Cultural frame,Living Standard,blind-standards.csv,almanachouse,C
+At Length,8.7,The Long View,At Length values depth consistency and the benefits that accrue over time.,Meaning stretch,Idiom,Fewer Better Machines,blind-performance.csv,atlength,A
+Brass Tacks,8.7,Beauty for Skeptics,The brand gets quickly to what works what matters and what does not.,Generic idiom,Idiom,Fewer Better Machines,blind-performance.csv,brasstacks,C
+Brave Ease,8.7,On Your Terms,Brave Ease presents self-acceptance as confident and active rather than passive.,Meaning stretch,Paradox,Long View Living,blind-longview.csv,braveease,B
+Canon,8.7,The Living Standard,Canon gives a small set of proven essentials the authority to evolve selectively.,Generic cultural term,Cultural frame,Radical Focus,blind-fewerbetter.csv,canon,B
+Certain Maybe,8.7,Beauty for Skeptics,Certain Maybe captures the calibrated confidence of evidence that is strong without being absolute.,Meaning tension,Paradox,Calm Command,blind-control.csv,certainmaybe,B
+Do Tell,8.7,Beauty for Skeptics,Do Tell invites the details and politely challenges every unsupported beauty story.,Campaign-like,Retort,Entertaining Skeptic,blind-skeptic.csv,dotell,A
+Elastic Rule,8.7,The Living Standard,Standards stay strict while adapting to genuinely better knowledge.,Meaning stretch,Paradox,Living Standard,blind-standards.csv,elasticrule,C
+Evenhand,8.7,Earned Confidence,Balanced judgment guides both ingredient adoption and customer care.,Meaning stretch,Compound,Calm Command,blind-control.csv,evenhand,C
+Evernext,8.7,The Living Standard,The name balances lasting usefulness with readiness for the next credible advance.,Coinage,Temporal play,Living Standard,blind-standards.csv,evernext,C
+False Bottom,8.7,Beauty for Skeptics,False Bottom names the hidden weakness beneath impressive-looking beauty claims.,Negative framing,Metaphor,Entertaining Skeptic,blind-skeptic.csv,falsebottom,B
+Field & Form,8.7,Performance Without Theater,Credible research and disciplined formulation meet in a practical product system.,Ampersand,Compound,Living Standard,blind-standards.csv,fieldform,C
+Fixed Star,8.7,The Living Standard,A dependable reference point guides a category that keeps changing.,Generic phrase,Celestial metaphor,Calm Command,blind-control.csv,fixedstar,C
+Heretic,8.7,Beauty for Skeptics,Heretic positions the brand against inherited beauty dogma while keeping evidence as its discipline.,Aggressive edge,Archetype,Entertaining Skeptic,blind-skeptic.csv,heretic,B
+High Bar,8.7,Performance Without Theater,High Bar sets a demanding threshold for every formula without making a spectacle of standards.,Familiar phrase,Standard metaphor,Radical Focus,blind-fewerbetter.csv,highbar,B
+High Ground,8.7,On Your Terms,High Ground evokes self-possession without demanding perfection or apology.,Generic idiom,Terrain metaphor,Calm Command,blind-control.csv,highground,A
+Hinge,8.7,The Living Standard,Hinge makes evidence the point on which a real change in the routine should turn.,Generic real word,Technical metaphor,Fewer Better Machines,blind-performance.csv,hinge,B
+Honest Trickster,8.7,Beauty for Skeptics,Honest Trickster uses wit and surprise to reveal rather than disguise what products can do.,Meaning stretch,Contradiction,Entertaining Skeptic,blind-skeptic.csv,honesttrickster,A
+House Rule,8.7,On Your Terms,The customer sets the terms while the brand supplies the expertise.,Generic phrase,Cultural frame,Fewer Better Machines,blind-performance.csv,houserule,C
+House Style,8.7,On Your Terms,House Style turns a coherent skincare point of view into something customers can make personally expressive.,Design adjacency,Design frame,Radical Focus,blind-fewerbetter.csv,housestyle,B
+Know What Stays,8.7,The Living Standard,Know What Stays makes continuity an informed decision rather than resistance to change.,Campaign-like,Proposition,Radical Focus,blind-fewerbetter.csv,knowwhatstays,B
+Last Edit,8.7,Beauty for Skeptics,Last Edit removes the final layer of exaggeration before a claim reaches the customer.,Editorial association,Editorial compound,Entertaining Skeptic,blind-skeptic.csv,lastedit,A
+Lean Delight,8.7,Performance Without Theater,Lean Delight combines a tightly edited system with sensorial pleasure.,Diet-language risk,Paradox,Radical Focus,blind-fewerbetter.csv,leandelight,B
+Made Plain,8.7,Beauty for Skeptics,Formulas and choices are made understandable without flattening the science.,Campaign-like,Proposition,Radical Focus,blind-fewerbetter.csv,madeplain,C
+Morning Foundry,8.7,Performance Without Theater,Morning Foundry makes the daily routine feel carefully engineered rather than ceremonially luxurious.,Industrial tone,Metaphor,Living Standard,blind-standards.csv,morningfoundry,A
+Morrowlight,8.7,The Long View,Morrowlight joins future-facing optimism with the visible glow of well-cared-for skin.,Poetic stretch,Poetic coinage,Living Standard,blind-standards.csv,morrowlight,A
+New Cadence,8.7,The Living Standard,New Cadence lets credible advances change the routine without disrupting its coherence.,Generic phrase,Arts frame,Long View Living,blind-longview.csv,newcadence,A
+Nothing More,8.7,Performance Without Theater,Every formula contains what earns a role and leaves the rest out.,Campaign-like,Proposition,Fewer Better Machines,blind-performance.csv,nothingmore,C
+Paper Crown,8.7,Beauty for Skeptics,Paper Crown exposes prestige that looks impressive but cannot carry the weight of evidence.,Negative metaphor,Metaphor,Entertaining Skeptic,blind-skeptic.csv,papercrown,A
+Pith,8.7,Performance Without Theater,The brand reduces skincare to its most useful and substantial parts.,Short word,Real word,Radical Focus,blind-fewerbetter.csv,pith,C
+Quibble,8.7,Beauty for Skeptics,Quibble turns attention to small but consequential claim details into a distinctive brand virtue.,Petty connotation,Real word,Entertaining Skeptic,blind-skeptic.csv,quibble,B
+Quietly Certain,8.7,Earned Confidence,Assurance comes from dependable results rather than cosmetic bravado.,Campaign-like,Adverb phrase,Calm Command,blind-control.csv,quietlycertain,C
+Rare Form,8.7,Performance Without Theater,A small number of exceptional formulas define the brand.,Generic phrase,Idiom,Fewer Better Machines,blind-performance.csv,rareform,C
+Red Thread,8.7,The Living Standard,Red Thread names the coherent principle that runs through every product and every earned update.,Familiar metaphor,Cultural frame,Fewer Better Machines,blind-performance.csv,redthread,B
+Riposte,8.7,Beauty for Skeptics,The brand answers inflated category promises with informed wit and better products.,Pronunciation,Real word,Entertaining Skeptic,blind-skeptic.csv,riposte,C
+Scrutiny,8.7,Earned Confidence,Scrutiny turns close questioning into a service for people tired of beauty hype.,Harsh tone,Real word,Entertaining Skeptic,blind-skeptic.csv,scrutiny,A
+Sea Room,8.7,On Your Terms,The brand creates space to choose a routine without category pressure.,Nautical stretch,Nautical frame,Calm Command,blind-control.csv,searoom,C
+Seasoned New,8.7,The Living Standard,Seasoned New pairs accumulated judgment with innovation that has earned its welcome.,Meaning stretch,Culinary frame,Living Standard,blind-standards.csv,seasonednew,A
+Serious Joy,8.7,Earned Confidence,Rigor and delight belong together in a routine worth keeping.,Abstract,Paradox,Long View Living,blind-longview.csv,seriousjoy,C
+Signal Bloom,8.7,The Living Standard,Signal Bloom joins biological vitality with the discipline of detecting meaningful scientific change.,Meaning stretch,Science metaphor,Living Standard,blind-standards.csv,signalbloom,A
+Simple Depth,8.7,Performance Without Theater,A concise routine contains serious formulation intelligence beneath the surface.,Generic phrase,Paradox,Radical Focus,blind-fewerbetter.csv,simpledepth,C
+Strikethrough,8.7,Beauty for Skeptics,Empty claims are edited out until only useful skincare remains.,Editorial skew,Editorial term,Entertaining Skeptic,blind-skeptic.csv,strikethrough,C
+Sunroom,8.7,The Long View,Sunroom makes daily care feel open warm and lived-in while inviting an intelligent conversation about exposure.,Sun exposure cue,Compound,Long View Living,blind-longview.csv,sunroom,B
+Sure Footing,8.7,On Your Terms,Sure Footing makes informed skincare choice feel stable personal and unhurried.,Generic idiom,Idiom,Fewer Better Machines,blind-performance.csv,surefooting,A
+The Chooser,8.7,On Your Terms,The Chooser makes selection and refusal visible powers held by the customer.,Generic archetype,Personification,Radical Focus,blind-fewerbetter.csv,thechooser,A
+The Errata,8.7,Beauty for Skeptics,The brand corrects category nonsense while revising its own standards when needed.,Editorial skew,Editorial metaphor,Living Standard,blind-standards.csv,theerrata,C
+The Listener,8.7,On Your Terms,The Listener makes customer concerns and lived experience part of intelligent skincare expertise.,Generic archetype,Personification,Living Standard,blind-standards.csv,thelistener,B
+The Premise,8.7,Earned Confidence,The Premise starts every product with a defensible reason to exist.,Low,Intellectual frame,Calm Command,blind-control.csv,thepremise,A
+The Signature,8.7,On Your Terms,The Signature frames a small routine as an expression of personal identity.,Generic luxury term,Arts frame,Long View Living,blind-longview.csv,thesignature,B
+Threefold,8.7,Performance Without Theater,Threefold suggests a deliberately bounded system whose parts work harder together.,Number constraint,Number frame,Fewer Better Machines,blind-performance.csv,threefold,A
+Understood,8.7,On Your Terms,Understood makes feeling heard and intelligently guided the emotional center of the brand.,Generic real word,State word,Calm Command,blind-control.csv,understood,B
+Vernacular,8.7,On Your Terms,Expert care is translated into the customer's own language and lived context.,Intellectual,Design frame,Radical Focus,blind-fewerbetter.csv,vernacular,C
+With Reason,8.7,Earned Confidence,Every formula and routine choice comes with an intelligible reason.,Campaign-like,Proposition,Fewer Better Machines,blind-performance.csv,withreason,C
+All the While,8.6,The Long View,All the While celebrates the quiet accumulation of care knowledge and self-knowledge.,Campaign-like,Poetic phrase,Long View Living,blind-longview.csv,allthewhile,B
+Anvil,8.6,Performance Without Theater,Anvil gives a compact routine the weight of tools made for repeated use.,Industrial tone,Real word,Fewer Better Machines,blind-performance.csv,anvil,A
+Blue Hour,8.6,The Long View,The beauty of transition becomes a positive frame for skin as it changes.,Crowded phrase,Natural system,Living Standard,blind-standards.csv,bluehour,C
+Cambium,8.6,The Long View,Cambium evokes a living layer that renews while preserving the strength of what has grown.,Meaning stretch,Natural system,Living Standard,blind-standards.csv,cambium,B
+Canary Room,8.6,Beauty for Skeptics,The brand serves as an early warning system for dubious trends and useful advances.,Meaning stretch,Metaphor,Entertaining Skeptic,blind-skeptic.csv,canaryroom,C
+Compass,8.6,On Your Terms,The brand gives people orientation without dictating a single correct way to age.,Generic real word,Real word,Living Standard,blind-standards.csv,compass,C
+Deadpan,8.6,Beauty for Skeptics,Deadpan gives rigorous skincare a dry voice that refuses breathless marketing performance.,Tone polarizing,Tone word,Entertaining Skeptic,blind-skeptic.csv,deadpan,B
+Deep Focus,8.6,Performance Without Theater,The company goes deeper on a few formulas instead of widening the catalog.,Generic phrase,Arts frame,Long View Living,blind-longview.csv,deepfocus,C
+Deliberate Goods,8.6,Performance Without Theater,Deliberate Goods makes every product justify its presence through purpose and performance.,Retail adjacency,Proposition,Fewer Better Machines,blind-performance.csv,deliberategoods,B
+Fine Tolerance,8.6,Performance Without Theater,Performance includes exacting standards for both efficacy and skin tolerance.,Technical tone,Craft metaphor,Living Standard,blind-standards.csv,finetolerance,C
+Firm Grace,8.6,Earned Confidence,High standards and humane language reinforce confidence without age shame.,Category distance,Paradox,Calm Command,blind-control.csv,firmgrace,C
+Gentle Voltage,8.6,Performance Without Theater,Potency and tolerability are engineered to coexist in a compact routine.,Meaning stretch,Paradox,Long View Living,blind-longview.csv,gentlevoltage,C
+Good Counsel,8.6,Earned Confidence,Real expertise helps customers make confident choices without prescribing insecurity.,Advisory skew,Relational frame,Calm Command,blind-control.csv,goodcounsel,C
+Kiln,8.6,The Living Standard,Kiln evokes formulas tested and refined before they become enduring daily objects.,Industrial tone,Real word,Fewer Better Machines,blind-performance.csv,kiln,A
+Lightkeeper,8.6,The Long View,Lightkeeper makes the brand a guardian of radiance and informed protection across changing years.,Efficacy adjacency,Compound,Long View Living,blind-longview.csv,lightkeeper,B
+Living Grid,8.6,The Living Standard,Living Grid suggests a coherent routine whose parts can advance without losing structure.,Technical tone,Spatial metaphor,Living Standard,blind-standards.csv,livinggrid,A
+Local Color,8.6,On Your Terms,The brand values the particular character of each face instead of standardizing beauty.,Generic phrase,Spatial frame,Long View Living,blind-longview.csv,localcolor,C
+Long Watch,8.6,The Long View,Long Watch conveys patient vigilance over changing evidence and changing skin.,Somber tone,Nautical,Fewer Better Machines,blind-performance.csv,longwatch,A
+Margin Note,8.6,The Living Standard,Margin Note treats innovation as a precise revision to a sound underlying text.,Editorial association,Editorial metaphor,Living Standard,blind-standards.csv,marginnote,A
+Metronome,8.6,The Living Standard,Metronome makes consistency the base rhythm while progress adjusts the tempo.,Generic real word,Time metaphor,Calm Command,blind-control.csv,metronome,A
+Nautilus,8.6,The Long View,Nautilus offers a vivid model of proportionate growth that expands without abandoning its core.,Familiar symbol,Real word,Fewer Better Machines,blind-performance.csv,nautilus,B
+New Tradition,8.6,The Living Standard,New Tradition makes evidence-led improvement feel compatible with dependable daily ritual.,Familiar paradox,Paradox,Living Standard,blind-standards.csv,newtradition,B
+Nextness,8.6,The Living Standard,Nextness names a disciplined appetite for what genuinely improves the standard.,Abstract coinage,Poetic coinage,Living Standard,blind-standards.csv,nextness,A
+Oath,8.6,Earned Confidence,Oath frames product quality and honest guidance as promises the company must keep.,Generic real word,Real word,Fewer Better Machines,blind-performance.csv,oath,A
+Pocket Thunder,8.6,Performance Without Theater,A compact lineup carries more useful performance than its size suggests.,Meaning stretch,Contradiction,Entertaining Skeptic,blind-skeptic.csv,pocketthunder,C
+Prime of Mind,8.6,The Long View,Prime of Mind relocates the idea of being in one's prime from age to agency and outlook.,Phrase complexity,Poetic phrase,Long View Living,blind-longview.csv,primeofmind,B
+Proper Noun,8.6,Earned Confidence,Proper Noun treats every customer as a person rather than a problem to correct.,Meaning stretch,Editorial metaphor,Radical Focus,blind-fewerbetter.csv,propernoun,A
+Rigor,8.6,Earned Confidence,Rigor puts disciplined evaluation at the center without forcing science jargon onto the bottle.,Clinical edge,Real word,Radical Focus,blind-fewerbetter.csv,rigor,B
+Shortform,8.6,Performance Without Theater,Shortform makes brevity a product philosophy built on concentrated usefulness.,Media adjacency,Compound,Radical Focus,blind-fewerbetter.csv,shortform,B
+Signalcraft,8.6,The Living Standard,The brand reads scientific signals and turns the worthy ones into useful skincare.,Tech adjacency,Compound,Living Standard,blind-standards.csv,signalcraft,C
+Small Type,8.6,Beauty for Skeptics,The details others bury become the center of formulation and education.,Editorial skew,Editorial frame,Entertaining Skeptic,blind-skeptic.csv,smalltype,C
+Solstice,8.6,The Long View,Changing seasons become an elegant model for adaptive lifelong care.,Generic real word,Unexpected word,Long View Living,blind-longview.csv,solstice,C
+Steady Flame,8.6,The Long View,Steady Flame represents vitality maintained through consistent care rather than dramatic intervention.,Generic metaphor,Metaphor,Long View Living,blind-longview.csv,steadyflame,A
+The Arbiter,8.6,Earned Confidence,The Arbiter positions the brand as a discerning judge of claims ingredients and useful innovation.,Authoritarian edge,Personification,Calm Command,blind-control.csv,thearbiter,B
+The Archivist,8.6,The Living Standard,The Archivist preserves what works and keeps the record open to better evidence.,Occupational tone,Personification,Living Standard,blind-standards.csv,thearchivist,A
+The Sourcebook,8.6,Beauty for Skeptics,The Sourcebook makes accessible evidence and expert answers part of the brand's reason for being.,Publishing association,Editorial metaphor,Living Standard,blind-standards.csv,thesourcebook,A
+The Steward,8.6,Earned Confidence,The Steward casts the brand as a responsible guardian of skin knowledge and customer trust.,Institutional tone,Personification,Living Standard,blind-standards.csv,thesteward,B
+The Tailor,8.6,Performance Without Theater,The Tailor suggests expert fit and adjustment without an oversized product wardrobe.,Generic archetype,Personification,Radical Focus,blind-fewerbetter.csv,thetailor,B
+Think in Full,8.6,On Your Terms,Think in Full invites decisions that account for evidence preference and the whole person.,Campaign-like,Proposition,Calm Command,blind-control.csv,thinkinfull,B
+Tomorrowwise,8.6,The Long View,Tomorrowwise gives the brand a future-facing intelligence grounded in decisions that hold up over time.,Coined spelling,Temporal play,Living Standard,blind-standards.csv,tomorrowwise,B
+Until Further Notice,8.6,The Living Standard,Every formula is trusted yet remains open to evidence-led revision.,Campaign-like,Proposition,Living Standard,blind-standards.csv,untilfurthernotice,C
+Valence,8.6,Earned Confidence,Valence links scientific charge with the emotional value of feeling good in one's skin.,Meaning stretch,Real word,Calm Command,blind-control.csv,valence,A
+Velvet Gauge,8.6,Earned Confidence,Velvet Gauge pairs sensorial pleasure with standards that can be measured.,Meaning stretch,Compound,Living Standard,blind-standards.csv,velvetgauge,A
+Well Composed,8.6,Earned Confidence,A considered routine helps skin and self-possession feel well composed.,Generic phrase,Arts frame,Long View Living,blind-longview.csv,wellcomposed,C
+Wise After,8.6,The Long View,Wise After gives experience and what comes next equal dignity.,Meaning stretch,Poetic phrase,Living Standard,blind-standards.csv,wiseafter,A
+Abacus,8.5,Beauty for Skeptics,Abacus suggests visible reckoning and a preference for what can actually be accounted for.,Meaning stretch,Real word,Fewer Better Machines,blind-performance.csv,abacus,B
+After Today,8.5,The Long View,The routine is designed for the person and skin that continue beyond today.,Campaign-like,Temporal play,Living Standard,blind-standards.csv,aftertoday,C
+Amplitude,8.5,On Your Terms,Amplitude expands beauty toward fuller self-expression rather than narrower ideals.,Technical tone,Real word,Long View Living,blind-longview.csv,amplitude,B
+Aptitude,8.5,Earned Confidence,Aptitude names competence itself and gives the brand an intelligent capable bearing.,Generic real word,Real word,Radical Focus,blind-fewerbetter.csv,aptitude,B
+Better Angle,8.5,On Your Terms,Better Angle offers a more generous point of view on skin without declaring the person a problem.,Generic phrase,Perspective phrase,Calm Command,blind-control.csv,betterangle,B
+By Better Light,8.5,Earned Confidence,The brand helps people judge formulas and their own skin in more revealing light.,Campaign-like,Proposition,Living Standard,blind-standards.csv,bybetterlight,C
+Cairn,8.5,The Long View,Each product is a dependable marker along a longer skincare journey.,Generic real word,Nature metaphor,Calm Command,blind-control.csv,cairn,C
+Centerline,8.5,The Living Standard,Centerline gives the product system a stable organizing principle with room for calibrated progress.,Technical tone,Architecture,Calm Command,blind-control.csv,centerline,B
+Civic Method,8.5,The Living Standard,A transparent public-minded method governs how formulas are chosen and improved.,Institutional,Institutional frame,Living Standard,blind-standards.csv,civicmethod,C
+Common Ground,8.5,On Your Terms,Common Ground places experts and customers on equal footing around shared evidence.,Generic idiom,Idiom,Fewer Better Machines,blind-performance.csv,commonground,A
+Curiously Enough,8.5,Beauty for Skeptics,Curiosity keeps the brand open to evidence while the tone stays lightly provocative.,Campaign-like,Editorial phrase,Entertaining Skeptic,blind-skeptic.csv,curiouslyenough,C
+Discernment,8.5,Earned Confidence,The name centers the intelligence to choose what skin genuinely needs.,Generic real word,Intellectual frame,Calm Command,blind-control.csv,discernment,C
+Fine Cut,8.5,Performance Without Theater,Fine Cut suggests exact editing that leaves only the strongest products and clearest choices.,Generic craft term,Craft metaphor,Radical Focus,blind-fewerbetter.csv,finecut,B
+Focused Freedom,8.5,On Your Terms,A small rigorous system gives customers more freedom to use skincare their way.,Abstract,Paradox,Radical Focus,blind-fewerbetter.csv,focusedfreedom,C
+Forward Measure,8.5,The Living Standard,Forward Measure combines progress with a disciplined threshold for what deserves adoption.,Meaning stretch,Compound,Living Standard,blind-standards.csv,forwardmeasure,B
+Full Measure,8.5,Earned Confidence,Performance is judged in the full context of efficacy tolerance and use.,Generic phrase,Time metaphor,Calm Command,blind-control.csv,fullmeasure,C
+Good Order,8.5,Performance Without Theater,A few products are arranged into a routine that is easy to trust and use.,Generic phrase,Idiom,Fewer Better Machines,blind-performance.csv,goodorder,C
+Grand Latitude,8.5,On Your Terms,Grand Latitude gives customers generous room to define beauty and shape their own routine.,Luxury adjacency,Spatial frame,Long View Living,blind-longview.csv,grandlatitude,B
+Heartwood,8.5,The Long View,A strong living core becomes the metaphor for durability and depth.,Nature adjacency,Compound,Long View Living,blind-longview.csv,heartwood,C
+Honest Mystery,8.5,Beauty for Skeptics,Honest Mystery leaves room for what skincare science does not yet know without surrendering rigor.,Truth-language adjacency,Paradox,Calm Command,blind-control.csv,honestmystery,B
+Inner Compass,8.5,On Your Terms,Personal priorities guide how credible skincare knowledge is put to use.,Generic phrase,Metaphor,Long View Living,blind-longview.csv,innercompass,C
+Interruption,8.5,Beauty for Skeptics,Interruption stops the category script long enough to ask whether a product is actually useful.,Harsh tone,Editorial term,Entertaining Skeptic,blind-skeptic.csv,interruption,A
+Living Atlas,8.5,The Living Standard,An evolving map connects skin needs credible studies and formula choices.,Meaning stretch,Compound,Living Standard,blind-standards.csv,livingatlas,C
+Long Pause,8.5,Beauty for Skeptics,Long Pause embodies the thoughtful beat before believing another dramatic promise.,Somber tone,Gesture,Entertaining Skeptic,blind-skeptic.csv,longpause,A
+New Common,8.5,The Living Standard,Better science becomes an accessible everyday standard rather than an elite novelty.,Abstract,Cultural frame,Long View Living,blind-longview.csv,newcommon,C
+Ordered Wild,8.5,On Your Terms,Individual skin stays individual within a routine built on dependable principles.,Abstract,Paradox,Living Standard,blind-standards.csv,orderedwild,C
+Palimpsest,8.5,The Long View,Skin is an evolving surface whose history remains part of its beauty.,Pronunciation,Editorial metaphor,Living Standard,blind-standards.csv,palimpsest,C
+Plain Pageant,8.5,Beauty for Skeptics,Plain Pageant keeps beauty's visual delight while stripping away its empty spectacle.,Meaning stretch,Contradiction,Entertaining Skeptic,blind-skeptic.csv,plainpageant,A
+Plainish,8.5,Beauty for Skeptics,Plainish makes candor feel witty enough to resist both blandness and hype.,Coinage,Coinage,Entertaining Skeptic,blind-skeptic.csv,plainish,A
+Polished Wild,8.5,On Your Terms,Polished Wild lets refinement and individuality coexist without forcing conformity.,Luxury adjacency,Paradox,Long View Living,blind-longview.csv,polishedwild,B
+Praxis,8.5,Earned Confidence,Praxis turns credible research into a disciplined daily practice.,Academic tone,Real word,Living Standard,blind-standards.csv,praxis,A
+Restless Poise,8.5,Earned Confidence,The brand stays composed while continuously testing what deserves to improve.,Abstract,Paradox,Calm Command,blind-control.csv,restlesspoise,C
+See It Whole,8.5,Earned Confidence,See It Whole connects skin science self-regard and informed choice in one generous view.,Campaign-like,Proposition,Calm Command,blind-control.csv,seeitwhole,A
+Shared Sense,8.5,On Your Terms,Shared Sense makes skincare decisions a collaboration between evidence expertise and lived experience.,Meaning stretch,Relational frame,Calm Command,blind-control.csv,sharedsense,A
+Simple Plenty,8.5,Performance Without Theater,Simple Plenty promises a small routine that still feels generous complete and pleasurable.,Meaning tension,Paradox,Long View Living,blind-longview.csv,simpleplenty,B
+Single Origin,8.5,Earned Confidence,Single Origin makes ingredient provenance and formula purpose feel traceable and considered.,Category adjacency,Culinary frame,Radical Focus,blind-fewerbetter.csv,singleorigin,B
+Socratic,8.5,Beauty for Skeptics,Questions and reasons replace decrees in the way skincare choices are explained.,Cultural association,Philosophic frame,Radical Focus,blind-fewerbetter.csv,socratic,C
+South Window,8.5,The Long View,South Window evokes flattering lasting light and a warm perspective on time.,Meaning stretch,Spatial frame,Long View Living,blind-longview.csv,southwindow,A
+Sparehouse,8.5,Performance Without Theater,Sparehouse turns restraint into an ownable place for fewer better essentials.,Coined meaning,Compound,Radical Focus,blind-fewerbetter.csv,sparehouse,B
+Sunlit Table,8.5,The Long View,Sunlit Table gives the brand a generous social world where care belongs to a full life.,Lifestyle stretch,Metaphor,Long View Living,blind-longview.csv,sunlittable,B
+Sunward,8.5,The Living Standard,Sunward gives continual improvement a warm human direction instead of a technical one.,Meaning stretch,Natural system,Living Standard,blind-standards.csv,sunward,A
+Tempered Glass,8.5,Earned Confidence,Tempered Glass combines transparency with tested strength as a model for trustworthy skincare.,Meaning stretch,Material metaphor,Calm Command,blind-control.csv,temperedglass,B
+The Argument,8.5,Beauty for Skeptics,The Argument makes each formula a reasoned case open to intelligent examination.,Combative edge,Intellectual frame,Calm Command,blind-control.csv,theargument,B
+The Artful,8.5,On Your Terms,The Artful treats skincare as informed self-expression rather than compulsory correction.,Generic adjective,Arts frame,Long View Living,blind-longview.csv,theartful,A
+The Constant,8.5,The Living Standard,The Constant names the dependable core that lets carefully chosen innovation feel credible.,Generic concept,Concept,Fewer Better Machines,blind-performance.csv,theconstant,B
+The Interval,8.5,The Long View,The Interval creates space to see care as a continuing rhythm rather than a race against age.,Meaning stretch,Time metaphor,Calm Command,blind-control.csv,theinterval,B
+The Lookout,8.5,Beauty for Skeptics,The brand watches the category for useful advances and calls out empty spectacle.,Category distance,Personification,Living Standard,blind-standards.csv,thelookout,C
+The Verdict,8.5,Earned Confidence,The Verdict is the considered conclusion after ingredients claims and evidence have been weighed.,Legal tone,Legal frame,Fewer Better Machines,blind-performance.csv,theverdict,A
+Thesis,8.5,Earned Confidence,Thesis gives the brand a reasoned point of view on what skin actually needs.,Academic tone,Real word,Fewer Better Machines,blind-performance.csv,thesis,A
+Tidal Clock,8.5,The Long View,Tidal Clock makes change feel rhythmic natural and worth working with rather than fighting.,Meaning stretch,Metaphor,Living Standard,blind-standards.csv,tidalclock,B
+Timekeeper,8.5,The Long View,Timekeeper recasts time as something to understand and accompany rather than defeat.,Literal aging cue,Personified time,Calm Command,blind-control.csv,timekeeper,A
+Vantage,8.5,Earned Confidence,Vantage gives customers an informed perspective from which skincare choices feel clear and controlled.,Generic real word,Real word,Calm Command,blind-control.csv,vantage,B
+Vellum,8.5,The Long View,Vellum suggests a beautiful surface that carries history and remains worthy of close attention.,Animal-material cue,Unexpected word,Long View Living,blind-longview.csv,vellum,B
+Wry,8.5,Beauty for Skeptics,A compact knowing voice gives rigorous skincare a welcome sense of humor.,Short word,Tone word,Entertaining Skeptic,blind-skeptic.csv,wry,C
+À La Carte,8.5,On Your Terms,À La Carte makes expert curation compatible with choosing only what fits the individual.,Category adjacency,Culinary frame,Radical Focus,blind-fewerbetter.csv,alacarte,B
+A Fine Thing,8.4,The Long View,A Fine Thing treats caring for skin over decades as pleasure and judgment rather than correction.,Campaign-like,Poetic phrase,Long View Living,blind-longview.csv,afinething,B
+Addendum,8.4,The Living Standard,Addendum suggests that useful advances are added thoughtfully without rewriting everything for attention.,Editorial abstraction,Editorial metaphor,Living Standard,blind-standards.csv,addendum,B
+Always Ready,8.4,On Your Terms,Always Ready offers dependable support for skin as life and preferences change.,Generic phrase,Proposition,Fewer Better Machines,blind-performance.csv,alwaysready,A
+Ancient Future,8.4,The Long View,Ancient Future connects enduring care rituals with technology that genuinely improves them.,Familiar paradox,Paradox,Living Standard,blind-standards.csv,ancientfuture,B
+As We Learn,8.4,The Living Standard,As We Learn makes the brand's standard explicitly responsive to better evidence.,Campaign-like,Poetic phrase,Living Standard,blind-standards.csv,aswelearn,B
+Better Weather,8.4,The Long View,Skincare supports better days in your skin without promising to turn back time.,Meaning stretch,Compound,Living Standard,blind-standards.csv,betterweather,C
+Civic Lantern,8.4,Earned Confidence,Expert guidance makes credible skincare knowledge feel public and usable.,Meaning stretch,Cultural frame,Living Standard,blind-standards.csv,civiclantern,C
+Clean Hand,8.4,Earned Confidence,Clean Hand suggests skilled formulation and plain dealing without the baggage of clean-beauty absolutism.,Clean-beauty ambiguity,Craft metaphor,Radical Focus,blind-fewerbetter.csv,cleanhand,B
+Corollary,8.4,Earned Confidence,Each formula is the logical next step from evidence rather than fashion.,Intellectual,Intellectual frame,Calm Command,blind-control.csv,corollary,C
+Deep Craft,8.4,Performance Without Theater,Substantial formulation expertise replaces a sprawling assortment.,Generic phrase,Compound,Fewer Better Machines,blind-performance.csv,deepcraft,C
+Evermark,8.4,The Long View,Skin's changing marks become signs of a life maintained with care.,Coinage,Compound,Fewer Better Machines,blind-performance.csv,evermark,C
+Fireweed,8.4,The Long View,Fireweed brings a story of resilient renewal after stress without promising reversal.,Botanical association,Natural system,Living Standard,blind-standards.csv,fireweed,A
+Fresh Accord,8.4,The Living Standard,Fresh Accord suggests a trusted agreement renewed when better science arrives.,Meaning stretch,Compound,Living Standard,blind-standards.csv,freshaccord,A
+Good Egg,8.4,Beauty for Skeptics,Good Egg gives rigorous skincare a candid likable character that has nothing to hide.,Playful tone,Idiom,Fewer Better Machines,blind-performance.csv,goodegg,A
+Gravitas,8.4,Earned Confidence,Gravitas brings mature self-possession to a category crowded with anxious promises.,Generic real word,Real word,Calm Command,blind-control.csv,gravitas,A
+Green Room,8.4,Performance Without Theater,Green Room places serious preparation backstage while the customer gets a calm edited experience.,Cosmetics adjacency,Performance frame,Calm Command,blind-control.csv,greenroom,B
+Groundwork,8.4,Performance Without Theater,Groundwork names the dependable essentials that do most of the useful work.,Generic real word,Compound,Calm Command,blind-control.csv,groundwork,B
+High Window,8.4,Earned Confidence,Better perspective lets people see skin and evidence without distortion.,Meaning stretch,Architecture,Calm Command,blind-control.csv,highwindow,C
+Linekeeper,8.4,The Living Standard,Linekeeper suggests a brand that protects the quality line while moving it forward when deserved.,Meaning stretch,Coined archetype,Fewer Better Machines,blind-performance.csv,linekeeper,B
+Newfoundry,8.4,The Living Standard,A stable product core is reforged only when better evidence earns it.,Industrial tone,Compound,Living Standard,blind-standards.csv,newfoundry,C
+Next Move,8.4,On Your Terms,Customers get enough knowledge to choose their own next skincare step.,Campaign-like,Sequence phrase,Calm Command,blind-control.csv,nextmove,C
+North Window,8.4,On Your Terms,Clear natural perspective replaces the distorting light of beauty judgment.,Meaning stretch,Spatial metaphor,Living Standard,blind-standards.csv,northwindow,C
+On Your Side,8.4,On Your Terms,On Your Side frames the company as an advocate for the customer rather than her insecurities.,Campaign-like,Relational phrase,Calm Command,blind-control.csv,onyourside,A
+Open Score,8.4,Beauty for Skeptics,Ingredients evidence and tradeoffs are made visible for customers to judge.,Meaning stretch,Performance frame,Living Standard,blind-standards.csv,openscore,C
+Open Studio,8.4,On Your Terms,A flexible working space invites customers to shape the routine around real life.,Generic phrase,Arts frame,Long View Living,blind-longview.csv,openstudio,C
+Panache,8.4,Earned Confidence,Self-confidence and pleasure are treated as legitimate skincare outcomes.,Generic real word,Real word,Long View Living,blind-longview.csv,panache,C
+Quietly Bold,8.4,Earned Confidence,Quietly Bold gives the brand assured presence without volume hype or overstatement.,Campaign-like,Paradox,Long View Living,blind-longview.csv,quietlybold,B
+Quorum,8.4,Earned Confidence,Quorum makes credible consensus the threshold before new skincare earns adoption.,Meaning stretch,Science metaphor,Living Standard,blind-standards.csv,quorum,B
+Racket,8.4,Beauty for Skeptics,The brand names the industry's spectacle and offers a quieter credible alternative.,Negative undertone,Real word,Entertaining Skeptic,blind-skeptic.csv,racket,C
+Rivet,8.4,Performance Without Theater,A compact routine holds together through a few dependable high-performance products.,Generic real word,Real word,Living Standard,blind-standards.csv,rivet,C
+Second Spring,8.4,The Long View,Second Spring presents later chapters as vital and generative without pretending to reverse time.,Age metaphor,Metaphor,Long View Living,blind-longview.csv,secondspring,B
+The Good Room,8.4,On Your Terms,Skincare becomes a welcoming space where people feel at ease in their own skin.,Meaning stretch,Metaphor,Long View Living,blind-longview.csv,thegoodroom,C
+The Maven,8.4,On Your Terms,The Maven offers real expertise with the ease of a trusted knowledgeable peer.,Generic archetype,Personification,Calm Command,blind-control.csv,themaven,A
+The Original,8.4,On Your Terms,The Original treats individuality as the source of beauty authority.,Generic archetype,Personification,Long View Living,blind-longview.csv,theoriginal,B
+The Pilot,8.4,On Your Terms,The Pilot makes personal agency the force that directs a well-informed routine.,Generic archetype,Personification,Calm Command,blind-control.csv,thepilot,A
+The Sovereign,8.4,On Your Terms,The Sovereign gives the customer final authority over what beauty means and what care is for.,Grandiose,Personification,Calm Command,blind-control.csv,thesovereign,B
+The Virtuoso,8.4,Earned Confidence,The Virtuoso makes expertise feel practiced expressive and confidently human.,Grandiose,Personification,Long View Living,blind-longview.csv,thevirtuoso,B
+Tuning,8.4,The Living Standard,Tuning describes a stable routine adjusted precisely as credible knowledge advances.,Generic process word,Real word,Living Standard,blind-standards.csv,tuning,B
+What Comes Next,8.4,The Living Standard,The brand keeps asking which advance deserves a place in the routine.,Campaign-like,Proposition,Living Standard,blind-standards.csv,whatcomesnext,C
+Aegis,8.3,Earned Confidence,Aegis casts skincare as intelligent protection without invoking correction or fear.,Pronunciation,Real word,Calm Command,blind-control.csv,aegis,A
+Always in Review,8.3,The Living Standard,Always in Review promises that ingredients claims and routines keep facing informed scrutiny.,Campaign-like,Proposition,Living Standard,blind-standards.csv,alwaysinreview,B
+Beta Garden,8.3,The Living Standard,Beta Garden turns testing and cultivation into a humane picture of skincare development.,Tech adjacency,Science metaphor,Living Standard,blind-standards.csv,betagarden,B
+Bright Shadow,8.3,The Long View,Beauty can hold luminosity and lived-in depth at the same time.,Abstract,Contradiction,Fewer Better Machines,blind-performance.csv,brightshadow,C
+Chapter Next,8.3,The Living Standard,Scientific progress becomes the next chapter of a stable skincare system.,Campaign-like,Editorial metaphor,Living Standard,blind-standards.csv,chapternext,C
+Choicecraft,8.3,On Your Terms,Informed skincare choice is treated as a skill the brand helps people build.,Coinage,Compound,Calm Command,blind-control.csv,choicecraft,C
+Cold Proof,8.3,Beauty for Skeptics,Cold Proof rejects overheated claims in favor of performance that survives scrutiny.,Proof language,Compound,Fewer Better Machines,blind-performance.csv,coldproof,A
+Dispatch,8.3,The Living Standard,Dispatch feels like a timely report from a brand that stays close to credible new knowledge.,Publishing adjacency,Editorial term,Entertaining Skeptic,blind-skeptic.csv,dispatch,B
+Edition House,8.3,The Living Standard,Core formulas evolve in considered editions instead of constant launches.,Editorial skew,Editorial metaphor,Living Standard,blind-standards.csv,editionhouse,C
+Fresh Legacy,8.3,The Long View,Fresh Legacy treats accumulated knowledge as a foundation for better modern skincare.,Luxury adjacency,Paradox,Living Standard,blind-standards.csv,freshlegacy,B
+Fullvoice,8.3,On Your Terms,People are invited to speak fully about their skin instead of accepting category scripts.,Coinage,Compound,Long View Living,blind-longview.csv,fullvoice,C
+Keel,8.3,Earned Confidence,Keel makes the core routine feel steady while evidence determines when the brand changes course.,Masculine edge,Real word,Living Standard,blind-standards.csv,keel,B
+Morrow,8.3,The Long View,The name gives everyday care a forward-looking sense of continuity.,Archaic tone,Real word,Fewer Better Machines,blind-performance.csv,morrow,C
+New Edition,8.3,The Living Standard,New Edition frames meaningful formula improvement as a considered revision rather than novelty.,Publishing adjacency,Editorial metaphor,Living Standard,blind-standards.csv,newedition,B
+Permanent Record,8.3,The Long View,The brand respects the visible history of a life while supporting skin now.,Age-mark literal,Concept,Fewer Better Machines,blind-performance.csv,permanentrecord,C
+Second Temper,8.3,The Living Standard,Second Temper evokes a core made stronger through another deliberate round of refinement.,Meaning stretch,Craft metaphor,Living Standard,blind-standards.csv,secondtemper,B
+Sensehold,8.3,On Your Terms,Sensehold suggests retaining one's judgment amid noisy advice and endless newness.,Coined meaning,Compound,Calm Command,blind-control.csv,sensehold,B
+Stone Lantern,8.3,Earned Confidence,Stone Lantern suggests durable guidance that illuminates choices without glare or spectacle.,Meaning stretch,Object metaphor,Calm Command,blind-control.csv,stonelantern,B
+Stonefruit,8.3,The Long View,Stonefruit joins a resilient core with a sensuous exterior in an unexpected skincare metaphor.,Botanical cue,Compound,Long View Living,blind-longview.csv,stonefruit,B
+The Producer,8.3,Performance Without Theater,The Producer casts the brand as the expert that coordinates every element without stealing the show.,Entertainment adjacency,Personification,Calm Command,blind-control.csv,theproducer,B
+The Right Sort,8.3,Beauty for Skeptics,Discernment selects a few useful formulas from a crowded category.,Campaign-like,Proposition,Fewer Better Machines,blind-performance.csv,therightsort,C
+The Update Society,8.3,The Living Standard,Customers join a culture where better evidence can improve the standard.,Length,Cultural frame,Living Standard,blind-standards.csv,theupdatesociety,C
+Beacon,8.2,The Living Standard,Beacon makes the brand a reliable reference point while the science keeps moving.,Generic real word,Real word,Living Standard,blind-standards.csv,beacon,A
+Foundry,8.2,The Living Standard,Foundry makes standards feel built through repeated testing and skilled formulation.,Generic real word,Real word,Fewer Better Machines,blind-performance.csv,foundry,B
+Keeps Watch,8.2,The Living Standard,The brand continuously watches research so customers do not have to chase it.,Personified phrase,Personification,Fewer Better Machines,blind-performance.csv,keepswatch,C
+Long View,8.2,The Long View,Long View states a calm commitment to skin decisions designed for decades rather than quick theater.,Generic phrase,Perspective metaphor,Calm Command,blind-control.csv,longview,B
+Mile Zero,8.2,The Living Standard,Each product begins from a clear baseline before progress is measured.,Generic phrase,Navigation,Living Standard,blind-standards.csv,milezero,C
+Once More,8.2,The Long View,The daily return to care becomes continuity rather than correction.,Campaign-like,Proposition,Fewer Better Machines,blind-performance.csv,oncemore,C
+Springtide,8.2,The Long View,Renewal is presented as a recurring rhythm rather than a return to youth.,Nature adjacency,Natural system,Living Standard,blind-standards.csv,springtide,C
+Tenet,8.2,Earned Confidence,Each product follows a small set of defensible principles.,Generic real word,Real word,Fewer Better Machines,blind-performance.csv,tenet,C
+The Principal,8.2,Earned Confidence,A clear point of authority stands behind every product decision.,Institutional,Personification,Calm Command,blind-control.csv,theprincipal,C
+Watershed,8.2,The Long View,Watershed marks meaningful improvements in care rather than constant novelty for its own sake.,Generic real word,Natural system,Living Standard,blind-standards.csv,watershed,B
+Polished Edge,8.1,Earned Confidence,Polished Edge balances refined experience with an advancing scientific point of view.,Luxury adjacency,Craft metaphor,Living Standard,blind-standards.csv,polishededge,B
+Field School,8.0,The Living Standard,Field School suggests expertise that keeps learning from evidence and real customer experience.,Institutional tone,Cultural frame,Living Standard,blind-standards.csv,fieldschool,B

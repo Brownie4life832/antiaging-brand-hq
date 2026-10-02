@@ -1,0 +1,37 @@
+# Blind-pool build audit
+
+- Source rows: 1020
+- Unique normalized names: 989
+- Cross-lab duplicates removed: 31
+
+- `Free Agent` from `generation-lab-b.md` duplicated `Free Agent` from `generation-lab-a.md`
+- `Playbook` from `generation-lab-b.md` duplicated `Playbook` from `generation-lab-a.md`
+- `Fingerprint` from `generation-lab-b.md` duplicated `Fingerprint` from `generation-lab-a.md`
+- `Close-Up` from `generation-lab-b.md` duplicated `Closeup` from `generation-lab-a.md`
+- `Bearing` from `generation-lab-b.md` duplicated `Bearing` from `generation-lab-a.md`
+- `Presence` from `generation-lab-b.md` duplicated `Presence` from `generation-lab-a.md`
+- `Character` from `generation-lab-b.md` duplicated `Character` from `generation-lab-a.md`
+- `Show Up` from `generation-lab-b.md` duplicated `ShowUp` from `generation-lab-a.md`
+- `Showup` from `generation-lab-b.md` duplicated `ShowUp` from `generation-lab-a.md`
+- `Faceforward` from `generation-lab-b.md` duplicated `Face Forward` from `generation-lab-a.md`
+- `Headliner` from `generation-lab-b.md` duplicated `Headliner` from `generation-lab-a.md`
+- `Keynote` from `generation-lab-b.md` duplicated `Keynote` from `generation-lab-a.md`
+- `Top Billing` from `generation-lab-b.md` duplicated `Top Billing` from `generation-lab-a.md`
+- `Headline` from `generation-lab-b.md` duplicated `Headline` from `generation-lab-a.md`
+- `Byline` from `generation-lab-b.md` duplicated `Byline` from `generation-lab-a.md`
+- `Lead Role` from `generation-lab-b.md` duplicated `Lead Role` from `generation-lab-a.md`
+- `Full Volume` from `generation-lab-b.md` duplicated `Full Volume` from `generation-lab-a.md`
+- `First Chair` from `generation-lab-b.md` duplicated `First Chair` from `generation-lab-a.md`
+- `Main Character` from `generation-lab-b.md` duplicated `Main Character` from `generation-lab-a.md`
+- `Exact` from `generation-lab-b.md` duplicated `Exact` from `generation-lab-a.md`
+- `Nothing Extra` from `generation-lab-b.md` duplicated `Nothing Extra` from `generation-lab-a.md`
+- `Sortit` from `generation-lab-b.md` duplicated `SortIt` from `generation-lab-a.md`
+- `Onit` from `generation-lab-b.md` duplicated `On It` from `generation-lab-b.md`
+- `Checklist` from `generation-lab-b.md` duplicated `Checklist` from `generation-lab-a.md`
+- `Final Cut` from `generation-lab-b.md` duplicated `Final Cut` from `generation-lab-a.md`
+- `Go First` from `generation-lab-c.md` duplicated `GoFirst` from `generation-lab-a.md`
+- `Own It` from `generation-lab-c.md` duplicated `OwnIt` from `generation-lab-a.md`
+- `Will Do` from `generation-lab-c.md` duplicated `WillDo` from `generation-lab-a.md`
+- `Mysay` from `generation-lab-c.md` duplicated `My Say` from `generation-lab-a.md`
+- `Firstperson` from `generation-lab-c.md` duplicated `First Person` from `generation-lab-a.md`
+- `Quickchange` from `generation-lab-c.md` duplicated `Quick Change` from `generation-lab-b.md`

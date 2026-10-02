@@ -1,0 +1,645 @@
+﻿Name,Method,DecoyBrief,SourceFile,Normalized
+Beacon,Real word,Living Standard,blind-standards.csv,beacon
+Ledger,Real word,Living Standard,blind-standards.csv,ledger
+Praxis,Real word,Living Standard,blind-standards.csv,praxis
+Cadentra,Altered word,Living Standard,blind-standards.csv,cadentra
+Qualora,Altered word,Living Standard,blind-standards.csv,qualora
+Lentera,Altered word,Living Standard,blind-standards.csv,lentera
+Evolune,Altered word,Living Standard,blind-standards.csv,evolune
+Vigilo,Altered word,Living Standard,blind-standards.csv,vigilo
+Calibra,Altered word,Living Standard,blind-standards.csv,calibra
+Orbiset,Altered word,Living Standard,blind-standards.csv,orbiset
+Brightledger,Compound,Living Standard,blind-standards.csv,brightledger
+Beaconline,Compound,Living Standard,blind-standards.csv,beaconline
+Open Compass,Compound,Living Standard,blind-standards.csv,opencompass
+Second Draft,Compound,Living Standard,blind-standards.csv,seconddraft
+Fresh Accord,Compound,Living Standard,blind-standards.csv,freshaccord
+Velvet Gauge,Compound,Living Standard,blind-standards.csv,velvetgauge
+The Lighthouse,Metaphor,Living Standard,blind-standards.csv,thelighthouse
+Orchard Signal,Metaphor,Living Standard,blind-standards.csv,orchardsignal
+Brass Horizon,Metaphor,Living Standard,blind-standards.csv,brasshorizon
+Morning Foundry,Metaphor,Living Standard,blind-standards.csv,morningfoundry
+The Watchfire,Metaphor,Living Standard,blind-standards.csv,thewatchfire
+Active Archive,Metaphor,Living Standard,blind-standards.csv,activearchive
+North by Tomorrow,Metaphor,Living Standard,blind-standards.csv,northbytomorrow
+Quiet Alarm,Paradox,Living Standard,blind-standards.csv,quietalarm
+Fixed Horizon,Paradox,Living Standard,blind-standards.csv,fixedhorizon
+Gentle Edge,Paradox,Living Standard,blind-standards.csv,gentleedge
+Solid Air,Paradox,Living Standard,blind-standards.csv,solidair
+Timeless Next,Paradox,Living Standard,blind-standards.csv,timelessnext
+Steady Spark,Paradox,Living Standard,blind-standards.csv,steadyspark
+Ahead of Habit,Proposition,Living Standard,blind-standards.csv,aheadofhabit
+Never Settled,Proposition,Living Standard,blind-standards.csv,neversettled
+Ready When New,Proposition,Living Standard,blind-standards.csv,readywhennew
+Mind the Horizon,Proposition,Living Standard,blind-standards.csv,mindthehorizon
+Past the Familiar,Proposition,Living Standard,blind-standards.csv,pastthefamiliar
+From Here Forward,Proposition,Living Standard,blind-standards.csv,fromhereforward
+The Curator,Personification,Living Standard,blind-standards.csv,thecurator
+The Pathfinder,Personification,Living Standard,blind-standards.csv,thepathfinder
+The Cartographer,Personification,Living Standard,blind-standards.csv,thecartographer
+The Custodian,Personification,Living Standard,blind-standards.csv,thecustodian
+The Watchmaker,Personification,Living Standard,blind-standards.csv,thewatchmaker
+The Archivist,Personification,Living Standard,blind-standards.csv,thearchivist
+The Wayfinder,Personification,Living Standard,blind-standards.csv,thewayfinder
+Kivo,Sound coinage,Living Standard,blind-standards.csv,kivo
+Tero,Sound coinage,Living Standard,blind-standards.csv,tero
+Vara,Sound coinage,Living Standard,blind-standards.csv,vara
+Avori,Sound coinage,Living Standard,blind-standards.csv,avori
+Cera,Sound coinage,Living Standard,blind-standards.csv,cera
+Riva,Sound coinage,Living Standard,blind-standards.csv,riva
+Agora North,Cultural frame,Living Standard,blind-standards.csv,agoranorth
+Atlas Assembly,Cultural frame,Living Standard,blind-standards.csv,atlasassembly
+The New Academy,Cultural frame,Living Standard,blind-standards.csv,thenewacademy
+Common Table,Cultural frame,Living Standard,blind-standards.csv,commontable
+Observatory Club,Cultural frame,Living Standard,blind-standards.csv,observatoryclub
+House of Revision,Cultural frame,Living Standard,blind-standards.csv,houseofrevision
+Library Alive,Cultural frame,Living Standard,blind-standards.csv,libraryalive
+Flywheel,Natural system,Living Standard,blind-standards.csv,flywheel
+Treeline,Natural system,Living Standard,blind-standards.csv,treeline
+Fireweed,Natural system,Living Standard,blind-standards.csv,fireweed
+New Moon,Natural system,Living Standard,blind-standards.csv,newmoon
+Sunward,Natural system,Living Standard,blind-standards.csv,sunward
+Snowmelt,Natural system,Living Standard,blind-standards.csv,snowmelt
+Northmark,Navigation,Living Standard,blind-standards.csv,northmark
+New Bearing,Navigation,Living Standard,blind-standards.csv,newbearing
+Sounding Board,Navigation,Living Standard,blind-standards.csv,soundingboard
+Zenith,Navigation,Living Standard,blind-standards.csv,zenith
+Trailhead,Navigation,Living Standard,blind-standards.csv,trailhead
+Vector House,Navigation,Living Standard,blind-standards.csv,vectorhouse
+Margin Note,Editorial metaphor,Living Standard,blind-standards.csv,marginnote
+Footnote Forward,Editorial metaphor,Living Standard,blind-standards.csv,footnoteforward
+Daily Marginalia,Editorial metaphor,Living Standard,blind-standards.csv,dailymarginalia
+Colophon,Editorial metaphor,Living Standard,blind-standards.csv,colophon
+Living Index,Editorial metaphor,Living Standard,blind-standards.csv,livingindex
+Pencil & Ink,Editorial metaphor,Living Standard,blind-standards.csv,pencilink
+The Sourcebook,Editorial metaphor,Living Standard,blind-standards.csv,thesourcebook
+New Alloy,Craft metaphor,Living Standard,blind-standards.csv,newalloy
+The Workbench,Craft metaphor,Living Standard,blind-standards.csv,theworkbench
+Anvil & Air,Craft metaphor,Living Standard,blind-standards.csv,anvilair
+Turning House,Craft metaphor,Living Standard,blind-standards.csv,turninghouse
+Better Grain,Craft metaphor,Living Standard,blind-standards.csv,bettergrain
+Lapidary,Craft metaphor,Living Standard,blind-standards.csv,lapidary
+Now & Again,Temporal play,Living Standard,blind-standards.csv,nowagain
+Soonward,Temporal play,Living Standard,blind-standards.csv,soonward
+Perennial,Temporal play,Living Standard,blind-standards.csv,perennial
+Day One Again,Temporal play,Living Standard,blind-standards.csv,dayoneagain
+New Meanwhile,Temporal play,Living Standard,blind-standards.csv,newmeanwhile
+Clock & Compass,Temporal play,Living Standard,blind-standards.csv,clockcompass
+Next Season,Temporal play,Living Standard,blind-standards.csv,nextseason
+Open Assembly,Institutional frame,Living Standard,blind-standards.csv,openassembly
+Common Practice,Institutional frame,Living Standard,blind-standards.csv,commonpractice
+House Meridian,Institutional frame,Living Standard,blind-standards.csv,housemeridian
+Modern Charter,Institutional frame,Living Standard,blind-standards.csv,moderncharter
+The Roundtable,Institutional frame,Living Standard,blind-standards.csv,theroundtable
+Wise Bureau,Institutional frame,Living Standard,blind-standards.csv,wisebureau
+Open Council,Institutional frame,Living Standard,blind-standards.csv,opencouncil
+Delta,Science metaphor,Living Standard,blind-standards.csv,delta
+Catalyst,Science metaphor,Living Standard,blind-standards.csv,catalyst
+Spectrum,Science metaphor,Living Standard,blind-standards.csv,spectrum
+Signal Bloom,Science metaphor,Living Standard,blind-standards.csv,signalbloom
+Version Wild,Science metaphor,Living Standard,blind-standards.csv,versionwild
+Knowledge Engine,Science metaphor,Living Standard,blind-standards.csv,knowledgeengine
+Rehearsal Room,Performance frame,Living Standard,blind-standards.csv,rehearsalroom
+Tempo House,Performance frame,Living Standard,blind-standards.csv,tempohouse
+Counterpoint,Performance frame,Living Standard,blind-standards.csv,counterpoint
+Test Kitchen,Culinary frame,Living Standard,blind-standards.csv,testkitchen
+Recipe for Tomorrow,Culinary frame,Living Standard,blind-standards.csv,recipefortomorrow
+Seasoned New,Culinary frame,Living Standard,blind-standards.csv,seasonednew
+Everna,Coinage,Living Standard,blind-standards.csv,everna
+Accorda,Coinage,Living Standard,blind-standards.csv,accorda
+Lumera,Coinage,Living Standard,blind-standards.csv,lumera
+Sovanta,Coinage,Living Standard,blind-standards.csv,sovanta
+Velora,Coinage,Living Standard,blind-standards.csv,velora
+Verden,Coinage,Living Standard,blind-standards.csv,verden
+Olvara,Coinage,Living Standard,blind-standards.csv,olvara
+Moving Frame,Spatial metaphor,Living Standard,blind-standards.csv,movingframe
+Golden Interval,Spatial metaphor,Living Standard,blind-standards.csv,goldeninterval
+Center Forward,Spatial metaphor,Living Standard,blind-standards.csv,centerforward
+Living Grid,Spatial metaphor,Living Standard,blind-standards.csv,livinggrid
+Pattern Break,Spatial metaphor,Living Standard,blind-standards.csv,patternbreak
+Second Axis,Spatial metaphor,Living Standard,blind-standards.csv,secondaxis
+Morrowlight,Poetic coinage,Living Standard,blind-standards.csv,morrowlight
+The Unfinished,Poetic phrase,Living Standard,blind-standards.csv,theunfinished
+Nextness,Poetic coinage,Living Standard,blind-standards.csv,nextness
+Deeply New,Poetic phrase,Living Standard,blind-standards.csv,deeplynew
+Wise After,Poetic phrase,Living Standard,blind-standards.csv,wiseafter
+A Better Then,Poetic phrase,Living Standard,blind-standards.csv,abetterthen
+The Wakeful,Poetic phrase,Living Standard,blind-standards.csv,thewakeful
+Anvil,Real word,Fewer Better Machines,blind-performance.csv,anvil
+Provenance,Real word,Fewer Better Machines,blind-performance.csv,provenance
+Kiln,Real word,Fewer Better Machines,blind-performance.csv,kiln
+Parity,Real word,Fewer Better Machines,blind-performance.csv,parity
+Oath,Real word,Fewer Better Machines,blind-performance.csv,oath
+Truss,Real word,Fewer Better Machines,blind-performance.csv,truss
+Citadel,Real word,Fewer Better Machines,blind-performance.csv,citadel
+Watchtower,Real word,Fewer Better Machines,blind-performance.csv,watchtower
+Bedrock,Real word,Fewer Better Machines,blind-performance.csv,bedrock
+Thesis,Real word,Fewer Better Machines,blind-performance.csv,thesis
+Capstan,Real word,Fewer Better Machines,blind-performance.csv,capstan
+True North,Idiom,Fewer Better Machines,blind-performance.csv,truenorth
+Long Measure,Compound,Fewer Better Machines,blind-performance.csv,longmeasure
+Good Weight,Compound,Fewer Better Machines,blind-performance.csv,goodweight
+Sure Footing,Idiom,Fewer Better Machines,blind-performance.csv,surefooting
+Common Ground,Idiom,Fewer Better Machines,blind-performance.csv,commonground
+Second Nature,Idiom,Fewer Better Machines,blind-performance.csv,secondnature
+Exacting Kind,Compound,Fewer Better Machines,blind-performance.csv,exactingkind
+Patient Force,Contradiction,Fewer Better Machines,blind-performance.csv,patientforce
+Spare Line,Compound,Fewer Better Machines,blind-performance.csv,spareline
+Cold Proof,Compound,Fewer Better Machines,blind-performance.csv,coldproof
+The Few,Proposition,Fewer Better Machines,blind-performance.csv,thefew
+Small Number,Concept,Fewer Better Machines,blind-performance.csv,smallnumber
+Done Right,Proposition,Fewer Better Machines,blind-performance.csv,doneright
+Avero,Coinage,Fewer Better Machines,blind-performance.csv,avero
+Veylor,Coinage,Fewer Better Machines,blind-performance.csv,veylor
+Dovren,Coinage,Fewer Better Machines,blind-performance.csv,dovren
+Merrow,Coinage,Fewer Better Machines,blind-performance.csv,merrow
+Selnor,Coinage,Fewer Better Machines,blind-performance.csv,selnor
+Ivern,Coinage,Fewer Better Machines,blind-performance.csv,ivern
+Talven,Coinage,Fewer Better Machines,blind-performance.csv,talven
+Eldren,Coinage,Fewer Better Machines,blind-performance.csv,eldren
+Bront,Coinage,Fewer Better Machines,blind-performance.csv,bront
+Varden,Surname,Fewer Better Machines,blind-performance.csv,varden
+Vestra,Coinage,Fewer Better Machines,blind-performance.csv,vestra
+Nareth,Coinage,Fewer Better Machines,blind-performance.csv,nareth
+Sarden,Coinage,Fewer Better Machines,blind-performance.csv,sarden
+Targen,Coinage,Fewer Better Machines,blind-performance.csv,targen
+Nyren,Coinage,Fewer Better Machines,blind-performance.csv,nyren
+Ardell,Surname,Fewer Better Machines,blind-performance.csv,ardell
+Northbound,Direction,Fewer Better Machines,blind-performance.csv,northbound
+Iron Orchard,Metaphor,Fewer Better Machines,blind-performance.csv,ironorchard
+Sunday Best,Cultural frame,Fewer Better Machines,blind-performance.csv,sundaybest
+Slow Lightning,Contradiction,Fewer Better Machines,blind-performance.csv,slowlightning
+Open Fortress,Contradiction,Fewer Better Machines,blind-performance.csv,openfortress
+Patient Arrow,Personification,Fewer Better Machines,blind-performance.csv,patientarrow
+Spare Thunder,Contradiction,Fewer Better Machines,blind-performance.csv,sparethunder
+Modest Colossus,Contradiction,Fewer Better Machines,blind-performance.csv,modestcolossus
+Steel Velvet,Contradiction,Fewer Better Machines,blind-performance.csv,steelvelvet
+Noon Bell,Cultural frame,Fewer Better Machines,blind-performance.csv,noonbell
+White Oak,Nature,Fewer Better Machines,blind-performance.csv,whiteoak
+Green Ledger,Metaphor,Fewer Better Machines,blind-performance.csv,greenledger
+Stone Harbor,Metaphor,Fewer Better Machines,blind-performance.csv,stoneharbor
+Raven Standard,Metaphor,Fewer Better Machines,blind-performance.csv,ravenstandard
+Watchfire,Compound,Fewer Better Machines,blind-performance.csv,watchfire
+Wayfinder,Archetype,Fewer Better Machines,blind-performance.csv,wayfinder
+Wise Company,Personification,Fewer Better Machines,blind-performance.csv,wisecompany
+Sister Steel,Personification,Fewer Better Machines,blind-performance.csv,sistersteel
+Shipwright,Archetype,Fewer Better Machines,blind-performance.csv,shipwright
+Bellmaker,Archetype,Fewer Better Machines,blind-performance.csv,bellmaker
+Torchbearer,Archetype,Fewer Better Machines,blind-performance.csv,torchbearer
+Good Egg,Idiom,Fewer Better Machines,blind-performance.csv,goodegg
+Few and Far,Idiom,Fewer Better Machines,blind-performance.csv,fewandfar
+As Promised,Proposition,Fewer Better Machines,blind-performance.csv,aspromised
+At Length,Idiom,Fewer Better Machines,blind-performance.csv,atlength
+Always Ready,Proposition,Fewer Better Machines,blind-performance.csv,alwaysready
+Holds True,Proposition,Fewer Better Machines,blind-performance.csv,holdstrue
+Bears Weight,Personification,Fewer Better Machines,blind-performance.csv,bearsweight
+Runs Deep,Personification,Fewer Better Machines,blind-performance.csv,runsdeep
+Thrum,Sound word,Fewer Better Machines,blind-performance.csv,thrum
+Clasp,Tactile word,Fewer Better Machines,blind-performance.csv,clasp
+Tack,Tactile word,Fewer Better Machines,blind-performance.csv,tack
+Crux,Real word,Fewer Better Machines,blind-performance.csv,crux
+Spline,Technical metaphor,Fewer Better Machines,blind-performance.csv,spline
+Grip,Tactile word,Fewer Better Machines,blind-performance.csv,grip
+Wedge,Technical metaphor,Fewer Better Machines,blind-performance.csv,wedge
+Crow,Animal,Fewer Better Machines,blind-performance.csv,crow
+Stoat,Animal,Fewer Better Machines,blind-performance.csv,stoat
+Ram,Animal,Fewer Better Machines,blind-performance.csv,ram
+Ibex,Animal,Fewer Better Machines,blind-performance.csv,ibex
+Terrier,Animal,Fewer Better Machines,blind-performance.csv,terrier
+Caribou,Animal,Fewer Better Machines,blind-performance.csv,caribou
+Longhouse,Cultural frame,Fewer Better Machines,blind-performance.csv,longhouse
+Forthr,Alteration,Fewer Better Machines,blind-performance.csv,forthr
+Stedden,Coinage,Fewer Better Machines,blind-performance.csv,stedden
+Enduric,Coinage,Fewer Better Machines,blind-performance.csv,enduric
+Trusten,Coinage,Fewer Better Machines,blind-performance.csv,trusten
+Madewell,Compound,Fewer Better Machines,blind-performance.csv,madewell
+Crafton,Coinage,Fewer Better Machines,blind-performance.csv,crafton
+Northstead,Compound,Fewer Better Machines,blind-performance.csv,northstead
+Lineward,Compound,Fewer Better Machines,blind-performance.csv,lineward
+Solidus,Classical frame,Fewer Better Machines,blind-performance.csv,solidus
+Threefold,Number frame,Fewer Better Machines,blind-performance.csv,threefold
+Triple Check,Idiom,Fewer Better Machines,blind-performance.csv,triplecheck
+Short List,Concept,Fewer Better Machines,blind-performance.csv,shortlist
+Three Strong,Proposition,Fewer Better Machines,blind-performance.csv,threestrong
+Better Company,Proposition,Fewer Better Machines,blind-performance.csv,bettercompany
+Well Considered,Proposition,Fewer Better Machines,blind-performance.csv,wellconsidered
+Plain Dealing,Idiom,Fewer Better Machines,blind-performance.csv,plaindealing
+Strong Case,Idiom,Fewer Better Machines,blind-performance.csv,strongcase
+The Fourth Wall,Cultural frame,Fewer Better Machines,blind-performance.csv,thefourthwall
+Workshop Sunday,Cultural frame,Fewer Better Machines,blind-performance.csv,workshopsunday
+Family Name,Cultural frame,Fewer Better Machines,blind-performance.csv,familyname
+Good Authority,Idiom,Fewer Better Machines,blind-performance.csv,goodauthority
+The Verdict,Legal frame,Fewer Better Machines,blind-performance.csv,theverdict
+The Answer,Proposition,Fewer Better Machines,blind-performance.csv,theanswer
+Dead Reckoning,Nautical,Fewer Better Machines,blind-performance.csv,deadreckoning
+Dry Dock,Nautical,Fewer Better Machines,blind-performance.csv,drydock
+Long Watch,Nautical,Fewer Better Machines,blind-performance.csv,longwatch
+Headsail,Nautical,Fewer Better Machines,blind-performance.csv,headsail
+Red Iron,Color compound,Fewer Better Machines,blind-performance.csv,rediron
+Greyhaven,Compound,Fewer Better Machines,blind-performance.csv,greyhaven
+Clockhouse,House name,Fewer Better Machines,blind-performance.csv,clockhouse
+Surefire,Idiom,Fewer Better Machines,blind-performance.csv,surefire
+Aegis,Real word,Calm Command,blind-control.csv,aegis
+Gravitas,Real word,Calm Command,blind-control.csv,gravitas
+High Ground,Terrain metaphor,Calm Command,blind-control.csv,highground
+Open Field,Spatial metaphor,Calm Command,blind-control.csv,openfield
+Deep Current,Nature metaphor,Calm Command,blind-control.csv,deepcurrent
+Firmament,Cosmic metaphor,Calm Command,blind-control.csv,firmament
+Oak Signal,Nature compound,Calm Command,blind-control.csv,oaksignal
+Falcon Hour,Animal metaphor,Calm Command,blind-control.csv,falconhour
+Thinkstead,Compound,Calm Command,blind-control.csv,thinkstead
+Farwise,Compound,Calm Command,blind-control.csv,farwise
+Decisewell,Compound,Calm Command,blind-control.csv,decisewell
+Thoughtline,Compound,Calm Command,blind-control.csv,thoughtline
+Levelset,Compound,Calm Command,blind-control.csv,levelset
+Avera,Coinage,Calm Command,blind-control.csv,avera
+Tenvor,Coinage,Calm Command,blind-control.csv,tenvor
+Sentria,Coinage,Calm Command,blind-control.csv,sentria
+Elandor,Coinage,Calm Command,blind-control.csv,elandor
+Lumaire,Coinage,Calm Command,blind-control.csv,lumaire
+Invaro,Coinage,Calm Command,blind-control.csv,invaro
+Delibra,Altered word,Calm Command,blind-control.csv,delibra
+Verita,Altered word,Calm Command,blind-control.csv,verita
+Decida,Altered word,Calm Command,blind-control.csv,decida
+Fortena,Altered word,Calm Command,blind-control.csv,fortena
+Mindra,Altered word,Calm Command,blind-control.csv,mindra
+See It Whole,Proposition,Calm Command,blind-control.csv,seeitwhole
+Choose Forward,Imperative phrase,Calm Command,blind-control.csv,chooseforward
+Face the Field,Imperative phrase,Calm Command,blind-control.csv,facethefield
+Let Facts Lead,Imperative phrase,Calm Command,blind-control.csv,letfactslead
+Decide at Ease,Proposition,Calm Command,blind-control.csv,decideatease
+Know the Ground,Imperative phrase,Calm Command,blind-control.csv,knowtheground
+Calm Voltage,Paradox,Calm Command,blind-control.csv,calmvoltage
+Silent Signal,Paradox,Calm Command,blind-control.csv,silentsignal
+Measured Wild,Paradox,Calm Command,blind-control.csv,measuredwild
+Light Armor,Paradox,Calm Command,blind-control.csv,lightarmor
+Rational Magic,Paradox,Calm Command,blind-control.csv,rationalmagic
+Hushline,Sound compound,Calm Command,blind-control.csv,hushline
+Tockwell,Sound compound,Calm Command,blind-control.csv,tockwell
+Reson,Sound coinage,Calm Command,blind-control.csv,reson
+Undertone,Sound word,Calm Command,blind-control.csv,undertone
+Soft Chime,Sound image,Calm Command,blind-control.csv,softchime
+One Beat,Sound image,Calm Command,blind-control.csv,onebeat
+The Envoy,Personification,Calm Command,blind-control.csv,theenvoy
+The Elder,Personification,Calm Command,blind-control.csv,theelder
+The Pilot,Personification,Calm Command,blind-control.csv,thepilot
+The Maven,Personification,Calm Command,blind-control.csv,themaven
+The Sentinel,Personification,Calm Command,blind-control.csv,thesentinel
+Lyceum,Cultural frame,Calm Command,blind-control.csv,lyceum
+Salon,Cultural frame,Calm Command,blind-control.csv,salon
+Athena,Mythic frame,Calm Command,blind-control.csv,athena
+Ariadne,Mythic frame,Calm Command,blind-control.csv,ariadne
+Arboretum,Cultural frame,Calm Command,blind-control.csv,arboretum
+Colonnade,Cultural frame,Calm Command,blind-control.csv,colonnade
+Headland,Nature metaphor,Calm Command,blind-control.csv,headland
+Fathom,Nature metaphor,Calm Command,blind-control.csv,fathom
+Seedline,Nature compound,Calm Command,blind-control.csv,seedline
+Riverstone,Nature compound,Calm Command,blind-control.csv,riverstone
+Starboard,Nautical frame,Calm Command,blind-control.csv,starboard
+Tailwind,Journey metaphor,Calm Command,blind-control.csv,tailwind
+Overland,Journey metaphor,Calm Command,blind-control.csv,overland
+First Light,Journey metaphor,Calm Command,blind-control.csv,firstlight
+Open Water,Nautical frame,Calm Command,blind-control.csv,openwater
+Cornerstone,Architecture,Calm Command,blind-control.csv,cornerstone
+Pillar,Architecture,Calm Command,blind-control.csv,pillar
+Vault,Architecture,Calm Command,blind-control.csv,vault
+Foundation,Architecture,Calm Command,blind-control.csv,foundation
+Corner Office,Architecture,Calm Command,blind-control.csv,corneroffice
+Capstone,Architecture,Calm Command,blind-control.csv,capstone
+The Premise,Intellectual frame,Calm Command,blind-control.csv,thepremise
+Axiom,Intellectual frame,Calm Command,blind-control.csv,axiom
+Ethos,Classical frame,Calm Command,blind-control.csv,ethos
+Method,Intellectual frame,Calm Command,blind-control.csv,method
+Prime Moment,Time phrase,Calm Command,blind-control.csv,primemoment
+Long Minute,Time paradox,Calm Command,blind-control.csv,longminute
+Before Noon,Time phrase,Calm Command,blind-control.csv,beforenoon
+Timekeeper,Personified time,Calm Command,blind-control.csv,timekeeper
+Metronome,Time metaphor,Calm Command,blind-control.csv,metronome
+The Pause,Time metaphor,Calm Command,blind-control.csv,thepause
+Onyx,Material metaphor,Calm Command,blind-control.csv,onyx
+Slate,Material metaphor,Calm Command,blind-control.csv,slate
+Carbon,Material metaphor,Calm Command,blind-control.csv,carbon
+Tungsten,Material metaphor,Calm Command,blind-control.csv,tungsten
+Ivory Tower,Material idiom,Calm Command,blind-control.csv,ivorytower
+Masterstroke,Craft frame,Calm Command,blind-control.csv,masterstroke
+Overture,Musical frame,Calm Command,blind-control.csv,overture
+Chorus,Musical frame,Calm Command,blind-control.csv,chorus
+House Lights,Performance frame,Calm Command,blind-control.csv,houselights
+Inner Circle,Relational frame,Calm Command,blind-control.csv,innercircle
+Side by Side,Relational phrase,Calm Command,blind-control.csv,sidebyside
+Strong Company,Relational frame,Calm Command,blind-control.csv,strongcompany
+The Fellowship,Relational frame,Calm Command,blind-control.csv,thefellowship
+Kinship,Relational word,Calm Command,blind-control.csv,kinship
+Shared Sense,Relational frame,Calm Command,blind-control.csv,sharedsense
+Valence,Real word,Calm Command,blind-control.csv,valence
+Kendro,Coinage,Calm Command,blind-control.csv,kendro
+Orienta,Altered word,Calm Command,blind-control.csv,orienta
+Praxen,Coinage,Calm Command,blind-control.csv,praxen
+Civara,Coinage,Calm Command,blind-control.csv,civara
+Equora,Coinage,Calm Command,blind-control.csv,equora
+Statero,Coinage,Calm Command,blind-control.csv,statero
+Clean Slate,Reset metaphor,Calm Command,blind-control.csv,cleanslate
+All Things Considered,Idiomatic phrase,Calm Command,blind-control.csv,allthingsconsidered
+On Your Side,Relational phrase,Calm Command,blind-control.csv,onyourside
+Well Judged,Assessment phrase,Calm Command,blind-control.csv,welljudged
+Flourish,Real word,Long View Living,blind-longview.csv,flourish
+Brio,Real word,Long View Living,blind-longview.csv,brio
+Verve,Real word,Long View Living,blind-longview.csv,verve
+Elan,Real word,Long View Living,blind-longview.csv,elan
+Latitude,Real word,Long View Living,blind-longview.csv,latitude
+Momentum,Real word,Long View Living,blind-longview.csv,momentum
+Mahogany,Unexpected word,Long View Living,blind-longview.csv,mahogany
+Alchemy,Unexpected word,Long View Living,blind-longview.csv,alchemy
+Topaz,Unexpected word,Long View Living,blind-longview.csv,topaz
+Cypress,Unexpected word,Long View Living,blind-longview.csv,cypress
+Sonata,Unexpected word,Long View Living,blind-longview.csv,sonata
+Crescendo,Unexpected word,Long View Living,blind-longview.csv,crescendo
+Lustre,Unexpected word,Long View Living,blind-longview.csv,lustre
+Briona,Altered word,Long View Living,blind-longview.csv,briona
+Vervelle,Altered word,Long View Living,blind-longview.csv,vervelle
+Amplitia,Altered word,Long View Living,blind-longview.csv,amplitia
+Aurevia,Altered word,Long View Living,blind-longview.csv,aurevia
+Vitalune,Altered word,Long View Living,blind-longview.csv,vitalune
+Lucentra,Altered word,Long View Living,blind-longview.csv,lucentra
+Vigora,Altered word,Long View Living,blind-longview.csv,vigora
+Nuvora,Sound coinage,Long View Living,blind-longview.csv,nuvora
+Mavelle,Sound coinage,Long View Living,blind-longview.csv,mavelle
+Inara,Sound coinage,Long View Living,blind-longview.csv,inara
+Cevra,Sound coinage,Long View Living,blind-longview.csv,cevra
+Varena,Sound coinage,Long View Living,blind-longview.csv,varena
+Lumara,Sound coinage,Long View Living,blind-longview.csv,lumara
+Melora,Sound coinage,Long View Living,blind-longview.csv,melora
+Orova,Sound coinage,Long View Living,blind-longview.csv,orova
+Fullhearted,Compound,Long View Living,blind-longview.csv,fullhearted
+Northstar,Compound,Long View Living,blind-longview.csv,northstar
+Highgarden,Compound,Long View Living,blind-longview.csv,highgarden
+Clearstory,Compound,Long View Living,blind-longview.csv,clearstory
+Warmthworks,Compound,Long View Living,blind-longview.csv,warmthworks
+Thrivehouse,Compound,Long View Living,blind-longview.csv,thrivehouse
+High Season,Metaphor,Long View Living,blind-longview.csv,highseason
+Wide River,Metaphor,Long View Living,blind-longview.csv,wideriver
+Steady Flame,Metaphor,Long View Living,blind-longview.csv,steadyflame
+The Open Road,Metaphor,Long View Living,blind-longview.csv,theopenroad
+Fine Balance,Metaphor,Long View Living,blind-longview.csv,finebalance
+Strong Tea,Metaphor,Long View Living,blind-longview.csv,strongtea
+Clear Water,Metaphor,Long View Living,blind-longview.csv,clearwater
+Deeply Light,Paradox,Long View Living,blind-longview.csv,deeplylight
+Wildly Poised,Paradox,Long View Living,blind-longview.csv,wildlypoised
+Leisurely Urgent,Paradox,Long View Living,blind-longview.csv,leisurelyurgent
+Weightless Gravitas,Paradox,Long View Living,blind-longview.csv,weightlessgravitas
+Tender Steel,Paradox,Long View Living,blind-longview.csv,tendersteel
+Daily Epic,Paradox,Long View Living,blind-longview.csv,dailyepic
+Strong Grace,Paradox,Long View Living,blind-longview.csv,stronggrace
+Still Rising,Paradox,Long View Living,blind-longview.csv,stillrising
+Stay Curious,Proposition,Long View Living,blind-longview.csv,staycurious
+Know Your Measure,Proposition,Long View Living,blind-longview.csv,knowyourmeasure
+Keep Your Edge,Proposition,Long View Living,blind-longview.csv,keepyouredge
+Worth the While,Proposition,Long View Living,blind-longview.csv,worththewhile
+Have Another,Proposition,Long View Living,blind-longview.csv,haveanother
+Stand in Wonder,Proposition,Long View Living,blind-longview.csv,standinwonder
+All Yours Now,Proposition,Long View Living,blind-longview.csv,allyoursnow
+Make Good Trouble,Proposition,Long View Living,blind-longview.csv,makegoodtrouble
+The Epicure,Personification,Long View Living,blind-longview.csv,theepicure
+The Connoisseur,Personification,Long View Living,blind-longview.csv,theconnoisseur
+The Patron,Personification,Long View Living,blind-longview.csv,thepatron
+The Raconteur,Personification,Long View Living,blind-longview.csv,theraconteur
+The Emissary,Personification,Long View Living,blind-longview.csv,theemissary
+The Provocateur,Personification,Long View Living,blind-longview.csv,theprovocateur
+The Companion,Personification,Long View Living,blind-longview.csv,thecompanion
+The Houseguest,Personification,Long View Living,blind-longview.csv,thehouseguest
+Commonplace Society,Cultural frame,Long View Living,blind-longview.csv,commonplacesociety
+The Assembly,Cultural frame,Long View Living,blind-longview.csv,theassembly
+The Public Garden,Cultural frame,Long View Living,blind-longview.csv,thepublicgarden
+Table Society,Cultural frame,Long View Living,blind-longview.csv,tablesociety
+The Pleasure Union,Cultural frame,Long View Living,blind-longview.csv,thepleasureunion
+The Flourishing Club,Cultural frame,Long View Living,blind-longview.csv,theflourishingclub
+Culture House,Cultural frame,Long View Living,blind-longview.csv,culturehouse
+Assembly Required,Cultural frame,Long View Living,blind-longview.csv,assemblyrequired
+Bold Strokes,Arts frame,Long View Living,blind-longview.csv,boldstrokes
+Atelier Plenty,Arts frame,Long View Living,blind-longview.csv,atelierplenty
+New Cadence,Arts frame,Long View Living,blind-longview.csv,newcadence
+The Artful,Arts frame,Long View Living,blind-longview.csv,theartful
+In Good Taste,Arts frame,Long View Living,blind-longview.csv,ingoodtaste
+Practice Makes,Arts frame,Long View Living,blind-longview.csv,practicemakes
+The Good Cut,Arts frame,Long View Living,blind-longview.csv,thegoodcut
+Oak & Honey,Natural reference,Long View Living,blind-longview.csv,oakhoney
+Cedar Table,Natural reference,Long View Living,blind-longview.csv,cedartable
+Tamarind,Natural reference,Long View Living,blind-longview.csv,tamarind
+Golden Oriole,Natural reference,Long View Living,blind-longview.csv,goldenoriole
+Honeycomb,Natural reference,Long View Living,blind-longview.csv,honeycomb
+Cardamom,Natural reference,Long View Living,blind-longview.csv,cardamom
+Peachstone,Natural reference,Long View Living,blind-longview.csv,peachstone
+Firelight,Natural reference,Long View Living,blind-longview.csv,firelight
+South Window,Spatial frame,Long View Living,blind-longview.csv,southwindow
+Broad Avenue,Spatial frame,Long View Living,blind-longview.csv,broadavenue
+Free Range,Spatial frame,Long View Living,blind-longview.csv,freerange
+Room to Roam,Spatial frame,Long View Living,blind-longview.csv,roomtoroam
+Open Invitation,Spatial frame,Long View Living,blind-longview.csv,openinvitation
+The Great Indoors,Spatial frame,Long View Living,blind-longview.csv,thegreatindoors
+Private View,Spatial frame,Long View Living,blind-longview.csv,privateview
+Brighter Matter,Poetic phrase,Long View Living,blind-longview.csv,brightermatter
+Richly Done,Poetic phrase,Long View Living,blind-longview.csv,richlydone
+Plentywise,Poetic coinage,Long View Living,blind-longview.csv,plentywise
+Ownmost,Poetic coinage,Long View Living,blind-longview.csv,ownmost
+Beautifully Grown,Poetic phrase,Long View Living,blind-longview.csv,beautifullygrown
+More Beautiful,Poetic phrase,Long View Living,blind-longview.csv,morebeautiful
+Aperture Wide,Poetic phrase,Long View Living,blind-longview.csv,aperturewide
+Candor,Real word,Entertaining Skeptic,blind-skeptic.csv,candor
+Jester,Archetype,Entertaining Skeptic,blind-skeptic.csv,jester
+Pinprick,Metaphor,Entertaining Skeptic,blind-skeptic.csv,pinprick
+Squint,Gesture,Entertaining Skeptic,blind-skeptic.csv,squint
+Interruption,Editorial term,Entertaining Skeptic,blind-skeptic.csv,interruption
+Raconteur,Archetype,Entertaining Skeptic,blind-skeptic.csv,raconteur
+Chortle,Sound word,Entertaining Skeptic,blind-skeptic.csv,chortle
+Bunkum,Antique slang,Entertaining Skeptic,blind-skeptic.csv,bunkum
+Flummery,Antique slang,Entertaining Skeptic,blind-skeptic.csv,flummery
+Mirage,Metaphor,Entertaining Skeptic,blind-skeptic.csv,mirage
+Soapbox,Cultural frame,Entertaining Skeptic,blind-skeptic.csv,soapbox
+Retort,Real word,Entertaining Skeptic,blind-skeptic.csv,retort
+Crosstalk,Real word,Entertaining Skeptic,blind-skeptic.csv,crosstalk
+Scrutiny,Real word,Entertaining Skeptic,blind-skeptic.csv,scrutiny
+Devil’s Advocate,Idiom,Entertaining Skeptic,blind-skeptic.csv,devilsadvocate
+Wrong Number,Idiom,Entertaining Skeptic,blind-skeptic.csv,wrongnumber
+Paper Crown,Metaphor,Entertaining Skeptic,blind-skeptic.csv,papercrown
+Velvet Rope,Cultural frame,Entertaining Skeptic,blind-skeptic.csv,velvetrope
+Cheap Seats,Cultural frame,Entertaining Skeptic,blind-skeptic.csv,cheapseats
+Long Pause,Gesture,Entertaining Skeptic,blind-skeptic.csv,longpause
+Slow Clap,Gesture,Entertaining Skeptic,blind-skeptic.csv,slowclap
+Full Tilt,Idiom,Entertaining Skeptic,blind-skeptic.csv,fulltilt
+Missing Piece,Metaphor,Entertaining Skeptic,blind-skeptic.csv,missingpiece
+Odd Lot,Cultural frame,Entertaining Skeptic,blind-skeptic.csv,oddlot
+Serious Fun,Contradiction,Entertaining Skeptic,blind-skeptic.csv,seriousfun
+Tongue Tied,Idiom,Entertaining Skeptic,blind-skeptic.csv,tonguetied
+Plain English,Idiom,Entertaining Skeptic,blind-skeptic.csv,plainenglish
+Minor Uproar,Contradiction,Entertaining Skeptic,blind-skeptic.csv,minoruproar
+Hard Maybe,Contradiction,Entertaining Skeptic,blind-skeptic.csv,hardmaybe
+Hold That Thought,Command,Entertaining Skeptic,blind-skeptic.csv,holdthatthought
+Show Your Work,Command,Entertaining Skeptic,blind-skeptic.csv,showyourwork
+Do Tell,Retort,Entertaining Skeptic,blind-skeptic.csv,dotell
+Almost Convincing,Retort,Entertaining Skeptic,blind-skeptic.csv,almostconvincing
+Says Plenty,Proposition,Entertaining Skeptic,blind-skeptic.csv,saysplenty
+Sounds Fishy,Reaction,Entertaining Skeptic,blind-skeptic.csv,soundsfishy
+Missed a Spot,Retort,Entertaining Skeptic,blind-skeptic.csv,missedaspot
+Wait What,Reaction,Entertaining Skeptic,blind-skeptic.csv,waitwhat
+Oddly Specific,Editorial phrase,Entertaining Skeptic,blind-skeptic.csv,oddlyspecific
+Worth Asking,Proposition,Entertaining Skeptic,blind-skeptic.csv,worthasking
+Read Between,Command,Entertaining Skeptic,blind-skeptic.csv,readbetween
+Here We Go,Proposition,Entertaining Skeptic,blind-skeptic.csv,herewego
+Nobody Asked,Proposition,Entertaining Skeptic,blind-skeptic.csv,nobodyasked
+Out With It,Command,Entertaining Skeptic,blind-skeptic.csv,outwithit
+Emperor’s Tailor,Cultural frame,Entertaining Skeptic,blind-skeptic.csv,emperorstailor
+Fool’s Gold,Idiom,Entertaining Skeptic,blind-skeptic.csv,foolsgold
+Cardboard Giant,Metaphor,Entertaining Skeptic,blind-skeptic.csv,cardboardgiant
+Painted Door,Metaphor,Entertaining Skeptic,blind-skeptic.csv,painteddoor
+Tin Parade,Metaphor,Entertaining Skeptic,blind-skeptic.csv,tinparade
+Silk Alarm,Contradiction,Entertaining Skeptic,blind-skeptic.csv,silkalarm
+Tiny Trumpet,Contradiction,Entertaining Skeptic,blind-skeptic.csv,tinytrumpet
+Cheerful Doubt,Contradiction,Entertaining Skeptic,blind-skeptic.csv,cheerfuldoubt
+Civil Mischief,Contradiction,Entertaining Skeptic,blind-skeptic.csv,civilmischief
+Laughing Glass,Cultural twist,Entertaining Skeptic,blind-skeptic.csv,laughingglass
+Noble Nuisance,Contradiction,Entertaining Skeptic,blind-skeptic.csv,noblenuisance
+Honest Trickster,Contradiction,Entertaining Skeptic,blind-skeptic.csv,honesttrickster
+Empty Orchestra,Contradiction,Entertaining Skeptic,blind-skeptic.csv,emptyorchestra
+Plain Pageant,Contradiction,Entertaining Skeptic,blind-skeptic.csv,plainpageant
+Broken Trombone,Metaphor,Entertaining Skeptic,blind-skeptic.csv,brokentrombone
+Painted Peacock,Metaphor,Entertaining Skeptic,blind-skeptic.csv,paintedpeacock
+Wooden Nickel,Idiom,Entertaining Skeptic,blind-skeptic.csv,woodennickel
+Bah,Sound word,Entertaining Skeptic,blind-skeptic.csv,bah
+Tut Tut,Sound word,Entertaining Skeptic,blind-skeptic.csv,tuttut
+Zing,Sound word,Entertaining Skeptic,blind-skeptic.csv,zing
+Jest,Real word,Entertaining Skeptic,blind-skeptic.csv,jest
+Squawk,Sound word,Entertaining Skeptic,blind-skeptic.csv,squawk
+Rattle,Sound word,Entertaining Skeptic,blind-skeptic.csv,rattle
+Snort,Sound word,Entertaining Skeptic,blind-skeptic.csv,snort
+Fizzle,Sound word,Entertaining Skeptic,blind-skeptic.csv,fizzle
+Bonk,Sound word,Entertaining Skeptic,blind-skeptic.csv,bonk
+Askit,Coinage,Entertaining Skeptic,blind-skeptic.csv,askit
+Jibber,Coinage,Entertaining Skeptic,blind-skeptic.csv,jibber
+Quirkly,Coinage,Entertaining Skeptic,blind-skeptic.csv,quirkly
+Glintly,Coinage,Entertaining Skeptic,blind-skeptic.csv,glintly
+Winkwell,Compound,Entertaining Skeptic,blind-skeptic.csv,winkwell
+Plainish,Coinage,Entertaining Skeptic,blind-skeptic.csv,plainish
+Margin Call,Double meaning,Entertaining Skeptic,blind-skeptic.csv,margincall
+Postscript,Editorial term,Entertaining Skeptic,blind-skeptic.csv,postscript
+Ellipsis,Editorial term,Entertaining Skeptic,blind-skeptic.csv,ellipsis
+Dateline,Editorial term,Entertaining Skeptic,blind-skeptic.csv,dateline
+Pull Quote,Editorial term,Entertaining Skeptic,blind-skeptic.csv,pullquote
+Broadsheet,Editorial term,Entertaining Skeptic,blind-skeptic.csv,broadsheet
+Gazette,Editorial term,Entertaining Skeptic,blind-skeptic.csv,gazette
+Sunday Heretic,Editorial compound,Entertaining Skeptic,blind-skeptic.csv,sundayheretic
+Third Edition,Editorial compound,Entertaining Skeptic,blind-skeptic.csv,thirdedition
+Last Edit,Editorial compound,Entertaining Skeptic,blind-skeptic.csv,lastedit
+Desk Lamp,Editorial frame,Entertaining Skeptic,blind-skeptic.csv,desklamp
+Open Letter,Editorial term,Entertaining Skeptic,blind-skeptic.csv,openletter
+On Background,Media frame,Entertaining Skeptic,blind-skeptic.csv,onbackground
+Rabbit Hole,Idiom,Entertaining Skeptic,blind-skeptic.csv,rabbithole
+White Elephant,Idiom,Entertaining Skeptic,blind-skeptic.csv,whiteelephant
+Dark Horse,Idiom,Entertaining Skeptic,blind-skeptic.csv,darkhorse
+Wise Owl,Archetype,Entertaining Skeptic,blind-skeptic.csv,wiseowl
+Naked Emperor,Cultural frame,Entertaining Skeptic,blind-skeptic.csv,nakedemperor
+Laugh Track,Media frame,Entertaining Skeptic,blind-skeptic.csv,laughtrack
+Trap Door,Theater frame,Entertaining Skeptic,blind-skeptic.csv,trapdoor
+Bad Magic,Contradiction,Entertaining Skeptic,blind-skeptic.csv,badmagic
+Smoke Break,Double meaning,Entertaining Skeptic,blind-skeptic.csv,smokebreak
+Busted Flush,Card frame,Entertaining Skeptic,blind-skeptic.csv,bustedflush
+House Edge,Game frame,Entertaining Skeptic,blind-skeptic.csv,houseedge
+Gamesman,Game frame,Entertaining Skeptic,blind-skeptic.csv,gamesman
+Mood Ring,Cultural frame,Entertaining Skeptic,blind-skeptic.csv,moodring
+Left Field,Idiom,Entertaining Skeptic,blind-skeptic.csv,leftfield
+Off Script,Media frame,Entertaining Skeptic,blind-skeptic.csv,offscript
+Distill,Real word,Radical Focus,blind-fewerbetter.csv,distill
+Grain,Real word,Radical Focus,blind-fewerbetter.csv,grain
+Finite,Real word,Radical Focus,blind-fewerbetter.csv,finite
+Fettle,Real word,Radical Focus,blind-fewerbetter.csv,fettle
+Curate,Real word,Radical Focus,blind-fewerbetter.csv,curate
+Wit,Real word,Radical Focus,blind-fewerbetter.csv,wit
+White Space,Editorial metaphor,Radical Focus,blind-fewerbetter.csv,whitespace
+Proper Noun,Editorial metaphor,Radical Focus,blind-fewerbetter.csv,propernoun
+Final Form,Form metaphor,Radical Focus,blind-fewerbetter.csv,finalform
+Single Stroke,Craft metaphor,Radical Focus,blind-fewerbetter.csv,singlestroke
+Fine Point,Precision metaphor,Radical Focus,blind-fewerbetter.csv,finepoint
+Quiet Proof,Editorial metaphor,Radical Focus,blind-fewerbetter.csv,quietproof
+Breven,Coinage,Radical Focus,blind-fewerbetter.csv,breven
+Trimora,Coinage,Radical Focus,blind-fewerbetter.csv,trimora
+Pravia,Coinage,Radical Focus,blind-fewerbetter.csv,pravia
+Moden,Coinage,Radical Focus,blind-fewerbetter.csv,moden
+Solaire,Coinage,Radical Focus,blind-fewerbetter.csv,solaire
+Mirren,Coinage,Radical Focus,blind-fewerbetter.csv,mirren
+Vantor,Coinage,Radical Focus,blind-fewerbetter.csv,vantor
+Tessan,Coinage,Radical Focus,blind-fewerbetter.csv,tessan
+Distilla,Altered word,Radical Focus,blind-fewerbetter.csv,distilla
+Curata,Altered word,Radical Focus,blind-fewerbetter.csv,curata
+Finita,Altered word,Radical Focus,blind-fewerbetter.csv,finita
+Scopra,Altered word,Radical Focus,blind-fewerbetter.csv,scopra
+Discerna,Altered word,Radical Focus,blind-fewerbetter.csv,discerna
+Acuita,Altered word,Radical Focus,blind-fewerbetter.csv,acuita
+Certa,Altered word,Radical Focus,blind-fewerbetter.csv,certa
+Sifta,Altered word,Radical Focus,blind-fewerbetter.csv,sifta
+Cutwise,Compound,Radical Focus,blind-fewerbetter.csv,cutwise
+Finethread,Compound,Radical Focus,blind-fewerbetter.csv,finethread
+Choicely,Compound,Radical Focus,blind-fewerbetter.csv,choicely
+Fitmark,Compound,Radical Focus,blind-fewerbetter.csv,fitmark
+Needwell,Compound,Radical Focus,blind-fewerbetter.csv,needwell
+Finebound,Compound,Radical Focus,blind-fewerbetter.csv,finebound
+Worthline,Compound,Radical Focus,blind-fewerbetter.csv,worthline
+Keepworthy,Compound,Radical Focus,blind-fewerbetter.csv,keepworthy
+Leave It Better,Proposition,Radical Focus,blind-fewerbetter.csv,leaveitbetter
+Worth the Space,Proposition,Radical Focus,blind-fewerbetter.csv,worththespace
+All You Need,Proposition,Radical Focus,blind-fewerbetter.csv,allyouneed
+Set the Bar,Proposition,Radical Focus,blind-fewerbetter.csv,setthebar
+Choose the Keeper,Proposition,Radical Focus,blind-fewerbetter.csv,choosethekeeper
+Built to Last,Proposition,Radical Focus,blind-fewerbetter.csv,builttolast
+Abundant Restraint,Paradox,Radical Focus,blind-fewerbetter.csv,abundantrestraint
+Quiet Standard,Paradox,Radical Focus,blind-fewerbetter.csv,quietstandard
+Strictly Human,Paradox,Radical Focus,blind-fewerbetter.csv,strictlyhuman
+Spare Luxury,Paradox,Radical Focus,blind-fewerbetter.csv,spareluxury
+Gentle Cut,Paradox,Radical Focus,blind-fewerbetter.csv,gentlecut
+Patient Edge,Paradox,Radical Focus,blind-fewerbetter.csv,patientedge
+Tight Generosity,Paradox,Radical Focus,blind-fewerbetter.csv,tightgenerosity
+Finite Wonder,Paradox,Radical Focus,blind-fewerbetter.csv,finitewonder
+Pluck,Sound word,Radical Focus,blind-fewerbetter.csv,pluck
+Nib,Sound word,Radical Focus,blind-fewerbetter.csv,nib
+One Chime,Sound image,Radical Focus,blind-fewerbetter.csv,onechime
+Bellcut,Sound compound,Radical Focus,blind-fewerbetter.csv,bellcut
+Sona,Sound coinage,Radical Focus,blind-fewerbetter.csv,sona
+Trimtone,Sound compound,Radical Focus,blind-fewerbetter.csv,trimtone
+Tapnote,Sound compound,Radical Focus,blind-fewerbetter.csv,tapnote
+The Chooser,Personification,Radical Focus,blind-fewerbetter.csv,thechooser
+The Taster,Personification,Radical Focus,blind-fewerbetter.csv,thetaster
+The Selector,Personification,Radical Focus,blind-fewerbetter.csv,theselector
+The Purist,Personification,Radical Focus,blind-fewerbetter.csv,thepurist
+The Goldsmith,Personification,Radical Focus,blind-fewerbetter.csv,thegoldsmith
+Mise en Place,Culinary frame,Radical Focus,blind-fewerbetter.csv,miseenplace
+First Press,Craft frame,Radical Focus,blind-fewerbetter.csv,firstpress
+Savile Row,Tailoring frame,Radical Focus,blind-fewerbetter.csv,savilerow
+Signature Dish,Culinary frame,Radical Focus,blind-fewerbetter.csv,signaturedish
+Frontispiece,Publishing frame,Radical Focus,blind-fewerbetter.csv,frontispiece
+Gallery Wall,Art frame,Radical Focus,blind-fewerbetter.csv,gallerywall
+Pocket Watch,Object frame,Radical Focus,blind-fewerbetter.csv,pocketwatch
+Limited Run,Production frame,Radical Focus,blind-fewerbetter.csv,limitedrun
+Spring Water,Nature metaphor,Radical Focus,blind-fewerbetter.csv,springwater
+Lone Pine,Nature metaphor,Radical Focus,blind-fewerbetter.csv,lonepine
+Pure Spring,Nature metaphor,Radical Focus,blind-fewerbetter.csv,purespring
+Wild Mint,Nature metaphor,Radical Focus,blind-fewerbetter.csv,wildmint
+Oak and Reed,Nature metaphor,Radical Focus,blind-fewerbetter.csv,oakandreed
+Featherweight,Nature metaphor,Radical Focus,blind-fewerbetter.csv,featherweight
+White Pine,Nature metaphor,Radical Focus,blind-fewerbetter.csv,whitepine
+Straightedge,Tool frame,Radical Focus,blind-fewerbetter.csv,straightedge
+Whetstone,Tool frame,Radical Focus,blind-fewerbetter.csv,whetstone
+Joinery,Craft frame,Radical Focus,blind-fewerbetter.csv,joinery
+Steel Nib,Tool frame,Radical Focus,blind-fewerbetter.csv,steelnib
+Porcelain,Material frame,Radical Focus,blind-fewerbetter.csv,porcelain
+Needlework,Craft frame,Radical Focus,blind-fewerbetter.csv,needlework
+Small Press,Publishing frame,Radical Focus,blind-fewerbetter.csv,smallpress
+Sonnet,Literary frame,Radical Focus,blind-fewerbetter.csv,sonnet
+Folio,Publishing frame,Radical Focus,blind-fewerbetter.csv,folio
+Curio,Cultural frame,Radical Focus,blind-fewerbetter.csv,curio
+Shaker,Cultural frame,Radical Focus,blind-fewerbetter.csv,shaker
+Vermeer,Art frame,Radical Focus,blind-fewerbetter.csv,vermeer
+Eames,Design frame,Radical Focus,blind-fewerbetter.csv,eames
+Good Cut,Quality phrase,Radical Focus,blind-fewerbetter.csv,goodcut
+Select Set,Curated phrase,Radical Focus,blind-fewerbetter.csv,selectset
+The Useful,Personification,Radical Focus,blind-fewerbetter.csv,theuseful
+Uncommon Sense,Paradox,Radical Focus,blind-fewerbetter.csv,uncommonsense
+Very Good,Quality phrase,Radical Focus,blind-fewerbetter.csv,verygood
+Quietly Best,Adverb phrase,Radical Focus,blind-fewerbetter.csv,quietlybest

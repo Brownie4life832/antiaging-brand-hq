@@ -1,0 +1,90 @@
+{
+  "raw_blind_rows": 2250,
+  "historical_normalized_index": 5262,
+  "historical_exact_rejections": 221,
+  "blind_duplicate_rejections": 103,
+  "deduped_survivors": 1926,
+  "review_chunk_counts": {
+    "a": 644,
+    "b": 643,
+    "c": 639
+  },
+  "blind_source_counts": {
+    "blind-standards.csv": 400,
+    "blind-performance.csv": 400,
+    "blind-control.csv": 400,
+    "blind-longview.csv": 350,
+    "blind-skeptic.csv": 350,
+    "blind-fewerbetter.csv": 350
+  },
+  "survivor_source_counts": {
+    "blind-standards.csv": 377,
+    "blind-performance.csv": 340,
+    "blind-control.csv": 308,
+    "blind-longview.csv": 306,
+    "blind-skeptic.csv": 308,
+    "blind-fewerbetter.csv": 287
+  },
+  "largest_historical_sources": [
+    [
+      "workbench-wave34/wave3-raw.txt",
+      1698
+    ],
+    [
+      "final-exercise-2026-07-16/03-blind-pool.md",
+      989
+    ],
+    [
+      "workbench-wave34/wave3-selection.txt",
+      586
+    ],
+    [
+      "name-longlist-top500-2026-06-19.md",
+      416
+    ],
+    [
+      "net-new-250-2026-07-16.md",
+      250
+    ],
+    [
+      "net-new-250-wave2-2026-07-16.md",
+      250
+    ],
+    [
+      "net-new-250-wave4-2026-07-16.md",
+      250
+    ],
+    [
+      "net-new-250-wave3-2026-07-16.md",
+      249
+    ],
+    [
+      "name-candidates-2026-06-19.md",
+      108
+    ],
+    [
+      "name-candidates-v2-fullmethod-2026-06-19.md",
+      108
+    ],
+    [
+      "workbench-wave34/wave3-cuts.txt",
+      49
+    ],
+    [
+      "workbench-wave34/wave4-cuts.txt",
+      49
+    ],
+    [
+      "founder-led-reset-2026-07-15/03-preliminary-clearance-ledger.md",
+      44
+    ],
+    [
+      "founder-led-reset-2026-07-15/07-post-user-test-structural-reset.md",
+      30
+    ],
+    [
+      "final-exercise-2026-07-16/01-decision-protocol.md",
+      22
+    ]
+  ]
+}

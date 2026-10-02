@@ -1,0 +1,124 @@
+{
+  "raw_unique_count": 2846,
+  "historical_index_count": 7212,
+  "gated_count": 2515,
+  "rejection_count": 331,
+  "rejection_reasons": {
+    "historical exact": 185,
+    "four-consonant cluster": 124,
+    "triple repeated letter": 5,
+    "prohibited category/cliche word": 17
+  },
+  "available_by_direction": {
+    "The Invented House": 525,
+    "The Pure Sound Lab": 435,
+    "The Beautiful Object": 232,
+    "The Magnetic Character": 169,
+    "The Private World": 227,
+    "The Cultural Mononym": 270,
+    "Beautiful Mischief": 134,
+    "Sensory Motion": 282,
+    "Technical Elegance": 162,
+    "Deep Time": 79
+  },
+  "selected_count": 1000,
+  "selected_by_direction": {
+    "The Invented House": 160,
+    "The Pure Sound Lab": 160,
+    "The Beautiful Object": 110,
+    "The Magnetic Character": 100,
+    "The Private World": 90,
+    "The Cultural Mononym": 100,
+    "Beautiful Mischief": 90,
+    "Sensory Motion": 80,
+    "Technical Elegance": 60,
+    "Deep Time": 50
+  },
+  "selected_by_method": {
+    "Eponym / curated mononym": 65,
+    "Morpheme engine": 81,
+    "World-language-shaped coinage": 14,
+    "Sound-first curated coinage": 54,
+    "Sound-first coinage": 93,
+    "Deconstruct / reconstruct": 62,
+    "Real-word object metaphor": 43,
+    "Compound 1+1=3": 18,
+    "Real-word eponym": 37,
+    "Character proposition": 10,
+    "Archetypal compound": 53,
+    "Invented place name": 53,
+    "Real-word place metaphor": 21,
+    "Place compound": 16,
+    "Far-field real-word raid": 100,
+    "Audacity / proposition": 37,
+    "Contradictory compound": 53,
+    "Action and sensory metaphor": 26,
+    "Movement reconstruction": 47,
+    "Sensory compound": 7,
+    "Technical source raid": 25,
+    "Technical morpheme engine": 35,
+    "Deep-time metaphor and future reframe": 50
+  },
+  "largest_historical_sources": [
+    [
+      "workbench-wave34/wave3-raw.txt",
+      1698
+    ],
+    [
+      "final-exercise-2026-07-16/03-blind-pool.md",
+      989
+    ],
+    [
+      "workbench-wave34/wave3-selection.txt",
+      586
+    ],
+    [
+      "name-longlist-top500-2026-06-19.md",
+      416
+    ],
+    [
+      "decoy-250-2026-07-16.md",
+      250
+    ],
+    [
+      "net-new-250-2026-07-16.md",
+      250
+    ],
+    [
+      "net-new-250-wave2-2026-07-16.md",
+      250
+    ],
+    [
+      "net-new-250-wave4-2026-07-16.md",
+      250
+    ],
+    [
+      "net-new-250-wave3-2026-07-16.md",
+      249
+    ],
+    [
+      "name-candidates-2026-06-19.md",
+      108
+    ],
+    [
+      "name-candidates-v2-fullmethod-2026-06-19.md",
+      108
+    ],
+    [
+      "workbench-wave34/wave3-cuts.txt",
+      49
+    ],
+    [
+      "workbench-wave34/wave4-cuts.txt",
+      49
+    ],
+    [
+      "founder-led-reset-2026-07-15/03-preliminary-clearance-ledger.md",
+      44
+    ],
+    [
+      "founder-led-reset-2026-07-15/07-post-user-test-structural-reset.md",
+      30
+    ]
+  ]
+}

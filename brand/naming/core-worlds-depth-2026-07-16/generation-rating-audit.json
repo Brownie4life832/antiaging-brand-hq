@@ -1,0 +1,115 @@
+{
+  "world_count": 8,
+  "exercise_count": 17,
+  "raw_candidates": 5808,
+  "historical_index_size": 8904,
+  "historical_rejections": 464,
+  "internal_duplicate_rejections": 1178,
+  "rated_survivors": 4166,
+  "top500_count": 500,
+  "raw_world_counts": {
+    "Time and Skin Longevity": 726,
+    "Nothing Hidden and Transparency": 726,
+    "Bare Face and Recognizable Self": 726,
+    "Skin Capability and Training": 726,
+    "Visible Performance": 726,
+    "Barrier Strength and Adaptive Capacity": 726,
+    "Evidence and Proof": 726,
+    "Better Informed and Customer Agency": 726
+  },
+  "survivor_world_counts": {
+    "Time and Skin Longevity": 540,
+    "Bare Face and Recognizable Self": 537,
+    "Nothing Hidden and Transparency": 531,
+    "Visible Performance": 521,
+    "Skin Capability and Training": 506,
+    "Barrier Strength and Adaptive Capacity": 513,
+    "Evidence and Proof": 500,
+    "Better Informed and Customer Agency": 518
+  },
+  "top500_world_counts": {
+    "Time and Skin Longevity": 90,
+    "Bare Face and Recognizable Self": 90,
+    "Nothing Hidden and Transparency": 68,
+    "Visible Performance": 47,
+    "Skin Capability and Training": 75,
+    "Barrier Strength and Adaptive Capacity": 50,
+    "Evidence and Proof": 40,
+    "Better Informed and Customer Agency": 40
+  },
+  "top500_exercise_counts": {
+    "Deconstruct / reconstruct": 6,
+    "Win by contrast": 141,
+    "Morpheme engine": 92,
+    "Compound: one plus one equals three": 11,
+    "Real-word metaphor or eponym": 6,
+    "Make the intangible tangible": 83,
+    "Anti-descriptor": 26,
+    "Scientific borrowing": 57,
+    "Name the audacity / worldview": 34,
+    "Three-team decoy": 19,
+    "Reframe the question / name the future": 2,
+    "Portmanteau": 17,
+    "Benefit ladder / ultimate feeling": 4,
+    "Synchronicity / source-library raid": 2
+  },
+  "creative_decisions": {
+    "ADVANCE": 957,
+    "HOLD": 2352,
+    "CUT": 857
+  },
+  "raw_cell_min": 42,
+  "survivor_cell_min": 3,
+  "top500_cells_represented": 78,
+  "total_cells": 136,
+  "largest_historical_sources": [
+    [
+      "workbench-wave34/wave3-raw.txt",
+      1698
+    ],
+    [
+      "desire-first-1000-2026-07-16/raw-pool.csv",
+      1515
+    ],
+    [
+      "desire-first-1000-2026-07-16/all-1000-screen-aware-ranked.csv",
+      1000
+    ],
+    [
+      "final-exercise-2026-07-16/03-blind-pool.md",
+      968
+    ],
+    [
+      "workbench-wave34/wave3-selection.txt",
+      586
+    ],
+    [
+      "skin-capability-round-2026-07-16/deduped-pool.csv",
+      543
+    ],
+    [
+      "name-longlist-top500-2026-06-19.md",
+      416
+    ],
+    [
+      "desire-first-1000-2026-07-16/blind-pool-rejections.csv",
+      266
+    ],
+    [
+      "decoy-250-2026-07-16.md",
+      250
+    ],
+    [
+      "net-new-250-2026-07-16.md",
+      250
+    ],
+    [
+      "net-new-250-wave2-2026-07-16.md",
+      250
+    ],
+    [
+      "net-new-250-wave4-2026-07-16.md",
+      250
+    ]
+  ]
+}

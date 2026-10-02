@@ -1,0 +1,24 @@
+{
+  "candidate_count": 500,
+  "search_key_count": 391591,
+  "matched_case_record_count": 14669,
+  "decision_counts": {
+    "PROVISIONAL PASS": 204,
+    "RED - LIVE EXACT / RELEVANT": 110,
+    "AMBER - LIVE NEAR / RELEVANT": 59,
+    "AMBER - LIVE EXACT": 52,
+    "YELLOW - DEAD EXACT": 39,
+    "YELLOW - LIVE NEAR": 36
+  },
+  "corpus_distinct_serials": 14180757,
+  "corpus_latest_source_date": "2026-07-06",
+  "relevant_classes": [
+    "003",
+    "005",
+    "010",
+    "021",
+    "035",
+    "044"
+  ],
+  "limits": "Exact normalized identity plus edit-distance-one for compact names; preliminary federal knockout only."
+}
