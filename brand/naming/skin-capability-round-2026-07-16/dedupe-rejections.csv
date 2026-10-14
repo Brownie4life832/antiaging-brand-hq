@@ -1,0 +1,77 @@
+﻿RawID,Name,World,Exercise,ExerciseName,Form,Source,Normalized,RejectReason,Collision
+6,In Good Form,Skin Training,2,Benefit ladder,familiar phrase,performance state,ingoodform,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: In Good Form
+53,Full Range,Skin Training,14,Real-word metaphor,real term,movement capability,fullrange,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Full Range
+54,Set Point,Skin Training,14,Real-word metaphor,real term,reference state,setpoint,historical exact,net-new-250-wave4-2026-07-16.md :: Setpoint
+80,Practiced,Skin Practice,1,Intangible to tangible,real word,earned skill,practiced,historical exact,net-new-250-wave3-2026-07-16.md :: Practiced
+128,Standard Practice,Skin Practice,13,Compound,compound,established practice,standardpractice,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Standard Practice
+132,Knowhow,Skin Practice,14,Real-word metaphor,real word,practical knowledge,knowhow,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Knowhow
+193,Baseline,Personal Baseline,10,Scientific borrowing control,scientific control,reference measurement,baseline,historical exact,net-new-250-wave4-2026-07-16.md :: Baseline
+204,Nofone,Personal Baseline,12,Structural orthographic,joined phrase,N of one,nofone,internal duplicate,N of One
+205,Personal Standard,Personal Baseline,13,Compound,compound,individual benchmark,personalstandard,historical exact,net-new-250-wave3-2026-07-16.md :: Personal Standard
+210,Reference Point,Personal Baseline,14,Real-word metaphor,real term,benchmark,referencepoint,historical exact,net-new-250-wave2-2026-07-16.md :: Reference Point
+235,Skin Form,Skin Training,13,Compound,compound matrix,conditioning compound matrix,skinform,internal duplicate,Skin Form
+236,Skin Range,Skin Training,13,Compound,compound matrix,conditioning compound matrix,skinrange,internal duplicate,Skin Range
+237,Skin Reps,Skin Training,13,Compound,compound matrix,conditioning compound matrix,skinreps,internal duplicate,Skin Reps
+241,Skin Practice,Skin Training,13,Compound,compound matrix,conditioning compound matrix,skinpractice,historical exact,net-new-250-2026-07-16.md :: Skin Practice
+247,Face Form,Skin Training,13,Compound,compound matrix,conditioning compound matrix,faceform,historical exact,net-new-250-2026-07-16.md :: Faceform
+249,Face Reps,Skin Training,13,Compound,compound matrix,conditioning compound matrix,facereps,internal duplicate,Face Reps
+253,Face Practice,Skin Training,13,Compound,compound matrix,conditioning compound matrix,facepractice,internal duplicate,Face Practice
+258,Face Work,Skin Training,13,Compound,compound matrix,conditioning compound matrix,facework,historical exact,net-new-250-2026-07-16.md :: Facework
+261,Daily Reps,Skin Training,13,Compound,compound matrix,conditioning compound matrix,dailyreps,internal duplicate,Daily Reps
+283,Good Form,Skin Training,13,Compound,compound matrix,conditioning compound matrix,goodform,historical exact,net-new-250-wave4-2026-07-16.md :: Goodform
+285,Good Reps,Skin Training,13,Compound,compound matrix,conditioning compound matrix,goodreps,internal duplicate,Good Reps
+289,Good Practice,Skin Training,13,Compound,compound matrix,conditioning compound matrix,goodpractice,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Good Practice
+293,Good Condition,Skin Training,13,Compound,compound matrix,conditioning compound matrix,goodcondition,historical exact,net-new-250-wave2-2026-07-16.md :: Good Condition
+295,Full Form,Skin Training,13,Compound,compound matrix,conditioning compound matrix,fullform,historical exact,net-new-250-2026-07-16.md :: Full Form
+296,Full Range,Skin Training,13,Compound,compound matrix,conditioning compound matrix,fullrange,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Full Range
+304,Full Cadence,Skin Training,13,Compound,compound matrix,conditioning compound matrix,fullcadence,historical exact,desire-first-1000-2026-07-16/raw-pool.csv :: Full Cadence
+310,Ready Set,Skin Training,13,Compound,compound matrix,conditioning compound matrix,readyset,historical exact,workbench-wave34/wave3-cuts.txt :: Ready Set
+311,Ready Mode,Skin Training,13,Compound,compound matrix,conditioning compound matrix,readymode,historical exact,net-new-250-wave3-2026-07-16.md :: Readymode
+312,Ready Capacity,Skin Training,13,Compound,compound matrix,conditioning compound matrix,readycapacity,internal duplicate,Ready Capacity
+322,Working Set,Skin Training,13,Compound,compound matrix,conditioning compound matrix,workingset,internal duplicate,Working Set
+324,Working Capacity,Skin Training,13,Compound,compound matrix,conditioning compound matrix,workingcapacity,internal duplicate,Working Capacity
+331,True Form,Skin Training,13,Compound,compound matrix,conditioning compound matrix,trueform,historical exact,net-new-250-2026-07-16.md :: True Form
+340,True Cadence,Skin Training,13,Compound,compound matrix,conditioning compound matrix,truecadence,historical exact,desire-first-1000-2026-07-16/raw-pool.csv :: True Cadence
+378,Real Work,Skin Training,13,Compound,compound matrix,conditioning compound matrix,realwork,historical exact,net-new-250-wave4-2026-07-16.md :: Realwork
+379,Skin Practice,Skin Practice,13,Compound,compound matrix,practice compound matrix,skinpractice,historical exact,net-new-250-2026-07-16.md :: Skin Practice
+380,Skin Method,Skin Practice,13,Compound,compound matrix,practice compound matrix,skinmethod,historical exact,net-new-250-2026-07-16.md :: Skin Method
+381,Skin Technique,Skin Practice,13,Compound,compound matrix,practice compound matrix,skintechnique,internal duplicate,Skin Technique
+386,Skin Work,Skin Practice,13,Compound,compound matrix,practice compound matrix,skinwork,internal duplicate,Skin Work
+388,Skin Session,Skin Practice,13,Compound,compound matrix,practice compound matrix,skinsession,internal duplicate,Skin Session
+391,Daily Practice,Skin Practice,13,Compound,compound matrix,practice compound matrix,dailypractice,internal duplicate,Daily Practice
+392,Daily Method,Skin Practice,13,Compound,compound matrix,practice compound matrix,dailymethod,internal duplicate,Daily Method
+398,Daily Work,Skin Practice,13,Compound,compound matrix,practice compound matrix,dailywork,internal duplicate,Daily Work
+403,Open Practice,Skin Practice,13,Compound,compound matrix,practice compound matrix,openpractice,internal duplicate,Open Practice
+404,Open Method,Skin Practice,13,Compound,compound matrix,practice compound matrix,openmethod,historical exact,net-new-250-2026-07-16.md :: Open Method
+414,Open Standard,Skin Practice,13,Compound,compound matrix,practice compound matrix,openstandard,historical exact,net-new-250-2026-07-16.md :: Open Standard
+427,Good Practice,Skin Practice,13,Compound,compound matrix,practice compound matrix,goodpractice,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Good Practice
+434,Good Work,Skin Practice,13,Compound,compound matrix,practice compound matrix,goodwork,internal duplicate,Good Work
+439,Standard Practice,Skin Practice,13,Compound,compound matrix,practice compound matrix,standardpractice,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Standard Practice
+450,Common Practice,Skin Practice,13,Compound,compound matrix,practice compound matrix,commonpractice,historical exact,decoy-250-2026-07-16.md :: Common Practice
+465,Useful Habit,Skin Practice,13,Compound,compound matrix,practice compound matrix,usefulhabit,internal duplicate,Useful Habit
+474,Real Practice,Skin Practice,13,Compound,compound matrix,practice compound matrix,realpractice,internal duplicate,Real Practice
+481,Real Work,Skin Practice,13,Compound,compound matrix,practice compound matrix,realwork,historical exact,net-new-250-wave4-2026-07-16.md :: Realwork
+497,Your Standard,Skin Practice,13,Compound,compound matrix,practice compound matrix,yourstandard,historical exact,net-new-250-2026-07-16.md :: Your Standard
+517,Exact Work,Skin Practice,13,Compound,compound matrix,practice compound matrix,exactwork,historical exact,net-new-250-wave4-2026-07-16.md :: Exactwork
+523,Skin Measure,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,skinmeasure,historical exact,net-new-250-2026-07-16.md :: Skinmeasure
+524,Skin Standard,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,skinstandard,internal duplicate,Skin Standard
+529,Skin Response,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,skinresponse,internal duplicate,Skin Response
+536,Face Standard,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,facestandard,historical exact,net-new-250-2026-07-16.md :: Face Standard
+541,Face Response,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,faceresponse,internal duplicate,Face Response
+543,Face Mark,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,facemark,historical exact,net-new-250-2026-07-16.md :: Facemark
+544,Face Fit,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,facefit,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: FaceFit
+548,Personal Standard,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,personalstandard,historical exact,net-new-250-wave3-2026-07-16.md :: Personal Standard
+563,Own Control,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,owncontrol,internal duplicate,Own Control
+565,Own Response,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,ownresponse,internal duplicate,Own Response
+567,Own Mark,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,ownmark,internal duplicate,Ownmark
+572,Your Standard,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,yourstandard,historical exact,net-new-250-2026-07-16.md :: Your Standard
+576,Your Delta,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,yourdelta,internal duplicate,Your Delta
+584,One Standard,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,onestandard,internal duplicate,Onestandard
+603,Self Mark,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,selfmark,internal duplicate,Selfmark
+607,True Measure,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,truemeasure,historical exact,net-new-250-2026-07-16.md :: True Measure
+613,True Response,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,trueresponse,internal duplicate,True Response
+619,Exact Measure,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,exactmeasure,historical exact,net-new-250-2026-07-16.md :: Exact Measure
+620,Exact Standard,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,exactstandard,internal duplicate,Exact Standard
+632,Reference Standard,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,referencestandard,historical exact,net-new-250-wave3-2026-07-16.md :: Reference Standard
+633,Reference Point,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,referencepoint,historical exact,net-new-250-wave2-2026-07-16.md :: Reference Point
+661,Base Case,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,basecase,internal duplicate,Base Case

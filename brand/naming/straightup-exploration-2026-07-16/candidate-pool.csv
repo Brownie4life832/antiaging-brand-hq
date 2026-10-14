@@ -1,0 +1,441 @@
+lane,name
+plain_candor,Put Plainly
+plain_candor,Said Plain
+plain_candor,Plain Said
+plain_candor,Plainly
+plain_candor,Plainspoken
+plain_candor,Outright
+plain_candor,Forthright
+plain_candor,Aboveboard
+plain_candor,Directly
+plain_candor,Exactly
+plain_candor,Specifically
+plain_candor,Matter of Fact
+plain_candor,In Fact
+plain_candor,For Real
+plain_candor,Openly
+plain_candor,Unvarnished
+plain_candor,No Spin
+plain_candor,Spin Free
+plain_candor,No Hype
+plain_candor,Hype Free
+plain_candor,No Nonsense
+plain_candor,No Secrets
+plain_candor,Hide Nothing
+plain_candor,Nothing Hidden
+plain_candor,Full Disclosure
+plain_candor,No Fine Print
+plain_candor,Plain and Simple
+plain_candor,Simple as That
+plain_candor,As It Is
+plain_candor,As Stated
+plain_candor,As Shown
+plain_candor,To Be Clear
+plain_candor,Be Clear
+plain_candor,Loud and Clear
+plain_candor,Clear as Day
+plain_candor,In Plain Sight
+plain_candor,Plain to See
+plain_candor,Full View
+plain_candor,Plain View
+plain_candor,Face Value
+plain_candor,Bare Facts
+plain_candor,Face Facts
+plain_candor,Straight Facts
+plain_candor,Hard Facts
+plain_candor,Plain Facts
+plain_candor,Truth Told
+plain_candor,Truth Be Told
+plain_candor,All Told
+plain_candor,Whole Story
+plain_candor,Full Story
+plain_candor,True Story
+plain_candor,Tell All
+conversation,Heres Why
+conversation,Say Why
+conversation,Show Why
+conversation,Know Why
+conversation,Good Question
+conversation,Any Questions
+conversation,Ask Why
+conversation,How So
+conversation,Tell Me Why
+conversation,Consider This
+conversation,Know This
+conversation,Read This
+conversation,Read Up
+conversation,Worth Knowing
+conversation,Good to Know
+conversation,Need to Know
+conversation,Know Better
+conversation,Better Known
+conversation,Made Known
+conversation,Fully Known
+conversation,Point Made
+conversation,Case in Point
+conversation,Make the Case
+conversation,Case Made
+conversation,Clear Case
+conversation,Point Blank
+conversation,To the Point
+conversation,Main Point
+conversation,Bottom Line
+conversation,Full Stop
+conversation,Thats It
+conversation,So There
+conversation,There It Is
+conversation,Here It Is
+conversation,Right Here
+conversation,Right Now
+conversation,Right This Way
+conversation,Exactly Right
+conversation,Quite Right
+conversation,Sure Thing
+conversation,For Sure
+conversation,Sure Enough
+conversation,Fair Enough
+conversation,Well Said
+conversation,Enough Said
+conversation,Said and Done
+conversation,Done Deal
+conversation,Mean It
+conversation,We Mean It
+conversation,Quote Me
+conversation,Mark My Words
+conversation,Take Note
+conversation,Note This
+conversation,Spelled Out
+conversation,Spell It Out
+conversation,In Writing
+conversation,Written Down
+conversation,On Record
+conversation,For the Record
+conversation,Open Record
+conversation,Public Record
+conversation,No Asterisk
+proof_motion,Show Your Work
+proof_motion,Show the Work
+proof_motion,Work Shown
+proof_motion,Show the Math
+proof_motion,Check the Math
+proof_motion,Do the Math
+proof_motion,Adds Up
+proof_motion,Add It Up
+proof_motion,Stacks Up
+proof_motion,Holds Up
+proof_motion,Stands Up
+proof_motion,Measure Up
+proof_motion,Measured
+proof_motion,By Measure
+proof_motion,Full Measure
+proof_motion,Good Measure
+proof_motion,True Measure
+proof_motion,Proof First
+proof_motion,Plain Proof
+proof_motion,Open Proof
+proof_motion,Solid Proof
+proof_motion,Proof Positive
+proof_motion,Proof Point
+proof_motion,Proof Please
+proof_motion,Proof Enough
+proof_motion,More Proof
+proof_motion,Just Proof
+proof_motion,Checkable
+proof_motion,Verifiable
+proof_motion,Accountable
+proof_motion,Receipts
+proof_motion,Show Receipts
+proof_motion,Fully Backed
+proof_motion,Back It Up
+proof_motion,Stand Behind
+proof_motion,Ground Truth
+proof_motion,First Principles
+proof_motion,Source First
+proof_motion,Full Source
+proof_motion,Show Source
+proof_motion,Cite This
+proof_motion,Cited
+proof_motion,Test Case
+proof_motion,Tested
+proof_motion,Trial Run
+proof_motion,Test Run
+proof_motion,Works as Said
+proof_motion,Does What It Says
+proof_motion,As Advertised
+proof_motion,True to Label
+proof_motion,Open Label
+proof_motion,Read the Label
+proof_motion,Full Formula
+proof_motion,Open Formula
+proof_motion,Whats Inside
+proof_motion,Inside Story
+proof_motion,Made Clear
+proof_motion,Made Right
+proof_motion,Built Right
+proof_motion,Done Right
+proof_motion,Make Good
+proof_motion,Good Faith
+proof_motion,In Good Faith
+proof_motion,Word Kept
+proof_motion,Our Word
+proof_motion,Good Word
+proof_motion,Word and Deed
+forward_energy,Up Front
+forward_energy,Face Up
+forward_energy,Own Up
+forward_energy,Speak Up
+forward_energy,Listen Up
+forward_energy,Wise Up
+forward_energy,Show Up
+forward_energy,True Up
+forward_energy,Right Up
+forward_energy,Heads Up
+forward_energy,Chin Up
+forward_energy,Straightaway
+forward_energy,Right Away
+forward_energy,Right On
+forward_energy,Head On
+forward_energy,Forward
+forward_energy,Face Forward
+forward_energy,Onward
+forward_energy,Full On
+forward_energy,All Out
+forward_energy,Wide Open
+forward_energy,Eyes Open
+forward_energy,Eye Level
+forward_energy,On the Level
+forward_energy,Level With
+forward_energy,Square Deal
+forward_energy,Fair and Square
+forward_energy,Square One
+forward_energy,Clear Cut
+forward_energy,Clean Cut
+forward_energy,True Cut
+forward_energy,Cut to It
+forward_energy,Cut and Dry
+forward_energy,Brass Tacks
+forward_energy,Open and Shut
+forward_energy,Come Clean
+forward_energy,Get Real
+forward_energy,Keep It Real
+forward_energy,Call It
+forward_energy,Called It
+forward_energy,Get to It
+forward_energy,Here Goes
+peer_intelligence,Eye to Eye
+peer_intelligence,One to One
+peer_intelligence,Your Call
+peer_intelligence,You Decide
+peer_intelligence,Decide Well
+peer_intelligence,Better Informed
+peer_intelligence,Well Informed
+peer_intelligence,Fully Informed
+peer_intelligence,Informed Choice
+peer_intelligence,Clear Choice
+peer_intelligence,Good Sense
+peer_intelligence,Common Sense
+peer_intelligence,Makes Sense
+peer_intelligence,Sense Made
+peer_intelligence,Sense Check
+peer_intelligence,With Reason
+peer_intelligence,Good Reason
+peer_intelligence,Every Reason
+peer_intelligence,For a Reason
+peer_intelligence,Reason First
+peer_intelligence,Well Reasoned
+peer_intelligence,Considered
+peer_intelligence,Well Considered
+peer_intelligence,By Design
+peer_intelligence,On Purpose
+peer_intelligence,Purpose Built
+peer_intelligence,Built for This
+peer_intelligence,High Standards
+peer_intelligence,Set Standard
+peer_intelligence,True Standard
+peer_intelligence,Up to Standard
+peer_intelligence,House Rules
+peer_intelligence,Ground Rules
+peer_intelligence,By the Book
+peer_intelligence,Open Book
+peer_intelligence,Book Smart
+peer_intelligence,Answer Key
+peer_intelligence,Right Answer
+peer_intelligence,Straight Answer
+peer_intelligence,Better Answer
+peer_intelligence,All There
+peer_intelligence,All Clear
+peer_intelligence,No Mystery
+coined_compound,Factforward
+coined_compound,Claimclear
+coined_compound,Claimwise
+coined_compound,Proofwise
+coined_compound,Plainwise
+coined_compound,Known Good
+coined_compound,Clear Terms
+coined_compound,Open Terms
+coined_compound,Claims Clear
+coined_compound,Proof Made
+coined_compound,Saidwell
+coined_compound,Openword
+coined_compound,Clearword
+coined_compound,Trueword
+coined_compound,Full Account
+coined_compound,Open Account
+coined_compound,Readout
+coined_compound,Close Read
+coined_compound,Open Note
+coined_compound,True Note
+coined_compound,Firsthand
+coined_compound,In Full
+coined_compound,Through and Through
+coined_compound,True to Form
+focused_mutation,Made Plain
+focused_mutation,Speak Plain
+focused_mutation,Plain Speaking
+focused_mutation,Plain Dealing
+focused_mutation,Plain About It
+focused_mutation,Plain on Purpose
+focused_mutation,See It Plain
+focused_mutation,Easy to See
+focused_mutation,In Full View
+focused_mutation,All in View
+focused_mutation,Open View
+focused_mutation,True View
+focused_mutation,Full Sight
+focused_mutation,All Visible
+focused_mutation,Fully Shown
+focused_mutation,Shown True
+focused_mutation,Shown Plain
+focused_mutation,Show Plain
+focused_mutation,Mean What We Say
+focused_mutation,Say What We Mean
+focused_mutation,Stand By It
+focused_mutation,Behind Every Word
+focused_mutation,As We Say
+focused_mutation,Said Right
+focused_mutation,Say It Right
+focused_mutation,Said Out Loud
+focused_mutation,You Heard Us
+focused_mutation,Make It Known
+focused_mutation,Let It Be Known
+focused_mutation,No Footnote
+focused_mutation,No Footnotes
+focused_mutation,No Small Print
+focused_mutation,Read Every Word
+focused_mutation,All in Writing
+focused_mutation,Written Plain
+focused_mutation,Written Right
+focused_mutation,Clear Copy
+focused_mutation,Plain Copy
+focused_mutation,Full Text
+focused_mutation,Open Text
+focused_mutation,Read All
+focused_mutation,Fully Spelled
+focused_mutation,Spell Clear
+focused_mutation,No Catch
+focused_mutation,No Caveat
+focused_mutation,No Gloss
+focused_mutation,No Edit
+focused_mutation,Without Edit
+focused_mutation,As Shot
+focused_mutation,In Focus
+focused_mutation,Full Focus
+focused_mutation,Clearly Shown
+focused_mutation,Show Work
+focused_mutation,Proof Shown
+focused_mutation,Show How
+focused_mutation,Heres How
+focused_mutation,How It Works
+focused_mutation,Why First
+focused_mutation,Show Reason
+focused_mutation,Reason Shown
+focused_mutation,What Works
+focused_mutation,It Adds Up
+focused_mutation,All Adds Up
+focused_mutation,Make It Add Up
+focused_mutation,Bears Out
+focused_mutation,Checks Out
+focused_mutation,Fact Checked
+focused_mutation,Proof Checked
+focused_mutation,Claim Checked
+focused_mutation,Claim Check
+focused_mutation,Rings True
+focused_mutation,Holds True
+focused_mutation,Stands True
+focused_mutation,Backed Up
+focused_mutation,Earns It
+focused_mutation,Earned It
+focused_mutation,Proof Earned
+focused_mutation,Claims Earned
+focused_mutation,Every Choice
+focused_mutation,Chosen Well
+focused_mutation,Well Chosen
+focused_mutation,Chosen for a Reason
+focused_mutation,No Pretense
+focused_mutation,No Theater
+focused_mutation,No Tricks
+focused_mutation,No Fooling
+focused_mutation,Not Kidding
+focused_mutation,No Joke
+focused_mutation,For Keeps
+focused_mutation,As Promised
+focused_mutation,Promise Kept
+focused_mutation,Less Talk
+focused_mutation,More Show
+focused_mutation,Less Claim
+focused_mutation,Proof Not Promise
+focused_mutation,Not Just Talk
+focused_mutation,More Than Talk
+focused_mutation,Straightforward
+focused_mutation,Level Set
+focused_mutation,Set Right
+focused_mutation,Put Right
+focused_mutation,Right by You
+focused_mutation,Honest Work
+focused_mutation,Open Work
+focused_mutation,Fair Work
+focused_mutation,Plain Work
+focused_mutation,Good Work
+focused_mutation,Exact Work
+focused_mutation,Sound Work
+focused_mutation,Proofed
+focused_mutation,Proofd
+focused_mutation,PLNLY
+focused_mutation,Meant
+focused_mutation,Shown
+focused_mutation,Known
+focused_mutation,No Blind Faith
+focused_mutation,Dont Believe Us
+focused_mutation,Ask for Proof
+focused_mutation,Demand Proof
+focused_mutation,Proof Required
+focused_mutation,Show Me
+focused_mutation,See the Proof
+focused_mutation,See Why
+focused_mutation,See How
+focused_mutation,Decide for Yourself
+focused_mutation,Your Own Mind
+focused_mutation,Better Judgment
+focused_mutation,Good Judgment
+focused_mutation,Judgment Call
+focused_mutation,Not on Faith
+focused_mutation,On Evidence
+focused_mutation,By Evidence
+focused_mutation,Based On
+focused_mutation,Well Backed
+focused_mutation,Can Prove It
+focused_mutation,Check Us
+focused_mutation,No Bluff
+focused_mutation,Cards Face Up
+focused_mutation,In Daylight
+focused_mutation,Broad Daylight
+focused_mutation,Out in Front
+focused_mutation,In the Open
+focused_mutation,Out in the Open
+focused_mutation,Open Wide
+focused_mutation,All on the Page
+focused_mutation,On the Page
+focused_mutation,Page Proof
+focused_mutation,Full List
+focused_mutation,Open List
+focused_mutation,List It

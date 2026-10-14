@@ -6,6 +6,46 @@ The running record of what we've **decided**, when, and **why**. Append-only —
 
 ---
 
+### 2026-07-18 — Calibrated founder naming taste and froze the independent brief
+- **Taste evidence:** The founder evaluated eleven volunteered loved names and twenty controlled skincare names without design or clearance cues. The preference is not one name form; it is a complete, aspirational brand object with a memorable verbal silhouette.
+- **Corrections:** Two-word names, ordinary words, conceptual phrases, `skin-` compounds, person-like names, and coined words may all work. The failure conditions are semantic emptiness, childish novelty, generic attachment, arbitrary luxury sound, and explanations that import meaning not embedded in the name.
+- **Key boundaries:** `Supergoop!` is exciting but too childish and toy-like for premium beauty. `Paula's Choice` is flat and unaspirational because it feels like a person's name with a generic word attached. `Biossance` changed from dislike to like when its intrinsic `biology` + `renaissance` construction became visible.
+- **Decision:** A concise discovery embedded in the name may materially improve the response; a retrofitted strategy paragraph may not. The independent brief is frozen around three creative worlds: charged worlds, meaningful inventions, and decisive identities.
+- **Sources:** [`../brand/naming/founder-round-2026-07-18/12-founder-taste-calibration.md`](../brand/naming/founder-round-2026-07-18/12-founder-taste-calibration.md) and [`../brand/naming/founder-round-2026-07-18/11-independent-naming-handoff.md`](../brand/naming/founder-round-2026-07-18/11-independent-naming-handoff.md).
+- **Status:** Calibration complete; brand name remains open. The stop on undiagnosed AI volume generation remains active.
+
+### 2026-07-18 — Stopped AI-led volume naming after Cycle 2
+- **Founder verdict:** All eight Cycle 2 names failed. The repeated problem was not insufficient explanation but the inverse: boring statements and logical phrases were repeatedly rated highly even though they had no intrinsic skincare relevance, excitement, or desirability.
+- **Diagnosis:** The process confused explainability with relevance and strategic coherence with desire. It misread the appeal of `Straight Face` and `Bare Facts` as generic double-meaning mechanics, then copied their two-word form without their idiomatic snap, attitude, cultural familiarity, or immediate beauty/face connection. Preliminary availability screening also favored legally quieter, more generic expressions.
+- **Decision:** Activate the charter's stop rule. Do not generate a third AI list from the same brief, exercises, or numeric scoring model. Treat the 13,000-name corpus as research evidence rather than a live shortlist.
+- **Next execution:** Calibrate the founder's linguistic taste using real existing brand names, then hand a corpus-blind brief to an independent human naming lead. Present naked names first; rationale and deeper clearance follow only after genuine founder pull.
+- **Sources:** [`../brand/naming/founder-round-2026-07-18/10-cycle2-founder-reactions-and-stop.md`](../brand/naming/founder-round-2026-07-18/10-cycle2-founder-reactions-and-stop.md) and [`../brand/naming/founder-round-2026-07-18/11-independent-naming-handoff.md`](../brand/naming/founder-round-2026-07-18/11-independent-naming-handoff.md).
+- **Status:** AI-led volume round closed; brand name remains open.
+
+### 2026-07-18 - Closed Cycle 1 and opened the final Cycle 2 founder gate
+- **Founder signal:** `Straight Face` and `Bare Facts` established the winning mechanism: familiar language with immediate skincare or face relevance and a genuine second meaning. `Fineprint` contributed conceptual intelligence but lacked emotional aspiration.
+- **Cycle 2 rule:** Add confidence, vitality, momentum, self-possession, or optimism without losing category meaning or logical integrity. Do not imply that using effective skincare is inauthentic.
+- **Execution:** Generated and screened 148 candidates inside that single mechanism. No unrelated Placek exercise was reopened.
+- **Founder gate:** `Fine By Me`, `Sensitive Subject`, `Hold Firm`, `Active Voice`, `Clearer Still`, `Firm Belief`, `Strong Boundaries`, and `Stronger Still` advance as an evenly presented learning set. They are not represented as cleared marks or final recommendations.
+- **Source:** [`../brand/naming/founder-round-2026-07-18/08-cycle2-founder-gate.md`](../brand/naming/founder-round-2026-07-18/08-cycle2-founder-gate.md).
+- **Status:** Final Cycle 2 founder reaction pending; brand name remains open.
+
+### 2026-07-18 - Completed the founder taste diagnostic and opened the Cycle 1 gate
+- **Decision:** Founder feedback established five positive controls: one-beat comprehension, natural skincare relevance, verbal voltage, premium tone with purpose, and a strong brand object rather than a sentence.
+- **Rejections frozen:** obscure words, arbitrary faux-luxury coinages, bland statements, forced `skin-` constructions, and mundane trade or instrument associations.
+- **Cycle 1 result:** 427 raw names / 379 normalized unique forms across the broad and semantic-hinge passes. One hundred twenty selected names received a preliminary local U.S. federal knockout screen. Most legally quieter outputs still failed the creative bar and were not shown.
+- **Founder gate:** `Fineprint`, `Straight Face`, `Bare Facts`, `Act Your Age`, and `Unretouched` are being used as a five-name learning set, not represented as finalists or cleared marks.
+- **Source:** [`../brand/naming/founder-round-2026-07-18/04-cycle1-founder-gate.md`](../brand/naming/founder-round-2026-07-18/04-cycle1-founder-gate.md).
+- **Status:** Cycle 1 founder reaction pending; brand name remains open.
+
+### 2026-07-18 — Locked the next naming round's strategic center and taste controls
+- **Decision:** The name must support an exceptional, science-backed, transparent skincare brand that respects women. Customers should feel confident in who they are while still wanting to improve the health and visible condition of their skin.
+- **Productive tension:** confidence without complacency; scientific authority without condescension; transparency without dullness; improvement without age panic.
+- **Founder rejection rule:** inert two-word combinations, generic statements, and slogan-like phrases are not acceptable merely because a rationale can connect them to the strategy. `Show the Work` is the founder's explicit failure example because it lacks excitement and intrinsic skincare meaning.
+- **Process:** Begin with a blind taste diagnostic, then run two founder-gated generation cycles. Historical repeats are allowed but receive no legacy score or status.
+- **Source:** [`../brand/naming/founder-round-2026-07-18/00-round-charter.md`](../brand/naming/founder-round-2026-07-18/00-round-charter.md).
+- **Status:** ✅ Naming brief locked; taste diagnostic pending founder response. Brand name remains open.
+
 ### 2026-06-20 — In-house custom formulation + advanced delivery is a real capability (updates "buy commodity bases")
 - **Decision:** Treat **custom, science-backed formulation with advanced delivery systems as a genuine, in-house differentiator.** Our formulation scientist also develops for L'Oréal-tier companies and is building **customized** solutions for us — so "buy commodity bases, invest only in the brand" is no longer the *only* play.
 - **Nuance:** The advantage is **formulation sophistication + custom delivery** (lamellar / liposomal / encapsulation), not automatically composition-of-matter patents or large independent RCTs (those may still be capital-bound). Delivery is the most defensible, hardest-to-dupe layer of "science" a small brand can own — and the raw active list itself is commoditized (Amazon scans: copper peptides / PDRN at ~$19).

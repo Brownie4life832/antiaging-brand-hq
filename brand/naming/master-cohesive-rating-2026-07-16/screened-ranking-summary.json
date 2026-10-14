@@ -1,0 +1,17 @@
+{
+  "total_rated_names": 13271,
+  "creative_score_threshold": "> 8.0",
+  "screened_cohort_count": 397,
+  "preliminary_federal_pass_count": 222,
+  "known_deeper_screen_count": 14,
+  "known_deeper_green_count": 6,
+  "screened_decision_counts": {
+    "PROVISIONAL PASS": 222,
+    "RED - LIVE EXACT / RELEVANT": 53,
+    "AMBER - LIVE EXACT": 36,
+    "YELLOW - LIVE NEAR": 30,
+    "AMBER - LIVE NEAR / RELEVANT": 29,
+    "YELLOW - DEAD EXACT": 27
+  },
+  "legal_status": "Preliminary federal knockout only; not final trademark clearance."
+}

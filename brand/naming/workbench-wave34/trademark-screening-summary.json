@@ -1,0 +1,28 @@
+{
+  "candidate_count": 1000,
+  "search_key_count": 747526,
+  "matched_case_record_count": 27781,
+  "decision_counts": {
+    "PROVISIONAL PASS": 309,
+    "RED - LIVE EXACT / RELEVANT": 300,
+    "AMBER - LIVE EXACT": 156,
+    "YELLOW - DEAD EXACT": 93,
+    "AMBER - LIVE NEAR / RELEVANT": 80,
+    "YELLOW - LIVE NEAR": 62
+  },
+  "corpus_distinct_serials": 14180757,
+  "corpus_latest_source_date": "2026-07-06",
+  "relevant_classes": [
+    "003",
+    "005",
+    "010",
+    "021",
+    "035",
+    "044"
+  ],
+  "outputs": {
+    "report": "C:\\Users\\Hasan\\Documents\\Anti-Aging Brand\\brand\\naming\\basic-trademark-knockout-1000-2026-07-16.md",
+    "results_csv": "C:\\Users\\Hasan\\Documents\\Anti-Aging Brand\\brand\\naming\\workbench-wave34\\trademark-screening-results.csv",
+    "hits_csv": "C:\\Users\\Hasan\\Documents\\Anti-Aging Brand\\brand\\naming\\workbench-wave34\\trademark-screening-hits.csv"
+  }
+}

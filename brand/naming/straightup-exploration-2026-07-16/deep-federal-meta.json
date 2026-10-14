@@ -1,0 +1,16 @@
+{
+  "candidate_count": 25,
+  "pattern_count": 91,
+  "live_relevant_hit_rows": 451,
+  "corpus_distinct_serials": 14180757,
+  "corpus_latest_source_date": "2026-07-06",
+  "relevant_classes": [
+    "003",
+    "005",
+    "010",
+    "021",
+    "035",
+    "044"
+  ],
+  "scope": "Live U.S. federal records matching exact, dominant, phrase-family, reversal, or listed phonetic patterns."
+}

@@ -1,0 +1,21 @@
+{
+  "candidate_count": 48,
+  "search_key_count": 40870,
+  "matched_case_record_count": 160,
+  "decision_counts": {
+    "PROVISIONAL PASS": 38,
+    "AMBER - LIVE NEAR / RELEVANT": 6,
+    "YELLOW - LIVE NEAR": 2,
+    "AMBER - LIVE EXACT": 1,
+    "RED - LIVE EXACT / RELEVANT": 1
+  },
+  "corpus_latest_source_date": "2026-07-06",
+  "relevant_classes": [
+    "003",
+    "005",
+    "010",
+    "021",
+    "035",
+    "044"
+  ]
+}
