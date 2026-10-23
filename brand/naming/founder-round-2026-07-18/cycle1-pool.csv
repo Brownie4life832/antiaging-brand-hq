@@ -1,0 +1,355 @@
+﻿approach,lab_order,name,normalized,new_pool_occurrences,all_approaches,historical_repeat
+A — category idea with voltage,1,Full Face,fullface,2,A — category idea with voltage | C — charged familiar metaphor,YES
+A — category idea with voltage,2,Face Value,facevalue,3,A — category idea with voltage | B — legible invention | C — charged familiar metaphor,YES
+A — category idea with voltage,3,Face Forward,faceforward,2,A — category idea with voltage | B — legible invention,YES
+A — category idea with voltage,4,Future Face,futureface,1,A — category idea with voltage,
+A — category idea with voltage,5,Face First,facefirst,2,A — category idea with voltage | B — legible invention,YES
+A — category idea with voltage,6,Own Face,ownface,1,A — category idea with voltage,YES
+A — category idea with voltage,7,This Face,thisface,1,A — category idea with voltage,
+A — category idea with voltage,8,True Face,trueface,1,A — category idea with voltage,YES
+A — category idea with voltage,9,Facewise,facewise,2,A — category idea with voltage | B — legible invention,YES
+A — category idea with voltage,10,Faceworthy,faceworthy,2,A — category idea with voltage | B — legible invention,
+A — category idea with voltage,11,Faceform,faceform,2,A — category idea with voltage | B — legible invention,YES
+A — category idea with voltage,12,Facework,facework,1,A — category idea with voltage,YES
+A — category idea with voltage,13,Faceprint,faceprint,2,A — category idea with voltage | B — legible invention,YES
+A — category idea with voltage,14,Faceproof,faceproof,2,A — category idea with voltage | B — legible invention,YES
+A — category idea with voltage,15,Facestate,facestate,2,A — category idea with voltage | B — legible invention,
+A — category idea with voltage,16,Skin First,skinfirst,1,A — category idea with voltage,YES
+A — category idea with voltage,17,Own Skin,ownskin,2,A — category idea with voltage,
+A — category idea with voltage,18,Her Skin,herskin,1,A — category idea with voltage,
+A — category idea with voltage,19,Skin Forward,skinforward,1,A — category idea with voltage,
+A — category idea with voltage,20,Future Skin,futureskin,1,A — category idea with voltage,
+A — category idea with voltage,21,Skinwise,skinwise,2,A — category idea with voltage | B — legible invention,
+A — category idea with voltage,22,Skinworthy,skinworthy,1,A — category idea with voltage,YES
+A — category idea with voltage,23,Skinform,skinform,2,A — category idea with voltage | B — legible invention,YES
+A — category idea with voltage,24,Skinproof,skinproof,2,A — category idea with voltage | B — legible invention,
+A — category idea with voltage,25,Skinstate,skinstate,1,A — category idea with voltage,
+A — category idea with voltage,26,Skinspan,skinspan,2,A — category idea with voltage | B — legible invention,
+A — category idea with voltage,27,Skinlife,skinlife,2,A — category idea with voltage | B — legible invention,
+A — category idea with voltage,28,Lifeskin,lifeskin,1,A — category idea with voltage,
+A — category idea with voltage,29,Skin Health,skinhealth,1,A — category idea with voltage,
+A — category idea with voltage,30,Skin Better,skinbetter,1,A — category idea with voltage,
+A — category idea with voltage,31,Better Skin,betterskin,1,A — category idea with voltage,
+A — category idea with voltage,32,Better Bare,betterbare,2,A — category idea with voltage | B — legible invention,
+A — category idea with voltage,33,Bare Better,barebetter,1,A — category idea with voltage,
+A — category idea with voltage,34,Bareproof,bareproof,1,A — category idea with voltage,YES
+A — category idea with voltage,35,Bare Truth,baretruth,1,A — category idea with voltage,YES
+A — category idea with voltage,36,True Bare,truebare,1,A — category idea with voltage,
+A — category idea with voltage,37,In Full Face,infullface,1,A — category idea with voltage,YES
+A — category idea with voltage,38,Full Skin,fullskin,1,A — category idea with voltage,
+A — category idea with voltage,39,Skin in Full,skininfull,1,A — category idea with voltage,
+A — category idea with voltage,40,Skin and Self,skinandself,1,A — category idea with voltage,
+A — category idea with voltage,41,Skinself,skinself,1,A — category idea with voltage,
+A — category idea with voltage,43,Her Own Skin,herownskin,1,A — category idea with voltage,
+A — category idea with voltage,44,In Her Skin,inherskin,1,A — category idea with voltage,
+A — category idea with voltage,45,Original Skin,originalskin,1,A — category idea with voltage,
+A — category idea with voltage,46,Original Face,originalface,1,A — category idea with voltage,
+A — category idea with voltage,47,Original You,originalyou,2,A — category idea with voltage | C — charged familiar metaphor,
+A — category idea with voltage,48,More You,moreyou,1,A — category idea with voltage,
+A — category idea with voltage,49,Still You,stillyou,1,A — category idea with voltage,YES
+A — category idea with voltage,50,Stay You,stayyou,1,A — category idea with voltage,YES
+A — category idea with voltage,51,True to You,truetoyou,1,A — category idea with voltage,
+A — category idea with voltage,52,Recognize,recognize,1,A — category idea with voltage,
+A — category idea with voltage,53,Recognizably,recognizably,1,A — category idea with voltage,YES
+A — category idea with voltage,54,Signature Face,signatureface,1,A — category idea with voltage,YES
+A — category idea with voltage,55,Face Signature,facesignature,1,A — category idea with voltage,YES
+A — category idea with voltage,56,Self Portrait,selfportrait,2,A — category idea with voltage | C — charged familiar metaphor,YES
+A — category idea with voltage,57,True Portrait,trueportrait,1,A — category idea with voltage,YES
+A — category idea with voltage,58,Living Portrait,livingportrait,2,A — category idea with voltage | C — charged familiar metaphor,
+A — category idea with voltage,59,Portrait Mode,portraitmode,1,A — category idea with voltage,YES
+A — category idea with voltage,60,Face Card,facecard,2,A — category idea with voltage | C — charged familiar metaphor,
+A — category idea with voltage,61,Bold Face,boldface,2,A — category idea with voltage | C — charged familiar metaphor,YES
+A — category idea with voltage,62,Game Face,gameface,2,A — category idea with voltage | C — charged familiar metaphor,
+A — category idea with voltage,63,Best Face,bestface,1,A — category idea with voltage,
+A — category idea with voltage,64,Every Face,everyface,1,A — category idea with voltage,
+A — category idea with voltage,65,One Face,oneface,1,A — category idea with voltage,
+A — category idea with voltage,66,One of One,oneofone,2,A — category idea with voltage | C — charged familiar metaphor,YES
+A — category idea with voltage,67,Standard of One,standardofone,2,A — category idea with voltage | C — charged familiar metaphor,YES
+A — category idea with voltage,68,Personal Standard,personalstandard,1,A — category idea with voltage,YES
+A — category idea with voltage,69,Skin Standard,skinstandard,2,A — category idea with voltage | B — legible invention,YES
+A — category idea with voltage,70,Higher Standard,higherstandard,1,A — category idea with voltage,
+A — category idea with voltage,71,New Standard,newstandard,1,A — category idea with voltage,
+A — category idea with voltage,72,Her Standard,herstandard,1,A — category idea with voltage,
+A — category idea with voltage,73,Prime Skin,primeskin,1,A — category idea with voltage,
+A — category idea with voltage,74,Prime Face,primeface,1,A — category idea with voltage,
+A — category idea with voltage,75,In Your Prime,inyourprime,1,A — category idea with voltage,
+A — category idea with voltage,76,Prime Form,primeform,1,A — category idea with voltage,
+A — category idea with voltage,77,Best Form,bestform,1,A — category idea with voltage,
+A — category idea with voltage,78,True Form,trueform,1,A — category idea with voltage,YES
+A — category idea with voltage,79,Full Form,fullform,1,A — category idea with voltage,YES
+A — category idea with voltage,80,Living Form,livingform,1,A — category idea with voltage,
+A — category idea with voltage,81,Human Form,humanform,1,A — category idea with voltage,
+A — category idea with voltage,82,Form Forward,formforward,1,A — category idea with voltage,
+A — category idea with voltage,83,Your Form,yourform,1,A — category idea with voltage,
+A — category idea with voltage,84,Own Form,ownform,1,A — category idea with voltage,YES
+A — category idea with voltage,85,Long Live Skin,longliveskin,2,A — category idea with voltage | C — charged familiar metaphor,
+A — category idea with voltage,86,Skin for Life,skinforlife,1,A — category idea with voltage,
+A — category idea with voltage,87,Life of Skin,lifeofskin,1,A — category idea with voltage,
+A — category idea with voltage,88,All Your Years,allyouryears,2,A — category idea with voltage | C — charged familiar metaphor,
+A — category idea with voltage,89,Every Age,everyage,2,A — category idea with voltage | C — charged familiar metaphor,
+A — category idea with voltage,90,Age Your Way,ageyourway,2,A — category idea with voltage | C — charged familiar metaphor,
+A — category idea with voltage,91,Own Your Age,ownyourage,2,A — category idea with voltage | C — charged familiar metaphor,
+A — category idea with voltage,92,Better With Time,betterwithtime,1,A — category idea with voltage,
+A — category idea with voltage,93,Time Well,timewell,1,A — category idea with voltage,YES
+A — category idea with voltage,94,Time Made,timemade,1,A — category idea with voltage,
+A — category idea with voltage,95,Timeproof,timeproof,1,A — category idea with voltage,
+A — category idea with voltage,96,Timeworthy,timeworthy,1,A — category idea with voltage,
+A — category idea with voltage,97,Skin Time,skintime,2,A — category idea with voltage | B — legible invention,
+A — category idea with voltage,98,Timeskin,timeskin,1,A — category idea with voltage,
+A — category idea with voltage,99,Agewise,agewise,1,A — category idea with voltage,YES
+A — category idea with voltage,100,Agekind,agekind,1,A — category idea with voltage,YES
+A — category idea with voltage,101,Right Age,rightage,1,A — category idea with voltage,
+A — category idea with voltage,102,Age Right,ageright,1,A — category idea with voltage,
+A — category idea with voltage,103,Age Edit,ageedit,1,A — category idea with voltage,
+A — category idea with voltage,104,Agedit,agedit,1,A — category idea with voltage,
+A — category idea with voltage,105,Healthspan,healthspan,1,A — category idea with voltage,
+A — category idea with voltage,106,Facespan,facespan,2,A — category idea with voltage | B — legible invention,
+A — category idea with voltage,107,Selfspan,selfspan,1,A — category idea with voltage,
+A — category idea with voltage,108,PrimeSpan,primespan,1,A — category idea with voltage,
+A — category idea with voltage,109,Vital Skin,vitalskin,1,A — category idea with voltage,
+A — category idea with voltage,110,Skin Alive,skinalive,1,A — category idea with voltage,
+A — category idea with voltage,111,Alive Skin,aliveskin,1,A — category idea with voltage,
+A — category idea with voltage,112,Well Skin,wellskin,1,A — category idea with voltage,
+A — category idea with voltage,113,Skincredible,skincredible,2,A — category idea with voltage | B — legible invention,YES
+A — category idea with voltage,114,Skinformed,skinformed,2,A — category idea with voltage | B — legible invention,
+A — category idea with voltage,115,Skinsight,skinsight,2,A — category idea with voltage | B — legible invention,
+A — category idea with voltage,116,Skinnate,skinnate,2,A — category idea with voltage | B — legible invention,
+A — category idea with voltage,117,Skindependent,skindependent,2,A — category idea with voltage | B — legible invention,YES
+A — category idea with voltage,118,Skindividual,skindividual,2,A — category idea with voltage | B — legible invention,
+A — category idea with voltage,119,Skintelligence,skintelligence,2,A — category idea with voltage | B — legible invention,
+A — category idea with voltage,120,Skinsider,skinsider,2,A — category idea with voltage | B — legible invention,YES
+A — category idea with voltage,121,Self Evident,selfevident,1,A — category idea with voltage,YES
+A — category idea with voltage,122,Present Perfect,presentperfect,1,A — category idea with voltage,
+A — category idea with voltage,123,Surface Tension,surfacetension,1,A — category idea with voltage,YES
+A — category idea with voltage,124,Applied Science,appliedscience,1,A — category idea with voltage,
+A — category idea with voltage,125,Truth Serum,truthserum,1,A — category idea with voltage,
+A — category idea with voltage,126,Face the Facts,facethefacts,1,A — category idea with voltage,
+A — category idea with voltage,127,Bare Science,barescience,1,A — category idea with voltage,
+A — category idea with voltage,128,Pretty Smart,prettysmart,1,A — category idea with voltage,
+A — category idea with voltage,129,Good Chemistry,goodchemistry,1,A — category idea with voltage,
+A — category idea with voltage,130,Outside In,outsidein,1,A — category idea with voltage,
+B — legible invention,6,Skintegrity,skintegrity,1,B — legible invention,
+B — legible invention,7,Skincerity,skincerity,1,B — legible invention,
+B — legible invention,10,Skinthentic,skinthentic,1,B — legible invention,
+B — legible invention,11,Skinnovate,skinnovate,1,B — legible invention,
+B — legible invention,12,Skintuit,skintuit,1,B — legible invention,YES
+B — legible invention,13,Skintellect,skintellect,1,B — legible invention,
+B — legible invention,15,Skinward,skinward,1,B — legible invention,
+B — legible invention,17,Skinhelth,skinhelth,2,B — legible invention,
+B — legible invention,18,Skinwealth,skinwealth,1,B — legible invention,
+B — legible invention,19,Skientific,skientific,1,B — legible invention,
+B — legible invention,20,Skintific,skintific,1,B — legible invention,
+B — legible invention,22,Skinvisible,skinvisible,1,B — legible invention,
+B — legible invention,23,Skinclear,skinclear,1,B — legible invention,
+B — legible invention,24,Sklear,sklear,1,B — legible invention,
+B — legible invention,25,Skience,skience,1,B — legible invention,
+B — legible invention,26,Skinverity,skinverity,1,B — legible invention,
+B — legible invention,29,Skintrue,skintrue,1,B — legible invention,
+B — legible invention,30,Skinside,skinside,1,B — legible invention,
+B — legible invention,31,Skinside Out,skinsideout,1,B — legible invention,
+B — legible invention,34,Skinsense,skinsense,1,B — legible invention,YES
+B — legible invention,35,Skinmatter,skinmatter,1,B — legible invention,YES
+B — legible invention,37,Facetual,facetual,1,B — legible invention,
+B — legible invention,38,Factface,factface,1,B — legible invention,YES
+B — legible invention,45,Facekind,facekind,1,B — legible invention,YES
+B — legible invention,47,Facewell,facewell,1,B — legible invention,
+B — legible invention,50,Faceage,faceage,1,B — legible invention,
+B — legible invention,51,Eviderm,eviderm,1,B — legible invention,
+B — legible invention,52,Evidense,evidense,1,B — legible invention,
+B — legible invention,53,Evident,evident,1,B — legible invention,YES
+B — legible invention,54,Evidently,evidently,1,B — legible invention,
+B — legible invention,55,Evidensa,evidensa,1,B — legible invention,
+B — legible invention,56,Prooface,prooface,1,B — legible invention,
+B — legible invention,57,Veriface,veriface,1,B — legible invention,
+B — legible invention,58,Veriskin,veriskin,1,B — legible invention,
+B — legible invention,59,Dermocracy,dermocracy,1,B — legible invention,
+B — legible invention,60,Dermwise,dermwise,1,B — legible invention,
+B — legible invention,61,Dermproof,dermproof,1,B — legible invention,
+B — legible invention,62,Dermdirect,dermdirect,1,B — legible invention,
+B — legible invention,63,Dermvisible,dermvisible,1,B — legible invention,
+B — legible invention,64,Derminded,derminded,1,B — legible invention,
+B — legible invention,65,Dermatter,dermatter,1,B — legible invention,
+B — legible invention,66,Proov,proov,1,B — legible invention,
+B — legible invention,67,Prooven,prooven,1,B — legible invention,
+B — legible invention,68,Proovd,proovd,1,B — legible invention,
+B — legible invention,69,Provn,provn,1,B — legible invention,
+B — legible invention,70,Proofed,proofed,1,B — legible invention,YES
+B — legible invention,71,Verifyd,verifyd,1,B — legible invention,
+B — legible invention,72,Verifed,verifed,1,B — legible invention,
+B — legible invention,73,Verity,verity,1,B — legible invention,YES
+B — legible invention,74,Veritru,veritru,1,B — legible invention,
+B — legible invention,75,Truform,truform,1,B — legible invention,
+B — legible invention,76,Truface,truface,1,B — legible invention,
+B — legible invention,77,Truskin,truskin,1,B — legible invention,
+B — legible invention,78,Truer,truer,1,B — legible invention,
+B — legible invention,79,Truthskin,truthskin,1,B — legible invention,
+B — legible invention,80,Candr,candr,1,B — legible invention,
+B — legible invention,81,Cndid,cndid,1,B — legible invention,
+B — legible invention,82,Opn,opn,1,B — legible invention,YES
+B — legible invention,83,Openn,openn,1,B — legible invention,
+B — legible invention,84,Unfiltrd,unfiltrd,1,B — legible invention,
+B — legible invention,85,Unfilter,unfilter,1,B — legible invention,
+B — legible invention,86,Unretouchd,unretouchd,1,B — legible invention,
+B — legible invention,87,Unalterd,unalterd,1,B — legible invention,
+B — legible invention,88,Unmasked,unmasked,1,B — legible invention,
+B — legible invention,89,Reveald,reveald,1,B — legible invention,
+B — legible invention,90,Visibl,visibl,1,B — legible invention,
+B — legible invention,91,Vissible,vissible,1,B — legible invention,
+B — legible invention,92,Inview,inview,1,B — legible invention,
+B — legible invention,93,Fullview,fullview,1,B — legible invention,YES
+B — legible invention,94,Clearcut,clearcut,1,B — legible invention,YES
+B — legible invention,95,Clearity,clearity,1,B — legible invention,
+B — legible invention,96,Clrity,clrity,1,B — legible invention,
+B — legible invention,97,Cleer,cleer,1,B — legible invention,
+B — legible invention,98,Luciderm,luciderm,1,B — legible invention,
+B — legible invention,99,Lucentskin,lucentskin,1,B — legible invention,
+B — legible invention,100,Helth,helth,1,B — legible invention,
+B — legible invention,101,Helt,helt,1,B — legible invention,
+B — legible invention,103,Helthspan,helthspan,1,B — legible invention,
+B — legible invention,104,Halthspan,halthspan,1,B — legible invention,
+B — legible invention,105,Lifespn,lifespn,1,B — legible invention,
+B — legible invention,106,Longr,longr,1,B — legible invention,
+B — legible invention,107,Durabl,durabl,1,B — legible invention,
+B — legible invention,108,Thriv,thriv,1,B — legible invention,
+B — legible invention,109,Skinthriv,skinthriv,1,B — legible invention,
+B — legible invention,110,Evolv,evolv,1,B — legible invention,
+B — legible invention,111,Advnce,advnce,1,B — legible invention,
+B — legible invention,112,Progrss,progrss,1,B — legible invention,
+B — legible invention,113,Improv,improv,1,B — legible invention,YES
+B — legible invention,114,Bettr,bettr,1,B — legible invention,
+B — legible invention,115,Bettrskin,bettrskin,1,B — legible invention,
+B — legible invention,116,Bettrface,bettrface,1,B — legible invention,
+B — legible invention,118,Barewise,barewise,1,B — legible invention,
+B — legible invention,119,Bared,bared,1,B — legible invention,
+B — legible invention,120,Selfward,selfward,1,B — legible invention,YES
+B — legible invention,121,Fullproof,fullproof,1,B — legible invention,
+B — legible invention,122,Selfproof,selfproof,1,B — legible invention,
+B — legible invention,123,Skinexact,skinexact,1,B — legible invention,
+B — legible invention,124,Factskin,factskin,1,B — legible invention,
+B — legible invention,125,Herproof,herproof,1,B — legible invention,
+B — legible invention,126,Proofskin,proofskin,1,B — legible invention,
+B — legible invention,127,Truself,truself,1,B — legible invention,
+B — legible invention,128,Skinsmart,skinsmart,1,B — legible invention,
+B — legible invention,129,Skinthesis,skinthesis,1,B — legible invention,
+C — charged familiar metaphor,1,Double Take,doubletake,1,C — charged familiar metaphor,YES
+C — charged familiar metaphor,2,Second Look,secondlook,1,C — charged familiar metaphor,YES
+C — charged familiar metaphor,3,Look Again,lookagain,1,C — charged familiar metaphor,YES
+C — charged familiar metaphor,4,Look Closer,lookcloser,1,C — charged familiar metaphor,
+C — charged familiar metaphor,5,Closer Look,closerlook,1,C — charged familiar metaphor,
+C — charged familiar metaphor,6,Worth a Look,worthalook,1,C — charged familiar metaphor,
+C — charged familiar metaphor,8,At Face Value,atfacevalue,1,C — charged familiar metaphor,
+C — charged familiar metaphor,12,Saving Face,savingface,1,C — charged familiar metaphor,
+C — charged familiar metaphor,13,Keep Face,keepface,1,C — charged familiar metaphor,
+C — charged familiar metaphor,15,High Definition,highdefinition,1,C — charged familiar metaphor,YES
+C — charged familiar metaphor,16,True Definition,truedefinition,1,C — charged familiar metaphor,
+C — charged familiar metaphor,17,Definition,definition,1,C — charged familiar metaphor,
+C — charged familiar metaphor,18,Resolution,resolution,1,C — charged familiar metaphor,YES
+C — charged familiar metaphor,19,High Resolution,highresolution,1,C — charged familiar metaphor,
+C — charged familiar metaphor,20,Fine Detail,finedetail,1,C — charged familiar metaphor,YES
+C — charged familiar metaphor,21,Detail,detail,1,C — charged familiar metaphor,
+C — charged familiar metaphor,22,Sharp Focus,sharpfocus,1,C — charged familiar metaphor,YES
+C — charged familiar metaphor,23,Focus,focus,1,C — charged familiar metaphor,
+C — charged familiar metaphor,24,Closeup,closeup,1,C — charged familiar metaphor,YES
+C — charged familiar metaphor,25,In Plain Sight,inplainsight,1,C — charged familiar metaphor,YES
+C — charged familiar metaphor,26,Plain Sight,plainsight,1,C — charged familiar metaphor,YES
+C — charged familiar metaphor,27,See for Yourself,seeforyourself,1,C — charged familiar metaphor,YES
+C — charged familiar metaphor,28,Believe Your Eyes,believeyoureyes,1,C — charged familiar metaphor,
+C — charged familiar metaphor,29,Seeing Is Believing,seeingisbelieving,1,C — charged familiar metaphor,
+C — charged familiar metaphor,30,Mirror Image,mirrorimage,1,C — charged familiar metaphor,
+C — charged familiar metaphor,31,True Image,trueimage,1,C — charged familiar metaphor,YES
+C — charged familiar metaphor,32,Own Image,ownimage,1,C — charged familiar metaphor,YES
+C — charged familiar metaphor,33,Portrait,portrait,1,C — charged familiar metaphor,YES
+C — charged familiar metaphor,36,Profile,profile,1,C — charged familiar metaphor,YES
+C — charged familiar metaphor,37,Signature,signature,1,C — charged familiar metaphor,YES
+C — charged familiar metaphor,38,Autograph,autograph,1,C — charged familiar metaphor,YES
+C — charged familiar metaphor,39,Monogram,monogram,1,C — charged familiar metaphor,YES
+C — charged familiar metaphor,40,Fingerprint,fingerprint,1,C — charged familiar metaphor,YES
+C — charged familiar metaphor,41,Imprint,imprint,1,C — charged familiar metaphor,YES
+C — charged familiar metaphor,42,Character,character,1,C — charged familiar metaphor,YES
+C — charged familiar metaphor,43,Lineage,lineage,1,C — charged familiar metaphor,YES
+C — charged familiar metaphor,44,Lifeline,lifeline,1,C — charged familiar metaphor,
+C — charged familiar metaphor,45,Throughline,throughline,1,C — charged familiar metaphor,
+C — charged familiar metaphor,46,Storyline,storyline,1,C — charged familiar metaphor,
+C — charged familiar metaphor,47,Headline,headline,1,C — charged familiar metaphor,YES
+C — charged familiar metaphor,48,Byline,byline,1,C — charged familiar metaphor,YES
+C — charged familiar metaphor,49,Underline,underline,1,C — charged familiar metaphor,YES
+C — charged familiar metaphor,50,Between the Lines,betweenthelines,1,C — charged familiar metaphor,
+C — charged familiar metaphor,51,New Lines,newlines,1,C — charged familiar metaphor,
+C — charged familiar metaphor,53,Long Live You,longliveyou,1,C — charged familiar metaphor,
+C — charged familiar metaphor,56,Age of You,ageofyou,1,C — charged familiar metaphor,
+C — charged familiar metaphor,59,Wear It Well,wearitwell,1,C — charged familiar metaphor,YES
+C — charged familiar metaphor,60,Worn Well,wornwell,1,C — charged familiar metaphor,
+C — charged familiar metaphor,61,In Stride,instride,1,C — charged familiar metaphor,
+C — charged familiar metaphor,62,Full Stride,fullstride,1,C — charged familiar metaphor,
+C — charged familiar metaphor,63,Second Wind,secondwind,1,C — charged familiar metaphor,YES
+C — charged familiar metaphor,64,Long Run,longrun,1,C — charged familiar metaphor,YES
+C — charged familiar metaphor,65,For Keeps,forkeeps,1,C — charged familiar metaphor,YES
+C — charged familiar metaphor,66,Made to Last,madetolast,1,C — charged familiar metaphor,YES
+C — charged familiar metaphor,67,Built to Last,builttolast,1,C — charged familiar metaphor,
+C — charged familiar metaphor,68,Prime Time,primetime,1,C — charged familiar metaphor,
+C — charged familiar metaphor,69,Time Will Tell,timewilltell,1,C — charged familiar metaphor,
+C — charged familiar metaphor,70,Over Time,overtime,1,C — charged familiar metaphor,
+C — charged familiar metaphor,71,In Time,intime,1,C — charged familiar metaphor,
+C — charged familiar metaphor,72,Good Years,goodyears,1,C — charged familiar metaphor,
+C — charged familiar metaphor,73,Best Years,bestyears,1,C — charged familiar metaphor,
+C — charged familiar metaphor,74,Future Perfect,futureperfect,1,C — charged familiar metaphor,
+C — charged familiar metaphor,75,Future Tense,futuretense,1,C — charged familiar metaphor,YES
+C — charged familiar metaphor,76,Right Now,rightnow,1,C — charged familiar metaphor,YES
+C — charged familiar metaphor,77,Ahead,ahead,1,C — charged familiar metaphor,
+C — charged familiar metaphor,78,After,after,1,C — charged familiar metaphor,
+C — charged familiar metaphor,79,Next,next,1,C — charged familiar metaphor,YES
+C — charged familiar metaphor,80,Ground Truth,groundtruth,1,C — charged familiar metaphor,YES
+C — charged familiar metaphor,81,Open Source,opensource,1,C — charged familiar metaphor,YES
+C — charged familiar metaphor,82,Source Code,sourcecode,1,C — charged familiar metaphor,YES
+C — charged familiar metaphor,83,First Principle,firstprinciple,1,C — charged familiar metaphor,YES
+C — charged familiar metaphor,84,First Principles,firstprinciples,1,C — charged familiar metaphor,YES
+C — charged familiar metaphor,85,Proof Point,proofpoint,1,C — charged familiar metaphor,YES
+C — charged familiar metaphor,86,Data Point,datapoint,1,C — charged familiar metaphor,
+C — charged familiar metaphor,87,Track Record,trackrecord,1,C — charged familiar metaphor,
+C — charged familiar metaphor,88,Own Record,ownrecord,1,C — charged familiar metaphor,
+C — charged familiar metaphor,89,Record High,recordhigh,1,C — charged familiar metaphor,
+C — charged familiar metaphor,90,High Standard,highstandard,1,C — charged familiar metaphor,
+C — charged familiar metaphor,91,Gold Standard,goldstandard,1,C — charged familiar metaphor,
+C — charged familiar metaphor,92,Proof Standard,proofstandard,1,C — charged familiar metaphor,YES
+C — charged familiar metaphor,93,Positive Control,positivecontrol,1,C — charged familiar metaphor,YES
+C — charged familiar metaphor,94,Control,control,1,C — charged familiar metaphor,YES
+C — charged familiar metaphor,95,In Control,incontrol,1,C — charged familiar metaphor,
+C — charged familiar metaphor,96,Personal Best,personalbest,1,C — charged familiar metaphor,
+C — charged familiar metaphor,97,New Personal Best,newpersonalbest,1,C — charged familiar metaphor,
+C — charged familiar metaphor,98,True Fit,truefit,1,C — charged familiar metaphor,YES
+C — charged familiar metaphor,99,Made to Measure,madetomeasure,1,C — charged familiar metaphor,
+C — charged familiar metaphor,100,Tailored,tailored,1,C — charged familiar metaphor,
+C — charged familiar metaphor,101,Strong Suit,strongsuit,1,C — charged familiar metaphor,
+C — charged familiar metaphor,102,Well Suited,wellsuited,1,C — charged familiar metaphor,
+C — charged familiar metaphor,103,Touchstone,touchstone,1,C — charged familiar metaphor,YES
+C — charged familiar metaphor,104,Milestone,milestone,1,C — charged familiar metaphor,
+C — charged familiar metaphor,105,Keystone,keystone,1,C — charged familiar metaphor,
+C — charged familiar metaphor,106,Cornerstone,cornerstone,1,C — charged familiar metaphor,
+C — charged familiar metaphor,107,Sweet Spot,sweetspot,1,C — charged familiar metaphor,
+C — charged familiar metaphor,108,Balance Point,balancepoint,1,C — charged familiar metaphor,
+C — charged familiar metaphor,109,Right Balance,rightbalance,1,C — charged familiar metaphor,
+C — charged familiar metaphor,110,Human Nature,humannature,1,C — charged familiar metaphor,
+C — charged familiar metaphor,111,Second Nature,secondnature,1,C — charged familiar metaphor,YES
+C — charged familiar metaphor,112,Natural Selection,naturalselection,1,C — charged familiar metaphor,
+C — charged familiar metaphor,113,Foundation,foundation,1,C — charged familiar metaphor,YES
+C — charged familiar metaphor,114,Blueprint,blueprint,1,C — charged familiar metaphor,
+C — charged familiar metaphor,115,Baseline,baseline,1,C — charged familiar metaphor,YES
+C — charged familiar metaphor,116,Benchmark,benchmark,1,C — charged familiar metaphor,YES
+C — charged familiar metaphor,117,Signal,signal,1,C — charged familiar metaphor,YES
+C — charged familiar metaphor,118,Origin,origin,1,C — charged familiar metaphor,
+C — charged familiar metaphor,119,The Original,theoriginal,1,C — charged familiar metaphor,YES
+C — charged familiar metaphor,123,One Better,onebetter,1,C — charged familiar metaphor,
+C — charged familiar metaphor,124,Better by Design,betterbydesign,1,C — charged familiar metaphor,
+C — charged familiar metaphor,125,Designed Better,designedbetter,1,C — charged familiar metaphor,
+C — charged familiar metaphor,126,Form Follows Function,formfollowsfunction,1,C — charged familiar metaphor,
+C — charged familiar metaphor,127,Skin in the Game,skininthegame,1,C — charged familiar metaphor,YES
+C — charged familiar metaphor,128,Exhibit A,exhibita,1,C — charged familiar metaphor,
+C — charged familiar metaphor,129,Timekeeper,timekeeper,1,C — charged familiar metaphor,YES
+C — charged familiar metaphor,130,Long Game,longgame,1,C — charged familiar metaphor,
+C — charged familiar metaphor,131,Good Form,goodform,1,C — charged familiar metaphor,YES
+C — charged familiar metaphor,132,In Progress,inprogress,1,C — charged familiar metaphor,
+C — charged familiar metaphor,133,Proof Positive,proofpositive,1,C — charged familiar metaphor,YES
+C — charged familiar metaphor,134,Case in Point,caseinpoint,1,C — charged familiar metaphor,YES
+C — charged familiar metaphor,135,Surface Charge,surfacecharge,1,C — charged familiar metaphor,
+C — charged familiar metaphor,136,Sheer Science,sheerscience,1,C — charged familiar metaphor,
+C — charged familiar metaphor,137,The Long View,thelongview,1,C — charged familiar metaphor,YES

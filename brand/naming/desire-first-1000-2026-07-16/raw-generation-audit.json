@@ -1,0 +1,41 @@
+{
+  "raw_unique_count": 2846,
+  "direction_counts": {
+    "The Invented House": 540,
+    "The Pure Sound Lab": 443,
+    "The Beautiful Object": 290,
+    "The Magnetic Character": 189,
+    "The Private World": 252,
+    "The Cultural Mononym": 338,
+    "Beautiful Mischief": 168,
+    "Sensory Motion": 331,
+    "Technical Elegance": 196,
+    "Deep Time": 99
+  },
+  "method_counts": {
+    "Eponym / curated mononym": 79,
+    "Morpheme engine": 342,
+    "World-language-shaped coinage": 119,
+    "Sound-first curated coinage": 57,
+    "Sound-first coinage": 196,
+    "Structural symmetry": 50,
+    "Deconstruct / reconstruct": 245,
+    "Real-word object metaphor": 66,
+    "Compound 1+1=3": 119,
+    "Real-word eponym": 41,
+    "Archetypal compound": 122,
+    "Character proposition": 26,
+    "Real-word place metaphor": 39,
+    "Place compound": 93,
+    "Invented place name": 120,
+    "Far-field real-word raid": 338,
+    "Contradictory compound": 106,
+    "Audacity / proposition": 62,
+    "Action and sensory metaphor": 74,
+    "Movement reconstruction": 157,
+    "Sensory compound": 100,
+    "Technical source raid": 91,
+    "Technical morpheme engine": 105,
+    "Deep-time metaphor and future reframe": 99
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "top100_count": 100,
+  "top200_count": 200,
+  "top100_direction_counts": {
+    "The Invented House": 20,
+    "The Pure Sound Lab": 18,
+    "The Private World": 10,
+    "The Cultural Mononym": 25,
+    "Beautiful Mischief": 12,
+    "Sensory Motion": 7,
+    "Deep Time": 5,
+    "The Beautiful Object": 3
+  },
+  "top100_decision_counts": {
+    "PROVISIONAL PASS": 47,
+    "YELLOW - LIVE NEAR": 9,
+    "AMBER - LIVE NEAR / RELEVANT": 28,
+    "YELLOW - DEAD EXACT": 6,
+    "AMBER - LIVE EXACT": 10
+  },
+  "top200_direction_counts": {
+    "The Invented House": 33,
+    "The Pure Sound Lab": 28,
+    "The Private World": 36,
+    "The Cultural Mononym": 29,
+    "Beautiful Mischief": 17,
+    "Sensory Motion": 10,
+    "Deep Time": 5,
+    "The Beautiful Object": 42
+  },
+  "top200_decision_counts": {
+    "PROVISIONAL PASS": 114,
+    "YELLOW - LIVE NEAR": 34,
+    "AMBER - LIVE NEAR / RELEVANT": 28,
+    "YELLOW - DEAD EXACT": 11,
+    "AMBER - LIVE EXACT": 13
+  }
+}

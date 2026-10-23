@@ -1,5 +1,7 @@
 # Positioning
 
+> **Naming-direction update — 2026-07-18:** The founder has locked the strategic center for the active naming round: an exceptional, science-backed and transparent skincare brand that respects women; it supports confidence in who they are while making healthier skin and visible improvement desirable. This combines science/longevity, transparency, age-positive respect, and performance rather than choosing a pure A–E lane. The full positioning statement, price tier, and final brand expression remain open. See [`naming/founder-round-2026-07-18/00-round-charter.md`](naming/founder-round-2026-07-18/00-round-charter.md).
+
 > **Status:** Working draft v0.1 (2026-06-18) — **(name / story / positioning OPEN).** The brand name, story/metaphor, visual direction, and core positioning/worldview are all undecided. This doc lays out the strategic *options* — grounded in research ([`../research/`](../research/)) — without recommending one. Decisions to be logged in [`../decisions/decision-log.md`](../decisions/decision-log.md).
 
 ## How to read this doc

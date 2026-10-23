@@ -1,0 +1,332 @@
+﻿RawOrder,Name,Direction,Method,SourceWorld,Normalized,StructuralScore,DirectionRank,RejectReason,Collision
+15,Dovren,The Invented House,Eponym / curated mononym,Founderless fashion house,dovren,,,historical exact,decoy-exercise-2026-07-16/blind-performance.csv :: Dovren
+101,Ambrren,The Invented House,Morpheme engine,Invented surname matrix,ambrren,,,four-consonant cluster,
+102,Ambrsen,The Invented House,Morpheme engine,Invented surname matrix,ambrsen,,,four-consonant cluster,
+103,Ambrven,The Invented House,Morpheme engine,Invented surname matrix,ambrven,,,four-consonant cluster,
+115,Ardell,The Invented House,Morpheme engine,Invented surname matrix,ardell,,,historical exact,decoy-exercise-2026-07-16/blind-performance.csv :: Ardell
+117,Ardin,The Invented House,Morpheme engine,Invented surname matrix,ardin,,,historical exact,decoy-exercise-2026-07-16/blind-fewerbetter.csv :: Ardin
+173,Corven,The Invented House,Morpheme engine,Invented surname matrix,corven,,,historical exact,decoy-exercise-2026-07-16/blind-performance.csv :: Corven
+221,Embrren,The Invented House,Morpheme engine,Invented surname matrix,embrren,,,four-consonant cluster,
+222,Embrven,The Invented House,Morpheme engine,Invented surname matrix,embrven,,,four-consonant cluster,
+307,Merrren,The Invented House,Morpheme engine,Invented surname matrix,merrren,,,triple repeated letter,
+342,Perren,The Invented House,Morpheme engine,Invented surname matrix,perren,,,historical exact,conversation probe :: Perren
+363,Seren,The Invented House,Morpheme engine,Invented surname matrix,seren,,,historical exact,name-longlist-top500-2026-06-19.md :: Seren
+401,Verrren,The Invented House,Morpheme engine,Invented surname matrix,verrren,,,triple repeated letter,
+535,Verene,The Invented House,World-language-shaped coinage,Fashion-house phonology,verene,,,historical exact,name-longlist-top500-2026-06-19.md :: Verene
+536,Verenne,The Invented House,World-language-shaped coinage,Fashion-house phonology,verenne,,,historical exact,name-longlist-top500-2026-06-19.md :: Verenne
+543,Aevon,The Pure Sound Lab,Sound-first curated coinage,No-semantic brief,aevon,,,historical exact,name-longlist-top500-2026-06-19.md :: Aevon
+545,Belune,The Pure Sound Lab,Sound-first curated coinage,No-semantic brief,belune,,,historical exact,name-longlist-top500-2026-06-19.md :: Belune
+547,Calune,The Pure Sound Lab,Sound-first curated coinage,No-semantic brief,calune,,,historical exact,name-longlist-top500-2026-06-19.md :: Calune
+860,Calio,The Pure Sound Lab,Deconstruct / reconstruct,Mouthfeel variation,calio,,,historical exact,decoy-exercise-2026-07-16/blind-longview.csv :: Calio
+955,Selune,The Pure Sound Lab,Deconstruct / reconstruct,Mouthfeel variation,selune,,,historical exact,name-longlist-top500-2026-06-19.md :: Selune
+957,Tavo,The Pure Sound Lab,Deconstruct / reconstruct,Mouthfeel variation,tavo,,,historical exact,decoy-exercise-2026-07-16/blind-pool-deduped.csv :: Tavo
+966,Vela,The Pure Sound Lab,Deconstruct / reconstruct,Mouthfeel variation,vela,,,historical exact,decoy-exercise-2026-07-16/blind-pool-deduped.csv :: Vela
+973,Velune,The Pure Sound Lab,Deconstruct / reconstruct,Mouthfeel variation,velune,,,historical exact,name-longlist-top500-2026-06-19.md :: Velune
+986,Folio,The Beautiful Object,Real-word object metaphor,Decorative arts and heirlooms,folio,,,historical exact,decoy-exercise-2026-07-16/blind-fewerbetter.csv :: Folio
+987,Vellum,The Beautiful Object,Real-word object metaphor,Decorative arts and heirlooms,vellum,,,historical exact,decoy-exercise-2026-07-16/adversarial-cuts.csv :: Vellum
+991,Clasp,The Beautiful Object,Real-word object metaphor,Decorative arts and heirlooms,clasp,,,historical exact,decoy-exercise-2026-07-16/blind-performance.csv :: Clasp
+994,Keepsake,The Beautiful Object,Real-word object metaphor,Decorative arts and heirlooms,keepsake,,,historical exact,name-longlist-top500-2026-06-19.md :: Keepsake
+1000,Lantern,The Beautiful Object,Real-word object metaphor,Decorative arts and heirlooms,lantern,,,historical exact,decoy-exercise-2026-07-16/blind-pool-deduped.csv :: Lantern
+1002,Compass,The Beautiful Object,Real-word object metaphor,Decorative arts and heirlooms,compass,,,historical exact,decoy-exercise-2026-07-16/adversarial-cuts.csv :: Compass
+1006,Portrait,The Beautiful Object,Real-word object metaphor,Decorative arts and heirlooms,portrait,,,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Portrait
+1007,Glyph,The Beautiful Object,Real-word object metaphor,Decorative arts and heirlooms,glyph,,,four-consonant cluster,
+1008,Emblem,The Beautiful Object,Real-word object metaphor,Decorative arts and heirlooms,emblem,,,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Emblem
+1010,Curio,The Beautiful Object,Real-word object metaphor,Decorative arts and heirlooms,curio,,,historical exact,decoy-exercise-2026-07-16/blind-fewerbetter.csv :: Curio
+1014,Coffer,The Beautiful Object,Real-word object metaphor,Decorative arts and heirlooms,coffer,,,historical exact,name-candidates-v2-fullmethod-2026-06-19.md :: Coffer
+1017,Lens,The Beautiful Object,Real-word object metaphor,Decorative arts and heirlooms,lens,,,historical exact,decoy-exercise-2026-07-16/blind-pool-deduped.csv :: Lens
+1018,Prism,The Beautiful Object,Real-word object metaphor,Decorative arts and heirlooms,prism,,,historical exact,workbench-wave34/wave4-cuts.txt :: Prism
+1021,Loom,The Beautiful Object,Real-word object metaphor,Decorative arts and heirlooms,loom,,,historical exact,name-longlist-top500-2026-06-19.md :: Loom
+1022,Kiln,The Beautiful Object,Real-word object metaphor,Decorative arts and heirlooms,kiln,,,historical exact,decoy-exercise-2026-07-16/adversarial-cuts.csv :: Kiln
+1025,Gesso,The Beautiful Object,Real-word object metaphor,Decorative arts and heirlooms,gesso,,,historical exact,name-longlist-top500-2026-06-19.md :: Gesso
+1027,Mosaic,The Beautiful Object,Real-word object metaphor,Decorative arts and heirlooms,mosaic,,,historical exact,decoy-exercise-2026-07-16/blind-longview.csv :: Mosaic
+1031,Porcelain,The Beautiful Object,Real-word object metaphor,Decorative arts and heirlooms,porcelain,,,historical exact,decoy-exercise-2026-07-16/blind-fewerbetter.csv :: Porcelain
+1043,Monogram,The Beautiful Object,Real-word object metaphor,Decorative arts and heirlooms,monogram,,,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Monogram
+1045,Watchcase,The Beautiful Object,Real-word object metaphor,Decorative arts and heirlooms,watchcase,,,four-consonant cluster,
+1047,Diptych,The Beautiful Object,Real-word object metaphor,Decorative arts and heirlooms,diptych,,,four-consonant cluster,
+1048,Triptych,The Beautiful Object,Real-word object metaphor,Decorative arts and heirlooms,triptych,,,four-consonant cluster,
+1050,Bright Cameo,The Beautiful Object,Compound 1+1=3,Modern-heirloom collision,brightcameo,,,four-consonant cluster,
+1051,Bright Talisman,The Beautiful Object,Compound 1+1=3,Modern-heirloom collision,brighttalisman,,,four-consonant cluster,
+1052,Bright Portrait,The Beautiful Object,Compound 1+1=3,Modern-heirloom collision,brightportrait,,,four-consonant cluster,
+1053,Bright Lens,The Beautiful Object,Compound 1+1=3,Modern-heirloom collision,brightlens,,,four-consonant cluster,
+1054,Bright Filigree,The Beautiful Object,Compound 1+1=3,Modern-heirloom collision,brightfiligree,,,four-consonant cluster,
+1058,Civic Thread,The Beautiful Object,Compound 1+1=3,Modern-heirloom collision,civicthread,,,four-consonant cluster,
+1070,Fine Glyph,The Beautiful Object,Compound 1+1=3,Modern-heirloom collision,fineglyph,,,four-consonant cluster,
+1083,Kindred Screen,The Beautiful Object,Compound 1+1=3,Modern-heirloom collision,kindredscreen,,,four-consonant cluster,
+1086,Lucent Plinth,The Beautiful Object,Compound 1+1=3,Modern-heirloom collision,lucentplinth,,,four-consonant cluster,
+1094,Open Seal,The Beautiful Object,Compound 1+1=3,Modern-heirloom collision,openseal,,,prohibited category/cliche word,
+1095,Open Chalice,The Beautiful Object,Compound 1+1=3,Modern-heirloom collision,openchalice,,,prohibited category/cliche word,
+1096,Open Coffer,The Beautiful Object,Compound 1+1=3,Modern-heirloom collision,opencoffer,,,prohibited category/cliche word,
+1097,Open Gesso,The Beautiful Object,Compound 1+1=3,Modern-heirloom collision,opengesso,,,prohibited category/cliche word,
+1113,Warm Brooch,The Beautiful Object,Compound 1+1=3,Modern-heirloom collision,warmbrooch,,,four-consonant cluster,
+1115,Warm Fresco,The Beautiful Object,Compound 1+1=3,Modern-heirloom collision,warmfresco,,,four-consonant cluster,
+1118,Wild Glyph,The Beautiful Object,Compound 1+1=3,Modern-heirloom collision,wildglyph,,,four-consonant cluster,
+1119,Wild Prism,The Beautiful Object,Compound 1+1=3,Modern-heirloom collision,wildprism,,,four-consonant cluster,
+1131,Living Screen,The Beautiful Object,Compound 1+1=3,Modern-heirloom collision,livingscreen,,,four-consonant cluster,
+1134,Lasting Plinth,The Beautiful Object,Compound 1+1=3,Modern-heirloom collision,lastingplinth,,,four-consonant cluster,
+1152,Honest Frame,The Beautiful Object,Compound 1+1=3,Modern-heirloom collision,honestframe,,,four-consonant cluster,
+1154,Honest Thread,The Beautiful Object,Compound 1+1=3,Modern-heirloom collision,honestthread,,,four-consonant cluster,
+1156,Clear Inlay,The Beautiful Object,Compound 1+1=3,Modern-heirloom collision,clearinlay,,,prohibited category/cliche word,
+1157,Clear Vase,The Beautiful Object,Compound 1+1=3,Modern-heirloom collision,clearvase,,,prohibited category/cliche word,
+1158,Clear Album,The Beautiful Object,Compound 1+1=3,Modern-heirloom collision,clearalbum,,,prohibited category/cliche word,
+1159,Clear Cast,The Beautiful Object,Compound 1+1=3,Modern-heirloom collision,clearcast,,,prohibited category/cliche word,
+1161,Full Brooch,The Beautiful Object,Compound 1+1=3,Modern-heirloom collision,fullbrooch,,,four-consonant cluster,
+1163,Full Fresco,The Beautiful Object,Compound 1+1=3,Modern-heirloom collision,fullfresco,,,four-consonant cluster,
+1166,Inner Glyph,The Beautiful Object,Compound 1+1=3,Modern-heirloom collision,innerglyph,,,four-consonant cluster,
+1219,Lanternhouse,The Beautiful Object,Deconstruct / reconstruct,Object-to-house coinage,lanternhouse,,,historical exact,decoy-exercise-2026-07-16/blind-control.csv :: Lantern House
+1225,Glyphwork,The Beautiful Object,Deconstruct / reconstruct,Object-to-house coinage,glyphwork,,,four-consonant cluster,
+1226,Glyphhouse,The Beautiful Object,Deconstruct / reconstruct,Object-to-house coinage,glyphhouse,,,four-consonant cluster,
+1227,Glyphmade,The Beautiful Object,Deconstruct / reconstruct,Object-to-house coinage,glyphmade,,,four-consonant cluster,
+1228,Glyphmark,The Beautiful Object,Deconstruct / reconstruct,Object-to-house coinage,glyphmark,,,four-consonant cluster,
+1229,Glyphform,The Beautiful Object,Deconstruct / reconstruct,Object-to-house coinage,glyphform,,,four-consonant cluster,
+1230,Glyphkind,The Beautiful Object,Deconstruct / reconstruct,Object-to-house coinage,glyphkind,,,four-consonant cluster,
+1231,Glyphwise,The Beautiful Object,Deconstruct / reconstruct,Object-to-house coinage,glyphwise,,,four-consonant cluster,
+1285,Original,The Magnetic Character,Real-word eponym,Social archetypes,original,,,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Original
+1287,Reader,The Magnetic Character,Real-word eponym,Social archetypes,reader,,,historical exact,net-new-250-wave4-2026-07-16.md :: Reader
+1302,Steward,The Magnetic Character,Real-word eponym,Social archetypes,steward,,,historical exact,name-longlist-top500-2026-06-19.md :: Steward
+1310,Individual,The Magnetic Character,Real-word eponym,Social archetypes,individual,,,historical exact,net-new-250-wave4-2026-07-16.md :: Individual
+1343,Free Elder,The Magnetic Character,Archetypal compound,Magnetic-character matrix,freeelder,,,triple repeated letter,
+1355,Honest Steward,The Magnetic Character,Archetypal compound,Magnetic-character matrix,honeststeward,,,four-consonant cluster,
+1389,Warm Principal,The Magnetic Character,Archetypal compound,Magnetic-character matrix,warmprincipal,,,four-consonant cluster,
+1400,Witty Keeper,The Magnetic Character,Archetypal compound,Magnetic-character matrix,wittykeeper,,,four-consonant cluster,
+1401,Witty Mentor,The Magnetic Character,Archetypal compound,Magnetic-character matrix,wittymentor,,,four-consonant cluster,
+1403,Witty Romantic,The Magnetic Character,Archetypal compound,Magnetic-character matrix,wittyromantic,,,four-consonant cluster,
+1409,Bright Dame,The Magnetic Character,Archetypal compound,Magnetic-character matrix,brightdame,,,four-consonant cluster,
+1411,Bright Minder,The Magnetic Character,Archetypal compound,Magnetic-character matrix,brightminder,,,four-consonant cluster,
+1412,Bright Benefactor,The Magnetic Character,Archetypal compound,Magnetic-character matrix,brightbenefactor,,,four-consonant cluster,
+1426,Certain Scholar,The Magnetic Character,Archetypal compound,Magnetic-character matrix,certainscholar,,,four-consonant cluster,
+1444,Good Company,The Magnetic Character,Character proposition,Persona and social gravity,goodcompany,,,historical exact,decoy-exercise-2026-07-16/blind-longview.csv :: Good Company
+1449,The Realist,The Magnetic Character,Character proposition,Persona and social gravity,therealist,,,historical exact,net-new-250-wave2-2026-07-16.md :: The Realist
+1451,The Decider,The Magnetic Character,Character proposition,Persona and social gravity,thedecider,,,historical exact,net-new-250-wave2-2026-07-16.md :: The Decider
+1452,The Connoisseur,The Magnetic Character,Character proposition,Persona and social gravity,theconnoisseur,,,historical exact,decoy-exercise-2026-07-16/blind-fewerbetter.csv :: The Connoisseur
+1455,The Luminary,The Magnetic Character,Character proposition,Persona and social gravity,theluminary,,,historical exact,decoy-exercise-2026-07-16/blind-longview.csv :: The Luminary
+1456,The Principal,The Magnetic Character,Character proposition,Persona and social gravity,theprincipal,,,historical exact,decoy-exercise-2026-07-16/blind-control.csv :: The Principal
+1466,Atrium,The Private World,Real-word place metaphor,Architecture and private rooms,atrium,,,historical exact,decoy-exercise-2026-07-16/blind-control.csv :: Atrium
+1471,Portico,The Private World,Real-word place metaphor,Architecture and private rooms,portico,,,historical exact,decoy-exercise-2026-07-16/blind-longview.csv :: Portico
+1472,Salon,The Private World,Real-word place metaphor,Architecture and private rooms,salon,,,historical exact,decoy-exercise-2026-07-16/blind-control.csv :: Salon
+1474,Sunroom,The Private World,Real-word place metaphor,Architecture and private rooms,sunroom,,,historical exact,decoy-exercise-2026-07-16/adversarial-cuts.csv :: Sunroom
+1475,Terrace,The Private World,Real-word place metaphor,Architecture and private rooms,terrace,,,historical exact,decoy-exercise-2026-07-16/blind-longview.csv :: Terrace
+1478,Pavilion,The Private World,Real-word place metaphor,Architecture and private rooms,pavilion,,,historical exact,decoy-exercise-2026-07-16/blind-control.csv :: Pavilion
+1490,Hearth,The Private World,Real-word place metaphor,Architecture and private rooms,hearth,,,historical exact,decoy-exercise-2026-07-16/blind-performance.csv :: Hearth
+1492,Observatory,The Private World,Real-word place metaphor,Architecture and private rooms,observatory,,,historical exact,decoy-250-2026-07-16.md :: Observatory
+1495,Cloister,The Private World,Real-word place metaphor,Architecture and private rooms,cloister,,,historical exact,name-longlist-top500-2026-06-19.md :: Cloister
+1497,Drawing Room,The Private World,Real-word place metaphor,Architecture and private rooms,drawingroom,,,historical exact,decoy-exercise-2026-07-16/blind-control.csv :: Drawing Room
+1509,Bright Portico,The Private World,Place compound,Private-world collision,brightportico,,,four-consonant cluster,
+1510,Bright House,The Private World,Place compound,Private-world collision,brighthouse,,,four-consonant cluster,
+1511,Bright Drawing Room,The Private World,Place compound,Private-world collision,brightdrawingroom,,,four-consonant cluster,
+1525,First Pavilion,The Private World,Place compound,Private-world collision,firstpavilion,,,four-consonant cluster,
+1526,First Veranda,The Private World,Place compound,Private-world collision,firstveranda,,,four-consonant cluster,
+1530,High Studio,The Private World,Place compound,Private-world collision,highstudio,,,four-consonant cluster,
+1537,Last Study,The Private World,Place compound,Private-world collision,laststudy,,,four-consonant cluster,
+1551,Modern Drawing Room,The Private World,Place compound,Private-world collision,moderndrawingroom,,,four-consonant cluster,
+1552,North Terrace,The Private World,Place compound,Private-world collision,northterrace,,,four-consonant cluster,
+1553,North Foyer,The Private World,Place compound,Private-world collision,northfoyer,,,four-consonant cluster,
+1554,North Sanctum,The Private World,Place compound,Private-world collision,northsanctum,,,four-consonant cluster,
+1555,Open Atrium,The Private World,Place compound,Private-world collision,openatrium,,,prohibited category/cliche word,
+1556,Open Orangerie,The Private World,Place compound,Private-world collision,openorangerie,,,prohibited category/cliche word,
+1557,Open Observatory,The Private World,Place compound,Private-world collision,openobservatory,,,prohibited category/cliche word,
+1640,Everwell,The Private World,Invented place name,Geographic morpheme engine,everwell,,,historical exact,decoy-exercise-2026-07-16/blind-pool-deduped.csv :: Everwell
+1717,Verso,The Cultural Mononym,Far-field real-word raid,"Typography, theatre, music, visual art, architecture",verso,,,historical exact,decoy-exercise-2026-07-16/blind-pool-deduped.csv :: Verso
+1718,Recto,The Cultural Mononym,Far-field real-word raid,"Typography, theatre, music, visual art, architecture",recto,,,historical exact,decoy-exercise-2026-07-16/blind-pool-deduped.csv :: Recto
+1719,Colophon,The Cultural Mononym,Far-field real-word raid,"Typography, theatre, music, visual art, architecture",colophon,,,historical exact,decoy-exercise-2026-07-16/blind-fewerbetter.csv :: Colophon
+1720,Aperture,The Cultural Mononym,Far-field real-word raid,"Typography, theatre, music, visual art, architecture",aperture,,,historical exact,net-new-250-wave4-2026-07-16.md :: Aperture
+1721,Cadence,The Cultural Mononym,Far-field real-word raid,"Typography, theatre, music, visual art, architecture",cadence,,,historical exact,name-longlist-top500-2026-06-19.md :: Cadence
+1724,Tempo,The Cultural Mononym,Far-field real-word raid,"Typography, theatre, music, visual art, architecture",tempo,,,historical exact,net-new-250-wave4-2026-07-16.md :: Tempo
+1726,Coda,The Cultural Mononym,Far-field real-word raid,"Typography, theatre, music, visual art, architecture",coda,,,historical exact,decoy-exercise-2026-07-16/blind-control.csv :: Coda
+1737,Sonnet,The Cultural Mononym,Far-field real-word raid,"Typography, theatre, music, visual art, architecture",sonnet,,,historical exact,decoy-exercise-2026-07-16/blind-fewerbetter.csv :: Sonnet
+1739,Quarto,The Cultural Mononym,Far-field real-word raid,"Typography, theatre, music, visual art, architecture",quarto,,,historical exact,decoy-exercise-2026-07-16/blind-fewerbetter.csv :: Quarto
+1740,Octavo,The Cultural Mononym,Far-field real-word raid,"Typography, theatre, music, visual art, architecture",octavo,,,historical exact,decoy-exercise-2026-07-16/blind-fewerbetter.csv :: Octavo
+1741,Serein,The Cultural Mononym,Far-field real-word raid,"Typography, theatre, music, visual art, architecture",serein,,,historical exact,name-longlist-top500-2026-06-19.md :: Serein
+1742,Brio,The Cultural Mononym,Far-field real-word raid,"Typography, theatre, music, visual art, architecture",brio,,,historical exact,decoy-exercise-2026-07-16/blind-longview.csv :: Brio
+1747,Lustre,The Cultural Mononym,Far-field real-word raid,"Typography, theatre, music, visual art, architecture",lustre,,,historical exact,decoy-exercise-2026-07-16/blind-longview.csv :: Lustre
+1753,Sfumato,The Cultural Mononym,Far-field real-word raid,"Typography, theatre, music, visual art, architecture",sfumato,,,historical exact,name-longlist-top500-2026-06-19.md :: Sfumato
+1755,Verdigris,The Cultural Mononym,Far-field real-word raid,"Typography, theatre, music, visual art, architecture",verdigris,,,historical exact,name-longlist-top500-2026-06-19.md :: Verdigris
+1760,Nocturne,The Cultural Mononym,Far-field real-word raid,"Typography, theatre, music, visual art, architecture",nocturne,,,historical exact,name-longlist-top500-2026-06-19.md :: Nocturne
+1765,Andante,The Cultural Mononym,Far-field real-word raid,"Typography, theatre, music, visual art, architecture",andante,,,historical exact,name-longlist-top500-2026-06-19.md :: Andante
+1769,Tempera,The Cultural Mononym,Far-field real-word raid,"Typography, theatre, music, visual art, architecture",tempera,,,historical exact,name-candidates-2026-06-19.md :: Tempera
+1771,Atelier,The Cultural Mononym,Far-field real-word raid,"Typography, theatre, music, visual art, architecture",atelier,,,historical exact,decoy-exercise-2026-07-16/blind-fewerbetter.csv :: Atelier
+1777,Meridian,The Cultural Mononym,Far-field real-word raid,"Typography, theatre, music, visual art, architecture",meridian,,,historical exact,name-longlist-top500-2026-06-19.md :: Meridian
+1778,Parallax,The Cultural Mononym,Far-field real-word raid,"Typography, theatre, music, visual art, architecture",parallax,,,historical exact,net-new-250-wave4-2026-07-16.md :: Parallax
+1780,Penumbra,The Cultural Mononym,Far-field real-word raid,"Typography, theatre, music, visual art, architecture",penumbra,,,historical exact,name-candidates-v2-fullmethod-2026-06-19.md :: Penumbra
+1783,Monograph,The Cultural Mononym,Far-field real-word raid,"Typography, theatre, music, visual art, architecture",monograph,,,historical exact,decoy-exercise-2026-07-16/adversarial-cuts.csv :: Monograph
+1786,Frontispiece,The Cultural Mononym,Far-field real-word raid,"Typography, theatre, music, visual art, architecture",frontispiece,,,historical exact,decoy-exercise-2026-07-16/blind-fewerbetter.csv :: Frontispiece
+1791,Blackletter,The Cultural Mononym,Far-field real-word raid,"Typography, theatre, music, visual art, architecture",blackletter,,,historical exact,decoy-exercise-2026-07-16/blind-pool-deduped.csv :: Black Letter
+1796,Raconteur,The Cultural Mononym,Far-field real-word raid,"Typography, theatre, music, visual art, architecture",raconteur,,,historical exact,decoy-exercise-2026-07-16/blind-pool-deduped.csv :: Raconteur
+1800,Maestro,The Cultural Mononym,Far-field real-word raid,"Typography, theatre, music, visual art, architecture",maestro,,,historical exact,decoy-exercise-2026-07-16/blind-control.csv :: Maestro
+1807,Overture,The Cultural Mononym,Far-field real-word raid,"Typography, theatre, music, visual art, architecture",overture,,,historical exact,decoy-exercise-2026-07-16/blind-control.csv :: Overture
+1809,Syncopation,The Cultural Mononym,Far-field real-word raid,"Typography, theatre, music, visual art, architecture",syncopation,,,four-consonant cluster,
+1823,Cadenza,The Cultural Mononym,Far-field real-word raid,"Typography, theatre, music, visual art, architecture",cadenza,,,historical exact,decoy-exercise-2026-07-16/blind-pool-deduped.csv :: Cadenza
+1825,Sonata,The Cultural Mononym,Far-field real-word raid,"Typography, theatre, music, visual art, architecture",sonata,,,historical exact,decoy-exercise-2026-07-16/blind-longview.csv :: Sonata
+1828,Groundwork,The Cultural Mononym,Far-field real-word raid,"Typography, theatre, music, visual art, architecture",groundwork,,,historical exact,decoy-exercise-2026-07-16/adversarial-cuts.csv :: Groundwork
+1830,Still Life,The Cultural Mononym,Far-field real-word raid,"Typography, theatre, music, visual art, architecture",stilllife,,,triple repeated letter,
+1832,Golden Mean,The Cultural Mononym,Far-field real-word raid,"Typography, theatre, music, visual art, architecture",goldenmean,,,historical exact,decoy-250-2026-07-16.md :: Golden Mean
+1833,Counterpoint,The Cultural Mononym,Far-field real-word raid,"Typography, theatre, music, visual art, architecture",counterpoint,,,historical exact,decoy-exercise-2026-07-16/blind-control.csv :: Counterpoint
+1835,Full Bleed,The Cultural Mononym,Far-field real-word raid,"Typography, theatre, music, visual art, architecture",fullbleed,,,four-consonant cluster,
+1836,First Edition,The Cultural Mononym,Far-field real-word raid,"Typography, theatre, music, visual art, architecture",firstedition,,,historical exact,decoy-exercise-2026-07-16/adversarial-cuts.csv :: First Edition
+1841,Flyleaf,The Cultural Mononym,Far-field real-word raid,"Book arts, couture, printmaking, stagecraft, architecture, music",flyleaf,,,four-consonant cluster,
+1846,Imprint,The Cultural Mononym,Far-field real-word raid,"Book arts, couture, printmaking, stagecraft, architecture, music",imprint,,,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Imprint
+1847,Signature,The Cultural Mononym,Far-field real-word raid,"Book arts, couture, printmaking, stagecraft, architecture, music",signature,,,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Signature
+1850,Galley,The Cultural Mononym,Far-field real-word raid,"Book arts, couture, printmaking, stagecraft, architecture, music",galley,,,historical exact,decoy-exercise-2026-07-16/blind-pool-deduped.csv :: Galley
+1853,Chapbook,The Cultural Mononym,Far-field real-word raid,"Book arts, couture, printmaking, stagecraft, architecture, music",chapbook,,,historical exact,decoy-exercise-2026-07-16/blind-pool-deduped.csv :: Chapbook
+1854,Broadside,The Cultural Mononym,Far-field real-word raid,"Book arts, couture, printmaking, stagecraft, architecture, music",broadside,,,historical exact,decoy-exercise-2026-07-16/blind-control.csv :: Broadside
+1856,Handpress,The Cultural Mononym,Far-field real-word raid,"Book arts, couture, printmaking, stagecraft, architecture, music",handpress,,,four-consonant cluster,
+1857,Letterpress,The Cultural Mononym,Far-field real-word raid,"Book arts, couture, printmaking, stagecraft, architecture, music",letterpress,,,historical exact,decoy-exercise-2026-07-16/blind-fewerbetter.csv :: Letterpress
+1858,Woodtype,The Cultural Mononym,Far-field real-word raid,"Book arts, couture, printmaking, stagecraft, architecture, music",woodtype,,,four-consonant cluster,
+1859,Foundry,The Cultural Mononym,Far-field real-word raid,"Book arts, couture, printmaking, stagecraft, architecture, music",foundry,,,historical exact,decoy-exercise-2026-07-16/adversarial-cuts.csv :: Foundry
+1870,Baseline,The Cultural Mononym,Far-field real-word raid,"Book arts, couture, printmaking, stagecraft, architecture, music",baseline,,,historical exact,net-new-250-wave4-2026-07-16.md :: Baseline
+1886,Selvage,The Cultural Mononym,Far-field real-word raid,"Book arts, couture, printmaking, stagecraft, architecture, music",selvage,,,historical exact,name-candidates-v2-fullmethod-2026-06-19.md :: Selvage
+1888,Notch,The Cultural Mononym,Far-field real-word raid,"Book arts, couture, printmaking, stagecraft, architecture, music",notch,,,historical exact,decoy-exercise-2026-07-16/blind-performance.csv :: Notch
+1901,Damask,The Cultural Mononym,Far-field real-word raid,"Book arts, couture, printmaking, stagecraft, architecture, music",damask,,,historical exact,name-longlist-top500-2026-06-19.md :: Damask
+1912,Greenroom,The Cultural Mononym,Far-field real-word raid,"Book arts, couture, printmaking, stagecraft, architecture, music",greenroom,,,historical exact,decoy-exercise-2026-07-16/adversarial-cuts.csv :: Green Room
+1913,Flyloft,The Cultural Mononym,Far-field real-word raid,"Book arts, couture, printmaking, stagecraft, architecture, music",flyloft,,,four-consonant cluster,
+1914,Cyclorama,The Cultural Mononym,Far-field real-word raid,"Book arts, couture, printmaking, stagecraft, architecture, music",cyclorama,,,four-consonant cluster,
+1915,Backdrop,The Cultural Mononym,Far-field real-word raid,"Book arts, couture, printmaking, stagecraft, architecture, music",backdrop,,,four-consonant cluster,
+1920,Tourbillon,The Cultural Mononym,Far-field real-word raid,"Book arts, couture, printmaking, stagecraft, architecture, music",tourbillon,,,historical exact,name-candidates-v2-fullmethod-2026-06-19.md :: ⭐ Tourbillon
+1921,Escapement,The Cultural Mononym,Far-field real-word raid,"Book arts, couture, printmaking, stagecraft, architecture, music",escapement,,,historical exact,name-longlist-top500-2026-06-19.md :: Escapement
+1929,Slate,The Cultural Mononym,Far-field real-word raid,"Book arts, couture, printmaking, stagecraft, architecture, music",slate,,,historical exact,decoy-exercise-2026-07-16/blind-control.csv :: Slate
+1938,Matchcut,The Cultural Mononym,Far-field real-word raid,"Book arts, couture, printmaking, stagecraft, architecture, music",matchcut,,,four-consonant cluster,
+1946,Drypoint,The Cultural Mononym,Far-field real-word raid,"Book arts, couture, printmaking, stagecraft, architecture, music",drypoint,,,historical exact,decoy-exercise-2026-07-16/blind-fewerbetter.csv :: Drypoint
+1984,Keystone,The Cultural Mononym,Far-field real-word raid,"Book arts, couture, printmaking, stagecraft, architecture, music",keystone,,,historical exact,decoy-exercise-2026-07-16/blind-control.csv :: Keystone
+1998,Tracery,The Cultural Mononym,Far-field real-word raid,"Book arts, couture, printmaking, stagecraft, architecture, music",tracery,,,historical exact,name-longlist-top500-2026-06-19.md :: Tracery
+2009,Corps De Ballet,The Cultural Mononym,Far-field real-word raid,"Book arts, couture, printmaking, stagecraft, architecture, music",corpsdeballet,,,four-consonant cluster,
+2025,Sempre,The Cultural Mononym,Far-field real-word raid,"Book arts, couture, printmaking, stagecraft, architecture, music",sempre,,,historical exact,name-longlist-top500-2026-06-19.md :: Sempre
+2040,Open Fifth,The Cultural Mononym,Far-field real-word raid,"Book arts, couture, printmaking, stagecraft, architecture, music",openfifth,,,prohibited category/cliche word,
+2047,Register,The Cultural Mononym,Far-field real-word raid,"Book arts, couture, printmaking, stagecraft, architecture, music",register,,,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Register
+2050,Unison,The Cultural Mononym,Far-field real-word raid,"Book arts, couture, printmaking, stagecraft, architecture, music",unison,,,historical exact,name-longlist-top500-2026-06-19.md :: Unison
+2052,Polyphony,The Cultural Mononym,Far-field real-word raid,"Book arts, couture, printmaking, stagecraft, architecture, music",polyphony,,,four-consonant cluster,
+2076,Grand Scandal,Beautiful Mischief,Contradictory compound,Manners colliding with rebellion,grandscandal,,,four-consonant cluster,
+2077,Grand Twist,Beautiful Mischief,Contradictory compound,Manners colliding with rebellion,grandtwist,,,four-consonant cluster,
+2081,Honest Drama,Beautiful Mischief,Contradictory compound,Manners colliding with rebellion,honestdrama,,,four-consonant cluster,
+2096,Modest Plot,Beautiful Mischief,Contradictory compound,Manners colliding with rebellion,modestplot,,,four-consonant cluster,
+2106,Pretty Folly,Beautiful Mischief,Contradictory compound,Manners colliding with rebellion,prettyfolly,,,four-consonant cluster,
+2107,Pretty Trouble,Beautiful Mischief,Contradictory compound,Manners colliding with rebellion,prettytrouble,,,four-consonant cluster,
+2108,Pretty Side,Beautiful Mischief,Contradictory compound,Manners colliding with rebellion,prettyside,,,four-consonant cluster,
+2123,Serious Vanity,Beautiful Mischief,Contradictory compound,Manners colliding with rebellion,seriousvanity,,,historical exact,net-new-250-wave2-2026-07-16.md :: Serious Vanity
+2134,Warm Wrong,Beautiful Mischief,Contradictory compound,Manners colliding with rebellion,warmwrong,,,four-consonant cluster,
+2135,Warm Provocation,Beautiful Mischief,Contradictory compound,Manners colliding with rebellion,warmprovocation,,,four-consonant cluster,
+2140,Witty Folly,Beautiful Mischief,Contradictory compound,Manners colliding with rebellion,wittyfolly,,,four-consonant cluster,
+2141,Witty Trouble,Beautiful Mischief,Contradictory compound,Manners colliding with rebellion,wittytrouble,,,four-consonant cluster,
+2142,Witty Side,Beautiful Mischief,Contradictory compound,Manners colliding with rebellion,wittyside,,,four-consonant cluster,
+2147,Bright Disorder,Beautiful Mischief,Contradictory compound,Manners colliding with rebellion,brightdisorder,,,four-consonant cluster,
+2148,Bright Revolt,Beautiful Mischief,Contradictory compound,Manners colliding with rebellion,brightrevolt,,,four-consonant cluster,
+2149,Bright Drama,Beautiful Mischief,Contradictory compound,Manners colliding with rebellion,brightdrama,,,four-consonant cluster,
+2160,Why Not,Beautiful Mischief,Audacity / proposition,Conversational retorts and social wit,whynot,,,four-consonant cluster,
+2161,Says Who,Beautiful Mischief,Audacity / proposition,Conversational retorts and social wit,sayswho,,,historical exact,founder-led-reset-2026-07-15/07-post-user-test-structural-reset.md :: SAYS WHO?
+2163,Come Again,Beautiful Mischief,Audacity / proposition,Conversational retorts and social wit,comeagain,,,historical exact,decoy-exercise-2026-07-16/blind-pool-deduped.csv :: Come Again
+2168,Well Then,Beautiful Mischief,Audacity / proposition,Conversational retorts and social wit,wellthen,,,four-consonant cluster,
+2171,So Be It,Beautiful Mischief,Audacity / proposition,Conversational retorts and social wit,sobeit,,,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: So Be It
+2179,Pardon Me,Beautiful Mischief,Audacity / proposition,Conversational retorts and social wit,pardonme,,,historical exact,decoy-exercise-2026-07-16/blind-pool-deduped.csv :: Pardon Me
+2185,Do Tell,Beautiful Mischief,Audacity / proposition,Conversational retorts and social wit,dotell,,,historical exact,decoy-250-2026-07-16.md :: Do Tell
+2186,Try Me,Beautiful Mischief,Audacity / proposition,Conversational retorts and social wit,tryme,,,four-consonant cluster,
+2187,Watch This,Beautiful Mischief,Audacity / proposition,Conversational retorts and social wit,watchthis,,,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Watch This
+2189,On Second Thought,Beautiful Mischief,Audacity / proposition,Conversational retorts and social wit,onsecondthought,,,four-consonant cluster,
+2190,Think Again,Beautiful Mischief,Audacity / proposition,Conversational retorts and social wit,thinkagain,,,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Thinkagain
+2195,Apparently,Beautiful Mischief,Audacity / proposition,Conversational retorts and social wit,apparently,,,four-consonant cluster,
+2197,Decidedly,Beautiful Mischief,Audacity / proposition,Conversational retorts and social wit,decidedly,,,historical exact,net-new-250-wave4-2026-07-16.md :: Decidedly
+2198,Unapologetic,Beautiful Mischief,Audacity / proposition,Conversational retorts and social wit,unapologetic,,,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Unapologetic
+2200,Otherwise,Beautiful Mischief,Audacity / proposition,Conversational retorts and social wit,otherwise,,,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Otherwise
+2206,Perfectly Contrary,Beautiful Mischief,Audacity / proposition,Conversational retorts and social wit,perfectlycontrary,,,four-consonant cluster,
+2212,Well Played,Beautiful Mischief,Audacity / proposition,Conversational retorts and social wit,wellplayed,,,historical exact,decoy-exercise-2026-07-16/adversarial-cuts.csv :: Well Played
+2220,Almost Proper,Beautiful Mischief,Audacity / proposition,Conversational retorts and social wit,almostproper,,,four-consonant cluster,
+2229,Turn,Sensory Motion,Action and sensory metaphor,"Dance, gesture, sound, fluid dynamics",turn,,,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Turn
+2233,Thrum,Sensory Motion,Action and sensory metaphor,"Dance, gesture, sound, fluid dynamics",thrum,,,historical exact,decoy-exercise-2026-07-16/blind-performance.csv :: Thrum
+2239,Glide,Sensory Motion,Action and sensory metaphor,"Dance, gesture, sound, fluid dynamics",glide,,,historical exact,net-new-250-wave3-2026-07-16.md :: Glide
+2240,Orbit,Sensory Motion,Action and sensory metaphor,"Dance, gesture, sound, fluid dynamics",orbit,,,historical exact,decoy-exercise-2026-07-16/blind-pool-deduped.csv :: Orbit
+2241,Arc,Sensory Motion,Action and sensory metaphor,"Dance, gesture, sound, fluid dynamics",arc,,,historical exact,name-longlist-top500-2026-06-19.md :: Arc
+2243,Murmur,Sensory Motion,Action and sensory metaphor,"Dance, gesture, sound, fluid dynamics",murmur,,,historical exact,decoy-exercise-2026-07-16/blind-control.csv :: Murmur
+2247,Pivot,Sensory Motion,Action and sensory metaphor,"Dance, gesture, sound, fluid dynamics",pivot,,,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Pivot
+2248,Sweep,Sensory Motion,Action and sensory metaphor,"Dance, gesture, sound, fluid dynamics",sweep,,,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Sweep
+2249,Skim,Sensory Motion,Action and sensory metaphor,"Dance, gesture, sound, fluid dynamics",skim,,,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Skim
+2263,Cadent,Sensory Motion,Action and sensory metaphor,"Dance, gesture, sound, fluid dynamics",cadent,,,historical exact,decoy-exercise-2026-07-16/blind-control.csv :: Cadent
+2267,Flourish,Sensory Motion,Action and sensory metaphor,"Dance, gesture, sound, fluid dynamics",flourish,,,historical exact,decoy-exercise-2026-07-16/blind-longview.csv :: Flourish
+2268,Downbeat,Sensory Motion,Action and sensory metaphor,"Dance, gesture, sound, fluid dynamics",downbeat,,,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Downbeat
+2269,Upstroke,Sensory Motion,Action and sensory metaphor,"Dance, gesture, sound, fluid dynamics",upstroke,,,four-consonant cluster,
+2273,Undertone,Sensory Motion,Action and sensory metaphor,"Dance, gesture, sound, fluid dynamics",undertone,,,historical exact,decoy-exercise-2026-07-16/blind-control.csv :: Undertone
+2277,Momentum,Sensory Motion,Action and sensory metaphor,"Dance, gesture, sound, fluid dynamics",momentum,,,historical exact,decoy-exercise-2026-07-16/blind-longview.csv :: Momentum
+2279,Poise,Sensory Motion,Action and sensory metaphor,"Dance, gesture, sound, fluid dynamics",poise,,,historical exact,name-longlist-top500-2026-06-19.md :: Poise
+2280,Balance,Sensory Motion,Action and sensory metaphor,"Dance, gesture, sound, fluid dynamics",balance,,,historical exact,net-new-250-wave4-2026-07-16.md :: Balance
+2287,Current,Sensory Motion,Action and sensory metaphor,"Dance, gesture, sound, fluid dynamics",current,,,historical exact,net-new-250-wave3-2026-07-16.md :: Current
+2294,Zephyr,Sensory Motion,Action and sensory metaphor,"Dance, gesture, sound, fluid dynamics",zephyr,,,historical exact,name-longlist-top500-2026-06-19.md :: Zephyr
+2296,Liltly,Sensory Motion,Movement reconstruction,Kinetic morpheme matrix,liltly,,,four-consonant cluster,
+2321,Driftly,Sensory Motion,Movement reconstruction,Kinetic morpheme matrix,driftly,,,four-consonant cluster,
+2328,Turner,Sensory Motion,Movement reconstruction,Kinetic morpheme matrix,turner,,,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Turner
+2329,Turnly,Sensory Motion,Movement reconstruction,Kinetic morpheme matrix,turnly,,,four-consonant cluster,
+2331,Turnwise,Sensory Motion,Movement reconstruction,Kinetic morpheme matrix,turnwise,,,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Turnwise
+2340,Pulsewell,Sensory Motion,Movement reconstruction,Kinetic morpheme matrix,pulsewell,,,historical exact,decoy-exercise-2026-07-16/blind-control.csv :: Pulsewell
+2391,Swingly,Sensory Motion,Movement reconstruction,Kinetic morpheme matrix,swingly,,,four-consonant cluster,
+2399,Waltzly,Sensory Motion,Movement reconstruction,Kinetic morpheme matrix,waltzly,,,four-consonant cluster,
+2400,Waltzline,Sensory Motion,Movement reconstruction,Kinetic morpheme matrix,waltzline,,,four-consonant cluster,
+2401,Waltzwise,Sensory Motion,Movement reconstruction,Kinetic morpheme matrix,waltzwise,,,four-consonant cluster,
+2402,Waltzwork,Sensory Motion,Movement reconstruction,Kinetic morpheme matrix,waltzwork,,,four-consonant cluster,
+2403,Waltzward,Sensory Motion,Movement reconstruction,Kinetic morpheme matrix,waltzward,,,four-consonant cluster,
+2405,Waltzkin,Sensory Motion,Movement reconstruction,Kinetic morpheme matrix,waltzkin,,,four-consonant cluster,
+2435,Arcly,Sensory Motion,Movement reconstruction,Kinetic morpheme matrix,arcly,,,four-consonant cluster,
+2452,Bright Cadence,Sensory Motion,Sensory compound,Movement and temperament,brightcadence,,,four-consonant cluster,
+2453,Bright Gesture,Sensory Motion,Sensory compound,Movement and temperament,brightgesture,,,four-consonant cluster,
+2454,Bright Pulse,Sensory Motion,Sensory compound,Movement and temperament,brightpulse,,,four-consonant cluster,
+2455,Bright Turn,Sensory Motion,Sensory compound,Movement and temperament,brightturn,,,four-consonant cluster,
+2457,Bright Drift,Sensory Motion,Sensory compound,Movement and temperament,brightdrift,,,four-consonant cluster,
+2458,Bright Tremor,Sensory Motion,Sensory compound,Movement and temperament,brighttremor,,,four-consonant cluster,
+2459,Bright Reprise,Sensory Motion,Sensory compound,Movement and temperament,brightreprise,,,four-consonant cluster,
+2460,Bright Tempo,Sensory Motion,Sensory compound,Movement and temperament,brighttempo,,,four-consonant cluster,
+2461,Bright Lift,Sensory Motion,Sensory compound,Movement and temperament,brightlift,,,four-consonant cluster,
+2477,Full Drift,Sensory Motion,Sensory compound,Movement and temperament,fulldrift,,,four-consonant cluster,
+2478,Full Tremor,Sensory Motion,Sensory compound,Movement and temperament,fulltremor,,,four-consonant cluster,
+2481,Full Lift,Sensory Motion,Sensory compound,Movement and temperament,fulllift,,,triple repeated letter,
+2517,Warm Drift,Sensory Motion,Sensory compound,Movement and temperament,warmdrift,,,four-consonant cluster,
+2518,Warm Tremor,Sensory Motion,Sensory compound,Movement and temperament,warmtremor,,,four-consonant cluster,
+2527,Wild Drift,Sensory Motion,Sensory compound,Movement and temperament,wilddrift,,,four-consonant cluster,
+2528,Wild Tremor,Sensory Motion,Sensory compound,Movement and temperament,wildtremor,,,four-consonant cluster,
+2553,Datum,Technical Elegance,Technical source raid,"Horology, optics, metrology, mechanics",datum,,,historical exact,decoy-exercise-2026-07-16/blind-performance.csv :: Datum
+2555,Vector,Technical Elegance,Technical source raid,"Horology, optics, metrology, mechanics",vector,,,historical exact,decoy-exercise-2026-07-16/blind-performance.csv :: Vector
+2557,Helix,Technical Elegance,Technical source raid,"Horology, optics, metrology, mechanics",helix,,,historical exact,decoy-exercise-2026-07-16/blind-performance.csv :: Helix
+2558,Spline,Technical Elegance,Technical source raid,"Horology, optics, metrology, mechanics",spline,,,historical exact,decoy-exercise-2026-07-16/blind-performance.csv :: Spline
+2562,Optic,Technical Elegance,Technical source raid,"Horology, optics, metrology, mechanics",optic,,,historical exact,workbench-wave34/wave4-cuts.txt :: Optic
+2566,Gradient,Technical Elegance,Technical source raid,"Horology, optics, metrology, mechanics",gradient,,,historical exact,net-new-250-wave4-2026-07-16.md :: Gradient
+2567,Flux,Technical Elegance,Technical source raid,"Horology, optics, metrology, mechanics",flux,,,historical exact,decoy-exercise-2026-07-16/blind-pool-deduped.csv :: Flux
+2570,Bearing,Technical Elegance,Technical source raid,"Horology, optics, metrology, mechanics",bearing,,,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Bearing
+2571,Fine Thread,Technical Elegance,Technical source raid,"Horology, optics, metrology, mechanics",finethread,,,historical exact,decoy-exercise-2026-07-16/blind-fewerbetter.csv :: Finethread
+2578,Open Circuit,Technical Elegance,Technical source raid,"Horology, optics, metrology, mechanics",opencircuit,,,prohibited category/cliche word,
+2580,Fine Tolerance,Technical Elegance,Technical source raid,"Horology, optics, metrology, mechanics",finetolerance,,,historical exact,decoy-250-2026-07-16.md :: Fine Tolerance
+2581,Set Screw,Technical Elegance,Technical source raid,"Horology, optics, metrology, mechanics",setscrew,,,four-consonant cluster,
+2583,Main Spring,Technical Elegance,Technical source raid,"Horology, optics, metrology, mechanics",mainspring,,,four-consonant cluster,
+2584,Watch Jewel,Technical Elegance,Technical source raid,"Horology, optics, metrology, mechanics",watchjewel,,,four-consonant cluster,
+2589,Master Gauge,Technical Elegance,Technical source raid,"Horology, optics, metrology, mechanics",mastergauge,,,historical exact,decoy-exercise-2026-07-16/blind-pool-deduped.csv :: Master Gauge
+2590,Reference Standard,Technical Elegance,Technical source raid,"Horology, optics, metrology, mechanics",referencestandard,,,historical exact,net-new-250-wave3-2026-07-16.md :: Reference Standard
+2593,Signal Path,Technical Elegance,Technical source raid,"Horology, optics, metrology, mechanics",signalpath,,,historical exact,net-new-250-wave2-2026-07-16.md :: Signal Path
+2598,Human Scale,Technical Elegance,Technical source raid,"Horology, optics, metrology, mechanics",humanscale,,,historical exact,net-new-250-wave3-2026-07-16.md :: Human Scale
+2599,Fine Grain,Technical Elegance,Technical source raid,"Horology, optics, metrology, mechanics",finegrain,,,historical exact,net-new-250-wave2-2026-07-16.md :: Fine Grain
+2601,Full Spectrum,Technical Elegance,Technical source raid,"Horology, optics, metrology, mechanics",fullspectrum,,,historical exact,decoy-exercise-2026-07-16/blind-longview.csv :: Full Spectrum
+2602,True North,Technical Elegance,Technical source raid,"Horology, optics, metrology, mechanics",truenorth,,,historical exact,decoy-exercise-2026-07-16/blind-performance.csv :: True North
+2604,Proof Mass,Technical Elegance,Technical source raid,"Horology, optics, metrology, mechanics",proofmass,,,prohibited category/cliche word,
+2608,Clear Span,Technical Elegance,Technical source raid,"Horology, optics, metrology, mechanics",clearspan,,,historical exact,decoy-exercise-2026-07-16/blind-pool-deduped.csv :: Clear Span
+2618,Working Standard,Technical Elegance,Technical source raid,"Horology, optics, metrology, mechanics",workingstandard,,,prohibited category/cliche word,
+2620,First Principle,Technical Elegance,Technical source raid,"Horology, optics, metrology, mechanics",firstprinciple,,,historical exact,decoy-250-2026-07-16.md :: First Principle
+2623,Open Loop,Technical Elegance,Technical source raid,"Horology, optics, metrology, mechanics",openloop,,,prohibited category/cliche word,
+2625,Steady State,Technical Elegance,Technical source raid,"Horology, optics, metrology, mechanics",steadystate,,,historical exact,net-new-250-wave2-2026-07-16.md :: Steady State
+2627,Safety Factor,Technical Elegance,Technical source raid,"Horology, optics, metrology, mechanics",safetyfactor,,,historical exact,net-new-250-wave3-2026-07-16.md :: Safety Factor
+2628,Fit And Finish,Technical Elegance,Technical source raid,"Horology, optics, metrology, mechanics",fitandfinish,,,historical exact,net-new-250-wave2-2026-07-16.md :: Fit and Finish
+2631,Vernier,Technical Elegance,Technical source raid,"Horology, optics, metrology, mechanics",vernier,,,historical exact,net-new-250-wave4-2026-07-16.md :: Vernier
+2640,Frequency Response,Technical Elegance,Technical source raid,"Horology, optics, metrology, mechanics",frequencyresponse,,,four-consonant cluster,
+2642,Noise Floor,Technical Elegance,Technical source raid,"Horology, optics, metrology, mechanics",noisefloor,,,historical exact,net-new-250-wave2-2026-07-16.md :: Noise Floor
+2689,Luminor,Technical Elegance,Technical morpheme engine,Precision-root coinage,luminor,,,historical exact,decoy-exercise-2026-07-16/blind-longview.csv :: Luminor
+2696,Moden,Technical Elegance,Technical morpheme engine,Precision-root coinage,moden,,,historical exact,decoy-exercise-2026-07-16/blind-fewerbetter.csv :: Moden
+2749,Epoch,Deep Time,Deep-time metaphor and future reframe,"Geology, calendars, inheritance, continuity",epoch,,,historical exact,decoy-exercise-2026-07-16/blind-control.csv :: Epoch
+2751,Palimpsest,Deep Time,Deep-time metaphor and future reframe,"Geology, calendars, inheritance, continuity",palimpsest,,,historical exact,decoy-250-2026-07-16.md :: Palimpsest
+2754,Almanac,Deep Time,Deep-time metaphor and future reframe,"Geology, calendars, inheritance, continuity",almanac,,,historical exact,name-candidates-2026-06-19.md :: ⭐ Almanac
+2755,Solstice,Deep Time,Deep-time metaphor and future reframe,"Geology, calendars, inheritance, continuity",solstice,,,historical exact,decoy-exercise-2026-07-16/adversarial-cuts.csv :: Solstice
+2757,Tidemark,Deep Time,Deep-time metaphor and future reframe,"Geology, calendars, inheritance, continuity",tidemark,,,historical exact,decoy-exercise-2026-07-16/blind-control.csv :: Tidemark
+2758,Provenance,Deep Time,Deep-time metaphor and future reframe,"Geology, calendars, inheritance, continuity",provenance,,,historical exact,decoy-exercise-2026-07-16/adversarial-cuts.csv :: Provenance
+2764,Morrow,Deep Time,Deep-time metaphor and future reframe,"Geology, calendars, inheritance, continuity",morrow,,,historical exact,decoy-exercise-2026-07-16/adversarial-cuts.csv :: Morrow
+2765,Longform,Deep Time,Deep-time metaphor and future reframe,"Geology, calendars, inheritance, continuity",longform,,,historical exact,final-exercise-2026-07-16/03-blind-pool.md :: Longform
+2784,Golden Interval,Deep Time,Deep-time metaphor and future reframe,"Geology, calendars, inheritance, continuity",goldeninterval,,,historical exact,decoy-exercise-2026-07-16/blind-pool-deduped.csv :: Golden Interval
+2786,Longlight,Deep Time,Deep-time metaphor and future reframe,"Geology, calendars, inheritance, continuity",longlight,,,historical exact,name-longlist-top500-2026-06-19.md :: Longlight
+2792,Lasting Present,Deep Time,Deep-time metaphor and future reframe,"Geology, calendars, inheritance, continuity",lastingpresent,,,four-consonant cluster,
+2796,Long Arc,Deep Time,Deep-time metaphor and future reframe,"Geology, calendars, inheritance, continuity",longarc,,,historical exact,decoy-exercise-2026-07-16/adversarial-cuts.csv :: Long Arc
+2797,Age Of Now,Deep Time,Deep-time metaphor and future reframe,"Geology, calendars, inheritance, continuity",ageofnow,,,prohibited category/cliche word,
+2806,Day By Day,Deep Time,Deep-time metaphor and future reframe,"Geology, calendars, inheritance, continuity",daybyday,,,four-consonant cluster,
+2807,World Without End,Deep Time,Deep-time metaphor and future reframe,"Geology, calendars, inheritance, continuity",worldwithoutend,,,four-consonant cluster,
+2810,Evergreen,Deep Time,Deep-time metaphor and future reframe,"Geology, calendars, inheritance, continuity",evergreen,,,historical exact,decoy-exercise-2026-07-16/blind-pool-deduped.csv :: Evergreen
+2813,Dateline,Deep Time,Deep-time metaphor and future reframe,"Geology, calendars, inheritance, continuity",dateline,,,historical exact,decoy-exercise-2026-07-16/blind-pool-deduped.csv :: Dateline
+2815,Long Measure,Deep Time,Deep-time metaphor and future reframe,"Geology, calendars, inheritance, continuity",longmeasure,,,historical exact,decoy-250-2026-07-16.md :: Long Measure
+2834,Ancestry,Deep Time,Deep-time metaphor and future reframe,"Geology, calendars, inheritance, continuity",ancestry,,,four-consonant cluster,
+2845,Archive,Deep Time,Deep-time metaphor and future reframe,"Geology, calendars, inheritance, continuity",archive,,,historical exact,decoy-exercise-2026-07-16/blind-performance.csv :: Archive

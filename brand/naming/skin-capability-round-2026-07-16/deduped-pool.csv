@@ -1,0 +1,589 @@
+﻿RawID,Name,World,Exercise,ExerciseName,Form,Source,Normalized
+1,Working Set,Skin Training,1,Intangible to tangible,authentic term,strength training,workingset
+2,Form Check,Skin Training,1,Intangible to tangible,authentic term,coaching,formcheck
+3,Practice Set,Skin Training,1,Intangible to tangible,authentic term,training session,practiceset
+4,Daily Reps,Skin Training,1,Intangible to tangible,compound,training session,dailyreps
+5,Good Reps,Skin Training,2,Benefit ladder,double meaning,repetitions and reputation,goodreps
+7,On Form,Skin Training,2,Benefit ladder,familiar phrase,performance state,onform
+8,Everyday Form,Skin Training,2,Benefit ladder,compound,daily capability,everydayform
+9,More Capable,Skin Training,3,Name the future,future state,retained capability,morecapable
+10,Built to Continue,Skin Training,3,Name the future,future proposition,long-horizon performance,builttocontinue
+11,Ready for More,Skin Training,3,Name the future,future proposition,preparedness,readyformore
+12,Progressive Skin,Skin Training,3,Name the future,category compound,progressive training,progressiveskin
+13,No Finish Line,Skin Training,4,Anti-descriptor,anti-descriptor,continuous progress,nofinishline
+14,No Younger Required,Skin Training,4,Anti-descriptor,stance phrase,anti-age-ideal,noyoungerrequired
+15,Progress Not Reversal,Skin Training,4,Anti-descriptor,stance phrase,anti-reversal,progressnotreversal
+16,More Than Maintenance,Skin Training,4,Anti-descriptor,productive contradiction,continuous improvement,morethanmaintenance
+17,Skin in Session,Skin Training,5,Win by contrast,category collision,training session,skininsession
+18,Face in Training,Skin Training,5,Win by contrast,category collision,training,faceintraining
+19,Skin Reps,Skin Training,5,Win by contrast,category compound,training,skinreps
+20,Face Reps,Skin Training,5,Win by contrast,category compound,training,facereps
+21,Better by Practice,Skin Training,6,Name the worldview,worldview phrase,earned progress,betterbypractice
+22,Capability Over Correction,Skin Training,6,Name the worldview,worldview phrase,anti-correction,capabilityovercorrection
+23,Train for Tomorrow,Skin Training,6,Name the worldview,worldview phrase,future capacity,trainfortomorrow
+24,The Work Shows,Skin Training,6,Name the worldview,worldview phrase,visible consistency,theworkshows
+25,Repwise,Skin Training,7,Deconstruct reconstruct,action-like coinage,repetition,repwise
+26,Setwise,Skin Training,7,Deconstruct reconstruct,action-like coinage,sets,setwise
+27,Formwise,Skin Training,7,Deconstruct reconstruct,action-like coinage,form,formwise
+28,Rangewise,Skin Training,7,Deconstruct reconstruct,action-like coinage,range,rangewise
+29,Formance,Skin Training,8,Portmanteau,portmanteau,form and performance,formance
+30,Capact,Skin Training,8,Portmanteau,portmanteau,capacity and act,capact
+31,Skinmotion,Skin Training,8,Portmanteau,portmanteau,skin and motion,skinmotion
+32,Adaptone,Skin Training,8,Portmanteau,portmanteau,adapt and tone,adaptone
+33,Formly,Skin Training,9,Morpheme engine,morpheme coinage,form,formly
+34,Capably,Skin Training,9,Morpheme engine,morpheme coinage,capable,capably
+35,Setform,Skin Training,9,Morpheme engine,morpheme compound,set and form,setform
+36,Repmode,Skin Training,9,Morpheme engine,morpheme compound,repetition and mode,repmode
+37,Tonicity,Skin Training,10,Scientific borrowing control,scientific control,physiology,tonicity
+38,Training Effect,Skin Training,10,Scientific borrowing control,scientific control,exercise physiology,trainingeffect
+39,Response Curve,Skin Training,10,Scientific borrowing control,scientific control,dose response,responsecurve
+40,Adaptation Window,Skin Training,10,Scientific borrowing control,scientific control,training science,adaptationwindow
+41,Cadra,Skin Training,11,Sound-first coinage,sound-first coinage,cadence,cadra
+42,Formen,Skin Training,11,Sound-first coinage,sound-first coinage,form,formen
+43,Revia,Skin Training,11,Sound-first coinage,sound-first coinage,repetition and vitality,revia
+44,Setra,Skin Training,11,Sound-first coinage,sound-first coinage,set,setra
+45,Formd,Skin Training,12,Structural orthographic,vowel omission,formed,formd
+46,Cadnce,Skin Training,12,Structural orthographic,vowel omission,cadence,cadnce
+47,Capabl,Skin Training,12,Structural orthographic,vowel omission,capable,capabl
+48,Reptn,Skin Training,12,Structural orthographic,compression,repetition,reptn
+49,Skin Form,Skin Training,13,Compound,compound,category and form,skinform
+50,Skin Range,Skin Training,13,Compound,compound,category and capacity,skinrange
+51,Ready Skin,Skin Training,13,Compound,compound,category and readiness,readyskin
+52,Active Rest,Skin Training,13,Compound,productive contradiction,training recovery,activerest
+55,Current Form,Skin Training,14,Real-word metaphor,real phrase,present capability,currentform
+56,Condition,Skin Training,14,Real-word metaphor,real word,state and training,condition
+57,Tonus,Skin Training,15,World-language control,world-language control,Latin tone,tonus
+58,Exerce,Skin Training,15,World-language control,world-language control,French exercise root,exerce
+59,Tempo Set,Skin Training,16,Source-library raid,source raid,strength programming,temposet
+60,Range Work,Skin Training,16,Source-library raid,source raid,movement training,rangework
+61,Form Cue,Skin Training,16,Source-library raid,source raid,coaching,formcue
+62,Ready State,Skin Training,16,Source-library raid,source raid,performance systems,readystate
+63,Daily Driver Skin,Skin Training,17,Decoy brief,decoy transfer,performance equipment,dailydriverskin
+64,Skin Conditioning Club,Skin Training,17,Decoy brief,decoy transfer,conditioning studio,skinconditioningclub
+65,The Capability Company,Skin Training,17,Decoy brief,decoy transfer,performance system,thecapabilitycompany
+66,Real Life Training,Skin Training,17,Decoy brief,decoy transfer,adult training service,reallifetraining
+67,Skin in Training,Skin Training,1,Intangible to tangible,category proposition,progressive conditioning,skinintraining
+68,Skin Tempo,Skin Training,5,Win by contrast,category collision,training cadence,skintempo
+69,Form for Skin,Skin Training,5,Win by contrast,category collision,coaching form,formforskin
+70,Train Skin,Skin Training,6,Name the worldview,worldview phrase,customer participation,trainskin
+71,Skin Progression,Skin Training,3,Name the future,future state,progressive training,skinprogression
+72,Better at Skin,Skin Training,6,Name the worldview,worldview phrase,skin capability and brand expertise,betteratskin
+73,Better at Being Skin,Skin Training,6,Name the worldview,worldview phrase,skin function,betteratbeingskin
+74,Get Better at Skin,Skin Training,6,Name the worldview,worldview phrase,progressive capability,getbetteratskin
+75,Built by Habit,Skin Training,2,Benefit ladder,benefit phrase,consistency,builtbyhabit
+76,Working Capacity,Skin Training,16,Source-library raid,source raid,performance measurement,workingcapacity
+77,Current Capacity,Skin Training,16,Source-library raid,source raid,performance measurement,currentcapacity
+78,Ready Capacity,Skin Training,13,Compound,compound,prepared capability,readycapacity
+79,In Practice,Skin Practice,1,Intangible to tangible,familiar phrase,applied mastery,inpractice
+81,Practice Applied,Skin Practice,1,Intangible to tangible,compound,applied knowledge,practiceapplied
+82,Method in Use,Skin Practice,1,Intangible to tangible,familiar phrase,application,methodinuse
+83,Habit Formed,Skin Practice,2,Benefit ladder,familiar phrase,repeatable behavior,habitformed
+84,Useful Habit,Skin Practice,2,Benefit ladder,compound,practical consistency,usefulhabit
+85,What You Repeat,Skin Practice,2,Benefit ladder,proposition,consistency,whatyourepeat
+86,Made Habitual,Skin Practice,2,Benefit ladder,future state,routine adoption,madehabitual
+87,Better by Doing,Skin Practice,3,Name the future,future proposition,practice,betterbydoing
+88,Knowledge in Use,Skin Practice,3,Name the future,future proposition,education applied,knowledgeinuse
+89,Learned by Skin,Skin Practice,3,Name the future,category proposition,observation,learnedbyskin
+90,A More Useful Routine,Skin Practice,3,Name the future,future proposition,practical mastery,amoreusefulroutine
+91,No Magic Required,Skin Practice,4,Anti-descriptor,anti-descriptor,anti-mystique,nomagicrequired
+92,Practice Over Promises,Skin Practice,4,Anti-descriptor,stance phrase,anti-hype,practiceoverpromises
+93,Use Matters,Skin Practice,4,Anti-descriptor,stance phrase,application,usematters
+94,Consistency Counts,Skin Practice,4,Anti-descriptor,stance phrase,repeatability,consistencycounts
+95,Skin Technique,Skin Practice,5,Win by contrast,category collision,studio technique,skintechnique
+96,Face Practice,Skin Practice,5,Win by contrast,category collision,deliberate practice,facepractice
+97,Skin Session,Skin Practice,5,Win by contrast,category collision,practice session,skinsession
+98,Routine Studio,Skin Practice,5,Win by contrast,category collision,studio practice,routinestudio
+99,Know What You Use,Skin Practice,6,Name the worldview,worldview phrase,informed application,knowwhatyouuse
+100,Practice Makes Progress,Skin Practice,6,Name the worldview,worldview phrase,earned change,practicemakesprogress
+101,Technique Counts,Skin Practice,6,Name the worldview,worldview phrase,application quality,techniquecounts
+102,Products Are Not the Practice,Skin Practice,6,Name the worldview,worldview phrase,customer capability,productsarenotthepractice
+103,Practly,Skin Practice,7,Deconstruct reconstruct,action-like coinage,practice,practly
+104,Repeatly,Skin Practice,7,Deconstruct reconstruct,action-like coinage,repeat,repeatly
+105,Usewise,Skin Practice,7,Deconstruct reconstruct,action-like coinage,use,usewise
+106,Methodly,Skin Practice,7,Deconstruct reconstruct,action-like coinage,method,methodly
+107,Practive,Skin Practice,8,Portmanteau,portmanteau,practice and active,practive
+108,Habituality,Skin Practice,8,Portmanteau,portmanteau,habit and continuity,habituality
+109,Methoday,Skin Practice,8,Portmanteau,portmanteau,method and daily,methoday
+110,Routinformed,Skin Practice,8,Portmanteau,portmanteau,routine and informed,routinformed
+111,Practic,Skin Practice,9,Morpheme engine,morpheme coinage,practice,practic
+112,Habitra,Skin Practice,9,Morpheme engine,morpheme coinage,habit,habitra
+113,Routina,Skin Practice,9,Morpheme engine,morpheme coinage,routine,routina
+114,Usena,Skin Practice,9,Morpheme engine,morpheme coinage,use,usena
+115,Praxis,Skin Practice,10,Scientific borrowing control,scientific control,applied theory,praxis
+116,Repeatability,Skin Practice,10,Scientific borrowing control,scientific control,measurement,repeatability
+117,Protocol,Skin Practice,10,Scientific borrowing control,scientific control,repeatable procedure,protocol
+118,Adherence,Skin Practice,10,Scientific borrowing control,scientific control,consistent use,adherence
+119,Prava,Skin Practice,11,Sound-first coinage,sound-first coinage,practice,prava
+120,Metta,Skin Practice,11,Sound-first coinage,sound-first coinage,method,metta
+121,Rutio,Skin Practice,11,Sound-first coinage,sound-first coinage,routine,rutio
+122,Habra,Skin Practice,11,Sound-first coinage,sound-first coinage,habit,habra
+123,Practce,Skin Practice,12,Structural orthographic,vowel omission,practice,practce
+124,Routin,Skin Practice,12,Structural orthographic,vowel omission,routine,routin
+125,Methd,Skin Practice,12,Structural orthographic,vowel omission,method,methd
+126,Repetn,Skin Practice,12,Structural orthographic,compression,repetition,repetn
+127,Daily Method,Skin Practice,13,Compound,compound,daily practice,dailymethod
+129,Open Practice,Skin Practice,13,Compound,compound,transparent practice,openpractice
+130,Applied Daily,Skin Practice,13,Compound,compound,knowledge applied,applieddaily
+131,Technique,Skin Practice,14,Real-word metaphor,real word,skilled application,technique
+133,Repertoire,Skin Practice,14,Real-word metaphor,real word,developed range,repertoire
+134,Session,Skin Practice,14,Real-word metaphor,real word,repeatable practice,session
+135,Studium,Skin Practice,15,World-language control,world-language control,Latin study,studium
+136,Pratica,Skin Practice,15,World-language control,world-language control,Italian practice,pratica
+137,Practice Notes,Skin Practice,16,Source-library raid,source raid,studio notebook,practicenotes
+138,Run Through,Skin Practice,16,Source-library raid,source raid,rehearsal,runthrough
+139,Working Method,Skin Practice,16,Source-library raid,source raid,studio practice,workingmethod
+140,Daily Cue,Skin Practice,16,Source-library raid,source raid,coaching,dailycue
+141,The Daily Studio,Skin Practice,17,Decoy brief,decoy transfer,mastery studio,thedailystudio
+142,Practice Room,Skin Practice,17,Decoy brief,decoy transfer,music instruction,practiceroom
+143,Use School,Skin Practice,17,Decoy brief,decoy transfer,practical education,useschool
+144,The Habit Workshop,Skin Practice,17,Decoy brief,decoy transfer,behavior studio,thehabitworkshop
+145,Applied Skin,Skin Practice,5,Win by contrast,category collision,knowledge in use,appliedskin
+146,Practiced Skin,Skin Practice,5,Win by contrast,category collision,earned technique,practicedskin
+147,Skin by Practice,Skin Practice,6,Name the worldview,worldview phrase,earned progress,skinbypractice
+148,Know Skin Better,Skin Practice,6,Name the worldview,worldview phrase,education and observation,knowskinbetter
+149,Good at Skin,Skin Practice,6,Name the worldview,worldview phrase,practical expertise,goodatskin
+150,Skilled at Skin,Skin Practice,6,Name the worldview,worldview phrase,practical expertise,skilledatskin
+151,Skin Habits,Skin Practice,1,Intangible to tangible,category compound,repeatable behavior,skinhabits
+152,The Skin Habit,Skin Practice,1,Intangible to tangible,category compound,repeatable behavior,theskinhabit
+153,Built by Routine,Skin Practice,2,Benefit ladder,benefit phrase,consistency,builtbyroutine
+154,How Skin Works,Skin Practice,3,Name the future,future proposition,understanding in use,howskinworks
+155,Skin in Use,Skin Practice,1,Intangible to tangible,category phrase,application,skininuse
+156,Skin Applied,Skin Practice,1,Intangible to tangible,category phrase,application,skinapplied
+157,This Skin,Personal Baseline,1,Intangible to tangible,direct phrase,individual reference,thisskin
+158,For This Skin,Personal Baseline,1,Intangible to tangible,direct proposition,individual reference,forthisskin
+159,Made for This Face,Personal Baseline,1,Intangible to tangible,direct proposition,individual fit,madeforthisface
+160,Your Own Measure,Personal Baseline,1,Intangible to tangible,familiar phrase,self-reference,yourownmeasure
+161,Standard of One,Personal Baseline,2,Benefit ladder,compound,individual standard,standardofone
+162,Measure of One,Personal Baseline,2,Benefit ladder,compound,individual measure,measureofone
+163,Better by Your Measure,Personal Baseline,2,Benefit ladder,proposition,self-relative progress,betterbyyourmeasure
+164,Same Face Better,Personal Baseline,2,Benefit ladder,compressed proposition,continuity and progress,samefacebetter
+165,No Average Skin,Personal Baseline,3,Name the future,future proposition,personalization,noaverageskin
+166,No Average Face,Personal Baseline,3,Name the future,future proposition,personalization,noaverageface
+167,One Size Fits Nobody,Personal Baseline,3,Name the future,future proposition,anti-universal,onesizefitsnobody
+168,The Standard Is You,Personal Baseline,3,Name the future,future proposition,self-reference,thestandardisyou
+169,Average Is Nobody,Personal Baseline,4,Anti-descriptor,anti-descriptor,anti-average,averageisnobody
+170,Not Made for Average,Personal Baseline,4,Anti-descriptor,anti-descriptor,anti-universal,notmadeforaverage
+171,No Standard Face,Personal Baseline,4,Anti-descriptor,anti-descriptor,individuality,nostandardface
+172,The Average Is Not You,Personal Baseline,4,Anti-descriptor,anti-descriptor,individuality,theaverageisnotyou
+173,N of One,Personal Baseline,5,Win by contrast,authentic term,N-of-1 research,nofone
+174,Sample Size One,Personal Baseline,5,Win by contrast,authentic term,N-of-1 research,samplesizeone
+175,Within Subject,Personal Baseline,5,Win by contrast,authentic term,research design,withinsubject
+176,Single Subject,Personal Baseline,5,Win by contrast,authentic term,research design,singlesubject
+177,You Are the Control,Personal Baseline,6,Name the worldview,worldview phrase,self-controlled comparison,youarethecontrol
+178,Compare to Yourself,Personal Baseline,6,Name the worldview,worldview phrase,self-relative progress,comparetoyourself
+179,Your Skin Is the Standard,Personal Baseline,6,Name the worldview,worldview phrase,individual standard,yourskinisthestandard
+180,General Population of One,Personal Baseline,6,Name the worldview,worldview phrase,anti-average,generalpopulationofone
+181,Ownmark,Personal Baseline,7,Deconstruct reconstruct,action-like coinage,own benchmark,ownmark
+182,Selfmark,Personal Baseline,7,Deconstruct reconstruct,action-like coinage,self benchmark,selfmark
+183,Baseone,Personal Baseline,7,Deconstruct reconstruct,action-like coinage,baseline of one,baseone
+184,Oneform,Personal Baseline,7,Deconstruct reconstruct,action-like coinage,individual form,oneform
+185,Baself,Personal Baseline,8,Portmanteau,portmanteau,baseline and self,baself
+186,Meaself,Personal Baseline,8,Portmanteau,portmanteau,measure and self,meaself
+187,Indivis,Personal Baseline,8,Portmanteau,portmanteau,individual and visible,indivis
+188,Referone,Personal Baseline,8,Portmanteau,portmanteau,reference and one,referone
+189,Selference,Personal Baseline,9,Morpheme engine,morpheme coinage,self and reference,selference
+190,Onestandard,Personal Baseline,9,Morpheme engine,morpheme compound,one standard,onestandard
+191,Ownbase,Personal Baseline,9,Morpheme engine,morpheme compound,own baseline,ownbase
+192,Exactself,Personal Baseline,9,Morpheme engine,morpheme compound,individual specificity,exactself
+194,Reference Range,Personal Baseline,10,Scientific borrowing control,scientific control,measurement,referencerange
+195,Individual Response,Personal Baseline,10,Scientific borrowing control,scientific control,response variability,individualresponse
+196,Within Person,Personal Baseline,10,Scientific borrowing control,scientific control,longitudinal comparison,withinperson
+197,Navo,Personal Baseline,11,Sound-first coinage,sound-first coinage,N of one,navo
+198,Basen,Personal Baseline,11,Sound-first coinage,sound-first coinage,baseline,basen
+199,Meora,Personal Baseline,11,Sound-first coinage,sound-first coinage,measure,meora
+200,Refra,Personal Baseline,11,Sound-first coinage,sound-first coinage,reference,refra
+201,Baseln,Personal Baseline,12,Structural orthographic,vowel omission,baseline,baseln
+202,Measur,Personal Baseline,12,Structural orthographic,vowel omission,measure,measur
+203,Specifc,Personal Baseline,12,Structural orthographic,vowel omission,specific,specifc
+206,Reference Skin,Personal Baseline,13,Compound,compound,category benchmark,referenceskin
+207,Specific Skin,Personal Baseline,13,Compound,compound,category personalization,specificskin
+208,One Skin Only,Personal Baseline,13,Compound,compound,individuality,oneskinonly
+209,Base Case,Personal Baseline,14,Real-word metaphor,real term,reference case,basecase
+211,Own Control,Personal Baseline,14,Real-word metaphor,real phrase,self comparison,owncontrol
+212,Your Delta,Personal Baseline,14,Real-word metaphor,real term,change from baseline,yourdelta
+213,Norma,Personal Baseline,15,World-language control,world-language control,Latin norm,norma
+214,Unica,Personal Baseline,15,World-language control,world-language control,Latin unique,unica
+215,Matched Control,Personal Baseline,16,Source-library raid,source raid,clinical research,matchedcontrol
+216,Longitudinal,Personal Baseline,16,Source-library raid,source raid,research design,longitudinal
+217,Reference Self,Personal Baseline,16,Source-library raid,source raid,measurement,referenceself
+218,Personal Benchmark,Personal Baseline,16,Source-library raid,source raid,performance measurement,personalbenchmark
+219,The One Person Study,Personal Baseline,17,Decoy brief,decoy transfer,individual research service,theonepersonstudy
+220,Measure One,Personal Baseline,17,Decoy brief,decoy transfer,personal measurement service,measureone
+221,The Personal Standard,Personal Baseline,17,Decoy brief,decoy transfer,custom fit service,thepersonalstandard
+222,Made to One,Personal Baseline,17,Decoy brief,decoy transfer,custom manufacturing,madetoone
+223,Skin of One,Personal Baseline,2,Benefit ladder,compound,individual standard,skinofone
+224,Face of One,Personal Baseline,2,Benefit ladder,compound,individual standard,faceofone
+225,Only Your Skin,Personal Baseline,1,Intangible to tangible,direct proposition,individual reference,onlyyourskin
+226,Only This Face,Personal Baseline,1,Intangible to tangible,direct proposition,individual reference,onlythisface
+227,Made to Your Measure,Personal Baseline,1,Intangible to tangible,direct proposition,individual fit,madetoyourmeasure
+228,The You Standard,Personal Baseline,3,Name the future,future proposition,self-reference,theyoustandard
+229,The One Standard,Personal Baseline,3,Name the future,future proposition,individual standard,theonestandard
+230,Not Average Skin,Personal Baseline,4,Anti-descriptor,anti-descriptor,anti-average,notaverageskin
+231,No Two Skins,Personal Baseline,4,Anti-descriptor,anti-descriptor,individual response,notwoskins
+232,No Two Faces,Personal Baseline,4,Anti-descriptor,anti-descriptor,individual response,notwofaces
+233,One Face Standard,Personal Baseline,13,Compound,compound,individual benchmark,onefacestandard
+234,Personal Best Skin,Personal Baseline,5,Win by contrast,category collision,personal performance,personalbestskin
+238,Skin Set,Skin Training,13,Compound,compound matrix,conditioning compound matrix,skinset
+239,Skin Mode,Skin Training,13,Compound,compound matrix,conditioning compound matrix,skinmode
+240,Skin Capacity,Skin Training,13,Compound,compound matrix,conditioning compound matrix,skincapacity
+242,Skin Progress,Skin Training,13,Compound,compound matrix,conditioning compound matrix,skinprogress
+243,Skin Response,Skin Training,13,Compound,compound matrix,conditioning compound matrix,skinresponse
+244,Skin Cadence,Skin Training,13,Compound,compound matrix,conditioning compound matrix,skincadence
+245,Skin Condition,Skin Training,13,Compound,compound matrix,conditioning compound matrix,skincondition
+246,Skin Work,Skin Training,13,Compound,compound matrix,conditioning compound matrix,skinwork
+248,Face Range,Skin Training,13,Compound,compound matrix,conditioning compound matrix,facerange
+250,Face Set,Skin Training,13,Compound,compound matrix,conditioning compound matrix,faceset
+251,Face Mode,Skin Training,13,Compound,compound matrix,conditioning compound matrix,facemode
+252,Face Capacity,Skin Training,13,Compound,compound matrix,conditioning compound matrix,facecapacity
+254,Face Progress,Skin Training,13,Compound,compound matrix,conditioning compound matrix,faceprogress
+255,Face Response,Skin Training,13,Compound,compound matrix,conditioning compound matrix,faceresponse
+256,Face Cadence,Skin Training,13,Compound,compound matrix,conditioning compound matrix,facecadence
+257,Face Condition,Skin Training,13,Compound,compound matrix,conditioning compound matrix,facecondition
+259,Daily Form,Skin Training,13,Compound,compound matrix,conditioning compound matrix,dailyform
+260,Daily Range,Skin Training,13,Compound,compound matrix,conditioning compound matrix,dailyrange
+262,Daily Set,Skin Training,13,Compound,compound matrix,conditioning compound matrix,dailyset
+263,Daily Mode,Skin Training,13,Compound,compound matrix,conditioning compound matrix,dailymode
+264,Daily Capacity,Skin Training,13,Compound,compound matrix,conditioning compound matrix,dailycapacity
+265,Daily Practice,Skin Training,13,Compound,compound matrix,conditioning compound matrix,dailypractice
+266,Daily Progress,Skin Training,13,Compound,compound matrix,conditioning compound matrix,dailyprogress
+267,Daily Response,Skin Training,13,Compound,compound matrix,conditioning compound matrix,dailyresponse
+268,Daily Cadence,Skin Training,13,Compound,compound matrix,conditioning compound matrix,dailycadence
+269,Daily Condition,Skin Training,13,Compound,compound matrix,conditioning compound matrix,dailycondition
+270,Daily Work,Skin Training,13,Compound,compound matrix,conditioning compound matrix,dailywork
+271,Own Form,Skin Training,13,Compound,compound matrix,conditioning compound matrix,ownform
+272,Own Range,Skin Training,13,Compound,compound matrix,conditioning compound matrix,ownrange
+273,Own Reps,Skin Training,13,Compound,compound matrix,conditioning compound matrix,ownreps
+274,Own Set,Skin Training,13,Compound,compound matrix,conditioning compound matrix,ownset
+275,Own Mode,Skin Training,13,Compound,compound matrix,conditioning compound matrix,ownmode
+276,Own Capacity,Skin Training,13,Compound,compound matrix,conditioning compound matrix,owncapacity
+277,Own Practice,Skin Training,13,Compound,compound matrix,conditioning compound matrix,ownpractice
+278,Own Progress,Skin Training,13,Compound,compound matrix,conditioning compound matrix,ownprogress
+279,Own Response,Skin Training,13,Compound,compound matrix,conditioning compound matrix,ownresponse
+280,Own Cadence,Skin Training,13,Compound,compound matrix,conditioning compound matrix,owncadence
+281,Own Condition,Skin Training,13,Compound,compound matrix,conditioning compound matrix,owncondition
+282,Own Work,Skin Training,13,Compound,compound matrix,conditioning compound matrix,ownwork
+284,Good Range,Skin Training,13,Compound,compound matrix,conditioning compound matrix,goodrange
+286,Good Set,Skin Training,13,Compound,compound matrix,conditioning compound matrix,goodset
+287,Good Mode,Skin Training,13,Compound,compound matrix,conditioning compound matrix,goodmode
+288,Good Capacity,Skin Training,13,Compound,compound matrix,conditioning compound matrix,goodcapacity
+290,Good Progress,Skin Training,13,Compound,compound matrix,conditioning compound matrix,goodprogress
+291,Good Response,Skin Training,13,Compound,compound matrix,conditioning compound matrix,goodresponse
+292,Good Cadence,Skin Training,13,Compound,compound matrix,conditioning compound matrix,goodcadence
+294,Good Work,Skin Training,13,Compound,compound matrix,conditioning compound matrix,goodwork
+297,Full Reps,Skin Training,13,Compound,compound matrix,conditioning compound matrix,fullreps
+298,Full Set,Skin Training,13,Compound,compound matrix,conditioning compound matrix,fullset
+299,Full Mode,Skin Training,13,Compound,compound matrix,conditioning compound matrix,fullmode
+300,Full Capacity,Skin Training,13,Compound,compound matrix,conditioning compound matrix,fullcapacity
+301,Full Practice,Skin Training,13,Compound,compound matrix,conditioning compound matrix,fullpractice
+302,Full Progress,Skin Training,13,Compound,compound matrix,conditioning compound matrix,fullprogress
+303,Full Response,Skin Training,13,Compound,compound matrix,conditioning compound matrix,fullresponse
+305,Full Condition,Skin Training,13,Compound,compound matrix,conditioning compound matrix,fullcondition
+306,Full Work,Skin Training,13,Compound,compound matrix,conditioning compound matrix,fullwork
+307,Ready Form,Skin Training,13,Compound,compound matrix,conditioning compound matrix,readyform
+308,Ready Range,Skin Training,13,Compound,compound matrix,conditioning compound matrix,readyrange
+309,Ready Reps,Skin Training,13,Compound,compound matrix,conditioning compound matrix,readyreps
+313,Ready Practice,Skin Training,13,Compound,compound matrix,conditioning compound matrix,readypractice
+314,Ready Progress,Skin Training,13,Compound,compound matrix,conditioning compound matrix,readyprogress
+315,Ready Response,Skin Training,13,Compound,compound matrix,conditioning compound matrix,readyresponse
+316,Ready Cadence,Skin Training,13,Compound,compound matrix,conditioning compound matrix,readycadence
+317,Ready Condition,Skin Training,13,Compound,compound matrix,conditioning compound matrix,readycondition
+318,Ready Work,Skin Training,13,Compound,compound matrix,conditioning compound matrix,readywork
+319,Working Form,Skin Training,13,Compound,compound matrix,conditioning compound matrix,workingform
+320,Working Range,Skin Training,13,Compound,compound matrix,conditioning compound matrix,workingrange
+321,Working Reps,Skin Training,13,Compound,compound matrix,conditioning compound matrix,workingreps
+323,Working Mode,Skin Training,13,Compound,compound matrix,conditioning compound matrix,workingmode
+325,Working Practice,Skin Training,13,Compound,compound matrix,conditioning compound matrix,workingpractice
+326,Working Progress,Skin Training,13,Compound,compound matrix,conditioning compound matrix,workingprogress
+327,Working Response,Skin Training,13,Compound,compound matrix,conditioning compound matrix,workingresponse
+328,Working Cadence,Skin Training,13,Compound,compound matrix,conditioning compound matrix,workingcadence
+329,Working Condition,Skin Training,13,Compound,compound matrix,conditioning compound matrix,workingcondition
+330,Working Work,Skin Training,13,Compound,compound matrix,conditioning compound matrix,workingwork
+332,True Range,Skin Training,13,Compound,compound matrix,conditioning compound matrix,truerange
+333,True Reps,Skin Training,13,Compound,compound matrix,conditioning compound matrix,truereps
+334,True Set,Skin Training,13,Compound,compound matrix,conditioning compound matrix,trueset
+335,True Mode,Skin Training,13,Compound,compound matrix,conditioning compound matrix,truemode
+336,True Capacity,Skin Training,13,Compound,compound matrix,conditioning compound matrix,truecapacity
+337,True Practice,Skin Training,13,Compound,compound matrix,conditioning compound matrix,truepractice
+338,True Progress,Skin Training,13,Compound,compound matrix,conditioning compound matrix,trueprogress
+339,True Response,Skin Training,13,Compound,compound matrix,conditioning compound matrix,trueresponse
+341,True Condition,Skin Training,13,Compound,compound matrix,conditioning compound matrix,truecondition
+342,True Work,Skin Training,13,Compound,compound matrix,conditioning compound matrix,truework
+343,Better Form,Skin Training,13,Compound,compound matrix,conditioning compound matrix,betterform
+344,Better Range,Skin Training,13,Compound,compound matrix,conditioning compound matrix,betterrange
+345,Better Reps,Skin Training,13,Compound,compound matrix,conditioning compound matrix,betterreps
+346,Better Set,Skin Training,13,Compound,compound matrix,conditioning compound matrix,betterset
+347,Better Mode,Skin Training,13,Compound,compound matrix,conditioning compound matrix,bettermode
+348,Better Capacity,Skin Training,13,Compound,compound matrix,conditioning compound matrix,bettercapacity
+349,Better Practice,Skin Training,13,Compound,compound matrix,conditioning compound matrix,betterpractice
+350,Better Progress,Skin Training,13,Compound,compound matrix,conditioning compound matrix,betterprogress
+351,Better Response,Skin Training,13,Compound,compound matrix,conditioning compound matrix,betterresponse
+352,Better Cadence,Skin Training,13,Compound,compound matrix,conditioning compound matrix,bettercadence
+353,Better Condition,Skin Training,13,Compound,compound matrix,conditioning compound matrix,bettercondition
+354,Better Work,Skin Training,13,Compound,compound matrix,conditioning compound matrix,betterwork
+355,Steady Form,Skin Training,13,Compound,compound matrix,conditioning compound matrix,steadyform
+356,Steady Range,Skin Training,13,Compound,compound matrix,conditioning compound matrix,steadyrange
+357,Steady Reps,Skin Training,13,Compound,compound matrix,conditioning compound matrix,steadyreps
+358,Steady Set,Skin Training,13,Compound,compound matrix,conditioning compound matrix,steadyset
+359,Steady Mode,Skin Training,13,Compound,compound matrix,conditioning compound matrix,steadymode
+360,Steady Capacity,Skin Training,13,Compound,compound matrix,conditioning compound matrix,steadycapacity
+361,Steady Practice,Skin Training,13,Compound,compound matrix,conditioning compound matrix,steadypractice
+362,Steady Progress,Skin Training,13,Compound,compound matrix,conditioning compound matrix,steadyprogress
+363,Steady Response,Skin Training,13,Compound,compound matrix,conditioning compound matrix,steadyresponse
+364,Steady Cadence,Skin Training,13,Compound,compound matrix,conditioning compound matrix,steadycadence
+365,Steady Condition,Skin Training,13,Compound,compound matrix,conditioning compound matrix,steadycondition
+366,Steady Work,Skin Training,13,Compound,compound matrix,conditioning compound matrix,steadywork
+367,Real Form,Skin Training,13,Compound,compound matrix,conditioning compound matrix,realform
+368,Real Range,Skin Training,13,Compound,compound matrix,conditioning compound matrix,realrange
+369,Real Reps,Skin Training,13,Compound,compound matrix,conditioning compound matrix,realreps
+370,Real Set,Skin Training,13,Compound,compound matrix,conditioning compound matrix,realset
+371,Real Mode,Skin Training,13,Compound,compound matrix,conditioning compound matrix,realmode
+372,Real Capacity,Skin Training,13,Compound,compound matrix,conditioning compound matrix,realcapacity
+373,Real Practice,Skin Training,13,Compound,compound matrix,conditioning compound matrix,realpractice
+374,Real Progress,Skin Training,13,Compound,compound matrix,conditioning compound matrix,realprogress
+375,Real Response,Skin Training,13,Compound,compound matrix,conditioning compound matrix,realresponse
+376,Real Cadence,Skin Training,13,Compound,compound matrix,conditioning compound matrix,realcadence
+377,Real Condition,Skin Training,13,Compound,compound matrix,conditioning compound matrix,realcondition
+382,Skin Habit,Skin Practice,13,Compound,compound matrix,practice compound matrix,skinhabit
+383,Skin Routine,Skin Practice,13,Compound,compound matrix,practice compound matrix,skinroutine
+384,Skin Knowhow,Skin Practice,13,Compound,compound matrix,practice compound matrix,skinknowhow
+385,Skin Use,Skin Practice,13,Compound,compound matrix,practice compound matrix,skinuse
+387,Skin Notes,Skin Practice,13,Compound,compound matrix,practice compound matrix,skinnotes
+389,Skin Repetition,Skin Practice,13,Compound,compound matrix,practice compound matrix,skinrepetition
+390,Skin Standard,Skin Practice,13,Compound,compound matrix,practice compound matrix,skinstandard
+393,Daily Technique,Skin Practice,13,Compound,compound matrix,practice compound matrix,dailytechnique
+394,Daily Habit,Skin Practice,13,Compound,compound matrix,practice compound matrix,dailyhabit
+395,Daily Routine,Skin Practice,13,Compound,compound matrix,practice compound matrix,dailyroutine
+396,Daily Knowhow,Skin Practice,13,Compound,compound matrix,practice compound matrix,dailyknowhow
+397,Daily Use,Skin Practice,13,Compound,compound matrix,practice compound matrix,dailyuse
+399,Daily Notes,Skin Practice,13,Compound,compound matrix,practice compound matrix,dailynotes
+400,Daily Session,Skin Practice,13,Compound,compound matrix,practice compound matrix,dailysession
+401,Daily Repetition,Skin Practice,13,Compound,compound matrix,practice compound matrix,dailyrepetition
+402,Daily Standard,Skin Practice,13,Compound,compound matrix,practice compound matrix,dailystandard
+405,Open Technique,Skin Practice,13,Compound,compound matrix,practice compound matrix,opentechnique
+406,Open Habit,Skin Practice,13,Compound,compound matrix,practice compound matrix,openhabit
+407,Open Routine,Skin Practice,13,Compound,compound matrix,practice compound matrix,openroutine
+408,Open Knowhow,Skin Practice,13,Compound,compound matrix,practice compound matrix,openknowhow
+409,Open Use,Skin Practice,13,Compound,compound matrix,practice compound matrix,openuse
+410,Open Work,Skin Practice,13,Compound,compound matrix,practice compound matrix,openwork
+411,Open Notes,Skin Practice,13,Compound,compound matrix,practice compound matrix,opennotes
+412,Open Session,Skin Practice,13,Compound,compound matrix,practice compound matrix,opensession
+413,Open Repetition,Skin Practice,13,Compound,compound matrix,practice compound matrix,openrepetition
+415,Applied Practice,Skin Practice,13,Compound,compound matrix,practice compound matrix,appliedpractice
+416,Applied Method,Skin Practice,13,Compound,compound matrix,practice compound matrix,appliedmethod
+417,Applied Technique,Skin Practice,13,Compound,compound matrix,practice compound matrix,appliedtechnique
+418,Applied Habit,Skin Practice,13,Compound,compound matrix,practice compound matrix,appliedhabit
+419,Applied Routine,Skin Practice,13,Compound,compound matrix,practice compound matrix,appliedroutine
+420,Applied Knowhow,Skin Practice,13,Compound,compound matrix,practice compound matrix,appliedknowhow
+421,Applied Use,Skin Practice,13,Compound,compound matrix,practice compound matrix,applieduse
+422,Applied Work,Skin Practice,13,Compound,compound matrix,practice compound matrix,appliedwork
+423,Applied Notes,Skin Practice,13,Compound,compound matrix,practice compound matrix,appliednotes
+424,Applied Session,Skin Practice,13,Compound,compound matrix,practice compound matrix,appliedsession
+425,Applied Repetition,Skin Practice,13,Compound,compound matrix,practice compound matrix,appliedrepetition
+426,Applied Standard,Skin Practice,13,Compound,compound matrix,practice compound matrix,appliedstandard
+428,Good Method,Skin Practice,13,Compound,compound matrix,practice compound matrix,goodmethod
+429,Good Technique,Skin Practice,13,Compound,compound matrix,practice compound matrix,goodtechnique
+430,Good Habit,Skin Practice,13,Compound,compound matrix,practice compound matrix,goodhabit
+431,Good Routine,Skin Practice,13,Compound,compound matrix,practice compound matrix,goodroutine
+432,Good Knowhow,Skin Practice,13,Compound,compound matrix,practice compound matrix,goodknowhow
+433,Good Use,Skin Practice,13,Compound,compound matrix,practice compound matrix,gooduse
+435,Good Notes,Skin Practice,13,Compound,compound matrix,practice compound matrix,goodnotes
+436,Good Session,Skin Practice,13,Compound,compound matrix,practice compound matrix,goodsession
+437,Good Repetition,Skin Practice,13,Compound,compound matrix,practice compound matrix,goodrepetition
+438,Good Standard,Skin Practice,13,Compound,compound matrix,practice compound matrix,goodstandard
+440,Standard Method,Skin Practice,13,Compound,compound matrix,practice compound matrix,standardmethod
+441,Standard Technique,Skin Practice,13,Compound,compound matrix,practice compound matrix,standardtechnique
+442,Standard Habit,Skin Practice,13,Compound,compound matrix,practice compound matrix,standardhabit
+443,Standard Routine,Skin Practice,13,Compound,compound matrix,practice compound matrix,standardroutine
+444,Standard Knowhow,Skin Practice,13,Compound,compound matrix,practice compound matrix,standardknowhow
+445,Standard Use,Skin Practice,13,Compound,compound matrix,practice compound matrix,standarduse
+446,Standard Work,Skin Practice,13,Compound,compound matrix,practice compound matrix,standardwork
+447,Standard Notes,Skin Practice,13,Compound,compound matrix,practice compound matrix,standardnotes
+448,Standard Session,Skin Practice,13,Compound,compound matrix,practice compound matrix,standardsession
+449,Standard Repetition,Skin Practice,13,Compound,compound matrix,practice compound matrix,standardrepetition
+451,Common Method,Skin Practice,13,Compound,compound matrix,practice compound matrix,commonmethod
+452,Common Technique,Skin Practice,13,Compound,compound matrix,practice compound matrix,commontechnique
+453,Common Habit,Skin Practice,13,Compound,compound matrix,practice compound matrix,commonhabit
+454,Common Routine,Skin Practice,13,Compound,compound matrix,practice compound matrix,commonroutine
+455,Common Knowhow,Skin Practice,13,Compound,compound matrix,practice compound matrix,commonknowhow
+456,Common Use,Skin Practice,13,Compound,compound matrix,practice compound matrix,commonuse
+457,Common Work,Skin Practice,13,Compound,compound matrix,practice compound matrix,commonwork
+458,Common Notes,Skin Practice,13,Compound,compound matrix,practice compound matrix,commonnotes
+459,Common Session,Skin Practice,13,Compound,compound matrix,practice compound matrix,commonsession
+460,Common Repetition,Skin Practice,13,Compound,compound matrix,practice compound matrix,commonrepetition
+461,Common Standard,Skin Practice,13,Compound,compound matrix,practice compound matrix,commonstandard
+462,Useful Practice,Skin Practice,13,Compound,compound matrix,practice compound matrix,usefulpractice
+463,Useful Method,Skin Practice,13,Compound,compound matrix,practice compound matrix,usefulmethod
+464,Useful Technique,Skin Practice,13,Compound,compound matrix,practice compound matrix,usefultechnique
+466,Useful Routine,Skin Practice,13,Compound,compound matrix,practice compound matrix,usefulroutine
+467,Useful Knowhow,Skin Practice,13,Compound,compound matrix,practice compound matrix,usefulknowhow
+468,Useful Use,Skin Practice,13,Compound,compound matrix,practice compound matrix,usefuluse
+469,Useful Work,Skin Practice,13,Compound,compound matrix,practice compound matrix,usefulwork
+470,Useful Notes,Skin Practice,13,Compound,compound matrix,practice compound matrix,usefulnotes
+471,Useful Session,Skin Practice,13,Compound,compound matrix,practice compound matrix,usefulsession
+472,Useful Repetition,Skin Practice,13,Compound,compound matrix,practice compound matrix,usefulrepetition
+473,Useful Standard,Skin Practice,13,Compound,compound matrix,practice compound matrix,usefulstandard
+475,Real Method,Skin Practice,13,Compound,compound matrix,practice compound matrix,realmethod
+476,Real Technique,Skin Practice,13,Compound,compound matrix,practice compound matrix,realtechnique
+477,Real Habit,Skin Practice,13,Compound,compound matrix,practice compound matrix,realhabit
+478,Real Routine,Skin Practice,13,Compound,compound matrix,practice compound matrix,realroutine
+479,Real Knowhow,Skin Practice,13,Compound,compound matrix,practice compound matrix,realknowhow
+480,Real Use,Skin Practice,13,Compound,compound matrix,practice compound matrix,realuse
+482,Real Notes,Skin Practice,13,Compound,compound matrix,practice compound matrix,realnotes
+483,Real Session,Skin Practice,13,Compound,compound matrix,practice compound matrix,realsession
+484,Real Repetition,Skin Practice,13,Compound,compound matrix,practice compound matrix,realrepetition
+485,Real Standard,Skin Practice,13,Compound,compound matrix,practice compound matrix,realstandard
+486,Your Practice,Skin Practice,13,Compound,compound matrix,practice compound matrix,yourpractice
+487,Your Method,Skin Practice,13,Compound,compound matrix,practice compound matrix,yourmethod
+488,Your Technique,Skin Practice,13,Compound,compound matrix,practice compound matrix,yourtechnique
+489,Your Habit,Skin Practice,13,Compound,compound matrix,practice compound matrix,yourhabit
+490,Your Routine,Skin Practice,13,Compound,compound matrix,practice compound matrix,yourroutine
+491,Your Knowhow,Skin Practice,13,Compound,compound matrix,practice compound matrix,yourknowhow
+492,Your Use,Skin Practice,13,Compound,compound matrix,practice compound matrix,youruse
+493,Your Work,Skin Practice,13,Compound,compound matrix,practice compound matrix,yourwork
+494,Your Notes,Skin Practice,13,Compound,compound matrix,practice compound matrix,yournotes
+495,Your Session,Skin Practice,13,Compound,compound matrix,practice compound matrix,yoursession
+496,Your Repetition,Skin Practice,13,Compound,compound matrix,practice compound matrix,yourrepetition
+498,Informed Practice,Skin Practice,13,Compound,compound matrix,practice compound matrix,informedpractice
+499,Informed Method,Skin Practice,13,Compound,compound matrix,practice compound matrix,informedmethod
+500,Informed Technique,Skin Practice,13,Compound,compound matrix,practice compound matrix,informedtechnique
+501,Informed Habit,Skin Practice,13,Compound,compound matrix,practice compound matrix,informedhabit
+502,Informed Routine,Skin Practice,13,Compound,compound matrix,practice compound matrix,informedroutine
+503,Informed Knowhow,Skin Practice,13,Compound,compound matrix,practice compound matrix,informedknowhow
+504,Informed Use,Skin Practice,13,Compound,compound matrix,practice compound matrix,informeduse
+505,Informed Work,Skin Practice,13,Compound,compound matrix,practice compound matrix,informedwork
+506,Informed Notes,Skin Practice,13,Compound,compound matrix,practice compound matrix,informednotes
+507,Informed Session,Skin Practice,13,Compound,compound matrix,practice compound matrix,informedsession
+508,Informed Repetition,Skin Practice,13,Compound,compound matrix,practice compound matrix,informedrepetition
+509,Informed Standard,Skin Practice,13,Compound,compound matrix,practice compound matrix,informedstandard
+510,Exact Practice,Skin Practice,13,Compound,compound matrix,practice compound matrix,exactpractice
+511,Exact Method,Skin Practice,13,Compound,compound matrix,practice compound matrix,exactmethod
+512,Exact Technique,Skin Practice,13,Compound,compound matrix,practice compound matrix,exacttechnique
+513,Exact Habit,Skin Practice,13,Compound,compound matrix,practice compound matrix,exacthabit
+514,Exact Routine,Skin Practice,13,Compound,compound matrix,practice compound matrix,exactroutine
+515,Exact Knowhow,Skin Practice,13,Compound,compound matrix,practice compound matrix,exactknowhow
+516,Exact Use,Skin Practice,13,Compound,compound matrix,practice compound matrix,exactuse
+518,Exact Notes,Skin Practice,13,Compound,compound matrix,practice compound matrix,exactnotes
+519,Exact Session,Skin Practice,13,Compound,compound matrix,practice compound matrix,exactsession
+520,Exact Repetition,Skin Practice,13,Compound,compound matrix,practice compound matrix,exactrepetition
+521,Exact Standard,Skin Practice,13,Compound,compound matrix,practice compound matrix,exactstandard
+522,Skin Baseline,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,skinbaseline
+525,Skin Reference,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,skinreference
+526,Skin Point,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,skinpoint
+527,Skin Control,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,skincontrol
+528,Skin Delta,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,skindelta
+530,Skin Case,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,skincase
+531,Skin Mark,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,skinmark
+532,Skin Fit,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,skinfit
+533,Skin Difference,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,skindifference
+534,Face Baseline,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,facebaseline
+535,Face Measure,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,facemeasure
+537,Face Reference,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,facereference
+538,Face Point,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,facepoint
+539,Face Control,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,facecontrol
+540,Face Delta,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,facedelta
+542,Face Case,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,facecase
+545,Face Difference,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,facedifference
+546,Personal Baseline,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,personalbaseline
+547,Personal Measure,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,personalmeasure
+549,Personal Reference,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,personalreference
+550,Personal Point,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,personalpoint
+551,Personal Control,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,personalcontrol
+552,Personal Delta,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,personaldelta
+553,Personal Response,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,personalresponse
+554,Personal Case,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,personalcase
+555,Personal Mark,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,personalmark
+556,Personal Fit,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,personalfit
+557,Personal Difference,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,personaldifference
+558,Own Baseline,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,ownbaseline
+559,Own Measure,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,ownmeasure
+560,Own Standard,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,ownstandard
+561,Own Reference,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,ownreference
+562,Own Point,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,ownpoint
+564,Own Delta,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,owndelta
+566,Own Case,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,owncase
+568,Own Fit,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,ownfit
+569,Own Difference,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,owndifference
+570,Your Baseline,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,yourbaseline
+571,Your Measure,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,yourmeasure
+573,Your Reference,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,yourreference
+574,Your Point,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,yourpoint
+575,Your Control,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,yourcontrol
+577,Your Response,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,yourresponse
+578,Your Case,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,yourcase
+579,Your Mark,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,yourmark
+580,Your Fit,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,yourfit
+581,Your Difference,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,yourdifference
+582,One Baseline,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,onebaseline
+583,One Measure,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,onemeasure
+585,One Reference,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,onereference
+586,One Point,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,onepoint
+587,One Control,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,onecontrol
+588,One Delta,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,onedelta
+589,One Response,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,oneresponse
+590,One Case,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,onecase
+591,One Mark,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,onemark
+592,One Fit,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,onefit
+593,One Difference,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,onedifference
+594,Self Baseline,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,selfbaseline
+595,Self Measure,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,selfmeasure
+596,Self Standard,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,selfstandard
+597,Self Reference,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,selfreference
+598,Self Point,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,selfpoint
+599,Self Control,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,selfcontrol
+600,Self Delta,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,selfdelta
+601,Self Response,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,selfresponse
+602,Self Case,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,selfcase
+604,Self Fit,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,selffit
+605,Self Difference,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,selfdifference
+606,True Baseline,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,truebaseline
+608,True Standard,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,truestandard
+609,True Reference,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,truereference
+610,True Point,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,truepoint
+611,True Control,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,truecontrol
+612,True Delta,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,truedelta
+614,True Case,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,truecase
+615,True Mark,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,truemark
+616,True Fit,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,truefit
+617,True Difference,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,truedifference
+618,Exact Baseline,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,exactbaseline
+621,Exact Reference,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,exactreference
+622,Exact Point,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,exactpoint
+623,Exact Control,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,exactcontrol
+624,Exact Delta,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,exactdelta
+625,Exact Response,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,exactresponse
+626,Exact Case,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,exactcase
+627,Exact Mark,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,exactmark
+628,Exact Fit,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,exactfit
+629,Exact Difference,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,exactdifference
+630,Reference Baseline,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,referencebaseline
+631,Reference Measure,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,referencemeasure
+634,Reference Control,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,referencecontrol
+635,Reference Delta,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,referencedelta
+636,Reference Response,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,referenceresponse
+637,Reference Case,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,referencecase
+638,Reference Mark,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,referencemark
+639,Reference Fit,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,referencefit
+640,Reference Difference,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,referencedifference
+641,Specific Baseline,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,specificbaseline
+642,Specific Measure,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,specificmeasure
+643,Specific Standard,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,specificstandard
+644,Specific Reference,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,specificreference
+645,Specific Point,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,specificpoint
+646,Specific Control,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,specificcontrol
+647,Specific Delta,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,specificdelta
+648,Specific Response,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,specificresponse
+649,Specific Case,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,specificcase
+650,Specific Mark,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,specificmark
+651,Specific Fit,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,specificfit
+652,Specific Difference,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,specificdifference
+653,Base Baseline,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,basebaseline
+654,Base Measure,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,basemeasure
+655,Base Standard,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,basestandard
+656,Base Reference,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,basereference
+657,Base Point,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,basepoint
+658,Base Control,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,basecontrol
+659,Base Delta,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,basedelta
+660,Base Response,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,baseresponse
+662,Base Mark,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,basemark
+663,Base Fit,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,basefit
+664,Base Difference,Personal Baseline,13,Compound,compound matrix,self-reference compound matrix,basedifference

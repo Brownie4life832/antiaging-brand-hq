@@ -1,0 +1,22 @@
+{
+  "rated_name_count": 13271,
+  "above_8_count": 397,
+  "above_8_share": 0.0299,
+  "score_anchor": ">8.0 is calibrated to approximately the top 3% of the full pool",
+  "rubric_weights": {
+    "cross_round_source_quality": 0.08,
+    "straightup_attitude": 0.24,
+    "brand_thesis_fit": 0.24,
+    "verbal_strength": 0.13,
+    "distinctiveness_proxy": 0.13,
+    "product_system_fit": 0.1,
+    "story_headroom": 0.08
+  },
+  "score_distribution": {
+    "9_plus": 69,
+    "8_to_8_99": 348,
+    "7_to_7_99": 3584,
+    "6_to_6_99": 3981,
+    "below_6": 5289
+  }
+}

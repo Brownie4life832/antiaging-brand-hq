@@ -1,0 +1,23 @@
+{
+  "candidate_count": 42,
+  "search_key_count": 26350,
+  "matched_case_record_count": 623,
+  "decision_counts": {
+    "AMBER - LIVE NEAR / RELEVANT": 18,
+    "PROVISIONAL PASS": 13,
+    "YELLOW - LIVE NEAR": 4,
+    "RED - LIVE EXACT / RELEVANT": 4,
+    "AMBER - LIVE EXACT": 2,
+    "YELLOW - DEAD EXACT": 1
+  },
+  "corpus_latest_source_date": "2026-07-06",
+  "relevant_classes": [
+    "003",
+    "005",
+    "010",
+    "021",
+    "035",
+    "044"
+  ],
+  "scope": "Normalized exact plus edit-distance-one U.S. federal knockout only"
+}

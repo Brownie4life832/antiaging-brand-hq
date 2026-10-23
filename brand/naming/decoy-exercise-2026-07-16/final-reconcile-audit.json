@@ -1,0 +1,42 @@
+{
+  "candidate_start": 258,
+  "final_count": 250,
+  "removed_final_eight": [
+    "Open Score",
+    "Linekeeper",
+    "Open Studio",
+    "Deep Craft",
+    "The Good Room",
+    "New Edition",
+    "Stonefruit",
+    "Inner Compass"
+  ],
+  "champion_survivors": 86,
+  "demote_survivors": 20,
+  "world_counts": {
+    "The Long View": 35,
+    "The Living Standard": 40,
+    "Beauty for Skeptics": 53,
+    "On Your Terms": 39,
+    "Earned Confidence": 37,
+    "Performance Without Theater": 46
+  },
+  "decoy_counts": {
+    "Living Standard": 66,
+    "Radical Focus": 32,
+    "Calm Command": 41,
+    "Long View Living": 45,
+    "Entertaining Skeptic": 36,
+    "Fewer Better Machines": 30
+  },
+  "decision_counts": {
+    "PROVISIONAL PASS": 152,
+    "YELLOW - LIVE NEAR": 17,
+    "AMBER - LIVE EXACT": 51,
+    "AMBER - LIVE NEAR / RELEVANT": 10,
+    "YELLOW - DEAD EXACT": 20
+  },
+  "top_30_all_provisional": true,
+  "red_count": 0,
+  "cut_count": 0
+}

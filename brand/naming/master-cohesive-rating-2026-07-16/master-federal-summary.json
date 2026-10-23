@@ -1,0 +1,26 @@
+{
+  "candidate_count": 13271,
+  "chunk_size": 500,
+  "chunk_count": 27,
+  "search_key_count": 9729365,
+  "matched_case_record_count": 378850,
+  "decision_counts": {
+    "PROVISIONAL PASS": 7210,
+    "AMBER - LIVE NEAR / RELEVANT": 1855,
+    "RED - LIVE EXACT / RELEVANT": 1852,
+    "AMBER - LIVE EXACT": 1108,
+    "YELLOW - LIVE NEAR": 800,
+    "YELLOW - DEAD EXACT": 446
+  },
+  "corpus_distinct_serials": 14180757,
+  "corpus_latest_source_date": "2026-07-06",
+  "relevant_classes": [
+    "003",
+    "005",
+    "010",
+    "021",
+    "035",
+    "044"
+  ],
+  "scope": "Normalized exact plus edit-distance-one U.S. federal knockout screen; preliminary and non-legal."
+}

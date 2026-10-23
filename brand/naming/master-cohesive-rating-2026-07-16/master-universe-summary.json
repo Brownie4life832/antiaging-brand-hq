@@ -1,0 +1,19 @@
+{
+  "source_row_counts": {
+    "Core Worlds Round 1": 4166,
+    "Core Worlds Round 2": 4155,
+    "Decoy Review": 416,
+    "Desire First 1000": 1000,
+    "Final Blind Pool": 989,
+    "Legacy Curated 106": 123,
+    "Legacy First-Pass 100": 131,
+    "Legacy Top 500": 540,
+    "Net-New Federal 1000": 1000,
+    "Skin Capability": 588,
+    "StraightUp Exploration": 440
+  },
+  "input_row_count": 13548,
+  "unique_normalized_candidate_count": 13271,
+  "duplicate_rows_collapsed": 277,
+  "candidates_with_any_source_score": 11226
+}
